@@ -9,4 +9,4 @@ This corpus contains 50 randomized controlled trial articles annotated with 37 f
 
 ## Contact
 
-- Halil Kilicoglu:   (`halilk (at) illinois.edu`) 
+- Halil Kilicoglu:   (`halil (at) illinois.edu`) 
