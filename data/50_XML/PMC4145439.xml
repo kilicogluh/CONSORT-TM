@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC4145439" note="">
+    <text xml:space="preserve">Title
+Efficacy and safety of olokizumab in patients with rheumatoid arthritis with an inadequate response to TNF inhibitor therapy: outcomes of a randomised Phase IIb study
+Abstract
+
+        
+          Objectives
+          The aim of this 12-week Phase IIb study was to assess the efficacy and safety of olokizumab (OKZ), a humanised anti-IL6 monoclonal antibody, in patients with rheumatoid arthritis (RA) with moderate-to-severe disease activity who had previously failed tumour necrosis factor (TNF) inhibitor therapy. The dose-exposure-response relationship for OKZ was also investigated.
+        
+        
+          Methods
+          Patients were randomised to one of nine treatment arms receiving placebo (PBO) or OKZ (60, 120 or 240 mg) every 4 weeks (Q4W) or every 2 weeks (Q2W), or 8 mg/kg tocilizumab (TCZ) Q4W. The primary endpoint was change from baseline in DAS28(C-reactive protein, CRP) at Week 12. Secondary efficacy endpoints were American College of Rheumatology 20 (ACR20), ACR50 and ACR70 response rates at Week 12. Exploratory analyses included comparisons of OKZ efficacy with TCZ.
+        
+        
+          Results
+          Across 221 randomised patients, OKZ treatment produced significantly greater reductions in DAS28(CRP) from baseline levels at Week 12, compared to PBO (p&lt;0.001), at all the OKZ doses tested (60 mg OKZ p=0.0001, 120 and 240 mg OKZ p&lt;0.0001). Additionally, ACR20 and ACR50 responses were numerically higher for OKZ than PBO (ACR20: PBO=17.1–29.9%, OKZ=32.5–60.7%; ACR50: PBO=1.3–4.9%, OKZ=11.5–33.2%). OKZ treatment, at several doses, demonstrated similar efficacy to TCZ across multiple endpoints. Most adverse events were mild or moderate and comparable between OKZ and TCZ treatment groups. Pharmacokinetic/pharmacodynamic modelling demonstrated a shallow dose/exposure response relationship in terms of percentage of patients with DAS28(CRP) &lt;2.6.
+        
+        
+          Conclusions
+          OKZ produced significantly greater reductions in DAS28(CRP) from baseline at Week 12 compared with PBO. Reported AEs were consistent with the safety profile expected of this class of drug, with no new safety signals identified.
+        
+        
+          Trial register number:
+          NCT01242488.
+        
+      
+
+
+    
+      Introduction
+      Rheumatoid arthritis (RA) is a chronic, systemic autoimmune disease which can lead to destruction and physical dysfunction of joints resulting in a significant increase in morbidity and mortality.1 For patients who have an inadequate response to DMARDs, tumour necrosis factor (TNF) inhibitors are frequently added, usually in combination with methotrexate (MTX).2 Approximately 40–50% of patients receiving TNF inhibitors, however, also have an inadequate response to this treatment.3–5 Therapeutic approaches using alternative mechanisms of action are therefore an important unmet need for this patient population.
+      An alternate therapeutic target is the pro-inflammatory cytokine interleukin-6 (IL-6). IL-6 is an important mediator of inflammation and is involved in key immunologic processes underlying the pathology of RA, such as T-cell activation and B-cell proliferation, as well as osteoclast differentiation.6 The amount of IL-6 present in the synovial fluid of patients with RA has been shown to correlate with the severity of synovitis and joint destruction.7–9 An anti-IL-6 receptor (IL-6R) antibody, tocilizumab (TCZ), has been approved for the treatment of RA.10–17 TCZ is a humanised monoclonal antibody that binds to the IL-6 receptor.18
+      Olokizumab (OKZ, CDP6038), a humanised monoclonal antibody specific for the IL-6 cytokine, is currently in development for the treatment of RA. It targets the IL-6 cytokine rather than the receptor, and selectively blocks the final assembly of the signalling complex. In Phase I (healthy volunteers) and IIa (patients with RA on MTX) clinical trials, OKZ was well tolerated after intravenous and subcutaneous delivery with a median plasma half-life of approximately 31 days, 76% bioavailability and no apparent antidrug antibody-mediated clearance.19 OKZ also markedly reduced free IL-6 levels and suppressed C-reactive protein (CRP) up to 12 weeks after single-dose subcutaneous administration in patients with RA.20
+      The primary aims of this Phase IIb, dose-ranging study were to evaluate the efficacy and safety of OKZ in an active RA population who had previously failed TNF inhibitor therapy.
+    
+    
+      Materials and methods
+      
+        Study design
+        This was a 12-week, Phase IIb, dose-ranging, double-blind, placebo (PBO) and active-controlled, multicenter, randomised study (NCT01242488), conducted between November 2010 and June 2012, to evaluate the efficacy and safety of subcutaneous OKZ in patients with moderately to severely active RA who had previously failed TNF inhibitor therapy. The study protocol was approved by the Institutional Review Board/Independent Ethics Committee as defined in local regulations and performed according to the Declaration of Helsinki. All patients provided written consent.
+        The primary objective of the study was to evaluate the efficacy of OKZ at different doses and administration frequencies compared with PBO. Secondary objectives were to evaluate the safety, pharmacokinetics (PK), pharmacodynamics (PD) and immunogenicity of repeated doses of OKZ, and to assess the dose-response and exposure-response relationship of OKZ with efficacy. An exploratory endpoint was to compare the efficacy and safety of OKZ with TCZ.
+        Of the 398 patients enrolled in the study, 221 were randomised to 1 of 9 treatment arms (figure 1). Randomisation was performed centrally using an interactive voice-response system. Patients received either PBO or OKZ (60, 120 or 240 mg) every 4 weeks (Q4W) or every 2 weeks (Q2W), or 8 mg/kg TCZ Q4W. Doses were selected in order to cover 35–75% of the maximal anticipated effect on DAS28(erythrocyte sedimentation rate, ESR) at 12 weeks, or 45–85% of the maximal anticipated effect at 24 weeks, based on PK/PD analysis of previous study data.19 20
+         Figure 1 Patient disposition. 
+        Randomisation was stratified according to the number of prior failed TNF inhibitors (1 vs 2 or more). Two safety follow-up visits were undertaken 6 and 12 weeks after the last study dose. To maintain blinding of the treatment, all patients received an intravenous infusion Q4W and two 1.2 mL subcutaneous injections Q2W. TCZ dose is the approved dose in Europe by the EMA,21 and the highest dose approved by the US Food and Drug Administration (FDA).18
+        Patients who completed the study were eligible to receive OKZ in an open-label extension study (NCT01296711).
+      
+      
+        Patients
+        This study population were individuals with active RA and an inadequate response to MTX, and at least one previous anti-TNF therapy. Patients were ≥18 years old, with adult-onset RA of at least 6 months duration (1987 American College of Rheumatology (ACR) classification criteria22) or a score of ≥6 by the ACR/European League Against Rheumatism (EULAR) Classification and Diagnostic Criteria for RA.23 Eligible patients had tender joint count ≥6 (TJC; assessment of 68 joints) and swollen joint count ≥6 (SJC; assessment of 66 joints) and CRP ≥1.2 times the upper limit of normal (ULN), or ESR &gt;28 mm/h. Patients were required to be on a stable dose of MTX and continued current steroids and NSAIDs.
+        Major exclusion criteria included diagnoses of other inflammatory arthritis or a non-inflammatory type of arthritis that interfered with efficacy evaluations, functional capacity Steinbrocker Class IV,24 and prior exposure to IL-6 inhibitors. Patients were not permitted to use DMARDs other than MTX within 12 weeks prior to screening (unless undertaking appropriate washout). Patients with a known risk of severe or major infections, or elevated levels at screening of creatinine, alanine aminotransferase (ALT) or aspartate aminotransferase (AST), or reduced platelets, white blood cell count or neutrophil count were excluded.
+      
+      
+        Efficacy analyses
+        Efficacy outcomes were assessed in the Full Analysis Set (FAS), consisting of all randomised patients who received at least one dose of study medication and had at least one post-baseline efficacy measurement.
+        The primary efficacy endpoint was the change from baseline in DAS28(CRP) at Week 12. Secondary efficacy endpoints were ACR20, ACR50 and ACR70 at Week 12 for OKZ and PBO. Major exploratory analyses included: ACR20/50/70 response rates (at Weeks 1, 2, 4, 6, 8, 10 and 12), % of patients with DAS28(CRP) &lt;2.6 at Weeks 2, 4, 8 and 12), TJC, SJC, Clinical Disease Activity Index (CDAI) and the Health Assessment Questionnaire-Disability Index (HAQ-DI).
+      
+      
+        Safety
+        Safety assessments included measurement of vital signs and laboratory parameters as well as recording of treatment-emergent adverse events (TEAEs) and serious TEAEs. Safety variables were analysed using the Safety Set (SS) (all patients who received at least 1 dose, or partial dose, of study medication).
+      
+      
+        Statistical analyses
+        Unless specifically stated, FAS was used for all analyses. DAS28(CRP) was analysed using a mixed effects model for repeated measures (MMRM). ACR20/50/70 responder rates were estimated using generalised estimating equation (GEE) methodology with Multiple Imputation (MI). Missing data for SJC/TJC/HAQ-DI/CDAI change from baseline were imputed using last observation carried forward (LOCF). Non-responder imputation was used for analysis of % patients with DAS28(CRP) &lt;2.6 to control for missing values. The number of prior failed TNF inhibitors was included as a categorical covariate in all statistical analyses. Unless otherwise stated, all statistical tests were two-sided.
+        Power and sample size calculations were based upon simulations for change from baseline in DAS28 at all assessed postbaseline visits, using the MMRM method specified for the primary efficacy analysis.
+      
+      
+        Pharmacokinetic/pharmacodynamic analyses
+        Blood samples for determination of plasma OKZ, TCZ and anti-OKZ antibodies were collected at baseline and at each subsequent visit. Non-linear mixed modelling was employed for the analysis of the OKZ PK data. The final population PK model was used to derive individual concentration or exposure measures for use in the PK/PD analyses which involved describing the relationship between PK measures and multiple efficacy and safety endpoints via mixed effects methodology.
+      
+    
+    
+      Results
+      
+        Baseline characteristics and patient disposition
+        Figure 1 details the patient disposition; 89.6% of randomised patients completed the 12-week treatment phase. Patient demographics across the treatment groups were similar and representative of patients with RA with long-standing, active disease (table 1). Most patients were using MTX at baseline (95% of patients). The most common previous TNF inhibitors were etanercept (50.7%), adalimumab (45.2%) and infliximab (36.5%); certolizumab pegol and golimumab had each been previously used by 13.7% of patients. More than 40% of patients had failed to respond to at least two TNF inhibitors. Previous non-TNF-targeting biologics used included abatacept (16.0%) and rituximab (11.0%). At recruitment, 107 patients (48.9%) met the inclusion criteria for ESR (&gt;28 mm/h) and CRP (≥1.2 ULN); 89 (40.6%) and 21 (9.6%) patients met only the criteria for ESR or CRP, respectively.
+         Table 1 Baseline patient demographics and disease characteristics (full analysis set) 
+      
+      
+        Clinical efficacy
+        
+          Change from baseline in DAS28(CRP)
+          Across all dose groups, treatment with OKZ resulted in a greater improvement in DAS28(CRP) mean change from baseline at Week 12 compared with PBO (table 2), with the greatest improvement observed in the OKZ 240 mg Q2W group. Decreases in DAS28(CRP) from baseline were seen from Week 1 (figure 2A). For every treatment dose, DAS28(CRP) change from baseline was significantly different to the PBO group (for 60 mg OKZ p=0.0001, for 120 and 240 mg OKZ p&lt;0.0001), as were the overall dose response trends across both dosing frequencies (p&lt;0.0001) (figure 2B). Comparisons of dosing frequency (Q2W vs Q4W) and dose-by-dose frequency interactions (Q2W trend vs Q4W trend) were not significant (p=0.6927 and p=0.9912, respectively). The improvements from baseline in DAS28(CRP) observed in several OKZ treatment groups were comparable to those seen in the TCZ treatment group (table 2). No significant response differences were seen between patients who had previously failed treatment with 1, 2 or &gt;2 TNF inhibitors.
+           Table 2 Efficacy outcomes at week 12 (full analysis set)  
+           Figure 2 Analysis of efficacy endpoints. (A) DAS28(CRP) scorea; (B) DAS28(CRP) change from baseline at Week 12; (C) ACR20 response ratea and (D) ACR50 response ratea. 
+          Posthoc analysis revealed that at low OKZ doses, a greater response was seen in patients with CRP ≥1.2 ULN compared to all other patients (for OKZ 60 mg Q4W patients mean changes from baseline at Week 12 were −2.47 and −0.98, respectively). This was not apparent at higher dose levels (−1.87 and −2.08 for OKZ 240 mg Q2W patients).
+        
+        
+          ACR20, ACR50 and ACR70 response rates
+          The ACR20 and ACR50 response rates were higher in OKZ-treated patients than those receiving PBO at Week 12 (table 2). This study was not powered to detect significant differences in ACR20/50/70 response rates. However, responses were numerically higher for ACR20 (p=0.0636) and ACR50 (p=0.0574) than PBO (table 2). Improvements in ACR20 and ACR50 were rapid, with increased responses over PBO observed from as early as Week 1 and Week 4, respectively, and were generally maintained or increased throughout the treatment period (figure 2C,D). These responses were similar for the TCZ treatment group. Seven patients in OKZ treatment groups and four patients on TCZ were observed ACR70 responders at Week 12.
+        
+        
+          Additional efficacy endpoints
+          Exploratory analysis of additional efficacy endpoints revealed improvements in OKZ-treated patients at Week 12 in physical function (as assessed by HAQ-DI) compared with the PBO groups, as well as greater reductions in TJC, SJC and CDAI (table 2). Additionally, a higher percentage of patients demonstrated DAS28(CRP) &lt;2.6 or DAS28(CRP) ≤3.2 following treatment with OKZ than PBO. The percentage of patients demonstrating DAS28(CRP) &lt;2.6 in the OKZ 240 mg Q2W group was more than fivefold higher than that in the PBO Q2W group (26.1% and 4.5%, respectively). Posthoc analysis showed that at Week 12, low disease activity (CDAI ≤10.0) was achieved by patients from all treatment groups, including PBO, with a higher proportion of patients demonstrating this in the OKZ 120 mg and 240 mg dose groups than the OKZ 60 mg and PBO groups (table 2). Five of 132 patients in OKZ treatment groups (from 5 different cohorts), and 5 of 43 patients on TCZ achieved CDAI remission (CDAI ≤2.8) at Week 12; compared with none of the 22 patients in PBO groups.
+        
+      
+      
+        Pharmacokinetic/pharmacodynamic analyses
+        The OKZ plasma concentration-time data were adequately described by a two-compartment, first-order absorption, linear elimination model. The OKZ PK characteristics were consistent with those in healthy and mild-to-moderate patients with RA.19 20 The overall estimate of bioavailability across the Phase I, IIa and IIb studies was 63.3% (% relative standard error=4.9%).
+        PK/PD (DAS28(CRP)) data were adequately described by an indirect concentration-effect sigmoid Emax model, with inhibition of DAS28(CRP) production. Simulations performed with the resulting model, extrapolated to Week 24, highlighted the existence of a shallow dose/exposure response relationship (in terms of percentage of patients with DAS28(CRP)&lt;2.6, see online supplementary figure S1). A successful description of the ACR20 data and its correlation with exposure, taking into account drop-out using a logistic model, was also possible. By contrast with DAS28(CRP), simulations exploring the dose-response surface for ACR20 revealed a steep response curve.
+      
+      
+        Immunogenicity
+        Analysis of plasma samples for anti-OKZ antibodies was conducted. Using a study-specific cut-off, based on blinded analysis of drug-naive baseline samples, 13 patients (9.8%) in OKZ-treated groups were anti-OKZ antibody positive. Importantly, four of these patients were pre-dose positive, and only one of them displayed a PK profile characteristic of drug-clearing immunogenicity. Furthermore, five patients in the PBO groups (11.3%) and two patients in the TCZ group (9.8%) were also anti-OKZ antibody positive. Non-specific interference by pre-existing immunoglobulins in patients’ plasma has been previously reported25 26 and was shown to be the case for some of these nominally positive samples with a posthoc analysis. Thus, the true incidence of specific anti-OKZ antibodies is likely to be less than nominally determined. Details of the immunogenicity investigations and the efficacy response of the 13 patients who were found nominally anti-OKZ antibody positive can be found in online supplementary material (table S1).
+      
+      
+        Safety (SS)
+        There were similar numbers of TEAEs reported in the OKZ and TCZ active dose groups, and the PBO group (range across OKZ treatment groups: 63.6–87.0%; PBO: 77.3–86.4%; TCZ: 86.0%) (table 3). The majority of TEAEs in all treatment groups were mild in intensity. Most frequently reported TEAEs (occurring in ≥10% of patients in any treatment group) consisted of diarrhoea, headache, injection site reactions (PBO: 18.2%; OKZ: 17.4–47.8%; TCZ: 20.9%), and infections including upper respiratory tract infections, urinary tract infections and nasopharyngitis (PBO: 31.8–50.0%; OKZ: 25.0–36.4%). There were no incidences of diverticulitis and no gastrointestinal (GI) perforations reported. All TEAEs are reported to Week 12, and thus represent short-term safety outcomes.
+         Table 3 Treatment-emergent adverse events and serious treatment-emergent adverse events (safety set) 
+        The incidence of serious TEAEs was similar between treatment groups, and no serious TEAE was reported by &gt;1 patient (table 3). In the OKZ treatment groups, serious TEAEs reported were chest pain, pneumonia, perineal abscess, abnormal liver function test (LFT), back pain, basal cell carcinoma and mania. One serious pneumonia case was reported in the TCZ treatment arm (2.3% patients); other serious TEAEs in the TCZ group included increased blood triglycerides and limb abscess (2.3% patients, respectively). There were no deaths throughout the study.
+        Laboratory abnormalities included elevated levels of ALT, AST and gamma glutamyl transferase (GGT), as well as decreased neutrophil counts and increased blood cholesterol (table 4). In the OKZ treatment groups, 4.3–18.2% of patients had ALT levels &gt;3× ULN and 4.3–9.1% had AST levels &gt;3× ULN at least at one postbaseline measurement. No increases in either enzyme &gt;3× ULN were seen in PBO or TCZ treated patients. Neutrophil and leukocyte counts were reduced from baseline levels in each of the active treatment arms (including TCZ) from as early as Week 1; the incidence of markedly abnormal neutrophil counts (defined as laboratory values graded 3 or 4 according to the National Cancer Institute Common Terminology Critera for Adverse Events (CTCAE)) was similar between OKZ and TCZ treatment groups (range for OKZ: 0–4.5%; TCZ: 4.7%). There were no incidences of markedly abnormal leukocyte counts or thrombocytopenia. For the majority of clinical chemistry parameters there were no significant differences in mean values between PBO, OKZ and TCZ treatment groups, and no clinically significant fluctuations in mean values over time. One subject in the OKZ 60 mg Q4W group was found to have elevations in ALT and AST, which was reported as a serious TEAE. There were four incidences of Grade 3 or 4 elevations in GGT values, and four reports of abnormally high Grade 3 total cholesterol values, across the OKZ and TCZ treated patients. All these cases had values that were elevated at baseline and/or screening, prior to treatment with the study drug. There was one recorded serious TEAE of increased blood triglycerides which occurred in the TCZ group.
+         Table 4 Markedly abnormal laboratory values (laboratory values graded 3 or 4 according to CTCAE* V.4.0) (safety set) 
+      
+    
+    
+      Discussion
+      In this Phase II study of patients with RA who had previously failed TNF inhibitor therapy, treatment with OKZ resulted in significantly greater reductions in DAS28(CRP) from baseline levels at Week 12 compared with treatment with PBO. This improvement was demonstrated at all the OKZ doses tested with generally comparable efficacy and across both dosing frequencies, and was statistically significant for all dose group comparisons (60, 120 or 240 mg vs PBO). At low OKZ doses, a posthoc analysis showed greater responses in patients who met the criterion of high CRP at study entry compared to all other patients.
+      The primary efficacy endpoint was further supported by the secondary efficacy variables. Estimated ACR20 and ACR50 response rates at Week 12 were numerically higher in all OKZ treatment arms than PBO groups, although the study was not powered to show a statistical difference in the ACR response rates. Few patients in any treatment group were ACR70 responders. Comparisons of exploratory efficacy variables, including health outcomes endpoints generally suggested greater improvement in OKZ treatment groups compared with the PBO groups. Overall, exploratory comparison showed similar responses to subcutaneous OKZ treatment and intravenously administered TCZ across multiple efficacy endpoints and for several OKZ treatment groups.
+      Reported TEAEs in this study were consistent with the safety profile expected of this class of drug, with no new safety signals identified. Commonly reported TEAEs in OKZ treated patients included gastrointestinal disorders, infections and infestations (primarily upper and lower respiratory tract infections and urinary tract infections) and nervous system disorders, which is qualitatively similar to the safety profile observed for TCZ in this and other previously published trials, as well as other anti-IL6 s in development.11 27–31 These TEAEs occurred at similar frequencies in the PBO, OKZ and TCZ treated groups. There were no incidences of diverticulitis or gastrointestinal perforations reported during the study. In accordance with the role of IL-6 in immune regulation, inflammation and haematopoiesis, reported TEAEs included increases in AST, ALT and lipids, and decreases in neutrophil levels. As expected, small increases from baseline in median total cholesterol, LDL and triglycerides and decreases in neutrophils were observed in each of the active treatment arms, including the TCZ group, throughout the 12-week study. No patients fulfilled the Hy's law criteria for drug-induced liver injury. Most TEAEs were mild to moderate in nature, with no deaths. In the OKZ and TCZ treatment groups, there were no opportunistic infections, but two serious infections (one pneumonia and one abscess reported in patients treated with each study drug).
+      Injection site reactions were more commonly reported after injection with OKZ compared with PBO or TCZ which was administered intravenously. The highest incidence was reported in the OKZ 240 mg Q2W group, in accordance with these patients receiving the greatest number of active subcutaneous injections. No serious injection site reactions were reported.
+      The limitations of this study included the small number of patients in each treatment group and the resultant lack of statistical power for comparisons beyond the primary endpoint. This small sample size, along with the heterogeneity of the study population, resulted in high variability, quantified by the PBO groups. Although PBO patients were randomised to nominal ‘Q4W’ and ‘Q2W’ groups they received identical treatments at all visits and results in these groups (while demonstrating overall consistency with previous published RA clinical trials) were variable. Despite this, OKZ across all treatment groups demonstrated statistically significant improvements in the predefined primary efficacy variable. Graphical comparisons of different doses and dosing regimens did not reveal significant differences in responses; integration of study data and analysis using PK/PD methodology revealed dose-exposure-response relationships for DAS28(CRP) and ACR20 endpoints, albeit shallow; no significant impact of the number of previous failed treatments with TNF inhibitors could be observed, which may also be due to small sample sizes. This study used a primary endpoint of 12 weeks. Study duration is another potential study limitation given the long half-life of OKZ (31 days19) and the time required to plateau plasma concentration drug levels. Additionally, in this study, all patients had previously been treated with, and failed to respond to, at least one TNF inhibitor, and thus, results seen here may not be directly applicable to the wider RA population.
+      In addition to OKZ, several other antibodies targeting the IL-6 pathway are in development.29–33 Potential differentiating factors for these antibodies include targeted protein (IL-6 or IL6R), targeted step of the IL-6 signalling complex cascade, route of administration, level of humanisation, immunoglobulin type and/or antibody construct. However, these antibodies are currently in Phase II or III of clinical development. Thus, the impact of these factors on efficacy and/or safety has not yet been fully evaluated.
+      The data presented here show that in this Phase II trial, OKZ demonstrated improvements in multiple efficacy variables compared with PBO in patients with moderate-to-severe RA who had previously failed TNF inhibitor therapy with results comparable to TCZ. Additionally, the safety profile following treatment with OKZ at doses up to 240 mg Q2W was in line with expectations for this class of drug, with a TEAE and laboratory test profile consistent with the use of IL-6 targeted therapy in patients with moderate-to-severe RA. Taken together, the results of this Phase II study are encouraging and support further studies with OKZ in RA.
+    
+    
+      Supplementary Material
+      
+        
+          Web supplement
+        
+        
+      
+    
+  
+
+Back matter
+
+      The authors thank the investigators and patients who were part of this study, and acknowledge ‘Matladi Ndlov, UCB Pharma, Brussels, Belgium, for publication management. Editorial services for this manuscript were provided by Costello Medical Consulting.
+    
+
+      
+        Contributors: All authors met the following criteria for authorship: Substantial contributions to the acquisition, analysis, and interpretation of data for the work; and contributed to drafting the work and revising it critically; and gave final approval of the version submitted; and agreed to be accountable for all aspects of the work.
+      
+      
+        Funding: This study was funded by UCB Pharma.
+      
+      
+        Competing interests: MCG reports grants and personal fees from UCB Pharma, outside the submitted work; RF reports grants and personal fees from Roche, grants and personal fees from Abbott, grants and personal fees from Amgen, grants and personal fees from UCB Pharma, grants and personal fees from Pfizer, grants and personal fees from BMS, grants and personal fees from Lilly, grants and personal fees from Sanofi-Aventis, grants and personal fees from Lexicon, grants and personal fees from Novartis, grants and personal fees from Astellas, grants and personal fees from AstraZeneca, grants and personal fees from Janssen, grants and personal fees from HGS, grants from BiogenIdec, grants from MSD, grants from Genentech Inc, outside the submitted work; DF reports grants and personal fees from UCB Pharma, outside the submitted work; NJ reports reports grants, personal fees and non-financial support from UCB Pharma, during the conduct of the study; grants from Roche/Genentech, grants from Novartis, grants from Sanofi, grants from Pfizer, grants from Glaxo Smith Kline, grants from Janssen, outside the submitted work; JC reports grants from Genentech and Takeda Pharmaceuticals NA, Inc, outside the submitted work; BD reports grants from ACR, grants from EULAR, grants from Health Technology Assessment, grants from Research for Patient Benefits (RFPB), grants from British Heart Foundation, grants from Napp, from Fight for Sight, personal fees from Roche, personal fees from Merck, personal fees from Sobi, personal fees from Mundipharma, outside the submitted work; JB is an employee of UCB Pharma and holds stock options for UCB Pharma; BD is an employee of UCB Pharma and holds stock options for UCB Pharma; WZ is an employee of UCB Pharma; CP reports grants and personal fees from Abbott, grants and personal fees from AZ/MedImmune, grants and personal fees from Pfizer, grants and personal fees from Roche/Genentech, grants and personal fees from UCB Pharma, outside the submitted work; PD has nothing to disclose; KK is an employee of UCB Pharma and holds stock options for UCB Pharma.
+      
+      
+        Ethics approval: UCB Pharma Institutional Review Board (IRB)/Independent Ethics Committee (IEC) as defined in local regulations.
+      
+      
+        Provenance and peer review: Not commissioned; externally peer reviewed.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-172" id="S2" selection="1a">
+        <text xml:space="preserve">Efficacy and safety of olokizumab in patients with rheumatoid arthritis with an inadequate response to TNF inhibitor therapy: outcomes of a randomised Phase IIb study</text>
+    </sentence>
+    <sentence charOffset="173-181" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="202-212" id="S4" selection="">
+        <text xml:space="preserve">Objectives</text>
+    </sentence>
+    <sentence charOffset="223-521" id="S5" selection="1b">
+        <text xml:space="preserve">The aim of this 12-week Phase IIb study was to assess the efficacy and safety of olokizumab (OKZ), a humanised anti-IL6 monoclonal antibody, in patients with rheumatoid arthritis (RA) with moderate-to-severe disease activity who had previously failed tumour necrosis factor (TNF) inhibitor therapy.</text>
+    </sentence>
+    <sentence charOffset="522-592" id="S6" selection="">
+        <text xml:space="preserve">The dose-exposure-response relationship for OKZ was also investigated.</text>
+    </sentence>
+    <sentence charOffset="621-628" id="S7" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="639-822" id="S8" selection="">
+        <text xml:space="preserve">Patients were randomised to one of nine treatment arms receiving placebo (PBO) or OKZ (60, 120 or 240 mg) every 4 weeks (Q4W) or every 2 weeks (Q2W), or 8 mg/kg tocilizumab (TCZ) Q4W.</text>
+    </sentence>
+    <sentence charOffset="823-914" id="S9" selection="">
+        <text xml:space="preserve">The primary endpoint was change from baseline in DAS28(C-reactive protein, CRP) at Week 12.</text>
+    </sentence>
+    <sentence charOffset="915-1036" id="S10" selection="">
+        <text xml:space="preserve">Secondary efficacy endpoints were American College of Rheumatology 20 (ACR20), ACR50 and ACR70 response rates at Week 12.</text>
+    </sentence>
+    <sentence charOffset="1037-1104" id="S11" selection="">
+        <text xml:space="preserve">Exploratory analyses included comparisons of OKZ efficacy with TCZ.</text>
+    </sentence>
+    <sentence charOffset="1133-1140" id="S12" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="1151-1391" id="S13" selection="">
+        <text xml:space="preserve">Across 221 randomised patients, OKZ treatment produced significantly greater reductions in DAS28(CRP) from baseline levels at Week 12, compared to PBO (p&lt;0.001), at all the OKZ doses tested (60 mg OKZ p=0.0001, 120 and 240 mg OKZ p&lt;0.0001).</text>
+    </sentence>
+    <sentence charOffset="1392-1550" id="S14" selection="">
+        <text xml:space="preserve">Additionally, ACR20 and ACR50 responses were numerically higher for OKZ than PBO (ACR20: PBO=17.1–29.9%, OKZ=32.5–60.7%; ACR50: PBO=1.3–4.9%, OKZ=11.5–33.2%).</text>
+    </sentence>
+    <sentence charOffset="1551-1647" id="S15" selection="">
+        <text xml:space="preserve">OKZ treatment, at several doses, demonstrated similar efficacy to TCZ across multiple endpoints.</text>
+    </sentence>
+    <sentence charOffset="1648-1742" id="S16" selection="">
+        <text xml:space="preserve">Most adverse events were mild or moderate and comparable between OKZ and TCZ treatment groups.</text>
+    </sentence>
+    <sentence charOffset="1743-1900" id="S17" selection="">
+        <text xml:space="preserve">Pharmacokinetic/pharmacodynamic modelling demonstrated a shallow dose/exposure response relationship in terms of percentage of patients with DAS28(CRP) &lt;2.6.</text>
+    </sentence>
+    <sentence charOffset="1929-1940" id="S18" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="1951-2054" id="S19" selection="">
+        <text xml:space="preserve">OKZ produced significantly greater reductions in DAS28(CRP) from baseline at Week 12 compared with PBO.</text>
+    </sentence>
+    <sentence charOffset="2055-2178" id="S20" selection="">
+        <text xml:space="preserve">Reported AEs were consistent with the safety profile expected of this class of drug, with no new safety signals identified.</text>
+    </sentence>
+    <sentence charOffset="2207-2229" id="S21" selection="">
+        <text xml:space="preserve">Trial register number:</text>
+    </sentence>
+    <sentence charOffset="2240-2252" id="S22" selection="23">
+        <text xml:space="preserve">NCT01242488.</text>
+    </sentence>
+    <sentence charOffset="2282-2294" id="S23">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2301-2498" id="S24" selection="">
+        <text xml:space="preserve">Rheumatoid arthritis (RA) is a chronic, systemic autoimmune disease which can lead to destruction and physical dysfunction of joints resulting in a significant increase in morbidity and mortality.1</text>
+    </sentence>
+    <sentence charOffset="2499-2665" id="S25" selection="">
+        <text xml:space="preserve">For patients who have an inadequate response to DMARDs, tumour necrosis factor (TNF) inhibitors are frequently added, usually in combination with methotrexate (MTX).2</text>
+    </sentence>
+    <sentence charOffset="2666-2788" id="S26" selection="">
+        <text xml:space="preserve">Approximately 40–50% of patients receiving TNF inhibitors, however, also have an inadequate response to this treatment.3–5</text>
+    </sentence>
+    <sentence charOffset="2789-2917" id="S27" selection="">
+        <text xml:space="preserve">Therapeutic approaches using alternative mechanisms of action are therefore an important unmet need for this patient population.</text>
+    </sentence>
+    <sentence charOffset="2924-3010" id="S28" selection="">
+        <text xml:space="preserve">An alternate therapeutic target is the pro-inflammatory cytokine interleukin-6 (IL-6).</text>
+    </sentence>
+    <sentence charOffset="3011-3225" id="S29" selection="">
+        <text xml:space="preserve">IL-6 is an important mediator of inflammation and is involved in key immunologic processes underlying the pathology of RA, such as T-cell activation and B-cell proliferation, as well as osteoclast differentiation.6</text>
+    </sentence>
+    <sentence charOffset="3226-3379" id="S30" selection="">
+        <text xml:space="preserve">The amount of IL-6 present in the synovial fluid of patients with RA has been shown to correlate with the severity of synovitis and joint destruction.7–9</text>
+    </sentence>
+    <sentence charOffset="3380-3486" id="S31" selection="">
+        <text xml:space="preserve">An anti-IL-6 receptor (IL-6R) antibody, tocilizumab (TCZ), has been approved for the treatment of RA.10–17</text>
+    </sentence>
+    <sentence charOffset="3487-3560" id="S32" selection="">
+        <text xml:space="preserve">TCZ is a humanised monoclonal antibody that binds to the IL-6 receptor.18</text>
+    </sentence>
+    <sentence charOffset="3567-3710" id="S33" selection="2a">
+        <text xml:space="preserve">Olokizumab (OKZ, CDP6038), a humanised monoclonal antibody specific for the IL-6 cytokine, is currently in development for the treatment of RA.</text>
+    </sentence>
+    <sentence charOffset="3711-3834" id="S34" selection="">
+        <text xml:space="preserve">It targets the IL-6 cytokine rather than the receptor, and selectively blocks the final assembly of the signalling complex.</text>
+    </sentence>
+    <sentence charOffset="3835-4117" id="S35" selection="2a">
+        <text xml:space="preserve">In Phase I (healthy volunteers) and IIa (patients with RA on MTX) clinical trials, OKZ was well tolerated after intravenous and subcutaneous delivery with a median plasma half-life of approximately 31 days, 76% bioavailability and no apparent antidrug antibody-mediated clearance.19</text>
+    </sentence>
+    <sentence charOffset="4118-4284" id="S36" selection="">
+        <text xml:space="preserve">OKZ also markedly reduced free IL-6 levels and suppressed C-reactive protein (CRP) up to 12 weeks after single-dose subcutaneous administration in patients with RA.20</text>
+    </sentence>
+    <sentence charOffset="4291-4469" id="S37" selection="2b">
+        <text xml:space="preserve">The primary aims of this Phase IIb, dose-ranging study were to evaluate the efficacy and safety of OKZ in an active RA population who had previously failed TNF inhibitor therapy.</text>
+    </sentence>
+    <sentence charOffset="4486-4507" id="S38">
+        <text xml:space="preserve">Materials and methods</text>
+    </sentence>
+    <sentence charOffset="4523-4535" id="S39" selection="">
+        <text xml:space="preserve">Study design</text>
+    </sentence>
+    <sentence charOffset="4544-4886" id="S40" selection="3a,14a,4a">
+        <text xml:space="preserve">This was a 12-week, Phase IIb, dose-ranging, double-blind, placebo (PBO) and active-controlled, multicenter, randomised study (NCT01242488), conducted between November 2010 and June 2012, to evaluate the efficacy and safety of subcutaneous OKZ in patients with moderately to severely active RA who had previously failed TNF inhibitor therapy.</text>
+    </sentence>
+    <sentence charOffset="4887-5069" id="S41" selection="">
+        <text xml:space="preserve">The study protocol was approved by the Institutional Review Board/Independent Ethics Committee as defined in local regulations and performed according to the Declaration of Helsinki.</text>
+    </sentence>
+    <sentence charOffset="5070-5108" id="S42" selection="">
+        <text xml:space="preserve">All patients provided written consent.</text>
+    </sentence>
+    <sentence charOffset="5117-5256" id="S43" selection="6a">
+        <text xml:space="preserve">The primary objective of the study was to evaluate the efficacy of OKZ at different doses and administration frequencies compared with PBO.</text>
+    </sentence>
+    <sentence charOffset="5257-5485" id="S44" selection="6a">
+        <text xml:space="preserve">Secondary objectives were to evaluate the safety, pharmacokinetics (PK), pharmacodynamics (PD) and immunogenicity of repeated doses of OKZ, and to assess the dose-response and exposure-response relationship of OKZ with efficacy.</text>
+    </sentence>
+    <sentence charOffset="5486-5565" id="S45" selection="6a">
+        <text xml:space="preserve">An exploratory endpoint was to compare the efficacy and safety of OKZ with TCZ.</text>
+    </sentence>
+    <sentence charOffset="5574-5673" id="S46" selection="16">
+        <text xml:space="preserve">Of the 398 patients enrolled in the study, 221 were randomised to 1 of 9 treatment arms (figure 1).</text>
+    </sentence>
+    <sentence charOffset="5674-5755" id="S47" selection="10,8a">
+        <text xml:space="preserve">Randomisation was performed centrally using an interactive voice-response system.</text>
+    </sentence>
+    <sentence charOffset="5756-5875" id="S48" selection="5">
+        <text xml:space="preserve">Patients received either PBO or OKZ (60, 120 or 240 mg) every 4 weeks (Q4W) or every 2 weeks (Q2W), or 8 mg/kg TCZ Q4W.</text>
+    </sentence>
+    <sentence charOffset="5876-6123" id="S49" selection="5">
+        <text xml:space="preserve">Doses were selected in order to cover 35–75% of the maximal anticipated effect on DAS28(erythrocyte sedimentation rate, ESR) at 12 weeks, or 45–85% of the maximal anticipated effect at 24 weeks, based on PK/PD analysis of previous study data.19 20</text>
+    </sentence>
+    <sentence charOffset="6133-6162" id="S50" selection="13a,13b">
+        <text xml:space="preserve">Figure 1 Patient disposition.</text>
+    </sentence>
+    <sentence charOffset="6172-6273" id="S51" selection="8b">
+        <text xml:space="preserve">Randomisation was stratified according to the number of prior failed TNF inhibitors (1 vs 2 or more).</text>
+    </sentence>
+    <sentence charOffset="6274-6359" id="S52" selection="">
+        <text xml:space="preserve">Two safety follow-up visits were undertaken 6 and 12 weeks after the last study dose.</text>
+    </sentence>
+    <sentence charOffset="6360-6492" id="S53" selection="11a">
+        <text xml:space="preserve">To maintain blinding of the treatment, all patients received an intravenous infusion Q4W and two 1.2 mL subcutaneous injections Q2W.</text>
+    </sentence>
+    <sentence charOffset="6493-6624" id="S54" selection="">
+        <text xml:space="preserve">TCZ dose is the approved dose in Europe by the EMA,21 and the highest dose approved by the US Food and Drug Administration (FDA).18</text>
+    </sentence>
+    <sentence charOffset="6633-6742" id="S55" selection="">
+        <text xml:space="preserve">Patients who completed the study were eligible to receive OKZ in an open-label extension study (NCT01296711).</text>
+    </sentence>
+    <sentence charOffset="6765-6773" id="S56" selection="">
+        <text xml:space="preserve">Patients</text>
+    </sentence>
+    <sentence charOffset="6782-6914" id="S57" selection="4a">
+        <text xml:space="preserve">This study population were individuals with active RA and an inadequate response to MTX, and at least one previous anti-TNF therapy.</text>
+    </sentence>
+    <sentence charOffset="6915-7185" id="S58" selection="4a">
+        <text xml:space="preserve">Patients were ≥18 years old, with adult-onset RA of at least 6 months duration (1987 American College of Rheumatology (ACR) classification criteria22) or a score of ≥6 by the ACR/European League Against Rheumatism (EULAR) Classification and Diagnostic Criteria for RA.23</text>
+    </sentence>
+    <sentence charOffset="7186-7387" id="S59" selection="4a">
+        <text xml:space="preserve">Eligible patients had tender joint count ≥6 (TJC; assessment of 68 joints) and swollen joint count ≥6 (SJC; assessment of 66 joints) and CRP ≥1.2 times the upper limit of normal (ULN), or ESR &gt;28 mm/h.</text>
+    </sentence>
+    <sentence charOffset="7388-7483" id="S60" selection="4a">
+        <text xml:space="preserve">Patients were required to be on a stable dose of MTX and continued current steroids and NSAIDs.</text>
+    </sentence>
+    <sentence charOffset="7492-7734" id="S61" selection="4a">
+        <text xml:space="preserve">Major exclusion criteria included diagnoses of other inflammatory arthritis or a non-inflammatory type of arthritis that interfered with efficacy evaluations, functional capacity Steinbrocker Class IV,24 and prior exposure to IL-6 inhibitors.</text>
+    </sentence>
+    <sentence charOffset="7735-7868" id="S62" selection="4a">
+        <text xml:space="preserve">Patients were not permitted to use DMARDs other than MTX within 12 weeks prior to screening (unless undertaking appropriate washout).</text>
+    </sentence>
+    <sentence charOffset="7869-8121" id="S63" selection="4a">
+        <text xml:space="preserve">Patients with a known risk of severe or major infections, or elevated levels at screening of creatinine, alanine aminotransferase (ALT) or aspartate aminotransferase (AST), or reduced platelets, white blood cell count or neutrophil count were excluded.</text>
+    </sentence>
+    <sentence charOffset="8144-8161" id="S64" selection="">
+        <text xml:space="preserve">Efficacy analyses</text>
+    </sentence>
+    <sentence charOffset="8170-8379" id="S65" selection="6a">
+        <text xml:space="preserve">Efficacy outcomes were assessed in the Full Analysis Set (FAS), consisting of all randomised patients who received at least one dose of study medication and had at least one post-baseline efficacy measurement.</text>
+    </sentence>
+    <sentence charOffset="8388-8472" id="S66" selection="6a">
+        <text xml:space="preserve">The primary efficacy endpoint was the change from baseline in DAS28(CRP) at Week 12.</text>
+    </sentence>
+    <sentence charOffset="8473-8557" id="S67" selection="6a">
+        <text xml:space="preserve">Secondary efficacy endpoints were ACR20, ACR50 and ACR70 at Week 12 for OKZ and PBO.</text>
+    </sentence>
+    <sentence charOffset="8558-8835" id="S68" selection="6a">
+        <text xml:space="preserve">Major exploratory analyses included: ACR20/50/70 response rates (at Weeks 1, 2, 4, 6, 8, 10 and 12), % of patients with DAS28(CRP) &lt;2.6 at Weeks 2, 4, 8 and 12), TJC, SJC, Clinical Disease Activity Index (CDAI) and the Health Assessment Questionnaire-Disability Index (HAQ-DI).</text>
+    </sentence>
+    <sentence charOffset="8858-8864" id="S69" selection="">
+        <text xml:space="preserve">Safety</text>
+    </sentence>
+    <sentence charOffset="8873-9038" id="S70" selection="6a">
+        <text xml:space="preserve">Safety assessments included measurement of vital signs and laboratory parameters as well as recording of treatment-emergent adverse events (TEAEs) and serious TEAEs.</text>
+    </sentence>
+    <sentence charOffset="9039-9178" id="S71" selection="">
+        <text xml:space="preserve">Safety variables were analysed using the Safety Set (SS) (all patients who received at least 1 dose, or partial dose, of study medication).</text>
+    </sentence>
+    <sentence charOffset="9201-9221" id="S72" selection="">
+        <text xml:space="preserve">Statistical analyses</text>
+    </sentence>
+    <sentence charOffset="9230-9288" id="S73" selection="">
+        <text xml:space="preserve">Unless specifically stated, FAS was used for all analyses.</text>
+    </sentence>
+    <sentence charOffset="9289-9370" id="S74" selection="12a">
+        <text xml:space="preserve">DAS28(CRP) was analysed using a mixed effects model for repeated measures (MMRM).</text>
+    </sentence>
+    <sentence charOffset="9371-9500" id="S75" selection="12b">
+        <text xml:space="preserve">ACR20/50/70 responder rates were estimated using generalised estimating equation (GEE) methodology with Multiple Imputation (MI).</text>
+    </sentence>
+    <sentence charOffset="9501-9618" id="S76" selection="12b">
+        <text xml:space="preserve">Missing data for SJC/TJC/HAQ-DI/CDAI change from baseline were imputed using last observation carried forward (LOCF).</text>
+    </sentence>
+    <sentence charOffset="9619-9731" id="S77" selection="12b">
+        <text xml:space="preserve">Non-responder imputation was used for analysis of % patients with DAS28(CRP) &lt;2.6 to control for missing values.</text>
+    </sentence>
+    <sentence charOffset="9732-9842" id="S78" selection="">
+        <text xml:space="preserve">The number of prior failed TNF inhibitors was included as a categorical covariate in all statistical analyses.</text>
+    </sentence>
+    <sentence charOffset="9843-9905" id="S79" selection="12a,12b">
+        <text xml:space="preserve">Unless otherwise stated, all statistical tests were two-sided.</text>
+    </sentence>
+    <sentence charOffset="9914-10114" id="S80" selection="7a">
+        <text xml:space="preserve">Power and sample size calculations were based upon simulations for change from baseline in DAS28 at all assessed postbaseline visits, using the MMRM method specified for the primary efficacy analysis.</text>
+    </sentence>
+    <sentence charOffset="10137-10177" id="S81" selection="">
+        <text xml:space="preserve">Pharmacokinetic/pharmacodynamic analyses</text>
+    </sentence>
+    <sentence charOffset="10186-10317" id="S82" selection="">
+        <text xml:space="preserve">Blood samples for determination of plasma OKZ, TCZ and anti-OKZ antibodies were collected at baseline and at each subsequent visit.</text>
+    </sentence>
+    <sentence charOffset="10318-10394" id="S83" selection="12b">
+        <text xml:space="preserve">Non-linear mixed modelling was employed for the analysis of the OKZ PK data.</text>
+    </sentence>
+    <sentence charOffset="10395-10656" id="S84" selection="12b">
+        <text xml:space="preserve">The final population PK model was used to derive individual concentration or exposure measures for use in the PK/PD analyses which involved describing the relationship between PK measures and multiple efficacy and safety endpoints via mixed effects methodology.</text>
+    </sentence>
+    <sentence charOffset="10680-10687" id="S85">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="10703-10751" id="S86" selection="">
+        <text xml:space="preserve">Baseline characteristics and patient disposition</text>
+    </sentence>
+    <sentence charOffset="10760-10869" id="S87" selection="13a">
+        <text xml:space="preserve">Figure 1 details the patient disposition; 89.6% of randomised patients completed the 12-week treatment phase.</text>
+    </sentence>
+    <sentence charOffset="10870-11016" id="S88" selection="15">
+        <text xml:space="preserve">Patient demographics across the treatment groups were similar and representative of patients with RA with long-standing, active disease (table 1).</text>
+    </sentence>
+    <sentence charOffset="11017-11076" id="S89" selection="15">
+        <text xml:space="preserve">Most patients were using MTX at baseline (95% of patients).</text>
+    </sentence>
+    <sentence charOffset="11077-11269" id="S90" selection="15">
+        <text xml:space="preserve">The most common previous TNF inhibitors were etanercept (50.7%), adalimumab (45.2%) and infliximab (36.5%); certolizumab pegol and golimumab had each been previously used by 13.7% of patients.</text>
+    </sentence>
+    <sentence charOffset="11270-11349" id="S91" selection="15">
+        <text xml:space="preserve">More than 40% of patients had failed to respond to at least two TNF inhibitors.</text>
+    </sentence>
+    <sentence charOffset="11350-11441" id="S92" selection="15">
+        <text xml:space="preserve">Previous non-TNF-targeting biologics used included abatacept (16.0%) and rituximab (11.0%).</text>
+    </sentence>
+    <sentence charOffset="11442-11630" id="S93" selection="15">
+        <text xml:space="preserve">At recruitment, 107 patients (48.9%) met the inclusion criteria for ESR (&gt;28 mm/h) and CRP (≥1.2 ULN); 89 (40.6%) and 21 (9.6%) patients met only the criteria for ESR or CRP, respectively.</text>
+    </sentence>
+    <sentence charOffset="11640-11725" id="S94" selection="15">
+        <text xml:space="preserve">Table 1 Baseline patient demographics and disease characteristics (full analysis set)</text>
+    </sentence>
+    <sentence charOffset="11749-11766" id="S95" selection="">
+        <text xml:space="preserve">Clinical efficacy</text>
+    </sentence>
+    <sentence charOffset="11786-11820" id="S96" selection="">
+        <text xml:space="preserve">Change from baseline in DAS28(CRP)</text>
+    </sentence>
+    <sentence charOffset="11831-12055" id="S97" selection="17a">
+        <text xml:space="preserve">Across all dose groups, treatment with OKZ resulted in a greater improvement in DAS28(CRP) mean change from baseline at Week 12 compared with PBO (table 2), with the greatest improvement observed in the OKZ 240 mg Q2W group.</text>
+    </sentence>
+    <sentence charOffset="12056-12128" id="S98" selection="17a">
+        <text xml:space="preserve">Decreases in DAS28(CRP) from baseline were seen from Week 1 (figure 2A).</text>
+    </sentence>
+    <sentence charOffset="12129-12386" id="S99" selection="17a">
+        <text xml:space="preserve">For every treatment dose, DAS28(CRP) change from baseline was significantly different to the PBO group (for 60 mg OKZ p=0.0001, for 120 and 240 mg OKZ p&lt;0.0001), as were the overall dose response trends across both dosing frequencies (p&lt;0.0001) (figure 2B).</text>
+    </sentence>
+    <sentence charOffset="12387-12556" id="S100" selection="17a">
+        <text xml:space="preserve">Comparisons of dosing frequency (Q2W vs Q4W) and dose-by-dose frequency interactions (Q2W trend vs Q4W trend) were not significant (p=0.6927 and p=0.9912, respectively).</text>
+    </sentence>
+    <sentence charOffset="12557-12710" id="S101" selection="18">
+        <text xml:space="preserve">The improvements from baseline in DAS28(CRP) observed in several OKZ treatment groups were comparable to those seen in the TCZ treatment group (table 2).</text>
+    </sentence>
+    <sentence charOffset="12711-12841" id="S102" selection="18">
+        <text xml:space="preserve">No significant response differences were seen between patients who had previously failed treatment with 1, 2 or &gt;2 TNF inhibitors.</text>
+    </sentence>
+    <sentence charOffset="12853-12910" id="S103" selection="17a,17b,18">
+        <text xml:space="preserve">Table 2 Efficacy outcomes at week 12 (full analysis set)</text>
+    </sentence>
+    <sentence charOffset="12923-12963" id="S104" selection="17a,17b,18">
+        <text xml:space="preserve">Figure 2 Analysis of efficacy endpoints.</text>
+    </sentence>
+    <sentence charOffset="12964-13089" id="S105" selection="17a,17b">
+        <text xml:space="preserve">(A) DAS28(CRP) scorea; (B) DAS28(CRP) change from baseline at Week 12; (C) ACR20 response ratea and (D) ACR50 response ratea.</text>
+    </sentence>
+    <sentence charOffset="13101-13341" id="S106" selection="18">
+        <text xml:space="preserve">Posthoc analysis revealed that at low OKZ doses, a greater response was seen in patients with CRP ≥1.2 ULN compared to all other patients (for OKZ 60 mg Q4W patients mean changes from baseline at Week 12 were −2.47 and −0.98, respectively).</text>
+    </sentence>
+    <sentence charOffset="13342-13432" id="S107" selection="18">
+        <text xml:space="preserve">This was not apparent at higher dose levels (−1.87 and −2.08 for OKZ 240 mg Q2W patients).</text>
+    </sentence>
+    <sentence charOffset="13461-13498" id="S108" selection="">
+        <text xml:space="preserve">ACR20, ACR50 and ACR70 response rates</text>
+    </sentence>
+    <sentence charOffset="13509-13626" id="S109" selection="17b">
+        <text xml:space="preserve">The ACR20 and ACR50 response rates were higher in OKZ-treated patients than those receiving PBO at Week 12 (table 2).</text>
+    </sentence>
+    <sentence charOffset="13627-13718" id="S110" selection="">
+        <text xml:space="preserve">This study was not powered to detect significant differences in ACR20/50/70 response rates.</text>
+    </sentence>
+    <sentence charOffset="13719-13823" id="S111" selection="17b">
+        <text xml:space="preserve">However, responses were numerically higher for ACR20 (p=0.0636) and ACR50 (p=0.0574) than PBO (table 2).</text>
+    </sentence>
+    <sentence charOffset="13824-14050" id="S112" selection="18">
+        <text xml:space="preserve">Improvements in ACR20 and ACR50 were rapid, with increased responses over PBO observed from as early as Week 1 and Week 4, respectively, and were generally maintained or increased throughout the treatment period (figure 2C,D).</text>
+    </sentence>
+    <sentence charOffset="14051-14108" id="S113" selection="18">
+        <text xml:space="preserve">These responses were similar for the TCZ treatment group.</text>
+    </sentence>
+    <sentence charOffset="14109-14215" id="S114" selection="18">
+        <text xml:space="preserve">Seven patients in OKZ treatment groups and four patients on TCZ were observed ACR70 responders at Week 12.</text>
+    </sentence>
+    <sentence charOffset="14244-14273" id="S115" selection="">
+        <text xml:space="preserve">Additional efficacy endpoints</text>
+    </sentence>
+    <sentence charOffset="14284-14531" id="S116" selection="18">
+        <text xml:space="preserve">Exploratory analysis of additional efficacy endpoints revealed improvements in OKZ-treated patients at Week 12 in physical function (as assessed by HAQ-DI) compared with the PBO groups, as well as greater reductions in TJC, SJC and CDAI (table 2).</text>
+    </sentence>
+    <sentence charOffset="14532-14664" id="S117" selection="18">
+        <text xml:space="preserve">Additionally, a higher percentage of patients demonstrated DAS28(CRP) &lt;2.6 or DAS28(CRP) ≤3.2 following treatment with OKZ than PBO.</text>
+    </sentence>
+    <sentence charOffset="14665-14842" id="S118" selection="17a">
+        <text xml:space="preserve">The percentage of patients demonstrating DAS28(CRP) &lt;2.6 in the OKZ 240 mg Q2W group was more than fivefold higher than that in the PBO Q2W group (26.1% and 4.5%, respectively).</text>
+    </sentence>
+    <sentence charOffset="14843-15126" id="S119" selection="18">
+        <text xml:space="preserve">Posthoc analysis showed that at Week 12, low disease activity (CDAI ≤10.0) was achieved by patients from all treatment groups, including PBO, with a higher proportion of patients demonstrating this in the OKZ 120 mg and 240 mg dose groups than the OKZ 60 mg and PBO groups (table 2).</text>
+    </sentence>
+    <sentence charOffset="15127-15328" id="S120" selection="18">
+        <text xml:space="preserve">Five of 132 patients in OKZ treatment groups (from 5 different cohorts), and 5 of 43 patients on TCZ achieved CDAI remission (CDAI ≤2.8) at Week 12; compared with none of the 22 patients in PBO groups.</text>
+    </sentence>
+    <sentence charOffset="15360-15400" id="S121" selection="">
+        <text xml:space="preserve">Pharmacokinetic/pharmacodynamic analyses</text>
+    </sentence>
+    <sentence charOffset="15409-15545" id="S122" selection="">
+        <text xml:space="preserve">The OKZ plasma concentration-time data were adequately described by a two-compartment, first-order absorption, linear elimination model.</text>
+    </sentence>
+    <sentence charOffset="15546-15654" id="S123" selection="">
+        <text xml:space="preserve">The OKZ PK characteristics were consistent with those in healthy and mild-to-moderate patients with RA.19 20</text>
+    </sentence>
+    <sentence charOffset="15655-15778" id="S124" selection="">
+        <text xml:space="preserve">The overall estimate of bioavailability across the Phase I, IIa and IIb studies was 63.3% (% relative standard error=4.9%).</text>
+    </sentence>
+    <sentence charOffset="15787-15934" id="S125" selection="">
+        <text xml:space="preserve">PK/PD (DAS28(CRP)) data were adequately described by an indirect concentration-effect sigmoid Emax model, with inhibition of DAS28(CRP) production.</text>
+    </sentence>
+    <sentence charOffset="15935-16176" id="S126" selection="">
+        <text xml:space="preserve">Simulations performed with the resulting model, extrapolated to Week 24, highlighted the existence of a shallow dose/exposure response relationship (in terms of percentage of patients with DAS28(CRP)&lt;2.6, see online supplementary figure S1).</text>
+    </sentence>
+    <sentence charOffset="16177-16326" id="S127" selection="">
+        <text xml:space="preserve">A successful description of the ACR20 data and its correlation with exposure, taking into account drop-out using a logistic model, was also possible.</text>
+    </sentence>
+    <sentence charOffset="16327-16446" id="S128" selection="">
+        <text xml:space="preserve">By contrast with DAS28(CRP), simulations exploring the dose-response surface for ACR20 revealed a steep response curve.</text>
+    </sentence>
+    <sentence charOffset="16469-16483" id="S129" selection="">
+        <text xml:space="preserve">Immunogenicity</text>
+    </sentence>
+    <sentence charOffset="16492-16557" id="S130" selection="">
+        <text xml:space="preserve">Analysis of plasma samples for anti-OKZ antibodies was conducted.</text>
+    </sentence>
+    <sentence charOffset="16558-16721" id="S131" selection="">
+        <text xml:space="preserve">Using a study-specific cut-off, based on blinded analysis of drug-naive baseline samples, 13 patients (9.8%) in OKZ-treated groups were anti-OKZ antibody positive.</text>
+    </sentence>
+    <sentence charOffset="16722-16873" id="S132" selection="">
+        <text xml:space="preserve">Importantly, four of these patients were pre-dose positive, and only one of them displayed a PK profile characteristic of drug-clearing immunogenicity.</text>
+    </sentence>
+    <sentence charOffset="16874-17005" id="S133" selection="">
+        <text xml:space="preserve">Furthermore, five patients in the PBO groups (11.3%) and two patients in the TCZ group (9.8%) were also anti-OKZ antibody positive.</text>
+    </sentence>
+    <sentence charOffset="17006-17216" id="S134" selection="">
+        <text xml:space="preserve">Non-specific interference by pre-existing immunoglobulins in patients’ plasma has been previously reported25 26 and was shown to be the case for some of these nominally positive samples with a posthoc analysis.</text>
+    </sentence>
+    <sentence charOffset="17217-17321" id="S135" selection="">
+        <text xml:space="preserve">Thus, the true incidence of specific anti-OKZ antibodies is likely to be less than nominally determined.</text>
+    </sentence>
+    <sentence charOffset="17322-17521" id="S136" selection="">
+        <text xml:space="preserve">Details of the immunogenicity investigations and the efficacy response of the 13 patients who were found nominally anti-OKZ antibody positive can be found in online supplementary material (table S1).</text>
+    </sentence>
+    <sentence charOffset="17544-17555" id="S137" selection="">
+        <text xml:space="preserve">Safety (SS)</text>
+    </sentence>
+    <sentence charOffset="17564-17753" id="S138" selection="19,17b">
+        <text xml:space="preserve">There were similar numbers of TEAEs reported in the OKZ and TCZ active dose groups, and the PBO group (range across OKZ treatment groups: 63.6–87.0%; PBO: 77.3–86.4%; TCZ: 86.0%) (table 3).</text>
+    </sentence>
+    <sentence charOffset="17754-17823" id="S139" selection="">
+        <text xml:space="preserve">The majority of TEAEs in all treatment groups were mild in intensity.</text>
+    </sentence>
+    <sentence charOffset="17824-18153" id="S140" selection="19">
+        <text xml:space="preserve">Most frequently reported TEAEs (occurring in ≥10% of patients in any treatment group) consisted of diarrhoea, headache, injection site reactions (PBO: 18.2%; OKZ: 17.4–47.8%; TCZ: 20.9%), and infections including upper respiratory tract infections, urinary tract infections and nasopharyngitis (PBO: 31.8–50.0%; OKZ: 25.0–36.4%).</text>
+    </sentence>
+    <sentence charOffset="18154-18248" id="S141" selection="">
+        <text xml:space="preserve">There were no incidences of diverticulitis and no gastrointestinal (GI) perforations reported.</text>
+    </sentence>
+    <sentence charOffset="18249-18330" id="S142" selection="">
+        <text xml:space="preserve">All TEAEs are reported to Week 12, and thus represent short-term safety outcomes.</text>
+    </sentence>
+    <sentence charOffset="18340-18440" id="S143" selection="19,17b">
+        <text xml:space="preserve">Table 3 Treatment-emergent adverse events and serious treatment-emergent adverse events (safety set)</text>
+    </sentence>
+    <sentence charOffset="18450-18576" id="S144" selection="19,17b">
+        <text xml:space="preserve">The incidence of serious TEAEs was similar between treatment groups, and no serious TEAE was reported by &gt;1 patient (table 3).</text>
+    </sentence>
+    <sentence charOffset="18577-18753" id="S145" selection="19">
+        <text xml:space="preserve">In the OKZ treatment groups, serious TEAEs reported were chest pain, pneumonia, perineal abscess, abnormal liver function test (LFT), back pain, basal cell carcinoma and mania.</text>
+    </sentence>
+    <sentence charOffset="18754-18959" id="S146" selection="19">
+        <text xml:space="preserve">One serious pneumonia case was reported in the TCZ treatment arm (2.3% patients); other serious TEAEs in the TCZ group included increased blood triglycerides and limb abscess (2.3% patients, respectively).</text>
+    </sentence>
+    <sentence charOffset="18960-19002" id="S147" selection="">
+        <text xml:space="preserve">There were no deaths throughout the study.</text>
+    </sentence>
+    <sentence charOffset="19011-19192" id="S148" selection="19">
+        <text xml:space="preserve">Laboratory abnormalities included elevated levels of ALT, AST and gamma glutamyl transferase (GGT), as well as decreased neutrophil counts and increased blood cholesterol (table 4).</text>
+    </sentence>
+    <sentence charOffset="19193-19344" id="S149" selection="19,17b">
+        <text xml:space="preserve">In the OKZ treatment groups, 4.3–18.2% of patients had ALT levels &gt;3× ULN and 4.3–9.1% had AST levels &gt;3× ULN at least at one postbaseline measurement.</text>
+    </sentence>
+    <sentence charOffset="19345-19424" id="S150" selection="">
+        <text xml:space="preserve">No increases in either enzyme &gt;3× ULN were seen in PBO or TCZ treated patients.</text>
+    </sentence>
+    <sentence charOffset="19425-19848" id="S151" selection="19,17b">
+        <text xml:space="preserve">Neutrophil and leukocyte counts were reduced from baseline levels in each of the active treatment arms (including TCZ) from as early as Week 1; the incidence of markedly abnormal neutrophil counts (defined as laboratory values graded 3 or 4 according to the National Cancer Institute Common Terminology Critera for Adverse Events (CTCAE)) was similar between OKZ and TCZ treatment groups (range for OKZ: 0–4.5%; TCZ: 4.7%).</text>
+    </sentence>
+    <sentence charOffset="19849-19932" id="S152" selection="">
+        <text xml:space="preserve">There were no incidences of markedly abnormal leukocyte counts or thrombocytopenia.</text>
+    </sentence>
+    <sentence charOffset="19933-20147" id="S153" selection="">
+        <text xml:space="preserve">For the majority of clinical chemistry parameters there were no significant differences in mean values between PBO, OKZ and TCZ treatment groups, and no clinically significant fluctuations in mean values over time.</text>
+    </sentence>
+    <sentence charOffset="20148-20269" id="S154" selection="19">
+        <text xml:space="preserve">One subject in the OKZ 60 mg Q4W group was found to have elevations in ALT and AST, which was reported as a serious TEAE.</text>
+    </sentence>
+    <sentence charOffset="20270-20449" id="S155" selection="19">
+        <text xml:space="preserve">There were four incidences of Grade 3 or 4 elevations in GGT values, and four reports of abnormally high Grade 3 total cholesterol values, across the OKZ and TCZ treated patients.</text>
+    </sentence>
+    <sentence charOffset="20450-20565" id="S156" selection="">
+        <text xml:space="preserve">All these cases had values that were elevated at baseline and/or screening, prior to treatment with the study drug.</text>
+    </sentence>
+    <sentence charOffset="20566-20667" id="S157" selection="19">
+        <text xml:space="preserve">There was one recorded serious TEAE of increased blood triglycerides which occurred in the TCZ group.</text>
+    </sentence>
+    <sentence charOffset="20677-20793" id="S158" selection="19,17b">
+        <text xml:space="preserve">Table 4 Markedly abnormal laboratory values (laboratory values graded 3 or 4 according to CTCAE* V.4.0) (safety set)</text>
+    </sentence>
+    <sentence charOffset="20818-20828" id="S159">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="20835-21070" id="S160" selection="">
+        <text xml:space="preserve">In this Phase II study of patients with RA who had previously failed TNF inhibitor therapy, treatment with OKZ resulted in significantly greater reductions in DAS28(CRP) from baseline levels at Week 12 compared with treatment with PBO.</text>
+    </sentence>
+    <sentence charOffset="21071-21296" id="S161" selection="">
+        <text xml:space="preserve">This improvement was demonstrated at all the OKZ doses tested with generally comparable efficacy and across both dosing frequencies, and was statistically significant for all dose group comparisons (60, 120 or 240 mg vs PBO).</text>
+    </sentence>
+    <sentence charOffset="21297-21451" id="S162" selection="">
+        <text xml:space="preserve">At low OKZ doses, a posthoc analysis showed greater responses in patients who met the criterion of high CRP at study entry compared to all other patients.</text>
+    </sentence>
+    <sentence charOffset="21458-21546" id="S163" selection="">
+        <text xml:space="preserve">The primary efficacy endpoint was further supported by the secondary efficacy variables.</text>
+    </sentence>
+    <sentence charOffset="21547-21760" id="S164" selection="20">
+        <text xml:space="preserve">Estimated ACR20 and ACR50 response rates at Week 12 were numerically higher in all OKZ treatment arms than PBO groups, although the study was not powered to show a statistical difference in the ACR response rates.</text>
+    </sentence>
+    <sentence charOffset="21761-21819" id="S165" selection="">
+        <text xml:space="preserve">Few patients in any treatment group were ACR70 responders.</text>
+    </sentence>
+    <sentence charOffset="21820-21996" id="S166" selection="22">
+        <text xml:space="preserve">Comparisons of exploratory efficacy variables, including health outcomes endpoints generally suggested greater improvement in OKZ treatment groups compared with the PBO groups.</text>
+    </sentence>
+    <sentence charOffset="21997-22191" id="S167" selection="">
+        <text xml:space="preserve">Overall, exploratory comparison showed similar responses to subcutaneous OKZ treatment and intravenously administered TCZ across multiple efficacy endpoints and for several OKZ treatment groups.</text>
+    </sentence>
+    <sentence charOffset="22198-22337" id="S168" selection="22">
+        <text xml:space="preserve">Reported TEAEs in this study were consistent with the safety profile expected of this class of drug, with no new safety signals identified.</text>
+    </sentence>
+    <sentence charOffset="22338-22735" id="S169" selection="22">
+        <text xml:space="preserve">Commonly reported TEAEs in OKZ treated patients included gastrointestinal disorders, infections and infestations (primarily upper and lower respiratory tract infections and urinary tract infections) and nervous system disorders, which is qualitatively similar to the safety profile observed for TCZ in this and other previously published trials, as well as other anti-IL6 s in development.11 27–31</text>
+    </sentence>
+    <sentence charOffset="22736-22819" id="S170" selection="">
+        <text xml:space="preserve">These TEAEs occurred at similar frequencies in the PBO, OKZ and TCZ treated groups.</text>
+    </sentence>
+    <sentence charOffset="22820-22922" id="S171" selection="">
+        <text xml:space="preserve">There were no incidences of diverticulitis or gastrointestinal perforations reported during the study.</text>
+    </sentence>
+    <sentence charOffset="22923-23107" id="S172" selection="">
+        <text xml:space="preserve">In accordance with the role of IL-6 in immune regulation, inflammation and haematopoiesis, reported TEAEs included increases in AST, ALT and lipids, and decreases in neutrophil levels.</text>
+    </sentence>
+    <sentence charOffset="23108-23337" id="S173" selection="">
+        <text xml:space="preserve">As expected, small increases from baseline in median total cholesterol, LDL and triglycerides and decreases in neutrophils were observed in each of the active treatment arms, including the TCZ group, throughout the 12-week study.</text>
+    </sentence>
+    <sentence charOffset="23338-23412" id="S174" selection="">
+        <text xml:space="preserve">No patients fulfilled the Hy's law criteria for drug-induced liver injury.</text>
+    </sentence>
+    <sentence charOffset="23413-23472" id="S175" selection="">
+        <text xml:space="preserve">Most TEAEs were mild to moderate in nature, with no deaths.</text>
+    </sentence>
+    <sentence charOffset="23473-23659" id="S176" selection="">
+        <text xml:space="preserve">In the OKZ and TCZ treatment groups, there were no opportunistic infections, but two serious infections (one pneumonia and one abscess reported in patients treated with each study drug).</text>
+    </sentence>
+    <sentence charOffset="23666-23806" id="S177" selection="">
+        <text xml:space="preserve">Injection site reactions were more commonly reported after injection with OKZ compared with PBO or TCZ which was administered intravenously.</text>
+    </sentence>
+    <sentence charOffset="23807-23969" id="S178" selection="">
+        <text xml:space="preserve">The highest incidence was reported in the OKZ 240 mg Q2W group, in accordance with these patients receiving the greatest number of active subcutaneous injections.</text>
+    </sentence>
+    <sentence charOffset="23970-24020" id="S179" selection="">
+        <text xml:space="preserve">No serious injection site reactions were reported.</text>
+    </sentence>
+    <sentence charOffset="24027-24207" id="S180" selection="20">
+        <text xml:space="preserve">The limitations of this study included the small number of patients in each treatment group and the resultant lack of statistical power for comparisons beyond the primary endpoint.</text>
+    </sentence>
+    <sentence charOffset="24208-24345" id="S181" selection="20">
+        <text xml:space="preserve">This small sample size, along with the heterogeneity of the study population, resulted in high variability, quantified by the PBO groups.</text>
+    </sentence>
+    <sentence charOffset="24346-24594" id="S182" selection="20">
+        <text xml:space="preserve">Although PBO patients were randomised to nominal ‘Q4W’ and ‘Q2W’ groups they received identical treatments at all visits and results in these groups (while demonstrating overall consistency with previous published RA clinical trials) were variable.</text>
+    </sentence>
+    <sentence charOffset="24595-24737" id="S183" selection="">
+        <text xml:space="preserve">Despite this, OKZ across all treatment groups demonstrated statistically significant improvements in the predefined primary efficacy variable.</text>
+    </sentence>
+    <sentence charOffset="24738-25162" id="S184" selection="">
+        <text xml:space="preserve">Graphical comparisons of different doses and dosing regimens did not reveal significant differences in responses; integration of study data and analysis using PK/PD methodology revealed dose-exposure-response relationships for DAS28(CRP) and ACR20 endpoints, albeit shallow; no significant impact of the number of previous failed treatments with TNF inhibitors could be observed, which may also be due to small sample sizes.</text>
+    </sentence>
+    <sentence charOffset="25163-25210" id="S185" selection="">
+        <text xml:space="preserve">This study used a primary endpoint of 12 weeks.</text>
+    </sentence>
+    <sentence charOffset="25211-25374" id="S186" selection="20">
+        <text xml:space="preserve">Study duration is another potential study limitation given the long half-life of OKZ (31 days19) and the time required to plateau plasma concentration drug levels.</text>
+    </sentence>
+    <sentence charOffset="25375-25591" id="S187" selection="20,21">
+        <text xml:space="preserve">Additionally, in this study, all patients had previously been treated with, and failed to respond to, at least one TNF inhibitor, and thus, results seen here may not be directly applicable to the wider RA population.</text>
+    </sentence>
+    <sentence charOffset="25598-25694" id="S188" selection="">
+        <text xml:space="preserve">In addition to OKZ, several other antibodies targeting the IL-6 pathway are in development.29–33</text>
+    </sentence>
+    <sentence charOffset="25695-25939" id="S189" selection="">
+        <text xml:space="preserve">Potential differentiating factors for these antibodies include targeted protein (IL-6 or IL6R), targeted step of the IL-6 signalling complex cascade, route of administration, level of humanisation, immunoglobulin type and/or antibody construct.</text>
+    </sentence>
+    <sentence charOffset="25940-26023" id="S190" selection="">
+        <text xml:space="preserve">However, these antibodies are currently in Phase II or III of clinical development.</text>
+    </sentence>
+    <sentence charOffset="26024-26117" id="S191" selection="">
+        <text xml:space="preserve">Thus, the impact of these factors on efficacy and/or safety has not yet been fully evaluated.</text>
+    </sentence>
+    <sentence charOffset="26124-26379" id="S192" selection="22">
+        <text xml:space="preserve">The data presented here show that in this Phase II trial, OKZ demonstrated improvements in multiple efficacy variables compared with PBO in patients with moderate-to-severe RA who had previously failed TNF inhibitor therapy with results comparable to TCZ.</text>
+    </sentence>
+    <sentence charOffset="26380-26650" id="S193" selection="22">
+        <text xml:space="preserve">Additionally, the safety profile following treatment with OKZ at doses up to 240 mg Q2W was in line with expectations for this class of drug, with a TEAE and laboratory test profile consistent with the use of IL-6 targeted therapy in patients with moderate-to-severe RA.</text>
+    </sentence>
+    <sentence charOffset="26651-26761" id="S194" selection="22">
+        <text xml:space="preserve">Taken together, the results of this Phase II study are encouraging and support further studies with OKZ in RA.</text>
+    </sentence>
+    <sentence charOffset="26778-26800" id="S195">
+        <text xml:space="preserve">Supplementary Material</text>
+    </sentence>
+    <sentence charOffset="26827-26841" id="S196" selection="">
+        <text xml:space="preserve">Web supplement</text>
+    </sentence>
+    <sentence charOffset="26876-26887" id="S197">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="26895-27063" id="S198" selection="">
+        <text xml:space="preserve">The authors thank the investigators and patients who were part of this study, and acknowledge ‘Matladi Ndlov, UCB Pharma, Brussels, Belgium, for publication management.</text>
+    </sentence>
+    <sentence charOffset="27064-27148" id="S199" selection="">
+        <text xml:space="preserve">Editorial services for this manuscript were provided by Costello Medical Consulting.</text>
+    </sentence>
+    <sentence charOffset="27170-27508" id="S200" selection="">
+        <text xml:space="preserve">Contributors: All authors met the following criteria for authorship: Substantial contributions to the acquisition, analysis, and interpretation of data for the work; and contributed to drafting the work and revising it critically; and gave final approval of the version submitted; and agreed to be accountable for all aspects of the work.</text>
+    </sentence>
+    <sentence charOffset="27531-27576" id="S201" selection="25">
+        <text xml:space="preserve">Funding: This study was funded by UCB Pharma.</text>
+    </sentence>
+    <sentence charOffset="27599-29699" id="S202" selection="">
+        <text xml:space="preserve">Competing interests: MCG reports grants and personal fees from UCB Pharma, outside the submitted work; RF reports grants and personal fees from Roche, grants and personal fees from Abbott, grants and personal fees from Amgen, grants and personal fees from UCB Pharma, grants and personal fees from Pfizer, grants and personal fees from BMS, grants and personal fees from Lilly, grants and personal fees from Sanofi-Aventis, grants and personal fees from Lexicon, grants and personal fees from Novartis, grants and personal fees from Astellas, grants and personal fees from AstraZeneca, grants and personal fees from Janssen, grants and personal fees from HGS, grants from BiogenIdec, grants from MSD, grants from Genentech Inc, outside the submitted work; DF reports grants and personal fees from UCB Pharma, outside the submitted work; NJ reports reports grants, personal fees and non-financial support from UCB Pharma, during the conduct of the study; grants from Roche/Genentech, grants from Novartis, grants from Sanofi, grants from Pfizer, grants from Glaxo Smith Kline, grants from Janssen, outside the submitted work; JC reports grants from Genentech and Takeda Pharmaceuticals NA, Inc, outside the submitted work; BD reports grants from ACR, grants from EULAR, grants from Health Technology Assessment, grants from Research for Patient Benefits (RFPB), grants from British Heart Foundation, grants from Napp, from Fight for Sight, personal fees from Roche, personal fees from Merck, personal fees from Sobi, personal fees from Mundipharma, outside the submitted work; JB is an employee of UCB Pharma and holds stock options for UCB Pharma; BD is an employee of UCB Pharma and holds stock options for UCB Pharma; WZ is an employee of UCB Pharma; CP reports grants and personal fees from Abbott, grants and personal fees from AZ/MedImmune, grants and personal fees from Pfizer, grants and personal fees from Roche/Genentech, grants and personal fees from UCB Pharma, outside the submitted work; PD has nothing to disclose; KK is an employee of UCB Pharma and holds stock options for UCB Pharma.</text>
+    </sentence>
+    <sentence charOffset="29722-29850" id="S203" selection="">
+        <text xml:space="preserve">Ethics approval: UCB Pharma Institutional Review Board (IRB)/Independent Ethics Committee (IEC) as defined in local regulations.</text>
+    </sentence>
+    <sentence charOffset="29873-29944" id="S204" selection="">
+        <text xml:space="preserve">Provenance and peer review: Not commissioned; externally peer reviewed.</text>
+    </sentence>
+    <section textSpan="0-172" title="Title" titleSpan="0-5"/>
+    <section textSpan="173-2269" title="Abstract" titleSpan="173-181">
+        <section textSpan="191-601" title="Objectives" titleSpan="202-212"/>
+        <section textSpan="610-1113" title="Methods" titleSpan="621-628"/>
+        <section textSpan="1122-1909" title="Results" titleSpan="1133-1140"/>
+        <section textSpan="1918-2187" title="Conclusions" titleSpan="1929-1940"/>
+        <section textSpan="2196-2261" title="Trial register number:" titleSpan="2207-2229"/>
+    </section>
+    <section textSpan="2275-4474" title="Introduction" titleSpan="2282-2294"/>
+    <section textSpan="4479-10668" title="Materials and methods" titleSpan="4486-4507">
+        <section textSpan="4514-6749" title="Study design" titleSpan="4523-4535"/>
+        <section textSpan="6756-8128" title="Patients" titleSpan="6765-6773"/>
+        <section textSpan="8135-8842" title="Efficacy analyses" titleSpan="8144-8161"/>
+        <section textSpan="8849-9185" title="Safety" titleSpan="8858-8864"/>
+        <section textSpan="9192-10121" title="Statistical analyses" titleSpan="9201-9221"/>
+        <section textSpan="10128-10663" title="Pharmacokinetic/pharmacodynamic analyses" titleSpan="10137-10177"/>
+    </section>
+    <section textSpan="10673-20806" title="Results" titleSpan="10680-10687">
+        <section textSpan="10694-11733" title="Baseline characteristics and patient disposition" titleSpan="10703-10751"/>
+        <section textSpan="11740-15344" title="Clinical efficacy" titleSpan="11749-11766">
+            <section textSpan="11775-13441" title="Change from baseline in DAS28(CRP)" titleSpan="11786-11820"/>
+            <section textSpan="13450-14224" title="ACR20, ACR50 and ACR70 response rates" titleSpan="13461-13498"/>
+            <section textSpan="14233-15337" title="Additional efficacy endpoints" titleSpan="14244-14273"/>
+        </section>
+        <section textSpan="15351-16453" title="Pharmacokinetic/pharmacodynamic analyses" titleSpan="15360-15400"/>
+        <section textSpan="16460-17528" title="Immunogenicity" titleSpan="16469-16483"/>
+        <section textSpan="17535-20801" title="Safety (SS)" titleSpan="17544-17555"/>
+    </section>
+    <section textSpan="20811-26766" title="Discussion" titleSpan="20818-20828"/>
+    <section textSpan="26771-26871" title="Supplementary Material" titleSpan="26778-26800"/>
+    <section textSpan="26876-29957" title="Back matter" titleSpan="26876-26887"/>
+</document>

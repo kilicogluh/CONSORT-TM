@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC5009486" note="">
+    <text xml:space="preserve">Title
+Dose-response to inhaled glycopyrrolate delivered with a novel Co-Suspension™ Delivery Technology metered dose inhaler (MDI) in patients with moderate-to-severe COPD
+Abstract
+
+        
+          Background
+          This study forms part of the first complete characterization of the dose–response curve for glycopyrrolate (GP) delivered using Co-Suspension™ Delivery Technology via a metered dose inhaler (MDI). We examined the lower GP MDI dose range to determine an optimal dose for patients with moderate-to-severe chronic obstructive pulmonary disease (COPD).
+        
+        
+          Methods
+          This randomized, double-blind, chronic-dosing, balanced incomplete-block, placebo-controlled, crossover study compared six doses of GP MDI (18, 9, 4.6, 2.4, 1.2, and 0.6 μg, twice daily [BID]) with placebo MDI BID and open-label tiotropium dry powder inhaler (18 μg, once daily [QD]) in patients with moderate-to-severe COPD. Patients were randomized into 1 of 120 treatment sequences. Each sequence included 4 of 8 treatments administered for 14-day periods separated by 7- to 21-day washout periods.
+          The primary efficacy endpoint was change from baseline in forced expiratory volume in 1 s area under the curve from 0 to 12 h (FEV1 AUC0–12) on Day 14. Secondary efficacy endpoints included peak change from baseline (post-dose) in FEV1 and inspiratory capacity (IC) on Days 1, 7, and 14; change from baseline in morning pre-dose trough FEV1 on Days 7 and 14; change from baseline in 12-h post-dose trough FEV1 on Day 14; time to onset of action (≥10 % improvement in mean FEV1) and the proportion of patients achieving ≥12 % improvement in FEV1 on Day 1; and pre-dose trough IC on Days 7 and 14. Safety and tolerability were also assessed.
+        
+        
+          Results
+          GP MDI 18, 9, 4.6, and 2.4 μg demonstrated statistically significant and clinically relevant increases in FEV1 AUC0–12 compared with placebo MDI following 14 days of treatment (modified intent-to-treat population = 120). GP MDI 18 μg was non-inferior to open-label tiotropium for peak change in FEV1 on Day 1 and morning pre-dose trough FEV1 on Day 14. All doses of GP MDI were well tolerated with no unexpected safety findings.
+        
+        
+          Conclusions
+          These efficacy and safety results support GP MDI 18 μg BID as the most appropriate dose for evaluation in Phase III trials in patients with moderate-to-severe COPD.
+        
+        
+          Trial registration
+          ClinicalTrials.gov NCT01566773. Registered 27 March 2012.
+        
+        
+          Electronic supplementary material
+          The online version of this article (doi:10.1186/s12931-016-0426-4) contains supplementary material, which is available to authorized users.
+        
+      
+
+
+    
+      Background
+      Symptomatic chronic obstructive pulmonary disease (COPD) is often treated in a step-wise manner, with guidelines recommending the initiation of maintenance therapy with a long-acting bronchodilator, either a long-acting β2-agonist (LABA) or a long-acting muscarinic antagonist (LAMA) [1]. Patients who remain symptomatic require addition of a second long-acting bronchodilator or an inhaled corticosteroid (ICS) through a combination of inhalers.
+      The properties associated with different inhalers may make some devices more suitable for certain patient groups than others. For example, pressurized metered dose inhalers (MDIs) are currently the most commonly used devices overall for respiratory drug delivery [2] and can be used by patients with severe airflow limitation who may struggle to activate a dry powder inhaler (DPI) [3, 4]. At the time when this study was performed, licensed LAMA and LAMA/LABA fixed-dose combination (FDC) therapies in COPD were only available via DPIs or a Soft Mist™ Inhaler (Respimat®). There is therefore an opportunity to widen the choice of inhalers available to patients by developing MDIs that can deliver a LAMA as monotherapy as well as in combination with other agents, such as a LABA and/or an ICS.
+      The requirement for chlorofluorocarbon-free propellant formulated MDIs has proved challenging for the creation of stable formulations and has led to the development of innovative technological advances to overcome these barriers. Co-Suspension™ Delivery Technology has evolved such that drug particles can be suspended in hydrofluoroalkane (HFA) propellant by the use of spray-dried porous particles of distearoyl-phosphatidylcholine. These particles form strong non-specific associations with the drug molecules, preventing the drugs from interacting with each other in the suspension and providing long-term stability. In analytical studies, these Co-Suspension delivery technology formulations have demonstrated excellent stability and dose uniformity, even in the nanogram dose range, with one, two, and three active ingredients formulated in a single inhaler [5].
+      The clinical study reported here is one of a number of studies in a Phase II program that assessed the safety and efficacy of a single-agent LAMA (glycopyrrolate [GP]) MDI, a single-agent LABA (formoterol fumarate [FF]) MDI, and dual LAMA/LABA (GP/FF [GFF]) FDC MDI, all delivered using Co-Suspension delivery technology (NCT00871182 [6], NCT01350128 [7], NCT01085045 [8], NCT01587079 [9], and NCT01349868 [10]). The LAMA, GP, delivered using Co-Suspension delivery technology as GP MDI, has demonstrated bronchodilator effects across a dose range of 4.6–36 μg in patients with COPD (NCT01350128 [7]). However, to confirm the optimum dose of GP MDI, there is a requirement to further characterize the dose–response relationship below GP MDI 4.6 μg. This study is the first assessment of the lower end of the dose–response curve for GP MDI.
+      This is a randomized, double-blind, chronic-dosing, placebo-controlled, multicenter crossover study to establish the dose–response curve for the GP MDI (18, 9, 4.6, 2.4, 1.2, and 0.6 μg administered twice daily [BID]) monotherapy. The aim is to provide additional support for the selection of the optimal dose of GP MDI to carry forward in studies investigating the LAMA/LABA MDI FDC in patients with COPD.
+    
+    
+      Methods
+      
+        Patients
+        Male and female patients of 40–80 years of age with a diagnosis of COPD as defined by the American Thoracic Society (ATS) [11] and a smoking history of at least 10 pack-years were included in the study. Key lung function criteria for inclusion were pre- and post-short-acting bronchodilator (ipratropium bromide; Atrovent® HFA) forced expiratory volume in 1 s (FEV1)/forced vital capacity (FVC) ratio &lt;0.7, post-bronchodilator FEV1 ≥30 % and &lt;80 % of the predicted value and ≥750 mL at screening (Visit 1), and a pre-bronchodilator FEV1 &lt;80 % at randomization (Visit 2) calculated using the Third National Health and Nutrition Examination Survey (NHANES III) reference equations [12]. Key exclusion criteria were diagnosis of asthma, α1-antitrypsin deficiency, or any other respiratory disease. Poorly controlled COPD that had required hospitalization or treatment with systemic corticosteroids within 3 months or antibiotics within 6 weeks prior to screening (Visit 1) also led to exclusion. In addition, patients with clinically significant abnormal electrocardiogram (ECG) results; pregnant or lactating women; and patients who could not meet ATS criteria for acceptable spirometry results were excluded [13].
+        Patients using oral β-agonists, inhaled LABAs, LABA/ICS combination inhalers, phosphodiesterase inhibitors, mast cell stabilizers, leukotriene antagonists, or tiotropium, discontinued these for the duration of the trial and instead received open-label ipratropium four times daily during the run-in period. Patients using ICS/LABA FDC inhalers who had received a stable dose for at least 4 weeks prior to screening were switched to the corresponding dose of a single ICS agent, such as fluticasone, mometasone or budesonide administered BID for the remainder of the study. Patients receiving a maintenance dose of an ICS that was not administered as a FDC were permitted to continue, provided they had been maintained on a stable dose for at least 4 weeks prior to screening.
+        Other prohibited medications included non-selective β-receptor antagonists, tricyclic antidepressants, monoamine oxidase inhibitors, anticonvulsants, and phenothiazines.
+      
+      
+        Study design and treatment
+        This was a randomized, incomplete-block, crossover, placebo- (blinded) and active- (open-label) control study (NCT01566773), conducted at 10 sites in the USA from 11 April 2012 to 10 August 2012. Six doses of GP MDI (18, 9, 4.6, 2.4, 1.2, and 0.6 μg), administered BID for 14 days, were assessed. Investigators and patients were blinded to GP MDI and placebo MDI treatment using non-distinguishable MDIs. Open-label tiotropium (18 μg; Spiriva® HandiHaler®) DPI administered once daily (QD) was included as an active control.
+        In this study, GP is expressed as the salt, glycopyrrolate (glycopyrronium bromide), where a dose of 18 μg is equivalent to 14.4 μg glycopyrronium (active moiety).
+        Following screening, patients were randomized using an interactive web response system to one of 120 pre-defined treatment sequences, comprising four out of the eight possible treatments. Each treatment period was 14 days, separated by a 7- to 21-day washout period (Fig. 1). Fig. 1 Study design schematic. Rand Randomization; PFT Pulmonary Function Test; Rx Treatment 
+        At each study visit and prior to performing any study procedures, patients had to confirm that they had withheld all COPD medication for at least 6 h, or the visit was rescheduled as soon as practical and within the specified visit windows. During the study, albuterol sulfate (salbutamol HFA; Ventolin®) MDI was permitted as needed for relief of symptoms. During screening and washouts between treatment periods, ipratropium bromide (Atrovent® HFA) MDI was used as maintenance medication.
+        This study was conducted in accordance with International Conference on Harmonization guidelines, the Declaration of Helsinki [14], and the US Code of Federal Regulations.
+      
+      
+        Assessments
+        Patients attended scheduled clinic visits at screening (Visit 1), randomization (Visit 2), then on Days 1, 7, and 14 of each treatment period.
+        All pulmonary function tests, including FEV1, FVC and inspiratory capacity (IC) as defined in ATS guidelines, were performed in accordance with ATS criteria [13]. Spirometry was performed to assess lung function pre- and post-dose at each study visit. The assessed time points on Days 1 and 7 of each treatment period were 60 and 30 min pre-dose and 15, 30, 60, and 120 min post-dose. On Day 14, post-dose time points were assessed up to 12 h post-dose.
+        Safety evaluations included heart rate, diastolic blood pressure, and ECGs, conducted at every clinic visit. Blood samples were taken pre- and post-dose on Days 1 and 14 of each treatment period to perform laboratory assessments including hematology and blood chemistry. Adverse events (AEs) and serious AEs were documented by investigators, with paradoxical bronchospasm and dry mouth classified as events of interest.
+      
+      
+        Endpoints
+        The primary objective of this study was to assess efficacy relative to placebo MDI of GP MDI. To this end, each dose of GP MDI was compared with placebo MDI on the primary efficacy endpoint; FEV1 area under the curve from 0 to 12 h (AUC0–12) relative to baseline on Day 14 of each treatment period. FEV1 AUC0–12 values were normalized by dividing by the length of time over which they were obtained (typically 12 h). The key secondary endpoints were time to onset of action (≥10 % improvement from baseline in FEV1) on Day 1; peak change from baseline in FEV1 on Days 1, 7, and 14; change from baseline in morning pre-dose trough FEV1 on Days 7 and 14; change from baseline in 12-h post-dose trough FEV1 on Day 14; peak change from baseline in IC on Days 1, 7, and 14; mean change from baseline in morning pre-dose trough IC on Days 7 and 14; and the proportion of patients achieving ≥12 % improvement in FEV1 on Day 1.
+      
+      
+        Statistical analysis
+        The planned sample size was 120 patients, designed to provide approximately 93 % power to detect differences of 100 mL in FEV1 AUC0–12. The 100-mL difference was selected on the grounds that it is the minimum clinically important difference, defined as the change in FEV1 that can be perceived by the patient [15]. The principal population for primary efficacy analyses was the modified intent-to-treat (mITT) population, comprising all patients who completed at least two treatment periods with at least 2 h of post-dose data for Day 14 from both periods. For the primary efficacy analysis of assessing the dose–response curve, the family-wise Type I error was not controlled for multiplicity beyond specifying a primary endpoint and the six key comparisons, namely each dose of GP MDI compared with placebo MDI. To compare each dose of GP MDI with placebo MDI, a linear mixed-effects model was used with FEV1 AUC0–12 as the dependent variable, and baseline trough FEV1, bronchodilator reversibility, period, sequence, and treatment as covariates. Baseline was defined as the mean of pre-dose values obtained from the first day of each treatment cycle averaged across periods.
+        Secondary efficacy analysis for the primary efficacy endpoint assessed the non-inferiority of each treatment group to open-label tiotropium using a margin for clinical relevance of 100 mL. Other secondary efficacy analyses involved superiority comparisons of secondary endpoints for each treatment group versus placebo MDI and non-inferiority comparisons versus open-label tiotropium. Non-inferiority was only determined for a treatment group if the lower bound of the 95 % confidence interval (CI) for the difference was above −100 mL and if all higher dose levels were statistically significantly non-inferior to open-label tiotropium. Non-inferiority testing was not performed for time to onset of action on Day 1, for which cumulative incidence Kaplan–Meier curves were plotted. The proportion of patients achieving ≥12 % improvement from baseline on Day 1 was tabulated and a logistic regression was used to compare treatments.
+        For safety analyses the safety population was used, defined as all patients who were randomized and received at least one dose of study treatment and had a post-baseline safety assessment for that treatment. Safety and tolerability data, including laboratory parameters, vital signs and ECG results were summarized descriptively, with AEs tabulated according to severity, relationship to study drug and the Medical Dictionary for Regulatory Activities system level and preferred term.
+      
+    
+    
+      Results
+      
+        Patient disposition and baseline characteristics
+        Overall, 140 patients were randomly assigned to treatment groups, and 110 (79 %) patients completed four treatment periods with 120 included in the mITT population (Fig. 2). A total of 30 patients withdrew from the study, with AEs the most common reason cited for discontinuation (Fig. 2). There were no clinically relevant differences in smoking status, disease duration, or airway limitation between the treatment groups. Overall, the majority of patients were current smokers (61 %) with a mean COPD duration of 7 years (Table 1). Airway reversibility at baseline ranged from 0.272 L (open-label tiotropium) to 0.206 L (GP MDI 9 μg [Table 1]). Fig. 2 Patient disposition figure. Patients were randomized into 1 of 120 treatment sequences. Each sequence included four out of the eight possible treatments administered for 14-day periods separated by 7- to 21-day washout periods. GP glycopyrrolate; MDI metered dose inhaler  Table 1 Patient demographics and characteristics (ITT/safety population) 
+      
+      
+        Efficacy analyses
+        All GP MDI doses (except 0.6 μg) showed a similar-shaped profile for FEV1 improvement over time on Day 14, with an early onset of action and peak treatment effect within 1–2 h post-dose (See Additional file 1: Figure S1).
+        Least squares mean (LSM) change from baseline in FEV1 AUC0–12 on Day 14 ranged from 64 mL with GP MDI 0.6 μg to 159 mL with GP MDI 18 μg (Fig. 3, Table 2). All doses of GP MDI demonstrated statistically significant increases in FEV1 AUC0–12 on Day 14 compared with placebo MDI (all p &lt; 0.05), with clinically relevant differences versus placebo MDI for GP 18, 9, 4.6, and 2.4 μg (LSM difference 158, 126, 141, and 126 mL, respectively; p &lt; 0.0001; see Additional file 1: Figure S2). Open-label tiotropium demonstrated a statistically and clinically significant increase versus placebo MDI in FEV1 AUC0–12 on Day 14 (LSM difference, 224 mL; p &lt; 0.0001). No dose of GP MDI demonstrated non-inferiority to open-label tiotropium with the lower bound of the 95 % CI exceeding the clinically relevant difference of −100 mL in FEV1 AUC0–12 on Day 14 (see Additional file 1: Figure S2). Fig. 3 Primary endpoint: LSM change from baseline in FEV1 AUC0–12 on Day 14 (mITT population). Primary efficacy comparison for superiority to placebo: *p &lt; 0.05; **p &lt; 0.001; ***p &lt; 0.0001. FEV 1 AUC 0–12 forced expiratory volume in 1 s, area under the curve from 0 to 12 h; GP glycopyrrolate; LSM least squares mean; MDI metered dose inhaler; mITT modified intent-to-treat  Table 2 Spirometry endpoints: Day 1 and Day 14 (mITT population) 
+        For time to onset of action (≥10 % improvement in mean FEV1) on Day 1 (Fig. 4), all doses of GP MDI except 0.6 μg demonstrated a significantly faster onset of action compared with placebo MDI. The proportion of patients who had achieved onset of action by 15 min post-dose ranged from 7 % with GP MDI 0.6 μg to 30 % with GP MDI 9 μg (29 % with GP MDI 18 μg), and 39 % for open-label tiotropium, compared with 4 % for placebo MDI. Fig. 4 Time to onset of action (≥10 % improvement from baseline FEV1) on Day 1 (mITT population). Cumulative data are shown. Adjusted difference versus placebo: *p &lt; 0.05; **p &lt; 0.01; ***p &lt; 0.001; ****p ≤ 0.0001. Adjusted difference versus open-label tiotropium: † p &lt; 0.05; †† p &lt; 0.01; ††† p &lt; 0.001; †††† p ≤ 0.0001. Time to onset was defined as the first post-baseline time when a ≥10 % improvement in FEV1 was seen relative to baseline FEV1, where baseline was defined as the mean of evaluable 60- and 30-min pre-dose values across Visits 2, 5, 8, and 11. P-values were obtained using the Murray method to account for correlation between the times to onset observed in the same subject at different periods. FEV 1 forced expiratory volume in 1 s; GP glycopyrrolate; MDI metered dose inhaler; mITT modified intent-to-treat 
+        Table 2 shows the secondary endpoints on Day 1 and Day 14 across the GP MDI dose range 0.6–18 μg BID. GP MDI 18 μg was superior to placebo MDI for all secondary endpoints except for change in morning pre-dose trough FEV1 on Day 7 (data not shown). Treatment differences for GP MDI 18 μg versus placebo MDI were above the pre-defined threshold of 100 mL for peak change from baseline in FEV1 on Days 1, 7, and 14. GP MDI 9, 4.6, and 2.4 μg were often significantly superior to placebo MDI with regard to changes in lung function parameters; however, significance was less common for GP MDI 1.2 μg and, particularly, 0.6 μg versus placebo MDI.
+        GP MDI 18 μg consistently showed superior improvements in lung function compared with the lower doses of GP MDI, but there was no clear dose–response amongst the lower doses for many of the secondary endpoints (Table 2). GP MDI 18 and 9 μg were non-inferior to open-label tiotropium for peak change from baseline in FEV1 on Day 1, but this was not replicated on Days 7 and 14. GP MDI 18 and 9 μg were non-inferior to open-label tiotropium for change from baseline in morning pre-dose trough FEV1, using the pre-specified margin of 100 mL, on Days 7 and 14. For the proportion of patients achieving ≥12 % improvement in FEV1 on Day 1 (Fig. 5), a dose–response was seen, with the exception of GP MDI 4.6 μg, with a nominally higher percentage of patients achieving ≥12 % improvement with GP MDI 18 μg compared with doses below 4.6 μg, and with GP MDI 9 μg compared with GP MDI 1.2 and 0.6 μg (all p &lt; 0.05). Fig. 5 Proportion of patients achieving ≥12 % improvement in FEV1 on Day 1 (mITT population). Treatment difference versus placebo: *p &lt; 0.05; **p &lt; 0.01; ***p &lt; 0.0001. Treatment difference versus open-label tiotropium: † p &lt; 0.01; †† p &lt; 0.001; ††† p &lt; 0.0001. Estimated percentages, differences between percentages, and p-values were based on a logistic regression model with achievement of ≥12 % improvement in FEV1 as binary response and the following factors in the model: baseline FEV1, bronchodilator reversibility at Screening, period, and treatment. Exchangeable correlation between responses of the same subject at different periods was assumed. FEV 1 forced expiratory volume in 1 s; GP glycopyrrolate; MDI metered dose inhaler; mITT modified intent-to-treat 
+      
+      
+        Safety and tolerability
+        A total of 54.3 % (76/140) of patients reported a treatment-emergent AE (TEAE). The incidence of TEAEs was similar across the different doses of GP MDI, ranging from 22.0 % of patients with GP MDI 0.6 μg to 29.7 % with GP MDI 2.4 μg, and compared with 24.2 % and 25.8 % in placebo MDI and open-label tiotropium groups, respectively (Table 3). Dry mouth (3.1–9.7 %), back pain, cough, and hypertension (all &lt;5 %) were the most commonly reported AEs (Table 4), with AEs for all GP MDI doses comparable to those reported for placebo MDI and open-label tiotropium groups. A total of five patients reported serious AEs that led to study discontinuation, including one patient in each of GP MDI 9, 2.4, and 0.6 μg, placebo MDI, and open-label tiotropium treatment arms (Table 3). All events were considered unrelated to treatment. No important trends were observed in clinical laboratory results, vital signs, and ECGs. Table 3 Overview of TEAEs (safety population)  Table 4 TEAEs reported for ≥3 % of patients in a treatment group (safety population) 
+      
+    
+    
+      Discussion
+      The results of this study identified GP 18 μg as the optimal dose that demonstrated the greatest efficacy versus placebo MDI with no accompanying increase in AEs. These results enabled the selection of GP 18 μg BID as the most appropriate dose of GP, formulated using Co-Suspension delivery technology delivered via MDI, to take forward into Phase III clinical trials. As Co-Suspension delivery technology enables uniform and reliable delivery of very low doses of GP via the MDI device [5], this study is the first to have characterized the actual dose–response curve of GP using a sub-microgram dose, which previously could not be formulated either as a MDI or a DPI. GP MDI 18 μg was generally the most effective dose versus placebo MDI, with a clear dose response from 0.6 μg to 4.6 μg, followed by a relatively flat dose–response curve at the higher doses.
+      The primary endpoint for this study was FEV1 AUC0–12 at Day 14 relative to baseline. While this represents the full efficacy profile for GP MDI, this endpoint only represents the first half of the efficacy profile for tiotropium DPI, where the magnitude of effect in the second 12 h has been shown to be smaller [16–20]. Nonetheless, non-inferiority was defined as a lower 95 % CI bound ≥−100 mL relative to open-label tiotropium for the primary endpoint, FEV1 AUC0–12 at Day 14 relative to baseline. The value of 100 mL was selected based on ATS/European Respiratory Society task force recommendations and studies that suggest this is the minimum difference required for clinical relevance, defined as the smallest difference in FEV1 that is perceived by patients as important [15, 21]. For the primary endpoint, a dose–response was observed across GP MDI doses, with GP MDI 18 μg demonstrating the largest benefit (158 mL), with even the lower bound of the 95 % CI (107 mL, 208 mL) exceeding the minimum clinically important difference. Despite this robust and clinically meaningful finding, no dose of GP MDI was statistically non-inferior to open-label tiotropium for the primary endpoint on Day 14.
+      We observed a higher-than-expected response with tiotropium, with a response versus placebo MDI for the primary endpoint of 224 mL, compared with 107 and 199 mL observed in Phase III studies at Week 12 and Week 6, respectively [17, 20]. Whilst a peak FEV1 of approximately 360 mL was observed for open-label tiotropium on Days 7 and 14 of this trial, previous studies have reported lower values for this endpoint, ranging from 240 to 280 mL [22, 23]. Perhaps noteworthy with respect to the large tiotropium response was that the tiotropium group in this study also demonstrated the largest airway reversibility at baseline.
+      GP MDI 18 μg consistently demonstrated superiority to placebo MDI for the secondary efficacy endpoints. GP MDI showed an early onset of action, with a peak effect 1–2 h post-dose, followed by a gradual decrease in effect over 12 h, supporting the use of BID dosing. Night-time and early-morning symptoms have been reported as a common occurrence in patients with COPD [24, 25], with sleep disturbance linked to poorer outcomes including high exacerbation frequency and poor survival [26, 27]. Bronchodilator efficacy is therefore required in the second half of the 24-h dosing period, and further studies are required to investigate the benefits conferred by BID delivery of GP MDI through a second peak of bronchodilation in the evening, in particular versus tiotropium QD where the magnitude of effect in the second 12 h has been shown to be smaller [16–20].
+    
+    
+      Conclusions
+      In conclusion, in this dose-ranging study evaluating single-agent GP MDI formulated using Co-Suspension delivery technology at doses of 0.6–18 μg, GP 18 μg demonstrated a robust and clinically relevant benefit compared with placebo MDI and is the most appropriate dose of GP MDI BID to take forward into Phase III clinical trials.
+    
+  
+
+Back matter
+
+      
+        
+          Additional file
+                          Additional file 1: Figure S1.                  Adjusted change from baseline in FEV1 over time on Day 14 (mITT population). Figure S2. LSM difference in FEV1 AUC0–12 on Day 14, vs placebo MDI (mITT population). (DOCX 437 kb)             
+        
+      
+    
+
+      Abbreviations
+      
+        
+          AE
+          
+            Adverse event
+          
+        
+        
+          ATS
+          
+            American Thoracic Society
+          
+        
+        
+          AUC0–12
+          
+            Area under the curve from 0 to 12 h
+          
+        
+        
+          BID
+          
+            Twice daily
+          
+        
+        
+          CAT
+          
+            COPD Assessment Test
+          
+        
+        
+          CI
+          
+            Confidence interval
+          
+        
+        
+          COPD
+          
+            Chronic obstructive pulmonary disease
+          
+        
+        
+          DPI
+          
+            Dry powder inhaler
+          
+        
+        
+          ECG
+          
+            Electrocardiogram
+          
+        
+        
+          FDC
+          
+            Fixed-dose combination
+          
+        
+        
+          FEV1
+          
+            Forced expiratory volume in 1 s
+          
+        
+        
+          FF
+          
+            Formoterol fumarate
+          
+        
+        
+          FVC
+          
+            Forced vital capacity
+          
+        
+        
+          GP
+          
+            Glycopyrrolate
+          
+        
+        
+          HFC
+          
+            Hydrofluoroalkane
+          
+        
+        
+          IC
+          
+            Inspiratory capacity
+          
+        
+        
+          ICS
+          
+            Inhaled corticosteroid
+          
+        
+        
+          LABA
+          
+            Long-acting β2-agonist
+          
+        
+        
+          LAMA
+          
+            Long-acting muscarinic antagonist
+          
+        
+        
+          LSM
+          
+            Least squares mean
+          
+        
+        
+          MDI
+          
+            Metered dose inhaler
+          
+        
+        
+          mITT
+          
+            modified intent-to-treat
+          
+        
+        
+          QD
+          
+            Once daily
+          
+        
+        
+          SD
+          
+            Standard deviation
+          
+        
+        
+          TEAE
+          
+            Treatment-emergent adverse event
+          
+        
+      
+    
+
+      The authors would like to thank all of the patients and their families, the team of investigators, research nurses, and operations staff involved in this study.
+      The authors would also like to thank Everest Clinical Research, who performed the statistical analyses for this study, funded by Pearl Therapeutics Inc., a member of the AstraZeneca Group.
+      The authors would also like to thank Catherine Stanton of Complete Medical Communications, who provided medical writing support under the direction of the authors, funded by AstraZeneca.
+      Co-Suspension is a trademark of the AstraZeneca group of companies.
+      
+        Funding
+        This study was funded by Pearl Therapeutics Inc., a member of the AstraZeneca Group.
+      
+      
+        Availability of data and material
+        All relevant data generated or analyzed during this study are included in this published article (and its supplementary information files).
+      
+      
+        Authors’ contributions
+        LMF, GTF, RRR, SSe, SD, CR, CO, PD, ESR, TF, and MG made substantial contributions to the conception or design of the work reported. GTF, EMK, SSp, and JP participated in the acquisition of reported data. All authors participated in the analysis of reported data. LMF, GTF, RRR, SSe, EMK, SSp, JP, SD, CR, CO, and PD participated in the interpretation of reported data. All authors reviewed and/or critically revised the manuscript for important intellectual content and provided final approval of the version to be published.
+      
+      
+        Competing interests
+        LMF has consulted/provided lectures for AstraZeneca, Boehringer Ingelheim, Chiesi, GlaxoSmithKline, Merck, Novartis, Takeda, Pfizer, and Zambon. He has received research grants from AstraZeneca, Boehringer Ingelheim, Menarini, Merck, Chiesi, GlaxoSmithKline, Takeda, Pfizer, and Zambon. EMK has consulted and participated in scientific advisory boards, speaker panels, or received travel reimbursement from Amphastar, AstraZeneca, Boehringer Ingelheim, Forest, GlaxoSmithKline, Merck, Mylan, Novartis, Pearl Therapeutics Inc., Sanofi Aventis, Sunovion, Teva, and Theravance. SSp is on the speaker’s bureau for Mylan and Boehringer Ingelheim. GTF has received grants and/or personal fees and/or non-financial support from AstraZeneca, Boehringer Ingelheim, Forest, GlaxoSmithKline, Novartis, Pearl Therapeutics Inc., and Sunovion. RRR has received grant support from Almirall and Menarini, received industry-sponsored contracts from Boehringer Ingelheim, has served on advisory boards for and received speaking fees from AstraZeneca, Boehringer Ingelheim, Ferrer, Menarini, Novartis, Pearl Therapeutics Inc., Takeda, and TEVA. JP has received speaking fees from AstraZeneca, Pfizer, Genentech, and others, and has conducted trials on behalf of Novartis, GlaxoSmithKline, Merck, BI, Forest, Teva, Sunovion, and others. SSe has received grants from AstraZeneca, Dey, and Pearl Therapeutics Inc. He has received personal fees from AstraZeneca, Bayer, Boehringer Ingelheim, Cempra, CSL Behring, Forest, GlaxoSmithKline, Merck, Pearl Therapeutics Inc., Pulmonx, Reckitt Benckiser, Sunovion, and Theravance. CO, PD, ESR, TF, MG, SD, and CR are employees of Pearl Therapeutics Inc.
+      
+      
+        Consent for publication
+        Not applicable.
+      
+      
+        Ethics approval and consent to participate
+        This study was conducted in accordance with International Conference on Harmonization guidelines, the Declaration of Helsinki, and the US Code of Federal Regulations.
+      
+      
+        List of principal investigators
+        Faisal Fakih, Leonard Dunn, Charles Fogarty, Edward M. Kerwin, Jack Parrino, Selwyn Spangenthal, Ritsu Kuno, Timothy Moriarty, Jeffrey Shea, James Pearle.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-171" id="S2" selection="">
+        <text xml:space="preserve">Dose-response to inhaled glycopyrrolate delivered with a novel Co-Suspension™ Delivery Technology metered dose inhaler (MDI) in patients with moderate-to-severe COPD</text>
+    </sentence>
+    <sentence charOffset="172-180" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="201-211" id="S4" selection="">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="222-418" id="S5" selection="1b">
+        <text xml:space="preserve">This study forms part of the first complete characterization of the dose–response curve for glycopyrrolate (GP) delivered using Co-Suspension™ Delivery Technology via a metered dose inhaler (MDI).</text>
+    </sentence>
+    <sentence charOffset="419-570" id="S6" selection="">
+        <text xml:space="preserve">We examined the lower GP MDI dose range to determine an optimal dose for patients with moderate-to-severe chronic obstructive pulmonary disease (COPD).</text>
+    </sentence>
+    <sentence charOffset="599-606" id="S7" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="617-942" id="S8" selection="">
+        <text xml:space="preserve">This randomized, double-blind, chronic-dosing, balanced incomplete-block, placebo-controlled, crossover study compared six doses of GP MDI (18, 9, 4.6, 2.4, 1.2, and 0.6 μg, twice daily [BID]) with placebo MDI BID and open-label tiotropium dry powder inhaler (18 μg, once daily [QD]) in patients with moderate-to-severe COPD.</text>
+    </sentence>
+    <sentence charOffset="943-1002" id="S9" selection="">
+        <text xml:space="preserve">Patients were randomized into 1 of 120 treatment sequences.</text>
+    </sentence>
+    <sentence charOffset="1003-1118" id="S10" selection="">
+        <text xml:space="preserve">Each sequence included 4 of 8 treatments administered for 14-day periods separated by 7- to 21-day washout periods.</text>
+    </sentence>
+    <sentence charOffset="1129-1280" id="S11" selection="">
+        <text xml:space="preserve">The primary efficacy endpoint was change from baseline in forced expiratory volume in 1 s area under the curve from 0 to 12 h (FEV1 AUC0–12) on Day 14.</text>
+    </sentence>
+    <sentence charOffset="1281-1724" id="S12" selection="">
+        <text xml:space="preserve">Secondary efficacy endpoints included peak change from baseline (post-dose) in FEV1 and inspiratory capacity (IC) on Days 1, 7, and 14; change from baseline in morning pre-dose trough FEV1 on Days 7 and 14; change from baseline in 12-h post-dose trough FEV1 on Day 14; time to onset of action (≥10 % improvement in mean FEV1) and the proportion of patients achieving ≥12 % improvement in FEV1 on Day 1; and pre-dose trough IC on Days 7 and 14.</text>
+    </sentence>
+    <sentence charOffset="1725-1768" id="S13" selection="">
+        <text xml:space="preserve">Safety and tolerability were also assessed.</text>
+    </sentence>
+    <sentence charOffset="1797-1804" id="S14" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="1815-2035" id="S15" selection="">
+        <text xml:space="preserve">GP MDI 18, 9, 4.6, and 2.4 μg demonstrated statistically significant and clinically relevant increases in FEV1 AUC0–12 compared with placebo MDI following 14 days of treatment (modified intent-to-treat population = 120).</text>
+    </sentence>
+    <sentence charOffset="2036-2167" id="S16" selection="">
+        <text xml:space="preserve">GP MDI 18 μg was non-inferior to open-label tiotropium for peak change in FEV1 on Day 1 and morning pre-dose trough FEV1 on Day 14.</text>
+    </sentence>
+    <sentence charOffset="2168-2243" id="S17" selection="">
+        <text xml:space="preserve">All doses of GP MDI were well tolerated with no unexpected safety findings.</text>
+    </sentence>
+    <sentence charOffset="2272-2283" id="S18" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="2294-2458" id="S19" selection="">
+        <text xml:space="preserve">These efficacy and safety results support GP MDI 18 μg BID as the most appropriate dose for evaluation in Phase III trials in patients with moderate-to-severe COPD.</text>
+    </sentence>
+    <sentence charOffset="2487-2505" id="S20" selection="">
+        <text xml:space="preserve">Trial registration</text>
+    </sentence>
+    <sentence charOffset="2516-2547" id="S21" selection="23">
+        <text xml:space="preserve">ClinicalTrials.gov NCT01566773.</text>
+    </sentence>
+    <sentence charOffset="2548-2573" id="S22" selection="">
+        <text xml:space="preserve">Registered 27 March 2012.</text>
+    </sentence>
+    <sentence charOffset="2602-2635" id="S23" selection="">
+        <text xml:space="preserve">Electronic supplementary material</text>
+    </sentence>
+    <sentence charOffset="2646-2785" id="S24" selection="">
+        <text xml:space="preserve">The online version of this article (doi:10.1186/s12931-016-0426-4) contains supplementary material, which is available to authorized users.</text>
+    </sentence>
+    <sentence charOffset="2815-2825" id="S25">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="2832-3120" id="S26" selection="">
+        <text xml:space="preserve">Symptomatic chronic obstructive pulmonary disease (COPD) is often treated in a step-wise manner, with guidelines recommending the initiation of maintenance therapy with a long-acting bronchodilator, either a long-acting β2-agonist (LABA) or a long-acting muscarinic antagonist (LAMA) [1].</text>
+    </sentence>
+    <sentence charOffset="3121-3278" id="S27" selection="">
+        <text xml:space="preserve">Patients who remain symptomatic require addition of a second long-acting bronchodilator or an inhaled corticosteroid (ICS) through a combination of inhalers.</text>
+    </sentence>
+    <sentence charOffset="3285-3410" id="S28" selection="">
+        <text xml:space="preserve">The properties associated with different inhalers may make some devices more suitable for certain patient groups than others.</text>
+    </sentence>
+    <sentence charOffset="3411-3674" id="S29" selection="">
+        <text xml:space="preserve">For example, pressurized metered dose inhalers (MDIs) are currently the most commonly used devices overall for respiratory drug delivery [2] and can be used by patients with severe airflow limitation who may struggle to activate a dry powder inhaler (DPI) [3, 4].</text>
+    </sentence>
+    <sentence charOffset="3675-3858" id="S30" selection="">
+        <text xml:space="preserve">At the time when this study was performed, licensed LAMA and LAMA/LABA fixed-dose combination (FDC) therapies in COPD were only available via DPIs or a Soft Mist™ Inhaler (Respimat®).</text>
+    </sentence>
+    <sentence charOffset="3859-4079" id="S31" selection="">
+        <text xml:space="preserve">There is therefore an opportunity to widen the choice of inhalers available to patients by developing MDIs that can deliver a LAMA as monotherapy as well as in combination with other agents, such as a LABA and/or an ICS.</text>
+    </sentence>
+    <sentence charOffset="4086-4315" id="S32" selection="">
+        <text xml:space="preserve">The requirement for chlorofluorocarbon-free propellant formulated MDIs has proved challenging for the creation of stable formulations and has led to the development of innovative technological advances to overcome these barriers.</text>
+    </sentence>
+    <sentence charOffset="4316-4520" id="S33" selection="">
+        <text xml:space="preserve">Co-Suspension™ Delivery Technology has evolved such that drug particles can be suspended in hydrofluoroalkane (HFA) propellant by the use of spray-dried porous particles of distearoyl-phosphatidylcholine.</text>
+    </sentence>
+    <sentence charOffset="4521-4706" id="S34" selection="">
+        <text xml:space="preserve">These particles form strong non-specific associations with the drug molecules, preventing the drugs from interacting with each other in the suspension and providing long-term stability.</text>
+    </sentence>
+    <sentence charOffset="4707-4954" id="S35" selection="">
+        <text xml:space="preserve">In analytical studies, these Co-Suspension delivery technology formulations have demonstrated excellent stability and dose uniformity, even in the nanogram dose range, with one, two, and three active ingredients formulated in a single inhaler [5].</text>
+    </sentence>
+    <sentence charOffset="4961-5373" id="S36" selection="">
+        <text xml:space="preserve">The clinical study reported here is one of a number of studies in a Phase II program that assessed the safety and efficacy of a single-agent LAMA (glycopyrrolate [GP]) MDI, a single-agent LABA (formoterol fumarate [FF]) MDI, and dual LAMA/LABA (GP/FF [GFF]) FDC MDI, all delivered using Co-Suspension delivery technology (NCT00871182 [6], NCT01350128 [7], NCT01085045 [8], NCT01587079 [9], and NCT01349868 [10]).</text>
+    </sentence>
+    <sentence charOffset="5374-5562" id="S37" selection="2a">
+        <text xml:space="preserve">The LAMA, GP, delivered using Co-Suspension delivery technology as GP MDI, has demonstrated bronchodilator effects across a dose range of 4.6–36 μg in patients with COPD (NCT01350128 [7]).</text>
+    </sentence>
+    <sentence charOffset="5563-5709" id="S38" selection="2a">
+        <text xml:space="preserve">However, to confirm the optimum dose of GP MDI, there is a requirement to further characterize the dose–response relationship below GP MDI 4.6 μg.</text>
+    </sentence>
+    <sentence charOffset="5710-5800" id="S39" selection="">
+        <text xml:space="preserve">This study is the first assessment of the lower end of the dose–response curve for GP MDI.</text>
+    </sentence>
+    <sentence charOffset="5807-6037" id="S40" selection="2b">
+        <text xml:space="preserve">This is a randomized, double-blind, chronic-dosing, placebo-controlled, multicenter crossover study to establish the dose–response curve for the GP MDI (18, 9, 4.6, 2.4, 1.2, and 0.6 μg administered twice daily [BID]) monotherapy.</text>
+    </sentence>
+    <sentence charOffset="6038-6213" id="S41" selection="2b">
+        <text xml:space="preserve">The aim is to provide additional support for the selection of the optimal dose of GP MDI to carry forward in studies investigating the LAMA/LABA MDI FDC in patients with COPD.</text>
+    </sentence>
+    <sentence charOffset="6230-6237" id="S42">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="6253-6261" id="S43" selection="">
+        <text xml:space="preserve">Patients</text>
+    </sentence>
+    <sentence charOffset="6270-6472" id="S44" selection="4a">
+        <text xml:space="preserve">Male and female patients of 40–80 years of age with a diagnosis of COPD as defined by the American Thoracic Society (ATS) [11] and a smoking history of at least 10 pack-years were included in the study.</text>
+    </sentence>
+    <sentence charOffset="6473-6954" id="S45" selection="4a">
+        <text xml:space="preserve">Key lung function criteria for inclusion were pre- and post-short-acting bronchodilator (ipratropium bromide; Atrovent® HFA) forced expiratory volume in 1 s (FEV1)/forced vital capacity (FVC) ratio &lt;0.7, post-bronchodilator FEV1 ≥30 % and &lt;80 % of the predicted value and ≥750 mL at screening (Visit 1), and a pre-bronchodilator FEV1 &lt;80 % at randomization (Visit 2) calculated using the Third National Health and Nutrition Examination Survey (NHANES III) reference equations [12].</text>
+    </sentence>
+    <sentence charOffset="6955-7064" id="S46" selection="4a">
+        <text xml:space="preserve">Key exclusion criteria were diagnosis of asthma, α1-antitrypsin deficiency, or any other respiratory disease.</text>
+    </sentence>
+    <sentence charOffset="7065-7262" id="S47" selection="4a">
+        <text xml:space="preserve">Poorly controlled COPD that had required hospitalization or treatment with systemic corticosteroids within 3 months or antibiotics within 6 weeks prior to screening (Visit 1) also led to exclusion.</text>
+    </sentence>
+    <sentence charOffset="7263-7482" id="S48" selection="4a">
+        <text xml:space="preserve">In addition, patients with clinically significant abnormal electrocardiogram (ECG) results; pregnant or lactating women; and patients who could not meet ATS criteria for acceptable spirometry results were excluded [13].</text>
+    </sentence>
+    <sentence charOffset="7491-7797" id="S49" selection="5">
+        <text xml:space="preserve">Patients using oral β-agonists, inhaled LABAs, LABA/ICS combination inhalers, phosphodiesterase inhibitors, mast cell stabilizers, leukotriene antagonists, or tiotropium, discontinued these for the duration of the trial and instead received open-label ipratropium four times daily during the run-in period.</text>
+    </sentence>
+    <sentence charOffset="7798-8063" id="S50" selection="5">
+        <text xml:space="preserve">Patients using ICS/LABA FDC inhalers who had received a stable dose for at least 4 weeks prior to screening were switched to the corresponding dose of a single ICS agent, such as fluticasone, mometasone or budesonide administered BID for the remainder of the study.</text>
+    </sentence>
+    <sentence charOffset="8064-8266" id="S51" selection="5">
+        <text xml:space="preserve">Patients receiving a maintenance dose of an ICS that was not administered as a FDC were permitted to continue, provided they had been maintained on a stable dose for at least 4 weeks prior to screening.</text>
+    </sentence>
+    <sentence charOffset="8275-8444" id="S52" selection="5">
+        <text xml:space="preserve">Other prohibited medications included non-selective β-receptor antagonists, tricyclic antidepressants, monoamine oxidase inhibitors, anticonvulsants, and phenothiazines.</text>
+    </sentence>
+    <sentence charOffset="8467-8493" id="S53" selection="">
+        <text xml:space="preserve">Study design and treatment</text>
+    </sentence>
+    <sentence charOffset="8502-8697" id="S54" selection="3a,14a,23,4b">
+        <text xml:space="preserve">This was a randomized, incomplete-block, crossover, placebo- (blinded) and active- (open-label) control study (NCT01566773), conducted at 10 sites in the USA from 11 April 2012 to 10 August 2012.</text>
+    </sentence>
+    <sentence charOffset="8698-8798" id="S55" selection="5">
+        <text xml:space="preserve">Six doses of GP MDI (18, 9, 4.6, 2.4, 1.2, and 0.6 μg), administered BID for 14 days, were assessed.</text>
+    </sentence>
+    <sentence charOffset="8799-8906" id="S56" selection="11b,11a">
+        <text xml:space="preserve">Investigators and patients were blinded to GP MDI and placebo MDI treatment using non-distinguishable MDIs.</text>
+    </sentence>
+    <sentence charOffset="8907-9026" id="S57" selection="5">
+        <text xml:space="preserve">Open-label tiotropium (18 μg; Spiriva® HandiHaler®) DPI administered once daily (QD) was included as an active control.</text>
+    </sentence>
+    <sentence charOffset="9035-9198" id="S58" selection="5">
+        <text xml:space="preserve">In this study, GP is expressed as the salt, glycopyrrolate (glycopyrronium bromide), where a dose of 18 μg is equivalent to 14.4 μg glycopyrronium (active moiety).</text>
+    </sentence>
+    <sentence charOffset="9207-9394" id="S59" selection="8a">
+        <text xml:space="preserve">Following screening, patients were randomized using an interactive web response system to one of 120 pre-defined treatment sequences, comprising four out of the eight possible treatments.</text>
+    </sentence>
+    <sentence charOffset="9395-9482" id="S60" selection="5,3a">
+        <text xml:space="preserve">Each treatment period was 14 days, separated by a 7- to 21-day washout period (Fig. 1).</text>
+    </sentence>
+    <sentence charOffset="9483-9513" id="S61" selection="3a">
+        <text xml:space="preserve">Fig. 1 Study design schematic.</text>
+    </sentence>
+    <sentence charOffset="9514-9575" id="S62" selection="">
+        <text xml:space="preserve">Rand Randomization; PFT Pulmonary Function Test; Rx Treatment</text>
+    </sentence>
+    <sentence charOffset="9585-9825" id="S63" selection="">
+        <text xml:space="preserve">At each study visit and prior to performing any study procedures, patients had to confirm that they had withheld all COPD medication for at least 6 h, or the visit was rescheduled as soon as practical and within the specified visit windows.</text>
+    </sentence>
+    <sentence charOffset="9826-9941" id="S64" selection="5">
+        <text xml:space="preserve">During the study, albuterol sulfate (salbutamol HFA; Ventolin®) MDI was permitted as needed for relief of symptoms.</text>
+    </sentence>
+    <sentence charOffset="9942-10074" id="S65" selection="5">
+        <text xml:space="preserve">During screening and washouts between treatment periods, ipratropium bromide (Atrovent® HFA) MDI was used as maintenance medication.</text>
+    </sentence>
+    <sentence charOffset="10083-10254" id="S66" selection="">
+        <text xml:space="preserve">This study was conducted in accordance with International Conference on Harmonization guidelines, the Declaration of Helsinki [14], and the US Code of Federal Regulations.</text>
+    </sentence>
+    <sentence charOffset="10277-10288" id="S67" selection="">
+        <text xml:space="preserve">Assessments</text>
+    </sentence>
+    <sentence charOffset="10297-10439" id="S68" selection="6a">
+        <text xml:space="preserve">Patients attended scheduled clinic visits at screening (Visit 1), randomization (Visit 2), then on Days 1, 7, and 14 of each treatment period.</text>
+    </sentence>
+    <sentence charOffset="10448-10610" id="S69" selection="6a">
+        <text xml:space="preserve">All pulmonary function tests, including FEV1, FVC and inspiratory capacity (IC) as defined in ATS guidelines, were performed in accordance with ATS criteria [13].</text>
+    </sentence>
+    <sentence charOffset="10611-10699" id="S70" selection="6a">
+        <text xml:space="preserve">Spirometry was performed to assess lung function pre- and post-dose at each study visit.</text>
+    </sentence>
+    <sentence charOffset="10700-10832" id="S71" selection="6a">
+        <text xml:space="preserve">The assessed time points on Days 1 and 7 of each treatment period were 60 and 30 min pre-dose and 15, 30, 60, and 120 min post-dose.</text>
+    </sentence>
+    <sentence charOffset="10833-10901" id="S72" selection="6a">
+        <text xml:space="preserve">On Day 14, post-dose time points were assessed up to 12 h post-dose.</text>
+    </sentence>
+    <sentence charOffset="10910-11018" id="S73" selection="6a">
+        <text xml:space="preserve">Safety evaluations included heart rate, diastolic blood pressure, and ECGs, conducted at every clinic visit.</text>
+    </sentence>
+    <sentence charOffset="11019-11180" id="S74" selection="6a">
+        <text xml:space="preserve">Blood samples were taken pre- and post-dose on Days 1 and 14 of each treatment period to perform laboratory assessments including hematology and blood chemistry.</text>
+    </sentence>
+    <sentence charOffset="11181-11329" id="S75" selection="6a">
+        <text xml:space="preserve">Adverse events (AEs) and serious AEs were documented by investigators, with paradoxical bronchospasm and dry mouth classified as events of interest.</text>
+    </sentence>
+    <sentence charOffset="11352-11361" id="S76" selection="">
+        <text xml:space="preserve">Endpoints</text>
+    </sentence>
+    <sentence charOffset="11370-11463" id="S77" selection="6a">
+        <text xml:space="preserve">The primary objective of this study was to assess efficacy relative to placebo MDI of GP MDI.</text>
+    </sentence>
+    <sentence charOffset="11464-11668" id="S78" selection="6a">
+        <text xml:space="preserve">To this end, each dose of GP MDI was compared with placebo MDI on the primary efficacy endpoint; FEV1 area under the curve from 0 to 12 h (AUC0–12) relative to baseline on Day 14 of each treatment period.</text>
+    </sentence>
+    <sentence charOffset="11669-11786" id="S79" selection="6a">
+        <text xml:space="preserve">FEV1 AUC0–12 values were normalized by dividing by the length of time over which they were obtained (typically 12 h).</text>
+    </sentence>
+    <sentence charOffset="11787-12289" id="S80" selection="6a">
+        <text xml:space="preserve">The key secondary endpoints were time to onset of action (≥10 % improvement from baseline in FEV1) on Day 1; peak change from baseline in FEV1 on Days 1, 7, and 14; change from baseline in morning pre-dose trough FEV1 on Days 7 and 14; change from baseline in 12-h post-dose trough FEV1 on Day 14; peak change from baseline in IC on Days 1, 7, and 14; mean change from baseline in morning pre-dose trough IC on Days 7 and 14; and the proportion of patients achieving ≥12 % improvement in FEV1 on Day 1.</text>
+    </sentence>
+    <sentence charOffset="12312-12332" id="S81" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="12341-12476" id="S82" selection="7a">
+        <text xml:space="preserve">The planned sample size was 120 patients, designed to provide approximately 93 % power to detect differences of 100 mL in FEV1 AUC0–12.</text>
+    </sentence>
+    <sentence charOffset="12477-12655" id="S83" selection="7a">
+        <text xml:space="preserve">The 100-mL difference was selected on the grounds that it is the minimum clinically important difference, defined as the change in FEV1 that can be perceived by the patient [15].</text>
+    </sentence>
+    <sentence charOffset="12656-12897" id="S84" selection="7a">
+        <text xml:space="preserve">The principal population for primary efficacy analyses was the modified intent-to-treat (mITT) population, comprising all patients who completed at least two treatment periods with at least 2 h of post-dose data for Day 14 from both periods.</text>
+    </sentence>
+    <sentence charOffset="12898-13154" id="S85" selection="6a">
+        <text xml:space="preserve">For the primary efficacy analysis of assessing the dose–response curve, the family-wise Type I error was not controlled for multiplicity beyond specifying a primary endpoint and the six key comparisons, namely each dose of GP MDI compared with placebo MDI.</text>
+    </sentence>
+    <sentence charOffset="13155-13389" id="S86" selection="12a">
+        <text xml:space="preserve">To compare each dose of GP MDI with placebo MDI, a linear mixed-effects model was used with FEV1 AUC0–12 as the dependent variable, and baseline trough FEV1, bronchodilator reversibility, period, sequence, and treatment as covariates.</text>
+    </sentence>
+    <sentence charOffset="13390-13518" id="S87" selection="12a">
+        <text xml:space="preserve">Baseline was defined as the mean of pre-dose values obtained from the first day of each treatment cycle averaged across periods.</text>
+    </sentence>
+    <sentence charOffset="13527-13715" id="S88" selection="6a">
+        <text xml:space="preserve">Secondary efficacy analysis for the primary efficacy endpoint assessed the non-inferiority of each treatment group to open-label tiotropium using a margin for clinical relevance of 100 mL.</text>
+    </sentence>
+    <sentence charOffset="13716-13911" id="S89" selection="6a">
+        <text xml:space="preserve">Other secondary efficacy analyses involved superiority comparisons of secondary endpoints for each treatment group versus placebo MDI and non-inferiority comparisons versus open-label tiotropium.</text>
+    </sentence>
+    <sentence charOffset="13912-14164" id="S90" selection="6a">
+        <text xml:space="preserve">Non-inferiority was only determined for a treatment group if the lower bound of the 95 % confidence interval (CI) for the difference was above −100 mL and if all higher dose levels were statistically significantly non-inferior to open-label tiotropium.</text>
+    </sentence>
+    <sentence charOffset="14165-14309" id="S91" selection="12b">
+        <text xml:space="preserve">Non-inferiority testing was not performed for time to onset of action on Day 1, for which cumulative incidence Kaplan–Meier curves were plotted.</text>
+    </sentence>
+    <sentence charOffset="14310-14459" id="S92" selection="12b">
+        <text xml:space="preserve">The proportion of patients achieving ≥12 % improvement from baseline on Day 1 was tabulated and a logistic regression was used to compare treatments.</text>
+    </sentence>
+    <sentence charOffset="14468-14675" id="S93" selection="">
+        <text xml:space="preserve">For safety analyses the safety population was used, defined as all patients who were randomized and received at least one dose of study treatment and had a post-baseline safety assessment for that treatment.</text>
+    </sentence>
+    <sentence charOffset="14676-14952" id="S94" selection="">
+        <text xml:space="preserve">Safety and tolerability data, including laboratory parameters, vital signs and ECG results were summarized descriptively, with AEs tabulated according to severity, relationship to study drug and the Medical Dictionary for Regulatory Activities system level and preferred term.</text>
+    </sentence>
+    <sentence charOffset="14976-14983" id="S95">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="14999-15047" id="S96" selection="">
+        <text xml:space="preserve">Patient disposition and baseline characteristics</text>
+    </sentence>
+    <sentence charOffset="15056-15229" id="S97" selection="13a,16,13b">
+        <text xml:space="preserve">Overall, 140 patients were randomly assigned to treatment groups, and 110 (79 %) patients completed four treatment periods with 120 included in the mITT population (Fig. 2).</text>
+    </sentence>
+    <sentence charOffset="15230-15345" id="S98" selection="13b">
+        <text xml:space="preserve">A total of 30 patients withdrew from the study, with AEs the most common reason cited for discontinuation (Fig. 2).</text>
+    </sentence>
+    <sentence charOffset="15346-15479" id="S99" selection="15">
+        <text xml:space="preserve">There were no clinically relevant differences in smoking status, disease duration, or airway limitation between the treatment groups.</text>
+    </sentence>
+    <sentence charOffset="15480-15589" id="S100" selection="15">
+        <text xml:space="preserve">Overall, the majority of patients were current smokers (61 %) with a mean COPD duration of 7 years (Table 1).</text>
+    </sentence>
+    <sentence charOffset="15590-15702" id="S101" selection="15">
+        <text xml:space="preserve">Airway reversibility at baseline ranged from 0.272 L (open-label tiotropium) to 0.206 L (GP MDI 9 μg [Table 1]).</text>
+    </sentence>
+    <sentence charOffset="15703-15737" id="S102" selection="13a,13b,16">
+        <text xml:space="preserve">Fig. 2 Patient disposition figure.</text>
+    </sentence>
+    <sentence charOffset="15738-15797" id="S103" selection="3a">
+        <text xml:space="preserve">Patients were randomized into 1 of 120 treatment sequences.</text>
+    </sentence>
+    <sentence charOffset="15798-15937" id="S104" selection="3a">
+        <text xml:space="preserve">Each sequence included four out of the eight possible treatments administered for 14-day periods separated by 7- to 21-day washout periods.</text>
+    </sentence>
+    <sentence charOffset="15938-16055" id="S105" selection="15">
+        <text xml:space="preserve">GP glycopyrrolate; MDI metered dose inhaler  Table 1 Patient demographics and characteristics (ITT/safety population)</text>
+    </sentence>
+    <sentence charOffset="16079-16096" id="S106" selection="">
+        <text xml:space="preserve">Efficacy analyses</text>
+    </sentence>
+    <sentence charOffset="16105-16326" id="S107" selection="17a">
+        <text xml:space="preserve">All GP MDI doses (except 0.6 μg) showed a similar-shaped profile for FEV1 improvement over time on Day 14, with an early onset of action and peak treatment effect within 1–2 h post-dose (See Additional file 1: Figure S1).</text>
+    </sentence>
+    <sentence charOffset="16335-16490" id="S108" selection="17a">
+        <text xml:space="preserve">Least squares mean (LSM) change from baseline in FEV1 AUC0–12 on Day 14 ranged from 64 mL with GP MDI 0.6 μg to 159 mL with GP MDI 18 μg (Fig. 3, Table 2).</text>
+    </sentence>
+    <sentence charOffset="16491-16817" id="S109" selection="17a">
+        <text xml:space="preserve">All doses of GP MDI demonstrated statistically significant increases in FEV1 AUC0–12 on Day 14 compared with placebo MDI (all p &lt; 0.05), with clinically relevant differences versus placebo MDI for GP 18, 9, 4.6, and 2.4 μg (LSM difference 158, 126, 141, and 126 mL, respectively; p &lt; 0.0001; see Additional file 1: Figure S2).</text>
+    </sentence>
+    <sentence charOffset="16818-16987" id="S110" selection="17a">
+        <text xml:space="preserve">Open-label tiotropium demonstrated a statistically and clinically significant increase versus placebo MDI in FEV1 AUC0–12 on Day 14 (LSM difference, 224 mL; p &lt; 0.0001).</text>
+    </sentence>
+    <sentence charOffset="16988-17213" id="S111" selection="17a">
+        <text xml:space="preserve">No dose of GP MDI demonstrated non-inferiority to open-label tiotropium with the lower bound of the 95 % CI exceeding the clinically relevant difference of −100 mL in FEV1 AUC0–12 on Day 14 (see Additional file 1: Figure S2).</text>
+    </sentence>
+    <sentence charOffset="17214-17308" id="S112" selection="17a">
+        <text xml:space="preserve">Fig. 3 Primary endpoint: LSM change from baseline in FEV1 AUC0–12 on Day 14 (mITT population).</text>
+    </sentence>
+    <sentence charOffset="17309-17403" id="S113" selection="">
+        <text xml:space="preserve">Primary efficacy comparison for superiority to placebo: *p &lt; 0.05; **p &lt; 0.001; ***p &lt; 0.0001.</text>
+    </sentence>
+    <sentence charOffset="17404-17653" id="S114" selection="">
+        <text xml:space="preserve">FEV 1 AUC 0–12 forced expiratory volume in 1 s, area under the curve from 0 to 12 h; GP glycopyrrolate; LSM least squares mean; MDI metered dose inhaler; mITT modified intent-to-treat  Table 2 Spirometry endpoints: Day 1 and Day 14 (mITT population)</text>
+    </sentence>
+    <sentence charOffset="17663-17855" id="S115" selection="17a">
+        <text xml:space="preserve">For time to onset of action (≥10 % improvement in mean FEV1) on Day 1 (Fig. 4), all doses of GP MDI except 0.6 μg demonstrated a significantly faster onset of action compared with placebo MDI.</text>
+    </sentence>
+    <sentence charOffset="17856-18092" id="S116" selection="17b">
+        <text xml:space="preserve">The proportion of patients who had achieved onset of action by 15 min post-dose ranged from 7 % with GP MDI 0.6 μg to 30 % with GP MDI 9 μg (29 % with GP MDI 18 μg), and 39 % for open-label tiotropium, compared with 4 % for placebo MDI.</text>
+    </sentence>
+    <sentence charOffset="18093-18190" id="S117" selection="17a">
+        <text xml:space="preserve">Fig. 4 Time to onset of action (≥10 % improvement from baseline FEV1) on Day 1 (mITT population).</text>
+    </sentence>
+    <sentence charOffset="18191-18217" id="S118" selection="">
+        <text xml:space="preserve">Cumulative data are shown.</text>
+    </sentence>
+    <sentence charOffset="18218-18306" id="S119" selection="">
+        <text xml:space="preserve">Adjusted difference versus placebo: *p &lt; 0.05; **p &lt; 0.01; ***p &lt; 0.001; ****p ≤ 0.0001.</text>
+    </sentence>
+    <sentence charOffset="18307-18413" id="S120" selection="">
+        <text xml:space="preserve">Adjusted difference versus open-label tiotropium: † p &lt; 0.05; †† p &lt; 0.01; ††† p &lt; 0.001; †††† p ≤ 0.0001.</text>
+    </sentence>
+    <sentence charOffset="18414-18654" id="S121" selection="">
+        <text xml:space="preserve">Time to onset was defined as the first post-baseline time when a ≥10 % improvement in FEV1 was seen relative to baseline FEV1, where baseline was defined as the mean of evaluable 60- and 30-min pre-dose values across Visits 2, 5, 8, and 11.</text>
+    </sentence>
+    <sentence charOffset="18655-18806" id="S122" selection="12a">
+        <text xml:space="preserve">P-values were obtained using the Murray method to account for correlation between the times to onset observed in the same subject at different periods.</text>
+    </sentence>
+    <sentence charOffset="18807-18920" id="S123" selection="">
+        <text xml:space="preserve">FEV 1 forced expiratory volume in 1 s; GP glycopyrrolate; MDI metered dose inhaler; mITT modified intent-to-treat</text>
+    </sentence>
+    <sentence charOffset="18930-19031" id="S124" selection="17a">
+        <text xml:space="preserve">Table 2 shows the secondary endpoints on Day 1 and Day 14 across the GP MDI dose range 0.6–18 μg BID.</text>
+    </sentence>
+    <sentence charOffset="19032-19177" id="S125" selection="17a">
+        <text xml:space="preserve">GP MDI 18 μg was superior to placebo MDI for all secondary endpoints except for change in morning pre-dose trough FEV1 on Day 7 (data not shown).</text>
+    </sentence>
+    <sentence charOffset="19178-19342" id="S126" selection="17a">
+        <text xml:space="preserve">Treatment differences for GP MDI 18 μg versus placebo MDI were above the pre-defined threshold of 100 mL for peak change from baseline in FEV1 on Days 1, 7, and 14.</text>
+    </sentence>
+    <sentence charOffset="19343-19571" id="S127" selection="17a">
+        <text xml:space="preserve">GP MDI 9, 4.6, and 2.4 μg were often significantly superior to placebo MDI with regard to changes in lung function parameters; however, significance was less common for GP MDI 1.2 μg and, particularly, 0.6 μg versus placebo MDI.</text>
+    </sentence>
+    <sentence charOffset="19580-19800" id="S128" selection="17a">
+        <text xml:space="preserve">GP MDI 18 μg consistently showed superior improvements in lung function compared with the lower doses of GP MDI, but there was no clear dose–response amongst the lower doses for many of the secondary endpoints (Table 2).</text>
+    </sentence>
+    <sentence charOffset="19801-19956" id="S129" selection="17a">
+        <text xml:space="preserve">GP MDI 18 and 9 μg were non-inferior to open-label tiotropium for peak change from baseline in FEV1 on Day 1, but this was not replicated on Days 7 and 14.</text>
+    </sentence>
+    <sentence charOffset="19957-20136" id="S130" selection="17a">
+        <text xml:space="preserve">GP MDI 18 and 9 μg were non-inferior to open-label tiotropium for change from baseline in morning pre-dose trough FEV1, using the pre-specified margin of 100 mL, on Days 7 and 14.</text>
+    </sentence>
+    <sentence charOffset="20137-20485" id="S131" selection="17a">
+        <text xml:space="preserve">For the proportion of patients achieving ≥12 % improvement in FEV1 on Day 1 (Fig. 5), a dose–response was seen, with the exception of GP MDI 4.6 μg, with a nominally higher percentage of patients achieving ≥12 % improvement with GP MDI 18 μg compared with doses below 4.6 μg, and with GP MDI 9 μg compared with GP MDI 1.2 and 0.6 μg (all p &lt; 0.05).</text>
+    </sentence>
+    <sentence charOffset="20486-20579" id="S132" selection="17a">
+        <text xml:space="preserve">Fig. 5 Proportion of patients achieving ≥12 % improvement in FEV1 on Day 1 (mITT population).</text>
+    </sentence>
+    <sentence charOffset="20580-20654" id="S133" selection="">
+        <text xml:space="preserve">Treatment difference versus placebo: *p &lt; 0.05; **p &lt; 0.01; ***p &lt; 0.0001.</text>
+    </sentence>
+    <sentence charOffset="20655-20747" id="S134" selection="">
+        <text xml:space="preserve">Treatment difference versus open-label tiotropium: † p &lt; 0.01; †† p &lt; 0.001; ††† p &lt; 0.0001.</text>
+    </sentence>
+    <sentence charOffset="20748-21044" id="S135" selection="12a">
+        <text xml:space="preserve">Estimated percentages, differences between percentages, and p-values were based on a logistic regression model with achievement of ≥12 % improvement in FEV1 as binary response and the following factors in the model: baseline FEV1, bronchodilator reversibility at Screening, period, and treatment.</text>
+    </sentence>
+    <sentence charOffset="21045-21141" id="S136" selection="">
+        <text xml:space="preserve">Exchangeable correlation between responses of the same subject at different periods was assumed.</text>
+    </sentence>
+    <sentence charOffset="21142-21255" id="S137" selection="">
+        <text xml:space="preserve">FEV 1 forced expiratory volume in 1 s; GP glycopyrrolate; MDI metered dose inhaler; mITT modified intent-to-treat</text>
+    </sentence>
+    <sentence charOffset="21279-21302" id="S138" selection="">
+        <text xml:space="preserve">Safety and tolerability</text>
+    </sentence>
+    <sentence charOffset="21311-21390" id="S139" selection="17b">
+        <text xml:space="preserve">A total of 54.3 % (76/140) of patients reported a treatment-emergent AE (TEAE).</text>
+    </sentence>
+    <sentence charOffset="21391-21653" id="S140" selection="17b">
+        <text xml:space="preserve">The incidence of TEAEs was similar across the different doses of GP MDI, ranging from 22.0 % of patients with GP MDI 0.6 μg to 29.7 % with GP MDI 2.4 μg, and compared with 24.2 % and 25.8 % in placebo MDI and open-label tiotropium groups, respectively (Table 3).</text>
+    </sentence>
+    <sentence charOffset="21654-21878" id="S141" selection="19">
+        <text xml:space="preserve">Dry mouth (3.1–9.7 %), back pain, cough, and hypertension (all &lt;5 %) were the most commonly reported AEs (Table 4), with AEs for all GP MDI doses comparable to those reported for placebo MDI and open-label tiotropium groups.</text>
+    </sentence>
+    <sentence charOffset="21879-22084" id="S142" selection="13b">
+        <text xml:space="preserve">A total of five patients reported serious AEs that led to study discontinuation, including one patient in each of GP MDI 9, 2.4, and 0.6 μg, placebo MDI, and open-label tiotropium treatment arms (Table 3).</text>
+    </sentence>
+    <sentence charOffset="22085-22135" id="S143" selection="">
+        <text xml:space="preserve">All events were considered unrelated to treatment.</text>
+    </sentence>
+    <sentence charOffset="22136-22224" id="S144" selection="">
+        <text xml:space="preserve">No important trends were observed in clinical laboratory results, vital signs, and ECGs.</text>
+    </sentence>
+    <sentence charOffset="22225-22356" id="S145" selection="19,17b">
+        <text xml:space="preserve">Table 3 Overview of TEAEs (safety population)  Table 4 TEAEs reported for ≥3 % of patients in a treatment group (safety population)</text>
+    </sentence>
+    <sentence charOffset="22381-22391" id="S146">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="22398-22560" id="S147" selection="">
+        <text xml:space="preserve">The results of this study identified GP 18 μg as the optimal dose that demonstrated the greatest efficacy versus placebo MDI with no accompanying increase in AEs.</text>
+    </sentence>
+    <sentence charOffset="22561-22766" id="S148" selection="22">
+        <text xml:space="preserve">These results enabled the selection of GP 18 μg BID as the most appropriate dose of GP, formulated using Co-Suspension delivery technology delivered via MDI, to take forward into Phase III clinical trials.</text>
+    </sentence>
+    <sentence charOffset="22767-23067" id="S149" selection="22">
+        <text xml:space="preserve">As Co-Suspension delivery technology enables uniform and reliable delivery of very low doses of GP via the MDI device [5], this study is the first to have characterized the actual dose–response curve of GP using a sub-microgram dose, which previously could not be formulated either as a MDI or a DPI.</text>
+    </sentence>
+    <sentence charOffset="23068-23259" id="S150" selection="">
+        <text xml:space="preserve">GP MDI 18 μg was generally the most effective dose versus placebo MDI, with a clear dose response from 0.6 μg to 4.6 μg, followed by a relatively flat dose–response curve at the higher doses.</text>
+    </sentence>
+    <sentence charOffset="23266-23350" id="S151" selection="">
+        <text xml:space="preserve">The primary endpoint for this study was FEV1 AUC0–12 at Day 14 relative to baseline.</text>
+    </sentence>
+    <sentence charOffset="23351-23586" id="S152" selection="">
+        <text xml:space="preserve">While this represents the full efficacy profile for GP MDI, this endpoint only represents the first half of the efficacy profile for tiotropium DPI, where the magnitude of effect in the second 12 h has been shown to be smaller [16–20].</text>
+    </sentence>
+    <sentence charOffset="23587-23766" id="S153" selection="">
+        <text xml:space="preserve">Nonetheless, non-inferiority was defined as a lower 95 % CI bound ≥−100 mL relative to open-label tiotropium for the primary endpoint, FEV1 AUC0–12 at Day 14 relative to baseline.</text>
+    </sentence>
+    <sentence charOffset="23767-24053" id="S154" selection="">
+        <text xml:space="preserve">The value of 100 mL was selected based on ATS/European Respiratory Society task force recommendations and studies that suggest this is the minimum difference required for clinical relevance, defined as the smallest difference in FEV1 that is perceived by patients as important [15, 21].</text>
+    </sentence>
+    <sentence charOffset="24054-24304" id="S155" selection="22">
+        <text xml:space="preserve">For the primary endpoint, a dose–response was observed across GP MDI doses, with GP MDI 18 μg demonstrating the largest benefit (158 mL), with even the lower bound of the 95 % CI (107 mL, 208 mL) exceeding the minimum clinically important difference.</text>
+    </sentence>
+    <sentence charOffset="24305-24469" id="S156" selection="">
+        <text xml:space="preserve">Despite this robust and clinically meaningful finding, no dose of GP MDI was statistically non-inferior to open-label tiotropium for the primary endpoint on Day 14.</text>
+    </sentence>
+    <sentence charOffset="24476-24712" id="S157" selection="22">
+        <text xml:space="preserve">We observed a higher-than-expected response with tiotropium, with a response versus placebo MDI for the primary endpoint of 224 mL, compared with 107 and 199 mL observed in Phase III studies at Week 12 and Week 6, respectively [17, 20].</text>
+    </sentence>
+    <sentence charOffset="24713-24926" id="S158" selection="22">
+        <text xml:space="preserve">Whilst a peak FEV1 of approximately 360 mL was observed for open-label tiotropium on Days 7 and 14 of this trial, previous studies have reported lower values for this endpoint, ranging from 240 to 280 mL [22, 23].</text>
+    </sentence>
+    <sentence charOffset="24927-25099" id="S159" selection="22">
+        <text xml:space="preserve">Perhaps noteworthy with respect to the large tiotropium response was that the tiotropium group in this study also demonstrated the largest airway reversibility at baseline.</text>
+    </sentence>
+    <sentence charOffset="25106-25209" id="S160" selection="">
+        <text xml:space="preserve">GP MDI 18 μg consistently demonstrated superiority to placebo MDI for the secondary efficacy endpoints.</text>
+    </sentence>
+    <sentence charOffset="25210-25371" id="S161" selection="22">
+        <text xml:space="preserve">GP MDI showed an early onset of action, with a peak effect 1–2 h post-dose, followed by a gradual decrease in effect over 12 h, supporting the use of BID dosing.</text>
+    </sentence>
+    <sentence charOffset="25372-25598" id="S162" selection="">
+        <text xml:space="preserve">Night-time and early-morning symptoms have been reported as a common occurrence in patients with COPD [24, 25], with sleep disturbance linked to poorer outcomes including high exacerbation frequency and poor survival [26, 27].</text>
+    </sentence>
+    <sentence charOffset="25599-25966" id="S163" selection="">
+        <text xml:space="preserve">Bronchodilator efficacy is therefore required in the second half of the 24-h dosing period, and further studies are required to investigate the benefits conferred by BID delivery of GP MDI through a second peak of bronchodilation in the evening, in particular versus tiotropium QD where the magnitude of effect in the second 12 h has been shown to be smaller [16–20].</text>
+    </sentence>
+    <sentence charOffset="25983-25994" id="S164">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="26001-26331" id="S165" selection="22">
+        <text xml:space="preserve">In conclusion, in this dose-ranging study evaluating single-agent GP MDI formulated using Co-Suspension delivery technology at doses of 0.6–18 μg, GP 18 μg demonstrated a robust and clinically relevant benefit compared with placebo MDI and is the most appropriate dose of GP MDI BID to take forward into Phase III clinical trials.</text>
+    </sentence>
+    <sentence charOffset="26341-26352" id="S166">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="26380-26395" id="S167" selection="">
+        <text xml:space="preserve">Additional file</text>
+    </sentence>
+    <sentence charOffset="26422-26451" id="S168" selection="">
+        <text xml:space="preserve">Additional file 1: Figure S1.</text>
+    </sentence>
+    <sentence charOffset="26469-26545" id="S169" selection="">
+        <text xml:space="preserve">Adjusted change from baseline in FEV1 over time on Day 14 (mITT population).</text>
+    </sentence>
+    <sentence charOffset="26546-26556" id="S170" selection="">
+        <text xml:space="preserve">Figure S2.</text>
+    </sentence>
+    <sentence charOffset="26557-26632" id="S171" selection="">
+        <text xml:space="preserve">LSM difference in FEV1 AUC0–12 on Day 14, vs placebo MDI (mITT population).</text>
+    </sentence>
+    <sentence charOffset="26633-26646" id="S172" selection="">
+        <text xml:space="preserve">(DOCX 437 kb)</text>
+    </sentence>
+    <sentence charOffset="26688-26701" id="S173" selection="">
+        <text xml:space="preserve">Abbreviations</text>
+    </sentence>
+    <sentence charOffset="26728-26730" id="S174" selection="">
+        <text xml:space="preserve">AE</text>
+    </sentence>
+    <sentence charOffset="26754-26767" id="S175" selection="">
+        <text xml:space="preserve">Adverse event</text>
+    </sentence>
+    <sentence charOffset="26807-26810" id="S176" selection="">
+        <text xml:space="preserve">ATS</text>
+    </sentence>
+    <sentence charOffset="26834-26859" id="S177" selection="">
+        <text xml:space="preserve">American Thoracic Society</text>
+    </sentence>
+    <sentence charOffset="26899-26906" id="S178" selection="">
+        <text xml:space="preserve">AUC0–12</text>
+    </sentence>
+    <sentence charOffset="26930-26965" id="S179" selection="">
+        <text xml:space="preserve">Area under the curve from 0 to 12 h</text>
+    </sentence>
+    <sentence charOffset="27005-27008" id="S180" selection="">
+        <text xml:space="preserve">BID</text>
+    </sentence>
+    <sentence charOffset="27032-27043" id="S181" selection="">
+        <text xml:space="preserve">Twice daily</text>
+    </sentence>
+    <sentence charOffset="27083-27086" id="S182" selection="">
+        <text xml:space="preserve">CAT</text>
+    </sentence>
+    <sentence charOffset="27110-27130" id="S183" selection="">
+        <text xml:space="preserve">COPD Assessment Test</text>
+    </sentence>
+    <sentence charOffset="27170-27172" id="S184" selection="">
+        <text xml:space="preserve">CI</text>
+    </sentence>
+    <sentence charOffset="27196-27215" id="S185" selection="">
+        <text xml:space="preserve">Confidence interval</text>
+    </sentence>
+    <sentence charOffset="27255-27259" id="S186" selection="">
+        <text xml:space="preserve">COPD</text>
+    </sentence>
+    <sentence charOffset="27283-27320" id="S187" selection="">
+        <text xml:space="preserve">Chronic obstructive pulmonary disease</text>
+    </sentence>
+    <sentence charOffset="27360-27363" id="S188" selection="">
+        <text xml:space="preserve">DPI</text>
+    </sentence>
+    <sentence charOffset="27387-27405" id="S189" selection="">
+        <text xml:space="preserve">Dry powder inhaler</text>
+    </sentence>
+    <sentence charOffset="27445-27448" id="S190" selection="">
+        <text xml:space="preserve">ECG</text>
+    </sentence>
+    <sentence charOffset="27472-27489" id="S191" selection="">
+        <text xml:space="preserve">Electrocardiogram</text>
+    </sentence>
+    <sentence charOffset="27529-27532" id="S192" selection="">
+        <text xml:space="preserve">FDC</text>
+    </sentence>
+    <sentence charOffset="27556-27578" id="S193" selection="">
+        <text xml:space="preserve">Fixed-dose combination</text>
+    </sentence>
+    <sentence charOffset="27618-27622" id="S194" selection="">
+        <text xml:space="preserve">FEV1</text>
+    </sentence>
+    <sentence charOffset="27646-27677" id="S195" selection="">
+        <text xml:space="preserve">Forced expiratory volume in 1 s</text>
+    </sentence>
+    <sentence charOffset="27717-27719" id="S196" selection="">
+        <text xml:space="preserve">FF</text>
+    </sentence>
+    <sentence charOffset="27743-27762" id="S197" selection="">
+        <text xml:space="preserve">Formoterol fumarate</text>
+    </sentence>
+    <sentence charOffset="27802-27805" id="S198" selection="">
+        <text xml:space="preserve">FVC</text>
+    </sentence>
+    <sentence charOffset="27829-27850" id="S199" selection="">
+        <text xml:space="preserve">Forced vital capacity</text>
+    </sentence>
+    <sentence charOffset="27890-27892" id="S200" selection="">
+        <text xml:space="preserve">GP</text>
+    </sentence>
+    <sentence charOffset="27916-27930" id="S201" selection="">
+        <text xml:space="preserve">Glycopyrrolate</text>
+    </sentence>
+    <sentence charOffset="27970-27973" id="S202" selection="">
+        <text xml:space="preserve">HFC</text>
+    </sentence>
+    <sentence charOffset="27997-28014" id="S203" selection="">
+        <text xml:space="preserve">Hydrofluoroalkane</text>
+    </sentence>
+    <sentence charOffset="28054-28056" id="S204" selection="">
+        <text xml:space="preserve">IC</text>
+    </sentence>
+    <sentence charOffset="28080-28100" id="S205" selection="">
+        <text xml:space="preserve">Inspiratory capacity</text>
+    </sentence>
+    <sentence charOffset="28140-28143" id="S206" selection="">
+        <text xml:space="preserve">ICS</text>
+    </sentence>
+    <sentence charOffset="28167-28189" id="S207" selection="">
+        <text xml:space="preserve">Inhaled corticosteroid</text>
+    </sentence>
+    <sentence charOffset="28229-28233" id="S208" selection="">
+        <text xml:space="preserve">LABA</text>
+    </sentence>
+    <sentence charOffset="28257-28279" id="S209" selection="">
+        <text xml:space="preserve">Long-acting β2-agonist</text>
+    </sentence>
+    <sentence charOffset="28319-28323" id="S210" selection="">
+        <text xml:space="preserve">LAMA</text>
+    </sentence>
+    <sentence charOffset="28347-28380" id="S211" selection="">
+        <text xml:space="preserve">Long-acting muscarinic antagonist</text>
+    </sentence>
+    <sentence charOffset="28420-28423" id="S212" selection="">
+        <text xml:space="preserve">LSM</text>
+    </sentence>
+    <sentence charOffset="28447-28465" id="S213" selection="">
+        <text xml:space="preserve">Least squares mean</text>
+    </sentence>
+    <sentence charOffset="28505-28508" id="S214" selection="">
+        <text xml:space="preserve">MDI</text>
+    </sentence>
+    <sentence charOffset="28532-28552" id="S215" selection="">
+        <text xml:space="preserve">Metered dose inhaler</text>
+    </sentence>
+    <sentence charOffset="28592-28596" id="S216" selection="">
+        <text xml:space="preserve">mITT</text>
+    </sentence>
+    <sentence charOffset="28620-28644" id="S217" selection="">
+        <text xml:space="preserve">modified intent-to-treat</text>
+    </sentence>
+    <sentence charOffset="28684-28686" id="S218" selection="">
+        <text xml:space="preserve">QD</text>
+    </sentence>
+    <sentence charOffset="28710-28720" id="S219" selection="">
+        <text xml:space="preserve">Once daily</text>
+    </sentence>
+    <sentence charOffset="28760-28762" id="S220" selection="">
+        <text xml:space="preserve">SD</text>
+    </sentence>
+    <sentence charOffset="28786-28804" id="S221" selection="">
+        <text xml:space="preserve">Standard deviation</text>
+    </sentence>
+    <sentence charOffset="28844-28848" id="S222" selection="">
+        <text xml:space="preserve">TEAE</text>
+    </sentence>
+    <sentence charOffset="28872-28904" id="S223" selection="">
+        <text xml:space="preserve">Treatment-emergent adverse event</text>
+    </sentence>
+    <sentence charOffset="28944-29104" id="S224" selection="">
+        <text xml:space="preserve">The authors would like to thank all of the patients and their families, the team of investigators, research nurses, and operations staff involved in this study.</text>
+    </sentence>
+    <sentence charOffset="29111-29299" id="S225" selection="">
+        <text xml:space="preserve">The authors would also like to thank Everest Clinical Research, who performed the statistical analyses for this study, funded by Pearl Therapeutics Inc., a member of the AstraZeneca Group.</text>
+    </sentence>
+    <sentence charOffset="29306-29492" id="S226" selection="">
+        <text xml:space="preserve">The authors would also like to thank Catherine Stanton of Complete Medical Communications, who provided medical writing support under the direction of the authors, funded by AstraZeneca.</text>
+    </sentence>
+    <sentence charOffset="29499-29566" id="S227" selection="">
+        <text xml:space="preserve">Co-Suspension is a trademark of the AstraZeneca group of companies.</text>
+    </sentence>
+    <sentence charOffset="29582-29589" id="S228" selection="">
+        <text xml:space="preserve">Funding</text>
+    </sentence>
+    <sentence charOffset="29598-29682" id="S229" selection="25">
+        <text xml:space="preserve">This study was funded by Pearl Therapeutics Inc., a member of the AstraZeneca Group.</text>
+    </sentence>
+    <sentence charOffset="29705-29738" id="S230" selection="">
+        <text xml:space="preserve">Availability of data and material</text>
+    </sentence>
+    <sentence charOffset="29747-29886" id="S231" selection="">
+        <text xml:space="preserve">All relevant data generated or analyzed during this study are included in this published article (and its supplementary information files).</text>
+    </sentence>
+    <sentence charOffset="29909-29931" id="S232" selection="">
+        <text xml:space="preserve">Authors’ contributions</text>
+    </sentence>
+    <sentence charOffset="29940-30072" id="S233" selection="">
+        <text xml:space="preserve">LMF, GTF, RRR, SSe, SD, CR, CO, PD, ESR, TF, and MG made substantial contributions to the conception or design of the work reported.</text>
+    </sentence>
+    <sentence charOffset="30073-30144" id="S234" selection="">
+        <text xml:space="preserve">GTF, EMK, SSp, and JP participated in the acquisition of reported data.</text>
+    </sentence>
+    <sentence charOffset="30145-30203" id="S235" selection="">
+        <text xml:space="preserve">All authors participated in the analysis of reported data.</text>
+    </sentence>
+    <sentence charOffset="30204-30309" id="S236" selection="">
+        <text xml:space="preserve">LMF, GTF, RRR, SSe, EMK, SSp, JP, SD, CR, CO, and PD participated in the interpretation of reported data.</text>
+    </sentence>
+    <sentence charOffset="30310-30466" id="S237" selection="">
+        <text xml:space="preserve">All authors reviewed and/or critically revised the manuscript for important intellectual content and provided final approval of the version to be published.</text>
+    </sentence>
+    <sentence charOffset="30489-30508" id="S238" selection="">
+        <text xml:space="preserve">Competing interests</text>
+    </sentence>
+    <sentence charOffset="30517-30661" id="S239" selection="">
+        <text xml:space="preserve">LMF has consulted/provided lectures for AstraZeneca, Boehringer Ingelheim, Chiesi, GlaxoSmithKline, Merck, Novartis, Takeda, Pfizer, and Zambon.</text>
+    </sentence>
+    <sentence charOffset="30662-30803" id="S240" selection="">
+        <text xml:space="preserve">He has received research grants from AstraZeneca, Boehringer Ingelheim, Menarini, Merck, Chiesi, GlaxoSmithKline, Takeda, Pfizer, and Zambon.</text>
+    </sentence>
+    <sentence charOffset="30804-31091" id="S241" selection="">
+        <text xml:space="preserve">EMK has consulted and participated in scientific advisory boards, speaker panels, or received travel reimbursement from Amphastar, AstraZeneca, Boehringer Ingelheim, Forest, GlaxoSmithKline, Merck, Mylan, Novartis, Pearl Therapeutics Inc., Sanofi Aventis, Sunovion, Teva, and Theravance.</text>
+    </sentence>
+    <sentence charOffset="31092-31158" id="S242" selection="">
+        <text xml:space="preserve">SSp is on the speaker’s bureau for Mylan and Boehringer Ingelheim.</text>
+    </sentence>
+    <sentence charOffset="31159-31346" id="S243" selection="">
+        <text xml:space="preserve">GTF has received grants and/or personal fees and/or non-financial support from AstraZeneca, Boehringer Ingelheim, Forest, GlaxoSmithKline, Novartis, Pearl Therapeutics Inc., and Sunovion.</text>
+    </sentence>
+    <sentence charOffset="31347-31642" id="S244" selection="">
+        <text xml:space="preserve">RRR has received grant support from Almirall and Menarini, received industry-sponsored contracts from Boehringer Ingelheim, has served on advisory boards for and received speaking fees from AstraZeneca, Boehringer Ingelheim, Ferrer, Menarini, Novartis, Pearl Therapeutics Inc., Takeda, and TEVA.</text>
+    </sentence>
+    <sentence charOffset="31643-31833" id="S245" selection="">
+        <text xml:space="preserve">JP has received speaking fees from AstraZeneca, Pfizer, Genentech, and others, and has conducted trials on behalf of Novartis, GlaxoSmithKline, Merck, BI, Forest, Teva, Sunovion, and others.</text>
+    </sentence>
+    <sentence charOffset="31834-32117" id="S246" selection="">
+        <text xml:space="preserve">SSe has received grants from AstraZeneca, Dey, and Pearl Therapeutics Inc. He has received personal fees from AstraZeneca, Bayer, Boehringer Ingelheim, Cempra, CSL Behring, Forest, GlaxoSmithKline, Merck, Pearl Therapeutics Inc., Pulmonx, Reckitt Benckiser, Sunovion, and Theravance.</text>
+    </sentence>
+    <sentence charOffset="32118-32190" id="S247" selection="">
+        <text xml:space="preserve">CO, PD, ESR, TF, MG, SD, and CR are employees of Pearl Therapeutics Inc.</text>
+    </sentence>
+    <sentence charOffset="32213-32236" id="S248" selection="">
+        <text xml:space="preserve">Consent for publication</text>
+    </sentence>
+    <sentence charOffset="32245-32260" id="S249" selection="">
+        <text xml:space="preserve">Not applicable.</text>
+    </sentence>
+    <sentence charOffset="32283-32325" id="S250" selection="">
+        <text xml:space="preserve">Ethics approval and consent to participate</text>
+    </sentence>
+    <sentence charOffset="32334-32500" id="S251" selection="">
+        <text xml:space="preserve">This study was conducted in accordance with International Conference on Harmonization guidelines, the Declaration of Helsinki, and the US Code of Federal Regulations.</text>
+    </sentence>
+    <sentence charOffset="32523-32554" id="S252" selection="">
+        <text xml:space="preserve">List of principal investigators</text>
+    </sentence>
+    <sentence charOffset="32563-32717" id="S253" selection="">
+        <text xml:space="preserve">Faisal Fakih, Leonard Dunn, Charles Fogarty, Edward M. Kerwin, Jack Parrino, Selwyn Spangenthal, Ritsu Kuno, Timothy Moriarty, Jeffrey Shea, James Pearle.</text>
+    </sentence>
+    <section textSpan="0-171" title="Title" titleSpan="0-5"/>
+    <section textSpan="172-2802" title="Abstract" titleSpan="172-180">
+        <section textSpan="190-579" title="Background" titleSpan="201-211"/>
+        <section textSpan="588-1777" title="Methods" titleSpan="599-606"/>
+        <section textSpan="1786-2252" title="Results" titleSpan="1797-1804"/>
+        <section textSpan="2261-2467" title="Conclusions" titleSpan="2272-2283"/>
+        <section textSpan="2476-2582" title="Trial registration" titleSpan="2487-2505"/>
+        <section textSpan="2591-2794" title="Electronic supplementary material" titleSpan="2602-2635"/>
+    </section>
+    <section textSpan="2808-6218" title="Background" titleSpan="2815-2825"/>
+    <section textSpan="6223-14964" title="Methods" titleSpan="6230-6237">
+        <section textSpan="6244-8451" title="Patients" titleSpan="6253-6261"/>
+        <section textSpan="8458-10261" title="Study design and treatment" titleSpan="8467-8493"/>
+        <section textSpan="10268-11336" title="Assessments" titleSpan="10277-10288"/>
+        <section textSpan="11343-12296" title="Endpoints" titleSpan="11352-11361"/>
+        <section textSpan="12303-14959" title="Statistical analysis" titleSpan="12312-12332"/>
+    </section>
+    <section textSpan="14969-22369" title="Results" titleSpan="14976-14983">
+        <section textSpan="14990-16063" title="Patient disposition and baseline characteristics" titleSpan="14999-15047"/>
+        <section textSpan="16070-21263" title="Efficacy analyses" titleSpan="16079-16096"/>
+        <section textSpan="21270-22364" title="Safety and tolerability" titleSpan="21279-21302"/>
+    </section>
+    <section textSpan="22374-25971" title="Discussion" titleSpan="22381-22391"/>
+    <section textSpan="25976-26336" title="Conclusions" titleSpan="25983-25994"/>
+    <section textSpan="26341-32730" title="Back matter" titleSpan="26341-26352"/>
+</document>

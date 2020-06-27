@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3103669" note="">
+    <text xml:space="preserve">Title
+Canakinumab reduces the risk of acute gouty arthritis flares during initiation of allopurinol treatment: results of a double-blind, randomised study
+Abstract
+
+        
+          Objective
+          This study assessed the efficacy and safety of canakinumab, a fully human anti-interleukin 1β monoclonal antibody, for prophylaxis against acute gouty arthritis flares in patients initiating urate-lowering treatment.
+        
+        
+          Methods
+          In this double-blind, double-dummy, dose-ranging study, 432 patients with gouty arthritis initiating allopurinol treatment were randomised 1:1:1:1:1:1:2 to receive: a single dose of canakinumab, 25, 50, 100, 200, or 300 mg subcutaneously; 4×4-weekly doses of canakinumab (50+50+25+25 mg subcutaneously); or daily colchicine 0.5 mg orally for 16 weeks. Patients recorded details of flares in diaries. The study aimed to determine the canakinumab dose having equivalent efficacy to colchicine 0.5 mg at 16 weeks.
+        
+        
+          Results
+          A dose-response for canakinumab was not apparent with any of the four predefined dose-response models. The estimated canakinumab dose with equivalent efficacy to colchicine was below the range of doses tested. At 16 weeks, there was a 62% to 72% reduction in the mean number of flares per patient for canakinumab doses ≥50 mg versus colchicine based on a negative binomial model (rate ratio: 0.28–0.38, p≤0.0083), and the percentage of patients experiencing ≥1 flare was significantly lower for all canakinumab doses (15% to 27%) versus colchicine (44%, p&lt;0.05). There was a 64% to 72% reduction in the risk of experiencing ≥1 flare for canakinumab doses ≥50 mg versus colchicine at 16 weeks (hazard ratio (HR): 0.28–0.36, p≤0.05). The incidence of adverse events was similar across treatment groups.
+        
+        
+          Conclusions
+          Single canakinumab doses ≥50 mg or four 4-weekly doses provided superior prophylaxis against flares compared with daily colchicine 0.5 mg.
+        
+      
+
+
+    
+      Introduction
+      Gouty arthritis is a painful inflammatory arthritis that becomes increasingly prevalent with age, affecting around 10% of men and 6% of women over 70 years old.1 2 It results from deposition of monosodium urate (MSU) crystals in joints, which leads to painful inflammatory acute gouty arthritis flares.3 4 An increasing number of patients have comorbidities which make standard therapies inappropriate.5 Such patients may develop difficult-to-treat disease, characterised by frequent flares and persistent inflammation between flares which contribute to joint damage6 and have a major impact on health-related quality of life7 8 and an individual's ability to work.9
+      Long-standing elevated body uric acid pools can lead to increased serum urate (SU) levels and formation of MSU crystals. An important goal in the long-term management of gouty arthritis is the reduction of SU levels to below 6 mg/dl so as to prevent formation of new crystals, dissolve existing crystals and ultimately decrease the incidence of flares.10 11 This is achieved with urate lowering therapies (ULT).12 Allopurinol is the most commonly used ULT and the current standard of care.
+      During the first weeks and months after initiating ULT, rapid reductions in SU levels can induce acute gouty arthritis flares.13–17 Therefore, when initiating a patient on ULT, prophylactic low-dose anti-inflammatory treatment is recommended to prevent flares and foster compliance with ULT. Low-dose colchicine is the most commonly prescribed drug for prophylaxis in patients initiating ULT, but it has significant shortcomings. Some patients have contraindications to colchicine whereas others do not tolerate colchicine or still experience flares. Evidence for the efficacy of colchicine as prophylaxis against flares comes from two small studies and a larger study performed 50 years ago.18–20 Three recent trials used colchicine for prophylaxis in patients initiating ULT (with febuxostat), but provide limited data on the efficacy of colchicine.17 21 22 There is therefore a need for more rigorous assessment of the efficacy of colchicine as prophylaxis against flares following ULT initiation and the introduction of alternative therapies.
+      Several lines of evidence suggest that the proinflammatory cytokine, interleukin 1β (IL-1β), plays a key role in mediating the initiation of inflammation in gouty arthritis in a similar manner to that occurring in the hereditary autoinflammatory syndrome, cryopyrin-associated periodic syndrome (CAPS),23 24 and may also contribute to joint destruction in gouty arthritis.6 25 26 This suggests that selective blockade of IL-1β signalling may provide effective prophylaxis against flares in patients with gouty arthritis and is supported by results showing that IL-1β blockade with canakinumab, a fully human monoclonal antibody to IL-1β with a half-life of 3–4 weeks,27 can effectively reduce pain, inflammation and the risk of recurrent flares in patients with acute gouty arthritis.28 Here, we report the results of a dose-ranging, active-controlled phase II trial to assess the efficacy, safety and tolerability of canakinumab as prophylaxis against flares in patients initiating allopurinol treatment.
+    
+    
+      Methods
+      
+        Study design
+        This was a 24-week, dose-ranging, multicentre, double-blind, double-dummy, active-controlled study and was approved by all responsible independent ethics committees. The study was performed in accordance with the International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH) Harmonised Tripartite Guidelines for Good Clinical Practice and the ethical principles laid down in the Declaration of Helsinki, and all patients provided written informed consent. The trial was registered with http://www.clinicaltrials.gov (registration number: NCT00819585).
+        At screening, patients indicated which of their joints was most affected by previous gouty arthritis flares. Eligible patients were subsequently randomised 1:1:1:1:1:1:2 to receive a single dose of canakinumab, 25 mg, 50 mg, 100 mg, 200 mg, or 300 mg on day 1, or four canakinumab doses administered at 4-weekly intervals (50 mg on day 1 and at week 4, and 25 mg at weeks 8 and 12), or daily oral doses of colchicine 0.5 mg given for 16 weeks. In order to achieve blinding for patients and investigators, all patients received subcutaneous injections of canakinumab or canakinumab placebo on day 1, and at weeks 4, 8 and 12, and took capsules of colchicine or colchicine placebo daily for 16 weeks (see supplementary material for details). Patients were followed for 24 weeks.
+        Allopurinol treatment (100–300 mg) was initiated at baseline or within 1 month before baseline and was administered to all randomised patients once daily for 24 weeks (see supplementary material for details). Patients could receive rescue medication as needed (see supplementary material for details).
+      
+      
+        Patients
+        Inclusion criteria were: age 18–80 years, diagnosis of gouty arthritis as defined by the American College of Rheumatology 1977 preliminary criteria,29 having had at least two gouty arthritis flares in the previous year, body mass index (BMI) of ≤40 kg/m2 and willingness to initiate allopurinol treatment or having initiated allopurinol treatment within 1 month of screening.
+        Key exclusion criteria were: having a gouty arthritis flare within 2 weeks of screening, present at screening, or having pain associated with a flare at screening; history of allergy, contraindication, or intolerance to allopurinol or colchicine (see supplementary material for further details).
+      
+      
+        Assessments
+        Flares were patient reported. For each flare, patients recorded in a diary the start date, the most affected joint on that day and the severity of pain (see supplementary material for further details). Patients also recorded rescue medication use and pain for at least 7 days after the onset of the flare or longer if the flares persisted for more than 7 days.
+        Safety assessments were performed at scheduled visits (2, 4, 8, 12, 16, 20 and 24 weeks) and included collection of blood samples for assessment of the inflammatory marker, C reactive protein (CRP), haematology and immunogenicity (at baseline and weeks 8, 16 and 24) and doctor's assessments of local tolerability at sites of subcutaneous injections. Adverse events (AEs) were reported throughout the study.
+        The primary outcome was determination of the canakinumab dose producing equivalent efficacy to that achieved with colchicine 0.5 mg, with respect to the mean number of flares per patient occurring within 16 weeks post randomisation (ie, the target dose). Secondary efficacy outcomes included: mean number of flares per patient, proportion of patients with at least one flare, time to first flare, average duration of flares and CRP levels (see supplementary material for further details). Safety variables included the incidence of AEs, serious AEs (SAEs) and infectious AEs, the incidence and severity of injection-site reactions, and immunogenicity.
+      
+      
+        Sample size determination and statistical analysis
+        A sample size of 350 patients (50 patients in each of the 5 canakinumab single-dose groups and 100 patients in the colchicine group) was considered sufficient to give a 95% confidence interval (CI) of the target dose with reasonable precision. In order to increase the precision of the analysis the planned total sample size of 400 was increased to approximately 440 patients (see supplementary material for more details).
+        A preplanned interim analysis was performed when 200 patients had completed 16 weeks. Efficacy and safety analyses were then performed when all patients had completed the study (24 weeks).
+        For determination of the primary outcome, the number of flares per patient during 16 weeks was modelled using a negative binomial distribution and a common overdispersion (variance divided by expectation minus 1) for all treatment arms (see supplementary material for more details).
+        The main secondary outcome was the mean number of flares per patient at 16 weeks. Data were analysed according to an analysis of covariance (ANCOVA) with treatment group, allopurinol dose at baseline and BMI at baseline as covariates. However, as the distribution of flares per patient was observed to be skewed, the preplanned ANCOVA was considered inappropriate for these data. Therefore a post hoc analysis using a negative binomial model with treatment group, allopurinol dose at baseline and BMI at baseline as covariates and log (time on study) as an offset was performed with an adjustment made for multiplicity (see supplementary material for further details of analyses for secondary outcomes).
+      
+    
+    
+      Results
+      
+        Baseline demographics and disease characteristics
+        Between December 2008 and August 2009, 432 patients from 75 centres in 16 countries were randomised to treatment; 391 patients (90.5%) completed the study (figure 1). Demographic and baseline disease characteristics were generally well balanced across treatment groups (table 1). Most patients were men (89% to 100%) and 28% to 44% had had gouty arthritis for at least 10 years. At baseline, many patients had very high SU levels (≥9 mg/dl; 35% to 55%). The mean number of flares in the past year ranged from 3.6 to 4.7 for the different treatment groups. Approximately 6% of patients had reduced renal function, defined as having an estimated creatinine clearance rate (CrCl) below the normal range for age and sex (table 1).
+        Figure 1 Patient disposition. Patients were recruited from the following countries (number of centres): Argentina (1), Belgium (2), Columbia (5), Czech Republic (5), Germany (5), Guatemala (5), Hungary (4), Poland (2), Portugal (3), Russia (7), Singapore (1), Slovakia (6), South Africa (4), Spain (4), Taiwan (4), Turkey (8), UK (2) and USA (20).
+        Table 1 Demographic and baseline characteristics (safety set)
+      
+      
+        Primary outcome: determination of canakinumab target dose
+        No evidence of a dose-response was seen in any of the four predefined dose response models. The estimated canakinumab dose with equivalent efficacy to colchicine was below the range of canakinumab doses tested.
+      
+      
+        Secondary outcomes
+        
+          Clinical outcomes
+          The least-squares (LS) mean number of flares per patient for the 16 weeks (according to the preplanned ANCOVA) was lower for all canakinumab doses compared with colchicine 0.5 mg; differences were statistically significant for the canakinumab 100 mg and 300 mg doses (p≤0.05, table 2). (The LS mean number of flares per patient is the best-fitting unbiased estimate calculated from the ANCOVA model.) However, as the distribution of flares per patient was observed to be skewed (most patients had no or few flares and few had many flares), the preplanned ANCOVA was considered inappropriate for these data. Therefore a post hoc analysis using a negative binomial model (the model used for the primary outcome) was performed after unblinding at 16 weeks. According to this analysis, there was a 62% to 72% reduction in the mean number of flares per patient for canakinumab doses ≥50 mg versus colchicine (rate ratio: 0.28–0.38, p≤0.0083) (table 2).
+          Table 2 Summary of efficacy parameters at 16 weeks (full analysis set)
+          The percentage of patients experiencing at least one flare in the 16-week period was lower for all canakinumab groups versus colchicine 0.5 mg (canakinumab, 15% to 27%; colchicine, 44%, p≤0.05), and all patients receiving canakinumab were significantly less likely to experience at least one flare compared with patients treated with colchicine (estimated odds ratio (OR) vs colchicine: 0.22–0.47, p≤0.05) (table 2). In addition, time to first new gouty arthritis flare was longer with all canakinumab groups compared with colchicine 0.5 mg (figure 2) and there was a 64% to 72% reduction in the risk of experiencing at least one flare for canakinumab doses ≥50 mg versus colchicine at 16 weeks (HR: 0.28–0.36, p≤0.05) (table 2). The average duration (LS mean) for all flares over the 16-week period was shorter in all canakinumab groups compared with colchicine 0.5 mg: 2.8–4.6 days versus 5.1 days (table 2). Differences in average duration between all canakinumab groups versus colchicine 0.5 mg, however, were not statistically significant.
+          Figure 2 Time to first acute gouty arthritis flare after randomisation (Kaplan–Meier estimate).
+        
+        
+          CRP levels
+          An initial decrease in median CRP levels was seen in all treatment groups (figure 3). For all canakinumab doses ≥50 mg, median CRP values remained consistently lower than in the colchicine group throughout the study and were below the upper limit of the normal range (ULN, 3.0 mg/dl) up to week 24.
+          Figure 3 Median C reactive protein levels over time. CRP, C reactive protein; q4wk, every 4 weeks; ULN, upper limit of the normal range.
+        
+        
+          SU levels
+          At baseline, 85.2% to 92.6% of patients had SU levels ≥6 mg/dl (table 1). At 16 weeks 38.9% to 53.7% of patients treated with canakinumab and 46.3% of patients treated with colchicine achieved SU levels &lt;6 mg/dl and similar results were reported for week 24 (canakinumab, 37.0% to 50.9%; colchicine, 41.7%).
+        
+        
+          Safety and tolerability
+          Safety results for the individual dose groups are summarised in table 3. The incidence of AEs over the 24-week period was similar across the six canakinumab groups (51.9% to 58.5%) and for the colchicine group (53.7%) (table 3). Most AEs were mild or moderate in severity, and there was no evidence of a dose-response for any AE. SAEs were reported in 14 (4.3%) patients treated with canakinumab and 6 (5.6%) patients treated with colchicine; 2 were considered by the investigator to be possibly related to study medication: erysipelas of the left leg in the canakinumab 25 mg group and cancer of the right kidney in the colchicine group. One death occurred in the colchicine group, a possible myocardial infarction, but was not regarded by the investigator as being related to study medication. Five further patients discontinued due to SAEs (canakinumab, n=4 (1.2%); colchicine, n=1 (0.9%)). Infectious AEs were reported in 58 (18.0%) patients receiving canakinumab and 13 (12.0%) patients receiving colchicine 0.5 mg (table 3). There was no clear pattern with respect to the incidence of infections with either treatment. The only infections occurring in more than 1% of patients receiving canakinumab were upper respiratory tract infections (3.7%), nasopharyngitis (3.7%) and influenza (1.2%). Upper respiratory tract infections (3.7%) and cystitis (1.9%) were the only infections occurring in more than 1% of patients receiving colchicine. Six serious infections (erysipelas, gangrene, sepsis, tonsillitis, ear infection and pneumonia) were reported in four patients receiving canakinumab (table 3). Only the case of erysipelas was considered to be possibly related to study medication. No serious infections were reported in patients receiving colchicine. Injection-site reactions were reported in 20 (6.2%) patients treated with canakinumab and 4 (3.7%) patients in the colchicine group. All events were mild except for one moderate event in the canakinumab 50 mg group. One patient (in the 50 mg group) developed low levels of anti-canakinumab antibodies at week 24.
+          Table 3 Adverse events (safety set)
+        
+      
+    
+    
+      Discussion
+      This is the largest randomised, double-blind, active-controlled, multicentre trial reported in English in the medical literature to date assessing prophylaxis against acute gouty arthritis flares during the initiation of ULT. We herein report that a single dose of canakinumab, 50–300 mg, or 4-weekly doses given over 4 months (two doses of 50 mg and two of 25 mg) produced a 62% to 72% reduction in the mean number of flares per patient and a 64% to 72% reduction in the risk of experiencing ≥1 flare at 16 weeks compared with colchicine. In addition, the percentage of patients experiencing at least one flare at 16 weeks was significantly lower for all canakinumab doses compared with colchicine. Target SU levels (&lt;6 mg/dl) were achieved in 39% to 54% of patients treated with canakinumab and 46% of patients treated with colchicine at 16 weeks, consistent with results of other recent studies of allopurinol treatment in patients who were hyperuricaemic.17 21 22 All canakinumab doses were well tolerated. These results suggest that canakinumab can provide effective prophylaxis against gouty arthritis flares and is well tolerated in patients initiating ULT.
+      The results of this study validate the concept that IL-1β is a key mediator in the generation of acute gouty arthritis flares and hence an appropriate therapeutic target for treatment of acute gouty arthritis and prevention of flares. This has previously been demonstrated in a phase II, dose-ranging study of canakinumab as treatment for acute flares in patients with difficult-to-treat gouty arthritis.28 In this earlier study the highest dose of canakinumab tested, 150 mg, demonstrated consistently superior efficacy to triamcinolone acetonide 40 mg across all efficacy measures assessed including pain reduction at 72 h post dose, time to a 50% reduction in pain and the risk of recurrent flares. Therefore, the canakinumab 150 mg dose has been chosen for further assessment as treatment of acute gouty arthritis in phase III trials. Rilonacept, another inhibitor of IL-1β signalling in development, has demonstrated efficacy with weekly doses of 160 mg in the prevention of flares in patients initiating ULT compared with placebo,30 but has apparently failed to demonstrate efficacy in the treatment of acute gouty arthritis.31
+      The study reported here aimed to determine the dose of canakinumab for further study as prophylaxis for patients initiating ULT. However, no dose-response was evident with respect to the primary endpoint and the estimated dose with equivalent efficacy to colchicine was below the range of canakinumab doses tested. Results of secondary outcomes indicated that single canakinumab doses of 50–300 mg or 4-weekly doses given over 4 months have similar efficacy across all clinical endpoints assessed and are superior to colchicine 0.5 mg. The results of this study suggest that canakinumab may provide effective prophylaxis against flares in patients initiating ULT when given at doses lower than those used to treat acute gouty arthritis flares.
+      Accumulating data thus suggest that canakinumab is an effective new treatment option for patients with gouty arthritis and may be particularly valuable for patients with difficult-to-treat disease. Such patients frequently have comorbidities and may be unable to receive standard anti-inflammatory therapies.5 Results of a recent phase II study in patients with contraindications to non-steroidal anti-inflammatory drugs and/or colchicine have shown that canakinumab 150 mg provided effective pain relief and reduced the risk of new flares.28 This suggests that canakinumab is an effective treatment for acute gouty arthritis in patients with limited treatment options due to comorbidities. Ongoing phase III studies in this setting should help confirm the value of canakinumab for the treatment of this growing patient population who for whom improved treatment options are urgently required.
+      Canakinumab was generally well tolerated. Few patients experienced SAEs, severe AEs, or injection-site reactions. No organ toxicity and no dose-response for any AE were observed, and only one SAE was reported that was considered possibly related to canakinumab treatment. The safety profile of canakinumab reported here is consistent with that previously reported for treatment of acute gouty arthritis,28 and for patients with CAPS receiving canakinumab 150 mg at 8-week intervals for up to 48 weeks.32
+      Colchicine doses of 0.5–1.0 mg/day are recommended by The European League Against Rheumatism and the British Society for Rheumatology for prophylaxis against flares in patients initiating ULT.12 33 In this study we used a colchicine dose of 0.5 mg/day. The choice of dose was based on the clinical experience of the investigators and results of a study indicating that a dose of 0.6 mg/day is better tolerated than a higher dose.18 In this particular study, the planned dose of colchicine prophylaxis was 0.6 mg twice daily.18 However, dosing was reduced to once daily in approximately two-thirds of patients and 38% of patients experienced diarrhoea. In three other recent studies in patients initiating ULT, a colchicine dose of 0.6 mg/day was employed as prophylaxis and significant rates of diarrhoea were not reported.17 21 22 The rates of flares reported in these studies during colchicine prophylaxis (10% to 15% per month) are comparable with those reported in our study for the colchicine group.
+      There are a number of limitations to this study. First, colchicine 0.5 mg was only given for 16 weeks. The risk of flares following initiation of ULT is known to extend for up to a year or longer; thus a more prolonged period of colchicine prophylaxis may have been appropriate. However, key efficacy outcomes including the primary outcome were assessed at 16 weeks. Second, occurrence and duration of flares was dependent on patients’ assessment. This reflects the fact that there are currently no validated endpoints for the assessment of gouty arthritis flares. Outcome Measures in Rheumatoid Arthritis Clinical Trials (OMERACT) have suggested possible endpoints for use in studies of gouty arthritis but these have yet to be validated.34 The endpoints used in our study overlap with those suggested by OMERACT and use of patient self-reporting for flares is unlikely to have had an impact on the results. Third, the study population is probably not representative of all patients who would benefit from canakinumab. This reflects the need to exclude patients with possible risks associated with either treatment and the use of the exclusion criteria generally used in clinical trials in patients with gouty arthritis. Fourth, allopurinol treatment was initiated at 300 mg (or 100 mg or 200 mg if creatinine clearance was &lt;90 ml/min) instead of slowly up-titrating from a dose of 50–100 mg, as suggested in treatment recommendations.12 33 This may have increased the risk of flares compared with a dose-titration strategy. However, giving allopurinol at a fixed dose is a very common practice throughout Europe.12
+      In conclusion, in this double-blind, active-controlled, multicentre study assessing prophylaxis against gouty arthritis flares during the initiation of ULT, a single canakinumab dose of 50–300 mg or 4-weekly dosing over 4 months provided effective prophylaxis against flares, was superior to the standard of care (colchicine) and was well tolerated. Further studies of canakinumab 150 mg are being conducted to determine the full potential of this new drug for the prevention of flares in patients with gouty arthritis.
+    
+  
+
+Back matter
+
+      We thank the patients and investigators who took part in this study. We also thank Alberto Gimona (Senior Global Program Medical Director, Immunology and Infectious Disease Franchise, Novartis Pharma AG) for critical review of the manuscript and helpful suggestions and Kirstin Stricker (Clinical Communication Leader, Immunology and Infectious Disease Franchise, Novartis Pharma AG) for her contribution to the interpretation of the data, critical review of the paper and for coordinating author discussions and writing of the manuscript, and Rowena Hughes and Gemma Carter (Oxford PharmaGenesis Ltd) for medical writing support, editorial assistance, and collation and incorporation of comments from all authors. Such editorial help was funded by Novartis Pharma AG, Basel, Switzerland. The authors take full responsibility for the content of the paper.
+    
+
+      
+        Funding The study was funded by Novartis Pharma AG, Basel, Switzerland. The study was designed by Novartis Pharma AG (Sarah Magliano, Marianne Notter, Dominik Richard and PS) in conjunction with NS and AS. Data were collected and analysed by Novartis according to the prespecified protocol. All authors, including UA, PS, GK and AB who are employees of Novartis, together with Kirstin Stricker, Novartis Pharma AG, were involved in the decision to publish. All authors including those who are employees of Novartis were involved in the interpretation of the data and the writing of the paper. Medical writing and editorial assistance were provided by Rowena Hughes and Gemma Carter, Oxford PharmaGenesis Ltd, following teleconferences with all authors during which the data, its interpretation and the content of the paper were discussed; this was funded by Novartis Pharma AG. All authors approved the submitted paper.
+      
+      
+        Competing interests NS: grant, travel expenses and payment for advisory board membership from Novartis Pharma, payment for development of educational presentations from Takeda and payment for advisory board membership from Savient, URL Pharma and Enzyme Rx. H-YL, EM and JR report no conflicts of interest. MDeM: payment from Novartis for development of educational presentations. PS, UA, GK and AB are employees of Novartis and report having equity interests in Novartis. AS: payment from Novartis for board membership, consultancy and travel expenses.
+      
+      
+        Ethics approval This study was approved by all responsible independent ethics committees.
+      
+      
+        Provenance and peer review Not commissioned; externally peer reviewed.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-154" id="S2" selection="1a">
+        <text xml:space="preserve">Canakinumab reduces the risk of acute gouty arthritis flares during initiation of allopurinol treatment: results of a double-blind, randomised study</text>
+    </sentence>
+    <sentence charOffset="155-163" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="184-193" id="S4" selection="">
+        <text xml:space="preserve">Objective</text>
+    </sentence>
+    <sentence charOffset="204-420" id="S5" selection="1b">
+        <text xml:space="preserve">This study assessed the efficacy and safety of canakinumab, a fully human anti-interleukin 1β monoclonal antibody, for prophylaxis against acute gouty arthritis flares in patients initiating urate-lowering treatment.</text>
+    </sentence>
+    <sentence charOffset="449-456" id="S6" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="467-818" id="S7" selection="">
+        <text xml:space="preserve">In this double-blind, double-dummy, dose-ranging study, 432 patients with gouty arthritis initiating allopurinol treatment were randomised 1:1:1:1:1:1:2 to receive: a single dose of canakinumab, 25, 50, 100, 200, or 300 mg subcutaneously; 4×4-weekly doses of canakinumab (50+50+25+25 mg subcutaneously); or daily colchicine 0.5 mg orally for 16 weeks.</text>
+    </sentence>
+    <sentence charOffset="819-866" id="S8" selection="">
+        <text xml:space="preserve">Patients recorded details of flares in diaries.</text>
+    </sentence>
+    <sentence charOffset="867-977" id="S9" selection="">
+        <text xml:space="preserve">The study aimed to determine the canakinumab dose having equivalent efficacy to colchicine 0.5 mg at 16 weeks.</text>
+    </sentence>
+    <sentence charOffset="1006-1013" id="S10" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="1024-1126" id="S11" selection="">
+        <text xml:space="preserve">A dose-response for canakinumab was not apparent with any of the four predefined dose-response models.</text>
+    </sentence>
+    <sentence charOffset="1127-1233" id="S12" selection="">
+        <text xml:space="preserve">The estimated canakinumab dose with equivalent efficacy to colchicine was below the range of doses tested.</text>
+    </sentence>
+    <sentence charOffset="1234-1586" id="S13" selection="">
+        <text xml:space="preserve">At 16 weeks, there was a 62% to 72% reduction in the mean number of flares per patient for canakinumab doses ≥50 mg versus colchicine based on a negative binomial model (rate ratio: 0.28–0.38, p≤0.0083), and the percentage of patients experiencing ≥1 flare was significantly lower for all canakinumab doses (15% to 27%) versus colchicine (44%, p&lt;0.05).</text>
+    </sentence>
+    <sentence charOffset="1587-1755" id="S14" selection="">
+        <text xml:space="preserve">There was a 64% to 72% reduction in the risk of experiencing ≥1 flare for canakinumab doses ≥50 mg versus colchicine at 16 weeks (hazard ratio (HR): 0.28–0.36, p≤0.05).</text>
+    </sentence>
+    <sentence charOffset="1756-1824" id="S15" selection="">
+        <text xml:space="preserve">The incidence of adverse events was similar across treatment groups.</text>
+    </sentence>
+    <sentence charOffset="1853-1864" id="S16" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="1875-2013" id="S17" selection="">
+        <text xml:space="preserve">Single canakinumab doses ≥50 mg or four 4-weekly doses provided superior prophylaxis against flares compared with daily colchicine 0.5 mg.</text>
+    </sentence>
+    <sentence charOffset="2043-2055" id="S18">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2062-2225" id="S19" selection="">
+        <text xml:space="preserve">Gouty arthritis is a painful inflammatory arthritis that becomes increasingly prevalent with age, affecting around 10% of men and 6% of women over 70 years old.1 2</text>
+    </sentence>
+    <sentence charOffset="2226-2367" id="S20" selection="">
+        <text xml:space="preserve">It results from deposition of monosodium urate (MSU) crystals in joints, which leads to painful inflammatory acute gouty arthritis flares.3 4</text>
+    </sentence>
+    <sentence charOffset="2368-2465" id="S21" selection="">
+        <text xml:space="preserve">An increasing number of patients have comorbidities which make standard therapies inappropriate.5</text>
+    </sentence>
+    <sentence charOffset="2466-2728" id="S22" selection="">
+        <text xml:space="preserve">Such patients may develop difficult-to-treat disease, characterised by frequent flares and persistent inflammation between flares which contribute to joint damage6 and have a major impact on health-related quality of life7 8 and an individual's ability to work.9</text>
+    </sentence>
+    <sentence charOffset="2735-2855" id="S23" selection="">
+        <text xml:space="preserve">Long-standing elevated body uric acid pools can lead to increased serum urate (SU) levels and formation of MSU crystals.</text>
+    </sentence>
+    <sentence charOffset="2856-3092" id="S24" selection="">
+        <text xml:space="preserve">An important goal in the long-term management of gouty arthritis is the reduction of SU levels to below 6 mg/dl so as to prevent formation of new crystals, dissolve existing crystals and ultimately decrease the incidence of flares.10 11</text>
+    </sentence>
+    <sentence charOffset="3093-3148" id="S25" selection="">
+        <text xml:space="preserve">This is achieved with urate lowering therapies (ULT).12</text>
+    </sentence>
+    <sentence charOffset="3149-3224" id="S26" selection="">
+        <text xml:space="preserve">Allopurinol is the most commonly used ULT and the current standard of care.</text>
+    </sentence>
+    <sentence charOffset="3231-3362" id="S27" selection="">
+        <text xml:space="preserve">During the first weeks and months after initiating ULT, rapid reductions in SU levels can induce acute gouty arthritis flares.13–17</text>
+    </sentence>
+    <sentence charOffset="3363-3522" id="S28" selection="">
+        <text xml:space="preserve">Therefore, when initiating a patient on ULT, prophylactic low-dose anti-inflammatory treatment is recommended to prevent flares and foster compliance with ULT.</text>
+    </sentence>
+    <sentence charOffset="3523-3660" id="S29" selection="">
+        <text xml:space="preserve">Low-dose colchicine is the most commonly prescribed drug for prophylaxis in patients initiating ULT, but it has significant shortcomings.</text>
+    </sentence>
+    <sentence charOffset="3661-3781" id="S30" selection="">
+        <text xml:space="preserve">Some patients have contraindications to colchicine whereas others do not tolerate colchicine or still experience flares.</text>
+    </sentence>
+    <sentence charOffset="3782-3928" id="S31" selection="">
+        <text xml:space="preserve">Evidence for the efficacy of colchicine as prophylaxis against flares comes from two small studies and a larger study performed 50 years ago.18–20</text>
+    </sentence>
+    <sentence charOffset="3929-4090" id="S32" selection="">
+        <text xml:space="preserve">Three recent trials used colchicine for prophylaxis in patients initiating ULT (with febuxostat), but provide limited data on the efficacy of colchicine.17 21 22</text>
+    </sentence>
+    <sentence charOffset="4091-4277" id="S33" selection="">
+        <text xml:space="preserve">There is therefore a need for more rigorous assessment of the efficacy of colchicine as prophylaxis against flares following ULT initiation and the introduction of alternative therapies.</text>
+    </sentence>
+    <sentence charOffset="4284-4663" id="S34" selection="2a">
+        <text xml:space="preserve">Several lines of evidence suggest that the proinflammatory cytokine, interleukin 1β (IL-1β), plays a key role in mediating the initiation of inflammation in gouty arthritis in a similar manner to that occurring in the hereditary autoinflammatory syndrome, cryopyrin-associated periodic syndrome (CAPS),23 24 and may also contribute to joint destruction in gouty arthritis.6 25 26</text>
+    </sentence>
+    <sentence charOffset="4664-5070" id="S35" selection="2a">
+        <text xml:space="preserve">This suggests that selective blockade of IL-1β signalling may provide effective prophylaxis against flares in patients with gouty arthritis and is supported by results showing that IL-1β blockade with canakinumab, a fully human monoclonal antibody to IL-1β with a half-life of 3–4 weeks,27 can effectively reduce pain, inflammation and the risk of recurrent flares in patients with acute gouty arthritis.28</text>
+    </sentence>
+    <sentence charOffset="5071-5289" id="S36" selection="2b">
+        <text xml:space="preserve">Here, we report the results of a dose-ranging, active-controlled phase II trial to assess the efficacy, safety and tolerability of canakinumab as prophylaxis against flares in patients initiating allopurinol treatment.</text>
+    </sentence>
+    <sentence charOffset="5306-5313" id="S37">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="5329-5341" id="S38" selection="">
+        <text xml:space="preserve">Study design</text>
+    </sentence>
+    <sentence charOffset="5350-5515" id="S39" selection="3a">
+        <text xml:space="preserve">This was a 24-week, dose-ranging, multicentre, double-blind, double-dummy, active-controlled study and was approved by all responsible independent ethics committees.</text>
+    </sentence>
+    <sentence charOffset="5516-5867" id="S40" selection="">
+        <text xml:space="preserve">The study was performed in accordance with the International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH) Harmonised Tripartite Guidelines for Good Clinical Practice and the ethical principles laid down in the Declaration of Helsinki, and all patients provided written informed consent.</text>
+    </sentence>
+    <sentence charOffset="5868-5963" id="S41" selection="23">
+        <text xml:space="preserve">The trial was registered with http://www.clinicaltrials.gov (registration number: NCT00819585).</text>
+    </sentence>
+    <sentence charOffset="5972-6080" id="S42" selection="6a">
+        <text xml:space="preserve">At screening, patients indicated which of their joints was most affected by previous gouty arthritis flares.</text>
+    </sentence>
+    <sentence charOffset="6081-6415" id="S43" selection="5,8b">
+        <text xml:space="preserve">Eligible patients were subsequently randomised 1:1:1:1:1:1:2 to receive a single dose of canakinumab, 25 mg, 50 mg, 100 mg, 200 mg, or 300 mg on day 1, or four canakinumab doses administered at 4-weekly intervals (50 mg on day 1 and at week 4, and 25 mg at weeks 8 and 12), or daily oral doses of colchicine 0.5 mg given for 16 weeks.</text>
+    </sentence>
+    <sentence charOffset="6416-6711" id="S44" selection="11a,11b">
+        <text xml:space="preserve">In order to achieve blinding for patients and investigators, all patients received subcutaneous injections of canakinumab or canakinumab placebo on day 1, and at weeks 4, 8 and 12, and took capsules of colchicine or colchicine placebo daily for 16 weeks (see supplementary material for details).</text>
+    </sentence>
+    <sentence charOffset="6712-6748" id="S45" selection="14a">
+        <text xml:space="preserve">Patients were followed for 24 weeks.</text>
+    </sentence>
+    <sentence charOffset="6757-6965" id="S46" selection="5">
+        <text xml:space="preserve">Allopurinol treatment (100–300 mg) was initiated at baseline or within 1 month before baseline and was administered to all randomised patients once daily for 24 weeks (see supplementary material for details).</text>
+    </sentence>
+    <sentence charOffset="6966-7058" id="S47" selection="5">
+        <text xml:space="preserve">Patients could receive rescue medication as needed (see supplementary material for details).</text>
+    </sentence>
+    <sentence charOffset="7081-7089" id="S48" selection="">
+        <text xml:space="preserve">Patients</text>
+    </sentence>
+    <sentence charOffset="7098-7473" id="S49" selection="4a">
+        <text xml:space="preserve">Inclusion criteria were: age 18–80 years, diagnosis of gouty arthritis as defined by the American College of Rheumatology 1977 preliminary criteria,29 having had at least two gouty arthritis flares in the previous year, body mass index (BMI) of ≤40 kg/m2 and willingness to initiate allopurinol treatment or having initiated allopurinol treatment within 1 month of screening.</text>
+    </sentence>
+    <sentence charOffset="7482-7777" id="S50" selection="4a">
+        <text xml:space="preserve">Key exclusion criteria were: having a gouty arthritis flare within 2 weeks of screening, present at screening, or having pain associated with a flare at screening; history of allergy, contraindication, or intolerance to allopurinol or colchicine (see supplementary material for further details).</text>
+    </sentence>
+    <sentence charOffset="7800-7811" id="S51" selection="">
+        <text xml:space="preserve">Assessments</text>
+    </sentence>
+    <sentence charOffset="7820-7849" id="S52" selection="6a">
+        <text xml:space="preserve">Flares were patient reported.</text>
+    </sentence>
+    <sentence charOffset="7850-8021" id="S53" selection="6a">
+        <text xml:space="preserve">For each flare, patients recorded in a diary the start date, the most affected joint on that day and the severity of pain (see supplementary material for further details).</text>
+    </sentence>
+    <sentence charOffset="8022-8180" id="S54" selection="6a">
+        <text xml:space="preserve">Patients also recorded rescue medication use and pain for at least 7 days after the onset of the flare or longer if the flares persisted for more than 7 days.</text>
+    </sentence>
+    <sentence charOffset="8189-8539" id="S55" selection="6a">
+        <text xml:space="preserve">Safety assessments were performed at scheduled visits (2, 4, 8, 12, 16, 20 and 24 weeks) and included collection of blood samples for assessment of the inflammatory marker, C reactive protein (CRP), haematology and immunogenicity (at baseline and weeks 8, 16 and 24) and doctor's assessments of local tolerability at sites of subcutaneous injections.</text>
+    </sentence>
+    <sentence charOffset="8540-8596" id="S56" selection="6a">
+        <text xml:space="preserve">Adverse events (AEs) were reported throughout the study.</text>
+    </sentence>
+    <sentence charOffset="8605-8859" id="S57" selection="6a">
+        <text xml:space="preserve">The primary outcome was determination of the canakinumab dose producing equivalent efficacy to that achieved with colchicine 0.5 mg, with respect to the mean number of flares per patient occurring within 16 weeks post randomisation (ie, the target dose).</text>
+    </sentence>
+    <sentence charOffset="8860-9093" id="S58" selection="6a">
+        <text xml:space="preserve">Secondary efficacy outcomes included: mean number of flares per patient, proportion of patients with at least one flare, time to first flare, average duration of flares and CRP levels (see supplementary material for further details).</text>
+    </sentence>
+    <sentence charOffset="9094-9256" id="S59" selection="6a">
+        <text xml:space="preserve">Safety variables included the incidence of AEs, serious AEs (SAEs) and infectious AEs, the incidence and severity of injection-site reactions, and immunogenicity.</text>
+    </sentence>
+    <sentence charOffset="9279-9329" id="S60" selection="">
+        <text xml:space="preserve">Sample size determination and statistical analysis</text>
+    </sentence>
+    <sentence charOffset="9338-9581" id="S61" selection="7a">
+        <text xml:space="preserve">A sample size of 350 patients (50 patients in each of the 5 canakinumab single-dose groups and 100 patients in the colchicine group) was considered sufficient to give a 95% confidence interval (CI) of the target dose with reasonable precision.</text>
+    </sentence>
+    <sentence charOffset="9582-9760" id="S62" selection="7a">
+        <text xml:space="preserve">In order to increase the precision of the analysis the planned total sample size of 400 was increased to approximately 440 patients (see supplementary material for more details).</text>
+    </sentence>
+    <sentence charOffset="9769-9854" id="S63" selection="6a,7b">
+        <text xml:space="preserve">A preplanned interim analysis was performed when 200 patients had completed 16 weeks.</text>
+    </sentence>
+    <sentence charOffset="9855-9957" id="S64" selection="6a">
+        <text xml:space="preserve">Efficacy and safety analyses were then performed when all patients had completed the study (24 weeks).</text>
+    </sentence>
+    <sentence charOffset="9966-10248" id="S65" selection="12a">
+        <text xml:space="preserve">For determination of the primary outcome, the number of flares per patient during 16 weeks was modelled using a negative binomial distribution and a common overdispersion (variance divided by expectation minus 1) for all treatment arms (see supplementary material for more details).</text>
+    </sentence>
+    <sentence charOffset="10257-10338" id="S66" selection="6a">
+        <text xml:space="preserve">The main secondary outcome was the mean number of flares per patient at 16 weeks.</text>
+    </sentence>
+    <sentence charOffset="10339-10491" id="S67" selection="12a">
+        <text xml:space="preserve">Data were analysed according to an analysis of covariance (ANCOVA) with treatment group, allopurinol dose at baseline and BMI at baseline as covariates.</text>
+    </sentence>
+    <sentence charOffset="10492-10636" id="S68" selection="12a">
+        <text xml:space="preserve">However, as the distribution of flares per patient was observed to be skewed, the preplanned ANCOVA was considered inappropriate for these data.</text>
+    </sentence>
+    <sentence charOffset="10637-10960" id="S69" selection="12b">
+        <text xml:space="preserve">Therefore a post hoc analysis using a negative binomial model with treatment group, allopurinol dose at baseline and BMI at baseline as covariates and log (time on study) as an offset was performed with an adjustment made for multiplicity (see supplementary material for further details of analyses for secondary outcomes).</text>
+    </sentence>
+    <sentence charOffset="10984-10991" id="S70">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="11007-11056" id="S71" selection="">
+        <text xml:space="preserve">Baseline demographics and disease characteristics</text>
+    </sentence>
+    <sentence charOffset="11065-11231" id="S72" selection="13a,13b,16">
+        <text xml:space="preserve">Between December 2008 and August 2009, 432 patients from 75 centres in 16 countries were randomised to treatment; 391 patients (90.5%) completed the study (figure 1).</text>
+    </sentence>
+    <sentence charOffset="11232-11344" id="S73" selection="15">
+        <text xml:space="preserve">Demographic and baseline disease characteristics were generally well balanced across treatment groups (table 1).</text>
+    </sentence>
+    <sentence charOffset="11345-11443" id="S74" selection="15">
+        <text xml:space="preserve">Most patients were men (89% to 100%) and 28% to 44% had had gouty arthritis for at least 10 years.</text>
+    </sentence>
+    <sentence charOffset="11444-11518" id="S75" selection="15">
+        <text xml:space="preserve">At baseline, many patients had very high SU levels (≥9 mg/dl; 35% to 55%).</text>
+    </sentence>
+    <sentence charOffset="11519-11620" id="S76" selection="15">
+        <text xml:space="preserve">The mean number of flares in the past year ranged from 3.6 to 4.7 for the different treatment groups.</text>
+    </sentence>
+    <sentence charOffset="11621-11791" id="S77" selection="15">
+        <text xml:space="preserve">Approximately 6% of patients had reduced renal function, defined as having an estimated creatinine clearance rate (CrCl) below the normal range for age and sex (table 1).</text>
+    </sentence>
+    <sentence charOffset="11800-11829" id="S78" selection="13a">
+        <text xml:space="preserve">Figure 1 Patient disposition.</text>
+    </sentence>
+    <sentence charOffset="11830-12147" id="S79" selection="4b">
+        <text xml:space="preserve">Patients were recruited from the following countries (number of centres): Argentina (1), Belgium (2), Columbia (5), Czech Republic (5), Germany (5), Guatemala (5), Hungary (4), Poland (2), Portugal (3), Russia (7), Singapore (1), Slovakia (6), South Africa (4), Spain (4), Taiwan (4), Turkey (8), UK (2) and USA (20).</text>
+    </sentence>
+    <sentence charOffset="12156-12217" id="S80" selection="15">
+        <text xml:space="preserve">Table 1 Demographic and baseline characteristics (safety set)</text>
+    </sentence>
+    <sentence charOffset="12240-12297" id="S81" selection="">
+        <text xml:space="preserve">Primary outcome: determination of canakinumab target dose</text>
+    </sentence>
+    <sentence charOffset="12306-12397" id="S82" selection="17a">
+        <text xml:space="preserve">No evidence of a dose-response was seen in any of the four predefined dose response models.</text>
+    </sentence>
+    <sentence charOffset="12398-12516" id="S83" selection="17a">
+        <text xml:space="preserve">The estimated canakinumab dose with equivalent efficacy to colchicine was below the range of canakinumab doses tested.</text>
+    </sentence>
+    <sentence charOffset="12539-12557" id="S84" selection="">
+        <text xml:space="preserve">Secondary outcomes</text>
+    </sentence>
+    <sentence charOffset="12577-12594" id="S85" selection="">
+        <text xml:space="preserve">Clinical outcomes</text>
+    </sentence>
+    <sentence charOffset="12605-12890" id="S86" selection="17a">
+        <text xml:space="preserve">The least-squares (LS) mean number of flares per patient for the 16 weeks (according to the preplanned ANCOVA) was lower for all canakinumab doses compared with colchicine 0.5 mg; differences were statistically significant for the canakinumab 100 mg and 300 mg doses (p≤0.05, table 2).</text>
+    </sentence>
+    <sentence charOffset="12891-13211" id="S87" selection="17a">
+        <text xml:space="preserve">(The LS mean number of flares per patient is the best-fitting unbiased estimate calculated from the ANCOVA model.) However, as the distribution of flares per patient was observed to be skewed (most patients had no or few flares and few had many flares), the preplanned ANCOVA was considered inappropriate for these data.</text>
+    </sentence>
+    <sentence charOffset="13212-13358" id="S88" selection="18">
+        <text xml:space="preserve">Therefore a post hoc analysis using a negative binomial model (the model used for the primary outcome) was performed after unblinding at 16 weeks.</text>
+    </sentence>
+    <sentence charOffset="13359-13552" id="S89" selection="18">
+        <text xml:space="preserve">According to this analysis, there was a 62% to 72% reduction in the mean number of flares per patient for canakinumab doses ≥50 mg versus colchicine (rate ratio: 0.28–0.38, p≤0.0083) (table 2).</text>
+    </sentence>
+    <sentence charOffset="13563-13633" id="S90" selection="18">
+        <text xml:space="preserve">Table 2 Summary of efficacy parameters at 16 weeks (full analysis set)</text>
+    </sentence>
+    <sentence charOffset="13644-14060" id="S91" selection="17b">
+        <text xml:space="preserve">The percentage of patients experiencing at least one flare in the 16-week period was lower for all canakinumab groups versus colchicine 0.5 mg (canakinumab, 15% to 27%; colchicine, 44%, p≤0.05), and all patients receiving canakinumab were significantly less likely to experience at least one flare compared with patients treated with colchicine (estimated odds ratio (OR) vs colchicine: 0.22–0.47, p≤0.05) (table 2).</text>
+    </sentence>
+    <sentence charOffset="14061-14373" id="S92" selection="17a,17b">
+        <text xml:space="preserve">In addition, time to first new gouty arthritis flare was longer with all canakinumab groups compared with colchicine 0.5 mg (figure 2) and there was a 64% to 72% reduction in the risk of experiencing at least one flare for canakinumab doses ≥50 mg versus colchicine at 16 weeks (HR: 0.28–0.36, p≤0.05) (table 2).</text>
+    </sentence>
+    <sentence charOffset="14374-14554" id="S93" selection="17a">
+        <text xml:space="preserve">The average duration (LS mean) for all flares over the 16-week period was shorter in all canakinumab groups compared with colchicine 0.5 mg: 2.8–4.6 days versus 5.1 days (table 2).</text>
+    </sentence>
+    <sentence charOffset="14555-14688" id="S94" selection="17a">
+        <text xml:space="preserve">Differences in average duration between all canakinumab groups versus colchicine 0.5 mg, however, were not statistically significant.</text>
+    </sentence>
+    <sentence charOffset="14699-14794" id="S95" selection="17a">
+        <text xml:space="preserve">Figure 2 Time to first acute gouty arthritis flare after randomisation (Kaplan–Meier estimate).</text>
+    </sentence>
+    <sentence charOffset="14823-14833" id="S96" selection="">
+        <text xml:space="preserve">CRP levels</text>
+    </sentence>
+    <sentence charOffset="14844-14929" id="S97" selection="17a">
+        <text xml:space="preserve">An initial decrease in median CRP levels was seen in all treatment groups (figure 3).</text>
+    </sentence>
+    <sentence charOffset="14930-15142" id="S98" selection="17a">
+        <text xml:space="preserve">For all canakinumab doses ≥50 mg, median CRP values remained consistently lower than in the colchicine group throughout the study and were below the upper limit of the normal range (ULN, 3.0 mg/dl) up to week 24.</text>
+    </sentence>
+    <sentence charOffset="15153-15205" id="S99" selection="17a">
+        <text xml:space="preserve">Figure 3 Median C reactive protein levels over time.</text>
+    </sentence>
+    <sentence charOffset="15206-15289" id="S100" selection="">
+        <text xml:space="preserve">CRP, C reactive protein; q4wk, every 4 weeks; ULN, upper limit of the normal range.</text>
+    </sentence>
+    <sentence charOffset="15318-15327" id="S101" selection="">
+        <text xml:space="preserve">SU levels</text>
+    </sentence>
+    <sentence charOffset="15338-15411" id="S102" selection="15">
+        <text xml:space="preserve">At baseline, 85.2% to 92.6% of patients had SU levels ≥6 mg/dl (table 1).</text>
+    </sentence>
+    <sentence charOffset="15412-15645" id="S103" selection="17b">
+        <text xml:space="preserve">At 16 weeks 38.9% to 53.7% of patients treated with canakinumab and 46.3% of patients treated with colchicine achieved SU levels &lt;6 mg/dl and similar results were reported for week 24 (canakinumab, 37.0% to 50.9%; colchicine, 41.7%).</text>
+    </sentence>
+    <sentence charOffset="15674-15697" id="S104" selection="">
+        <text xml:space="preserve">Safety and tolerability</text>
+    </sentence>
+    <sentence charOffset="15708-15780" id="S105" selection="19,17b">
+        <text xml:space="preserve">Safety results for the individual dose groups are summarised in table 3.</text>
+    </sentence>
+    <sentence charOffset="15781-15936" id="S106" selection="19,17b">
+        <text xml:space="preserve">The incidence of AEs over the 24-week period was similar across the six canakinumab groups (51.9% to 58.5%) and for the colchicine group (53.7%) (table 3).</text>
+    </sentence>
+    <sentence charOffset="15937-16037" id="S107" selection="">
+        <text xml:space="preserve">Most AEs were mild or moderate in severity, and there was no evidence of a dose-response for any AE.</text>
+    </sentence>
+    <sentence charOffset="16038-16346" id="S108" selection="19,17b">
+        <text xml:space="preserve">SAEs were reported in 14 (4.3%) patients treated with canakinumab and 6 (5.6%) patients treated with colchicine; 2 were considered by the investigator to be possibly related to study medication: erysipelas of the left leg in the canakinumab 25 mg group and cancer of the right kidney in the colchicine group.</text>
+    </sentence>
+    <sentence charOffset="16347-16503" id="S109" selection="19">
+        <text xml:space="preserve">One death occurred in the colchicine group, a possible myocardial infarction, but was not regarded by the investigator as being related to study medication.</text>
+    </sentence>
+    <sentence charOffset="16504-16601" id="S110" selection="17b">
+        <text xml:space="preserve">Five further patients discontinued due to SAEs (canakinumab, n=4 (1.2%); colchicine, n=1 (0.9%)).</text>
+    </sentence>
+    <sentence charOffset="16602-16738" id="S111" selection="17b">
+        <text xml:space="preserve">Infectious AEs were reported in 58 (18.0%) patients receiving canakinumab and 13 (12.0%) patients receiving colchicine 0.5 mg (table 3).</text>
+    </sentence>
+    <sentence charOffset="16739-16832" id="S112" selection="">
+        <text xml:space="preserve">There was no clear pattern with respect to the incidence of infections with either treatment.</text>
+    </sentence>
+    <sentence charOffset="16833-17005" id="S113" selection="19">
+        <text xml:space="preserve">The only infections occurring in more than 1% of patients receiving canakinumab were upper respiratory tract infections (3.7%), nasopharyngitis (3.7%) and influenza (1.2%).</text>
+    </sentence>
+    <sentence charOffset="17006-17152" id="S114" selection="19">
+        <text xml:space="preserve">Upper respiratory tract infections (3.7%) and cystitis (1.9%) were the only infections occurring in more than 1% of patients receiving colchicine.</text>
+    </sentence>
+    <sentence charOffset="17153-17312" id="S115" selection="19">
+        <text xml:space="preserve">Six serious infections (erysipelas, gangrene, sepsis, tonsillitis, ear infection and pneumonia) were reported in four patients receiving canakinumab (table 3).</text>
+    </sentence>
+    <sentence charOffset="17313-17399" id="S116" selection="19">
+        <text xml:space="preserve">Only the case of erysipelas was considered to be possibly related to study medication.</text>
+    </sentence>
+    <sentence charOffset="17400-17469" id="S117" selection="19">
+        <text xml:space="preserve">No serious infections were reported in patients receiving colchicine.</text>
+    </sentence>
+    <sentence charOffset="17470-17602" id="S118" selection="19">
+        <text xml:space="preserve">Injection-site reactions were reported in 20 (6.2%) patients treated with canakinumab and 4 (3.7%) patients in the colchicine group.</text>
+    </sentence>
+    <sentence charOffset="17603-17685" id="S119" selection="">
+        <text xml:space="preserve">All events were mild except for one moderate event in the canakinumab 50 mg group.</text>
+    </sentence>
+    <sentence charOffset="17686-17782" id="S120" selection="19">
+        <text xml:space="preserve">One patient (in the 50 mg group) developed low levels of anti-canakinumab antibodies at week 24.</text>
+    </sentence>
+    <sentence charOffset="17793-17828" id="S121" selection="19,17b">
+        <text xml:space="preserve">Table 3 Adverse events (safety set)</text>
+    </sentence>
+    <sentence charOffset="17861-17871" id="S122">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="17878-18103" id="S123" selection="">
+        <text xml:space="preserve">This is the largest randomised, double-blind, active-controlled, multicentre trial reported in English in the medical literature to date assessing prophylaxis against acute gouty arthritis flares during the initiation of ULT.</text>
+    </sentence>
+    <sentence charOffset="18104-18417" id="S124" selection="">
+        <text xml:space="preserve">We herein report that a single dose of canakinumab, 50–300 mg, or 4-weekly doses given over 4 months (two doses of 50 mg and two of 25 mg) produced a 62% to 72% reduction in the mean number of flares per patient and a 64% to 72% reduction in the risk of experiencing ≥1 flare at 16 weeks compared with colchicine.</text>
+    </sentence>
+    <sentence charOffset="18418-18577" id="S125" selection="">
+        <text xml:space="preserve">In addition, the percentage of patients experiencing at least one flare at 16 weeks was significantly lower for all canakinumab doses compared with colchicine.</text>
+    </sentence>
+    <sentence charOffset="18578-18845" id="S126" selection="22">
+        <text xml:space="preserve">Target SU levels (&lt;6 mg/dl) were achieved in 39% to 54% of patients treated with canakinumab and 46% of patients treated with colchicine at 16 weeks, consistent with results of other recent studies of allopurinol treatment in patients who were hyperuricaemic.17 21 22</text>
+    </sentence>
+    <sentence charOffset="18846-18888" id="S127" selection="22">
+        <text xml:space="preserve">All canakinumab doses were well tolerated.</text>
+    </sentence>
+    <sentence charOffset="18889-19042" id="S128" selection="22">
+        <text xml:space="preserve">These results suggest that canakinumab can provide effective prophylaxis against gouty arthritis flares and is well tolerated in patients initiating ULT.</text>
+    </sentence>
+    <sentence charOffset="19049-19283" id="S129" selection="22">
+        <text xml:space="preserve">The results of this study validate the concept that IL-1β is a key mediator in the generation of acute gouty arthritis flares and hence an appropriate therapeutic target for treatment of acute gouty arthritis and prevention of flares.</text>
+    </sentence>
+    <sentence charOffset="19284-19455" id="S130" selection="">
+        <text xml:space="preserve">This has previously been demonstrated in a phase II, dose-ranging study of canakinumab as treatment for acute flares in patients with difficult-to-treat gouty arthritis.28</text>
+    </sentence>
+    <sentence charOffset="19456-19750" id="S131" selection="">
+        <text xml:space="preserve">In this earlier study the highest dose of canakinumab tested, 150 mg, demonstrated consistently superior efficacy to triamcinolone acetonide 40 mg across all efficacy measures assessed including pain reduction at 72 h post dose, time to a 50% reduction in pain and the risk of recurrent flares.</text>
+    </sentence>
+    <sentence charOffset="19751-19887" id="S132" selection="">
+        <text xml:space="preserve">Therefore, the canakinumab 150 mg dose has been chosen for further assessment as treatment of acute gouty arthritis in phase III trials.</text>
+    </sentence>
+    <sentence charOffset="19888-20182" id="S133" selection="">
+        <text xml:space="preserve">Rilonacept, another inhibitor of IL-1β signalling in development, has demonstrated efficacy with weekly doses of 160 mg in the prevention of flares in patients initiating ULT compared with placebo,30 but has apparently failed to demonstrate efficacy in the treatment of acute gouty arthritis.31</text>
+    </sentence>
+    <sentence charOffset="20189-20317" id="S134" selection="">
+        <text xml:space="preserve">The study reported here aimed to determine the dose of canakinumab for further study as prophylaxis for patients initiating ULT.</text>
+    </sentence>
+    <sentence charOffset="20318-20503" id="S135" selection="22">
+        <text xml:space="preserve">However, no dose-response was evident with respect to the primary endpoint and the estimated dose with equivalent efficacy to colchicine was below the range of canakinumab doses tested.</text>
+    </sentence>
+    <sentence charOffset="20504-20724" id="S136" selection="22">
+        <text xml:space="preserve">Results of secondary outcomes indicated that single canakinumab doses of 50–300 mg or 4-weekly doses given over 4 months have similar efficacy across all clinical endpoints assessed and are superior to colchicine 0.5 mg.</text>
+    </sentence>
+    <sentence charOffset="20725-20932" id="S137" selection="22">
+        <text xml:space="preserve">The results of this study suggest that canakinumab may provide effective prophylaxis against flares in patients initiating ULT when given at doses lower than those used to treat acute gouty arthritis flares.</text>
+    </sentence>
+    <sentence charOffset="20939-21136" id="S138" selection="21">
+        <text xml:space="preserve">Accumulating data thus suggest that canakinumab is an effective new treatment option for patients with gouty arthritis and may be particularly valuable for patients with difficult-to-treat disease.</text>
+    </sentence>
+    <sentence charOffset="21137-21248" id="S139" selection="">
+        <text xml:space="preserve">Such patients frequently have comorbidities and may be unable to receive standard anti-inflammatory therapies.5</text>
+    </sentence>
+    <sentence charOffset="21249-21481" id="S140" selection="">
+        <text xml:space="preserve">Results of a recent phase II study in patients with contraindications to non-steroidal anti-inflammatory drugs and/or colchicine have shown that canakinumab 150 mg provided effective pain relief and reduced the risk of new flares.28</text>
+    </sentence>
+    <sentence charOffset="21482-21629" id="S141" selection="21">
+        <text xml:space="preserve">This suggests that canakinumab is an effective treatment for acute gouty arthritis in patients with limited treatment options due to comorbidities.</text>
+    </sentence>
+    <sentence charOffset="21630-21832" id="S142" selection="">
+        <text xml:space="preserve">Ongoing phase III studies in this setting should help confirm the value of canakinumab for the treatment of this growing patient population who for whom improved treatment options are urgently required.</text>
+    </sentence>
+    <sentence charOffset="21839-21880" id="S143" selection="22">
+        <text xml:space="preserve">Canakinumab was generally well tolerated.</text>
+    </sentence>
+    <sentence charOffset="21881-21952" id="S144" selection="">
+        <text xml:space="preserve">Few patients experienced SAEs, severe AEs, or injection-site reactions.</text>
+    </sentence>
+    <sentence charOffset="21953-22110" id="S145" selection="">
+        <text xml:space="preserve">No organ toxicity and no dose-response for any AE were observed, and only one SAE was reported that was considered possibly related to canakinumab treatment.</text>
+    </sentence>
+    <sentence charOffset="22111-22342" id="S146" selection="">
+        <text xml:space="preserve">The safety profile of canakinumab reported here is consistent with that previously reported for treatment of acute gouty arthritis,28 and for patients with CAPS receiving canakinumab 150 mg at 8-week intervals for up to 48 weeks.32</text>
+    </sentence>
+    <sentence charOffset="22349-22546" id="S147" selection="">
+        <text xml:space="preserve">Colchicine doses of 0.5–1.0 mg/day are recommended by The European League Against Rheumatism and the British Society for Rheumatology for prophylaxis against flares in patients initiating ULT.12 33</text>
+    </sentence>
+    <sentence charOffset="22547-22601" id="S148" selection="">
+        <text xml:space="preserve">In this study we used a colchicine dose of 0.5 mg/day.</text>
+    </sentence>
+    <sentence charOffset="22602-22780" id="S149" selection="">
+        <text xml:space="preserve">The choice of dose was based on the clinical experience of the investigators and results of a study indicating that a dose of 0.6 mg/day is better tolerated than a higher dose.18</text>
+    </sentence>
+    <sentence charOffset="22781-22875" id="S150" selection="">
+        <text xml:space="preserve">In this particular study, the planned dose of colchicine prophylaxis was 0.6 mg twice daily.18</text>
+    </sentence>
+    <sentence charOffset="22876-23000" id="S151" selection="">
+        <text xml:space="preserve">However, dosing was reduced to once daily in approximately two-thirds of patients and 38% of patients experienced diarrhoea.</text>
+    </sentence>
+    <sentence charOffset="23001-23180" id="S152" selection="">
+        <text xml:space="preserve">In three other recent studies in patients initiating ULT, a colchicine dose of 0.6 mg/day was employed as prophylaxis and significant rates of diarrhoea were not reported.17 21 22</text>
+    </sentence>
+    <sentence charOffset="23181-23353" id="S153" selection="">
+        <text xml:space="preserve">The rates of flares reported in these studies during colchicine prophylaxis (10% to 15% per month) are comparable with those reported in our study for the colchicine group.</text>
+    </sentence>
+    <sentence charOffset="23360-23408" id="S154" selection="">
+        <text xml:space="preserve">There are a number of limitations to this study.</text>
+    </sentence>
+    <sentence charOffset="23409-23462" id="S155" selection="20">
+        <text xml:space="preserve">First, colchicine 0.5 mg was only given for 16 weeks.</text>
+    </sentence>
+    <sentence charOffset="23463-23638" id="S156" selection="20">
+        <text xml:space="preserve">The risk of flares following initiation of ULT is known to extend for up to a year or longer; thus a more prolonged period of colchicine prophylaxis may have been appropriate.</text>
+    </sentence>
+    <sentence charOffset="23639-23726" id="S157" selection="">
+        <text xml:space="preserve">However, key efficacy outcomes including the primary outcome were assessed at 16 weeks.</text>
+    </sentence>
+    <sentence charOffset="23727-23807" id="S158" selection="20">
+        <text xml:space="preserve">Second, occurrence and duration of flares was dependent on patients’ assessment.</text>
+    </sentence>
+    <sentence charOffset="23808-23924" id="S159" selection="20">
+        <text xml:space="preserve">This reflects the fact that there are currently no validated endpoints for the assessment of gouty arthritis flares.</text>
+    </sentence>
+    <sentence charOffset="23925-24101" id="S160" selection="">
+        <text xml:space="preserve">Outcome Measures in Rheumatoid Arthritis Clinical Trials (OMERACT) have suggested possible endpoints for use in studies of gouty arthritis but these have yet to be validated.34</text>
+    </sentence>
+    <sentence charOffset="24102-24268" id="S161" selection="22">
+        <text xml:space="preserve">The endpoints used in our study overlap with those suggested by OMERACT and use of patient self-reporting for flares is unlikely to have had an impact on the results.</text>
+    </sentence>
+    <sentence charOffset="24269-24379" id="S162" selection="20">
+        <text xml:space="preserve">Third, the study population is probably not representative of all patients who would benefit from canakinumab.</text>
+    </sentence>
+    <sentence charOffset="24380-24581" id="S163" selection="">
+        <text xml:space="preserve">This reflects the need to exclude patients with possible risks associated with either treatment and the use of the exclusion criteria generally used in clinical trials in patients with gouty arthritis.</text>
+    </sentence>
+    <sentence charOffset="24582-24801" id="S164" selection="20">
+        <text xml:space="preserve">Fourth, allopurinol treatment was initiated at 300 mg (or 100 mg or 200 mg if creatinine clearance was &lt;90 ml/min) instead of slowly up-titrating from a dose of 50–100 mg, as suggested in treatment recommendations.12 33</text>
+    </sentence>
+    <sentence charOffset="24802-24885" id="S165" selection="20">
+        <text xml:space="preserve">This may have increased the risk of flares compared with a dose-titration strategy.</text>
+    </sentence>
+    <sentence charOffset="24886-24976" id="S166" selection="">
+        <text xml:space="preserve">However, giving allopurinol at a fixed dose is a very common practice throughout Europe.12</text>
+    </sentence>
+    <sentence charOffset="24983-25332" id="S167" selection="22">
+        <text xml:space="preserve">In conclusion, in this double-blind, active-controlled, multicentre study assessing prophylaxis against gouty arthritis flares during the initiation of ULT, a single canakinumab dose of 50–300 mg or 4-weekly dosing over 4 months provided effective prophylaxis against flares, was superior to the standard of care (colchicine) and was well tolerated.</text>
+    </sentence>
+    <sentence charOffset="25333-25502" id="S168" selection="">
+        <text xml:space="preserve">Further studies of canakinumab 150 mg are being conducted to determine the full potential of this new drug for the prevention of flares in patients with gouty arthritis.</text>
+    </sentence>
+    <sentence charOffset="25512-25523" id="S169">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="25531-25599" id="S170" selection="">
+        <text xml:space="preserve">We thank the patients and investigators who took part in this study.</text>
+    </sentence>
+    <sentence charOffset="25600-26245" id="S171" selection="">
+        <text xml:space="preserve">We also thank Alberto Gimona (Senior Global Program Medical Director, Immunology and Infectious Disease Franchise, Novartis Pharma AG) for critical review of the manuscript and helpful suggestions and Kirstin Stricker (Clinical Communication Leader, Immunology and Infectious Disease Franchise, Novartis Pharma AG) for her contribution to the interpretation of the data, critical review of the paper and for coordinating author discussions and writing of the manuscript, and Rowena Hughes and Gemma Carter (Oxford PharmaGenesis Ltd) for medical writing support, editorial assistance, and collation and incorporation of comments from all authors.</text>
+    </sentence>
+    <sentence charOffset="26246-26319" id="S172" selection="25">
+        <text xml:space="preserve">Such editorial help was funded by Novartis Pharma AG, Basel, Switzerland.</text>
+    </sentence>
+    <sentence charOffset="26320-26386" id="S173" selection="">
+        <text xml:space="preserve">The authors take full responsibility for the content of the paper.</text>
+    </sentence>
+    <sentence charOffset="26408-26479" id="S174" selection="25">
+        <text xml:space="preserve">Funding The study was funded by Novartis Pharma AG, Basel, Switzerland.</text>
+    </sentence>
+    <sentence charOffset="26480-26613" id="S175" selection="">
+        <text xml:space="preserve">The study was designed by Novartis Pharma AG (Sarah Magliano, Marianne Notter, Dominik Richard and PS) in conjunction with NS and AS.</text>
+    </sentence>
+    <sentence charOffset="26614-26698" id="S176" selection="">
+        <text xml:space="preserve">Data were collected and analysed by Novartis according to the prespecified protocol.</text>
+    </sentence>
+    <sentence charOffset="26699-26864" id="S177" selection="">
+        <text xml:space="preserve">All authors, including UA, PS, GK and AB who are employees of Novartis, together with Kirstin Stricker, Novartis Pharma AG, were involved in the decision to publish.</text>
+    </sentence>
+    <sentence charOffset="26865-27000" id="S178" selection="">
+        <text xml:space="preserve">All authors including those who are employees of Novartis were involved in the interpretation of the data and the writing of the paper.</text>
+    </sentence>
+    <sentence charOffset="27001-27285" id="S179" selection="">
+        <text xml:space="preserve">Medical writing and editorial assistance were provided by Rowena Hughes and Gemma Carter, Oxford PharmaGenesis Ltd, following teleconferences with all authors during which the data, its interpretation and the content of the paper were discussed; this was funded by Novartis Pharma AG.</text>
+    </sentence>
+    <sentence charOffset="27286-27327" id="S180" selection="">
+        <text xml:space="preserve">All authors approved the submitted paper.</text>
+    </sentence>
+    <sentence charOffset="27350-27607" id="S181" selection="">
+        <text xml:space="preserve">Competing interests NS: grant, travel expenses and payment for advisory board membership from Novartis Pharma, payment for development of educational presentations from Takeda and payment for advisory board membership from Savient, URL Pharma and Enzyme Rx.</text>
+    </sentence>
+    <sentence charOffset="27608-27656" id="S182" selection="">
+        <text xml:space="preserve">H-YL, EM and JR report no conflicts of interest.</text>
+    </sentence>
+    <sentence charOffset="27657-27730" id="S183" selection="">
+        <text xml:space="preserve">MDeM: payment from Novartis for development of educational presentations.</text>
+    </sentence>
+    <sentence charOffset="27731-27822" id="S184" selection="">
+        <text xml:space="preserve">PS, UA, GK and AB are employees of Novartis and report having equity interests in Novartis.</text>
+    </sentence>
+    <sentence charOffset="27823-27903" id="S185" selection="">
+        <text xml:space="preserve">AS: payment from Novartis for board membership, consultancy and travel expenses.</text>
+    </sentence>
+    <sentence charOffset="27926-28015" id="S186" selection="">
+        <text xml:space="preserve">Ethics approval This study was approved by all responsible independent ethics committees.</text>
+    </sentence>
+    <sentence charOffset="28038-28108" id="S187" selection="">
+        <text xml:space="preserve">Provenance and peer review Not commissioned; externally peer reviewed.</text>
+    </sentence>
+    <section textSpan="0-154" title="Title" titleSpan="0-5"/>
+    <section textSpan="155-2030" title="Abstract" titleSpan="155-163">
+        <section textSpan="173-429" title="Objective" titleSpan="184-193"/>
+        <section textSpan="438-986" title="Methods" titleSpan="449-456"/>
+        <section textSpan="995-1833" title="Results" titleSpan="1006-1013"/>
+        <section textSpan="1842-2022" title="Conclusions" titleSpan="1853-1864"/>
+    </section>
+    <section textSpan="2036-5294" title="Introduction" titleSpan="2043-2055"/>
+    <section textSpan="5299-10972" title="Methods" titleSpan="5306-5313">
+        <section textSpan="5320-7065" title="Study design" titleSpan="5329-5341"/>
+        <section textSpan="7072-7784" title="Patients" titleSpan="7081-7089"/>
+        <section textSpan="7791-9263" title="Assessments" titleSpan="7800-7811"/>
+        <section textSpan="9270-10967" title="Sample size determination and statistical analysis" titleSpan="9279-9329"/>
+    </section>
+    <section textSpan="10977-17849" title="Results" titleSpan="10984-10991">
+        <section textSpan="10998-12224" title="Baseline demographics and disease characteristics" titleSpan="11007-11056"/>
+        <section textSpan="12231-12523" title="Primary outcome: determination of canakinumab target dose" titleSpan="12240-12297"/>
+        <section textSpan="12530-17844" title="Secondary outcomes" titleSpan="12539-12557">
+            <section textSpan="12566-14803" title="Clinical outcomes" titleSpan="12577-12594"/>
+            <section textSpan="14812-15298" title="CRP levels" titleSpan="14823-14833"/>
+            <section textSpan="15307-15654" title="SU levels" titleSpan="15318-15327"/>
+            <section textSpan="15663-17837" title="Safety and tolerability" titleSpan="15674-15697"/>
+        </section>
+    </section>
+    <section textSpan="17854-25507" title="Discussion" titleSpan="17861-17871"/>
+    <section textSpan="25512-28121" title="Back matter" titleSpan="25512-25523"/>
+</document>

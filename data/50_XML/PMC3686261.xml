@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3686261" note="">
+    <text xml:space="preserve">Title
+Association of joint space narrowing with impairment of physical function and work ability in patients with early rheumatoid arthritis: protection beyond disease control by adalimumab plus methotrexate
+Abstract
+
+        
+          Objectives
+          Tumour necrosis factor inhibition plus methotrexate is believed to inhibit radiographic progression independent of inflammation. This analysis assessed whether these protective effects are exerted on bone (joint erosion; JE) and/or cartilage (joint space narrowing; JSN), and what the independent effects of JE/JSN progression are on longer-term patient-reported outcomes.
+        
+        
+          Methods
+          PREMIER was a 2-year, randomised, controlled trial of adalimumab plus methotrexate (ADA+MTX) versus the monotherapies. The impact of treatment on the relationships between time-averaged disease activity (TA-DAS28(CRP)) and changes in JE/JSN and associations of JE/JSN with the disability index of the health assessment questionnaire (HAQ-DI) at baseline and weeks 52 and 104 were assessed through non-parametric approaches of analysis of variance and quantile regression. JE/JSN association with employment status was evaluated at baseline and weeks 52 and 104 through logistic regression.
+        
+        
+          Results
+          Increasing tertiles of TA-DAS28(CRP) were associated with JE and JSN progression in the monotherapy groups, a phenomenon largely absent in ADA+MTX-treated patients. Although JSN was not associated with HAQ-DI at baseline, it was at 52 and 104 weeks. In contrast, JE was not associated with HAQ-DI at any time point examined. Odds of being employed at baseline, 52 weeks and 104 weeks were significantly associated with lower JSN, but not JE, scores.
+        
+        
+          Conclusions
+          ADA+MTX inhibited both JE and JSN progression independently of disease activity. JSN played a more prominent role in patient-reported outcomes than JE. Preventing the onset or worsening of JSN probably represents a critical aspect of effective disease management of early rheumatoid arthritis patients.
+        
+      
+
+
+    
+      Introduction
+      In patients with rheumatoid arthritis (RA), both inflammation and joint damage can result in loss of physical function.1 2 Although the portion of physical disability that is associated with inflammation is generally reversible, the component associated with joint damage is thought to be largely permanent.3 Given the tight correlation between physical disability and loss of social and economic opportunities in patients with RA,4 treatment options capable of profoundly interfering with joint damage and inflammation would appear to be of greater individual and societal value.
+      The combination of a tumour necrosis factor (TNF) inhibitor and methotrexate reduces the risk of joint damage onset or progression and improves physical function more effectively than methotrexate alone.5–10 These benefits are thought to result partly from a more rapid and intense inhibition of inflammation with combination therapy than with methotrexate alone. However, patients treated with combination therapy tend to have minimal or no progression of joint damage regardless of inflammatory activity; whereas the level of joint damage tends to reflect the extent of inflammation in methotrexate-treated patients,11–15 suggesting that combination therapy may inhibit joint damage through mechanisms that are independent of inflammatory activity. Alternatively, the TNF cytokine may cause joint damage only after it exceeds some threshold that is greater than that required to cause inflammation.16
+      Joint damage results from the destruction of bone and cartilage, which can be visualised through radiography as joint erosion (JE) and joint space narrowing (JSN), respectively. While JSN is a surrogate marker for loss of cartilage, it may also reflect damage to other (soft) tissues causing joint dislocation, a phenomenon that is less prevalent among patients with early RA. Although JE historically has been perceived to be the most critical indicator of permanent disability in RA patients, recent data suggest that, early in the disease process, JSN may be the more important predictor of irreversible physical disability, as measured by the residual score on the disability index of the health assessment questionnaire (HAQ-DI) in patients whose disease is in remission.17 18
+      In the present analysis, we evaluated the joint-protective effects of three different therapies, the combination of adalimumab plus methotrexate (ADA+MTX), adalimumab monotherapy and methotrexate monotherapy, on JE and JSN as a function of inflammatory activity, using data from a randomised, controlled trial of methotrexate-naive patients with early RA.9 The relationships between JE or JSN and physical function and employment status were also evaluated.
+    
+    
+      Methods
+      
+        Study design
+        Data from patients enrolled in the PREMIER trial9 were used for all analyses. PREMIER was a 2-year, active-controlled, double-blind study of methotrexate-naive patients with early, progressive RA, in which patients were randomly assigned to the following treatment groups: combination treatment with subcutaneous adalimumab (40 mg every other week) and oral methotrexate (titrated to 20 mg/week by week 8, as tolerated), adalimumab monotherapy, or methotrexate monotherapy. Employment outcomes were assessed in a large subset of patients who participated in the DE032 companion study.19 All patients provided written, informed consent, and the study protocols and informed consent forms were approved by the local institutional review boards or independent ethics committees at participating sites. The studies were conducted in accordance with the principles of the Declaration of Helsinki and good clinical practice.
+      
+      
+        Patient characteristics
+        Adults aged 18 years and older with an RA diagnosis, as defined by the 1987-revised American College of Rheumatology criteria,20 were eligible for enrolment. Patients must have satisfied the following inclusion criteria: disease duration less than 3 years, eight or more swollen joints (out of 66 assessed), 10 or more tender joints (out of 68 assessed), either an erythrocyte sedimentation rate greater than 28 mm/h or C-reactive protein (CRP) concentration of 1.5 mg/dl or greater and either rheumatoid factor positivity or at least one JE. Patients were excluded if they had received previous treatment with methotrexate, cyclophosphamide, ciclosporin, azathioprine, more than two other disease-modifying antirheumatic drugs, or prednisone equivalent greater than 10 mg/day within 30 days of screening.
+      
+      
+        Clinical, radiographic, functional and employment assessments
+        The 28-joint disease activity score with CRP (DAS28(CRP), range 0–10; hereafter referred to as DAS28) was used to monitor disease activity.21 DAS28 was calculated at baseline and regular intervals to week 104. A time-averaged DAS28 (TA-DAS28) was calculated in order to control for intergroup differences in speed of responses and longitudinal fluctuations in inflammation. To obtain TA-DAS28, areas under the curve were determined for all time intervals of available DAS28 values from baseline to 52 or 104 weeks for individual patients. Values were summed and divided by the total time interval. The distribution of TA-DAS28 values for all patients was then divided into tertiles at each assessment point. Radiographs of the hands and feet were taken at baseline and weeks 52 and 104. Two readers, blinded to patient and sequence, scored radiographs individually for bone erosion (JE, range 0–230) and JSN (range 0–168) using a modified form of the Sharp scoring method (modified total Sharp score; mTSS).6 22–24 Physical function was evaluated using the HAQ-DI at baseline, week 52 and week 104.25 Employment status (either employed or unemployed) was collected at baseline and at weeks 52 and 104. At each time point, a patient was asked if there was a change in employment status from the previous visit.
+      
+      
+        Statistical analysis
+        Descriptive analyses of changes in disease activity included observed data from patients who completed 52 or 104 weeks of treatment, had one or more post-baseline DAS28 and underwent radiography at baseline and weeks 52 or 104. Analyses of the relationships between HAQ-DI and JE or JSN included observed data from patients with available HAQ-DI, radiographic data and DAS28 at baseline, week 52, or week 104. Analysis of the relationships between employment status and JE or JSN included observed data from patients with available employment status, radiographic data and HAQ-DI at baseline, week 52, or week 104.
+        Overall mean changes from baseline in DAS28 were calculated at weeks 52 and 104 for the analysis population by treatment group. At weeks 52 and 104, the associations between TA-DAS28 tertiles and changes from baseline in JE and JSN were compared for patients who received ADA+MTX combination therapy, adalimumab monotherapy, or methotrexate monotherapy between and within treatment groups using an analysis of variance on the van der Waerden normal scores.26
+        The relationships between HAQ-DI and JE or JSN at baseline, week 52 and week 104 were evaluated using quantile (non-parametric) regression models. Each model evaluated the relationships between HAQ-DI and either concurrent JE or JSN as independent variables after covariate adjustment for concurrent DAS28 and baseline disease duration, age and sex.
+        The relationships between employment status and JE or JSN at baseline, week 52 and week 104 were evaluated using logistic regression models with covariate adjustment for concurrent HAQ-DI and baseline disease duration, age and sex. The relationship between baseline JE or JSN and baseline employment status was further evaluated by calculating tertiles of JE or JSN and determining the percentages of patients in each tertile who were employed at baseline; differences across JE or JSN tertiles were evaluated through χ2.
+      
+    
+    
+      Results
+      
+        Relationship between disease activity and changes in joint damage
+        Of the 799 patients originally randomly assigned in PREMIER, 638 (including 229 of 268, 205 of 274 and 204 of 257 patients randomly assigned to receive ADA+MTX, adalimumab and methotrexate, respectively) had one or more post-baseline DAS28 and underwent radiography at baseline and week 52 and/or week 104. No significant differences between treatment groups were detected in the baseline demographics and disease characteristics for the patients included in this analysis (table 1). As would be expected for a patient population with short disease duration, baseline radiographic scores were generally low.
+         Table 1 Baseline demographics and disease characteristics of patients included in analyses of PREMIER* 
+        Following 52 and 104 weeks of treatment, patients receiving ADA+MTX combination therapy had greater mean reductions from baseline in DAS28 (−3.6 and −3.8, respectively) than patients receiving adalimumab monotherapy (−2.8 and −3.1, respectively) or methotrexate monotherapy (−2.8 and −3.1, respectively). This pattern of treatment responses was evident at week 2 and maintained throughout the 104-week study (data not shown).
+        The between-group differences in DAS28 response resulted in different distributions of patients across the TA-DAS28 tertiles between the combination and monotherapy treatment groups: approximately half of the patients receiving combination therapy were in the lowest TA-DAS28 tertile, while patients receiving either adalimumab or methotrexate monotherapy were clustered in the higher TA-DAS28 tertiles (see n and percentage in each treatment group over time presented in figures 1 and 2).
+         Figure 1 Changes in joint erosion (JE) by time-averaged 28-joint disease activity score (TA-DAS28(C-reactive protein (CRP))) tertiles. Changes in JE are shown over 52 weeks (A) and 104 weeks (B) by tertiles of TA-DAS28(CRP). *p&lt;.0.05 for treatment group difference compared with methotrexate (MTX) monotherapy; **p&lt;0.01; ***p&lt;0.001. Figures show the median (solid line), mean (dotted line) and IQR (bars). ADA, adalimumab. 
+         Figure 2 Changes in joint space narrowing (JSN) by time-averaged 28-joint disease activity score (TA-DAS28(C-reactive protein (CRP))) tertiles. Changes in JSN are shown over 52 weeks (A) and 104 weeks (B) by tertiles of TA-DAS28(CRP). **p&lt;0.01 for treatment group difference compared with methotrexate (MTX) monotherapy; ***p&lt;0.001. Figures show the median (solid line), mean (dotted line) and IQR (bars). ADA, adalimumab. 
+        The relationships between TA-DAS28 tertiles and changes in JE or JSN were different between treatment groups. In the methotrexate and adalimumab monotherapy groups, radiographic progression (both JE and JSN) increased significantly (p≤0.02) with increasing disease activity (figures 1 and 2 and table 2), although at several time points the increases in JE and JSN of adalimumab monotherapy were smaller than were observed with methotrexate monotherapy, a result that was more pronounced for the middle DAS28 tertiles of JE (figure 1). In contrast, in the ADA+MTX group, the relationship between radiographic progression and disease activity was generally abrogated (p≥0.06). Indeed, there was less overall progression of both JE and JSN compared with methotrexate monotherapy. Interestingly, the link between progression and disease activity was less apparent for JSN than for JE in ADA+MTX-treated patients. Within each treatment group, the relationships between TA-DAS28 and changes in JE and JSN were generally similar across both time intervals.
+         Table 2 The relationship between TA-DAS28(CRP) tertiles and changes in radiographic scores 
+      
+      
+        Relationship between JE or JSN and physical function
+        A total of 765 patients from PREMIER had available HAQ-DI, radiographic data and DAS28 at baseline, week 52, or week 104. In quantile regression models, age, female sex and disease activity (DAS28) generally were all positively associated with physical function (HAQ-DI) (table 3), consistent with previous reports.27 28 Disease duration was not associated with HAQ-DI scores at any time. JE and JSN differed in their relationships with physical function: while JE scores were not associated with HAQ-DI at any of the time points examined, JSN scores were positively associated with HAQ-DI scores at both 52 and 104 weeks (table 3). The relationship between JSN and HAQ-DI was less evident at baseline, presumably due to either the dominating effect of disease activity or the level of baseline damage in this population not meeting the threshold required to observe an effect on physical function. Treatment effect, baseline steroid use and osteoarthritis status did not appear to impact HAQ-DI scores additionally (data not shown).
+         Table 3 Quantile (median) regression analysis of HAQ-DI scores at three time points 
+      
+      
+        Relationship between JE or JSN and employment
+        Of the 664 patients originally enrolled in the study of employment outcomes, 649 (98%) had available employment status at baseline. Being younger, male and having less disability were associated with being employed at baseline and weeks 52 and 104; shorter disease duration was associated with being employed at baseline but not at the later time points (data not shown). While the presence of JE did not convey a significant impact on employment status at any time point evaluated, small, but statistically significant, associations were found between JSN scores and being employed at baseline (OR 0.97, p=.02) and weeks 52 (OR 0.97, p=.007) and 104 (OR 0.98, p=.04) (figure 3A). When baseline employment status was assessed solely by baseline levels of JE or JSN, the percentages of employed patients generally decreased with increasing baseline values of JE or JSN, although the relationship was more apparent for JSN (p=0.02 vs p&lt;0.001 for the overall differences among JE and JSN tertiles, respectively; figures 3B,C).
+         Figure 3 Relationship between radiographic measures and employment status. (A) Logistic regression analysis of the relationship between joint erosion (JE) or joint space narrowing (JSN) and employment status at baseline, 52 weeks and 104 weeks. Percentages of patients who were employed at baseline within each baseline JE (A) or JSN (B) tertile. 
+      
+    
+    
+      Discussion
+      The hallmarks of RA—inflammation, damage to bone and cartilage, and physical disability—are thought to be interrelated processes that often progress rapidly following disease onset. Treatment with the combination of a TNF inhibitor and methotrexate often limits, or even prevents, joint damage in patients who may lack an otherwise measurable clinical response.11–15 Our results further refine the understanding of this clinical and functional benefit by demonstrating that ADA+MTX protects against JE and JSN onset or worsening; both of these benefits are also largely independent of the therapeutic effect on inflammatory activity.
+      Earlier analyses have not evaluated the individual effects of anti-TNF plus methotrexate on JE and JSN progression in response to disease activity.11–15 These findings reveal that both JE and JSN increase consistently with increasing disease activity in patients treated with methotrexate monotherapy. Interestingly, a similar trend in JE and JSN increase in relation to disease activity is seen with adalimumab monotherapy. However, a recent analysis suggests that adalimumab provides better joint protection than methotrexate in individual joints with pre-existing damage, irrespective of the presence of synovitis.29 Importantly, ADA+MTX reduces the progression of both JE and JSN in a manner that is independent of disease activity. Interestingly, the relationship between disease activity and JSN progression appeared less prevalent than with JE progression, suggesting that ADA+MTX may have even stronger inhibitory effects on JSN progression than on JE progression, despite persistent inflammation. Alternatively, the threshold of TNF required to elicit JSN may be higher than that required to cause erosive damage. This novel finding on the abrogation of effects of disease activity on JSN by combination therapy with ADA+MTX appears to be of particular importance in light of recent observations that JSN may affect physical function more profoundly than bony joint damage.17 Indeed, the present analysis expands these findings by demonstrating that in early RA patients progression of JSN, but not JE, is not only significantly associated with loss of physical function, but that JSN progression also has an adverse effect on employment status not seen with JE progression, even at this early stage of disease.
+      A positive association between physical function and joint damage has been documented in advanced RA.27 28 30 Less consideration has been given to this relationship in early RA patients, although increasing joint damage and longer disease duration have been linked to irreversible physical disability.3 In a study of patients with advanced RA, joint damage was associated with HAQ-DI after adjustment for age, sex, DAS28, CRP, disease duration and treatment type.28 A similar set of covariates was evaluated in this analysis. No relationship between JSN and HAQ-DI was apparent at baseline; however, JSN and HAQ-DI were associated following both 52 and 104 weeks of treatment. It is possible that baseline disease activity masked the relationship between JSN and HAQ-DI, and this relationship only became discernible once treatment reduced disease activity sufficiently. Alternatively, the inability to detect this relationship at baseline may have reflected the short duration of disease in these patients, as an impact on physical function may require a threshold of accrued damage not yet achieved at baseline. In addition, an earlier analysis from PREMIER identified no relationship between concurrent values of the mTSS and HAQ-DI, but a change in the mTSS was significantly associated with HAQ-DI,31 suggesting that progression of joint damage may be more predictive of future function than existing damage in early RA. The consistency of the relationships reported across the evaluated 2-year period suggests that these results may be extrapolated to patients with a longer duration of disease than those included in this study. Indeed, the observed coefficients, although indicative of a weak association, are consistent with those obtained from longitudinal analyses of patients with more advanced disease.28 30 They also indicate that subtle progression of JSN in patients with aggressive forms of the disease, if left unchecked, may lead to long-term disability.17
+      Although previous results are suggestive of an interconnected association between joint damage, physical function and employment status,19 32 33 the relative contribution of JE and JSN progression to employment status has not yet been evaluated. Our data indicate that progression of JSN plays a more prominent role than JE in determining employment status. Patients with RA frequently lose their jobs early in the course of the disease, with 20−30% experiencing permanent work disability during the first 2−3 years after diagnosis.34 These data indicate that early control of JSN progression is important not only to protect patients’ physical functioning but to help them maintain the lifestyle they had before RA diagnosis. A similar association with reduced physical function and job impairment is observed in patients with osteoarthritis;35 however, there is no evidence that existing osteoarthritis independently impacted JE or JSN progression or HAQ-DI scores in this database.
+      Several limitations must temper the interpretation of the results of this study. Although the radiographic endpoints used are widely reported and validated, they remain surrogate measures that rely on visual representation and interpretation of joint damage and can be subject to error and bias. Furthermore, as JSN is not a direct measure of cartilage damage, surrounding tissues may also be damaged, and the JSN measurement technique cannot determine the relative contributions of these tissues. Still, such contribution is less likely at this early stage of disease. The joints analysed for JE and JSN also offer limitations. Larger joints, such as joints of the knee, may impact physical function and employability to a greater extent than the joints of the hands, wrist and feet that are scored for JE and JSN, and an examination into grip strength in relation to these patient-reported outcomes may have produced greater correlations. However, it is important to note that this study included patients with an average disease duration of less than 1 year; therefore, finding a statistically significant association between these variables at this early stage of RA portends a high risk of a much larger consequence if damage were allowed to accrue over longer periods. Differences in patient discontinuations over time represent a further limitation. Still, the observed differences between treatment groups may have been more pronounced had rates of discontinuation been comparable across treatment groups. Finally, the post-hoc nature of these analyses should be considered to be hypothesis generating and require confirmation in other databases of patients with early RA.
+    
+    
+      Conclusions
+      In this population with early, progressive RA, JSN progression was associated with impairment in physical function and work status throughout 2 years of treatment, but JE progression was not. Because of the clinical implications of JSN progression for disability and work impairment, protection from the onset or worsening of JSN should be an important factor when choosing between therapeutic modalities. Combination therapy with ADA+MTX suppresses JE and JSN progression and does so in a manner independent of clinical disease activity.
+    
+  
+
+Back matter
+
+      Medical writing assistance in the development and revision of this manuscript was provided by Benjamin Wolfe, PhD, and Troy Scott, DVM, of Abbott, and Ellen Stoltzfus, PhD, and Robin Stromberg, PhD, of JK Associates, Inc. This support was funded by Abbott.
+    
+
+      
+        Contributors: All authors participated in interpretation of the data, critically revised the manuscript and approved the final version.
+      
+      
+        Funding: Abbott sponsored the study (NCT00195663) and contributed to the study design.
+      
+      
+        Competing interests: JSS has received consulting fees or other remuneration from Abbott, Amgen, Astra-Zeneca, BMS, Celgene, Centocor-Janssen, Glaxo, Lilly, Pfizer (Wyeth), MSD (Schering-Plough), Novo-Nordisk, Roche, Sandoz and UCB, research grants from Abbott, BMS, Pfizer (Wyeth), MSD (Schering-Plough), Roche and UCB, and has served on speaker's bureaux on behalf of Abbott, BMS, Centocor-Janssen, Pfizer (Wyeth), MSD (Schering-Plough), Roche, Sandoz and UCB. DMvdH has received consulting fees or other remuneration from Abbott, Amgen, AstraZeneca, BMS, Centocor, Chugai, Merck, Novartis, Otsuka, Pfizer, Roche, Sanofi-Aventis, Schering-Plough, UCB and Wyeth. ECK has received consulting fees or other remuneration from, and served on advisory boards on behalf of, Abbott, AstraZeneca, Biotest, BMS, Centocor, Genentech, Merck, Nycomed, Pfizer, Roche and UCB, has received research grants from Abbott, Amgen, AstraZeneca, BMS, Centocor, Genzyme, Merck, Novartis, Pfizer, Roche and UCB, and has speaker honoraria agreements with Abbott, Amgen, BMS, Janssen, Merck, Pfizer, Roche and UCB. RFvV has served as a consultant for and/or received research support from Abbott, Glaxo SmithKline, Merck, Pfizer, Roche and UCB Pharma. MBG has received research grants from Abbott and Merck-Serono and has received consulting fees or other remuneration from Abbott, NicOx, Biomet Orthopaedics, Pfizer, Merck-Serono and Fidia Farmaceutici. RBML has received research grants and consulting fees or other remuneration from and served on speaker's bureaux on behalf of, Abbott, Amgen, Centocor, Pfizer/Wyeth, UCB and BMS. BG, MAC, NC and SL are all full-time employees of Abbott and may hold stock or stock options in Abbott.
+      
+      
+        Ethics approval: The study protocols were approved by the local institutional review boards or independent ethics committees at participating sites.
+      
+      
+        Patient consent: Obtained.
+      
+      
+        Provenance and peer review: Not commissioned; externally peer reviewed.
+      
+      
+        Open Access: This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 3.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/3.0/</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-207" id="S2" selection="">
+        <text xml:space="preserve">Association of joint space narrowing with impairment of physical function and work ability in patients with early rheumatoid arthritis: protection beyond disease control by adalimumab plus methotrexate</text>
+    </sentence>
+    <sentence charOffset="208-216" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="237-247" id="S4" selection="">
+        <text xml:space="preserve">Objectives</text>
+    </sentence>
+    <sentence charOffset="258-386" id="S5" selection="1b">
+        <text xml:space="preserve">Tumour necrosis factor inhibition plus methotrexate is believed to inhibit radiographic progression independent of inflammation.</text>
+    </sentence>
+    <sentence charOffset="387-630" id="S6" selection="">
+        <text xml:space="preserve">This analysis assessed whether these protective effects are exerted on bone (joint erosion; JE) and/or cartilage (joint space narrowing; JSN), and what the independent effects of JE/JSN progression are on longer-term patient-reported outcomes.</text>
+    </sentence>
+    <sentence charOffset="659-666" id="S7" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="677-795" id="S8" selection="">
+        <text xml:space="preserve">PREMIER was a 2-year, randomised, controlled trial of adalimumab plus methotrexate (ADA+MTX) versus the monotherapies.</text>
+    </sentence>
+    <sentence charOffset="796-1148" id="S9" selection="">
+        <text xml:space="preserve">The impact of treatment on the relationships between time-averaged disease activity (TA-DAS28(CRP)) and changes in JE/JSN and associations of JE/JSN with the disability index of the health assessment questionnaire (HAQ-DI) at baseline and weeks 52 and 104 were assessed through non-parametric approaches of analysis of variance and quantile regression.</text>
+    </sentence>
+    <sentence charOffset="1149-1266" id="S10" selection="">
+        <text xml:space="preserve">JE/JSN association with employment status was evaluated at baseline and weeks 52 and 104 through logistic regression.</text>
+    </sentence>
+    <sentence charOffset="1295-1302" id="S11" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="1313-1477" id="S12" selection="">
+        <text xml:space="preserve">Increasing tertiles of TA-DAS28(CRP) were associated with JE and JSN progression in the monotherapy groups, a phenomenon largely absent in ADA+MTX-treated patients.</text>
+    </sentence>
+    <sentence charOffset="1478-1562" id="S13" selection="">
+        <text xml:space="preserve">Although JSN was not associated with HAQ-DI at baseline, it was at 52 and 104 weeks.</text>
+    </sentence>
+    <sentence charOffset="1563-1637" id="S14" selection="">
+        <text xml:space="preserve">In contrast, JE was not associated with HAQ-DI at any time point examined.</text>
+    </sentence>
+    <sentence charOffset="1638-1762" id="S15" selection="">
+        <text xml:space="preserve">Odds of being employed at baseline, 52 weeks and 104 weeks were significantly associated with lower JSN, but not JE, scores.</text>
+    </sentence>
+    <sentence charOffset="1791-1802" id="S16" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="1813-1893" id="S17" selection="">
+        <text xml:space="preserve">ADA+MTX inhibited both JE and JSN progression independently of disease activity.</text>
+    </sentence>
+    <sentence charOffset="1894-1964" id="S18" selection="">
+        <text xml:space="preserve">JSN played a more prominent role in patient-reported outcomes than JE.</text>
+    </sentence>
+    <sentence charOffset="1965-2115" id="S19" selection="">
+        <text xml:space="preserve">Preventing the onset or worsening of JSN probably represents a critical aspect of effective disease management of early rheumatoid arthritis patients.</text>
+    </sentence>
+    <sentence charOffset="2145-2157" id="S20">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2164-2286" id="S21" selection="">
+        <text xml:space="preserve">In patients with rheumatoid arthritis (RA), both inflammation and joint damage can result in loss of physical function.1 2</text>
+    </sentence>
+    <sentence charOffset="2287-2472" id="S22" selection="">
+        <text xml:space="preserve">Although the portion of physical disability that is associated with inflammation is generally reversible, the component associated with joint damage is thought to be largely permanent.3</text>
+    </sentence>
+    <sentence charOffset="2473-2744" id="S23" selection="">
+        <text xml:space="preserve">Given the tight correlation between physical disability and loss of social and economic opportunities in patients with RA,4 treatment options capable of profoundly interfering with joint damage and inflammation would appear to be of greater individual and societal value.</text>
+    </sentence>
+    <sentence charOffset="2751-2958" id="S24" selection="2a">
+        <text xml:space="preserve">The combination of a tumour necrosis factor (TNF) inhibitor and methotrexate reduces the risk of joint damage onset or progression and improves physical function more effectively than methotrexate alone.5–10</text>
+    </sentence>
+    <sentence charOffset="2959-3114" id="S25" selection="">
+        <text xml:space="preserve">These benefits are thought to result partly from a more rapid and intense inhibition of inflammation with combination therapy than with methotrexate alone.</text>
+    </sentence>
+    <sentence charOffset="3115-3501" id="S26" selection="2a">
+        <text xml:space="preserve">However, patients treated with combination therapy tend to have minimal or no progression of joint damage regardless of inflammatory activity; whereas the level of joint damage tends to reflect the extent of inflammation in methotrexate-treated patients,11–15 suggesting that combination therapy may inhibit joint damage through mechanisms that are independent of inflammatory activity.</text>
+    </sentence>
+    <sentence charOffset="3502-3653" id="S27" selection="">
+        <text xml:space="preserve">Alternatively, the TNF cytokine may cause joint damage only after it exceeds some threshold that is greater than that required to cause inflammation.16</text>
+    </sentence>
+    <sentence charOffset="3660-3837" id="S28" selection="">
+        <text xml:space="preserve">Joint damage results from the destruction of bone and cartilage, which can be visualised through radiography as joint erosion (JE) and joint space narrowing (JSN), respectively.</text>
+    </sentence>
+    <sentence charOffset="3838-4036" id="S29" selection="">
+        <text xml:space="preserve">While JSN is a surrogate marker for loss of cartilage, it may also reflect damage to other (soft) tissues causing joint dislocation, a phenomenon that is less prevalent among patients with early RA.</text>
+    </sentence>
+    <sentence charOffset="4037-4441" id="S30" selection="">
+        <text xml:space="preserve">Although JE historically has been perceived to be the most critical indicator of permanent disability in RA patients, recent data suggest that, early in the disease process, JSN may be the more important predictor of irreversible physical disability, as measured by the residual score on the disability index of the health assessment questionnaire (HAQ-DI) in patients whose disease is in remission.17 18</text>
+    </sentence>
+    <sentence charOffset="4448-4804" id="S31" selection="2b">
+        <text xml:space="preserve">In the present analysis, we evaluated the joint-protective effects of three different therapies, the combination of adalimumab plus methotrexate (ADA+MTX), adalimumab monotherapy and methotrexate monotherapy, on JE and JSN as a function of inflammatory activity, using data from a randomised, controlled trial of methotrexate-naive patients with early RA.9</text>
+    </sentence>
+    <sentence charOffset="4805-4905" id="S32" selection="2b">
+        <text xml:space="preserve">The relationships between JE or JSN and physical function and employment status were also evaluated.</text>
+    </sentence>
+    <sentence charOffset="4922-4929" id="S33">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="4945-4957" id="S34" selection="">
+        <text xml:space="preserve">Study design</text>
+    </sentence>
+    <sentence charOffset="4966-5043" id="S35" selection="">
+        <text xml:space="preserve">Data from patients enrolled in the PREMIER trial9 were used for all analyses.</text>
+    </sentence>
+    <sentence charOffset="5044-5439" id="S36" selection="3a,5">
+        <text xml:space="preserve">PREMIER was a 2-year, active-controlled, double-blind study of methotrexate-naive patients with early, progressive RA, in which patients were randomly assigned to the following treatment groups: combination treatment with subcutaneous adalimumab (40 mg every other week) and oral methotrexate (titrated to 20 mg/week by week 8, as tolerated), adalimumab monotherapy, or methotrexate monotherapy.</text>
+    </sentence>
+    <sentence charOffset="5440-5552" id="S37" selection="">
+        <text xml:space="preserve">Employment outcomes were assessed in a large subset of patients who participated in the DE032 companion study.19</text>
+    </sentence>
+    <sentence charOffset="5553-5764" id="S38" selection="">
+        <text xml:space="preserve">All patients provided written, informed consent, and the study protocols and informed consent forms were approved by the local institutional review boards or independent ethics committees at participating sites.</text>
+    </sentence>
+    <sentence charOffset="5765-5884" id="S39" selection="">
+        <text xml:space="preserve">The studies were conducted in accordance with the principles of the Declaration of Helsinki and good clinical practice.</text>
+    </sentence>
+    <sentence charOffset="5907-5930" id="S40" selection="">
+        <text xml:space="preserve">Patient characteristics</text>
+    </sentence>
+    <sentence charOffset="5939-6096" id="S41" selection="4a">
+        <text xml:space="preserve">Adults aged 18 years and older with an RA diagnosis, as defined by the 1987-revised American College of Rheumatology criteria,20 were eligible for enrolment.</text>
+    </sentence>
+    <sentence charOffset="6097-6481" id="S42" selection="4a">
+        <text xml:space="preserve">Patients must have satisfied the following inclusion criteria: disease duration less than 3 years, eight or more swollen joints (out of 66 assessed), 10 or more tender joints (out of 68 assessed), either an erythrocyte sedimentation rate greater than 28 mm/h or C-reactive protein (CRP) concentration of 1.5 mg/dl or greater and either rheumatoid factor positivity or at least one JE.</text>
+    </sentence>
+    <sentence charOffset="6482-6744" id="S43" selection="4a">
+        <text xml:space="preserve">Patients were excluded if they had received previous treatment with methotrexate, cyclophosphamide, ciclosporin, azathioprine, more than two other disease-modifying antirheumatic drugs, or prednisone equivalent greater than 10 mg/day within 30 days of screening.</text>
+    </sentence>
+    <sentence charOffset="6767-6828" id="S44" selection="">
+        <text xml:space="preserve">Clinical, radiographic, functional and employment assessments</text>
+    </sentence>
+    <sentence charOffset="6837-6978" id="S45" selection="6a">
+        <text xml:space="preserve">The 28-joint disease activity score with CRP (DAS28(CRP), range 0–10; hereafter referred to as DAS28) was used to monitor disease activity.21</text>
+    </sentence>
+    <sentence charOffset="6979-7046" id="S46" selection="6a">
+        <text xml:space="preserve">DAS28 was calculated at baseline and regular intervals to week 104.</text>
+    </sentence>
+    <sentence charOffset="7047-7210" id="S47" selection="6a">
+        <text xml:space="preserve">A time-averaged DAS28 (TA-DAS28) was calculated in order to control for intergroup differences in speed of responses and longitudinal fluctuations in inflammation.</text>
+    </sentence>
+    <sentence charOffset="7211-7375" id="S48" selection="6a">
+        <text xml:space="preserve">To obtain TA-DAS28, areas under the curve were determined for all time intervals of available DAS28 values from baseline to 52 or 104 weeks for individual patients.</text>
+    </sentence>
+    <sentence charOffset="7376-7434" id="S49" selection="6a">
+        <text xml:space="preserve">Values were summed and divided by the total time interval.</text>
+    </sentence>
+    <sentence charOffset="7435-7544" id="S50" selection="6a">
+        <text xml:space="preserve">The distribution of TA-DAS28 values for all patients was then divided into tertiles at each assessment point.</text>
+    </sentence>
+    <sentence charOffset="7545-7623" id="S51" selection="6a">
+        <text xml:space="preserve">Radiographs of the hands and feet were taken at baseline and weeks 52 and 104.</text>
+    </sentence>
+    <sentence charOffset="7624-7851" id="S52" selection="6a">
+        <text xml:space="preserve">Two readers, blinded to patient and sequence, scored radiographs individually for bone erosion (JE, range 0–230) and JSN (range 0–168) using a modified form of the Sharp scoring method (modified total Sharp score; mTSS).6 22–24</text>
+    </sentence>
+    <sentence charOffset="7852-7937" id="S53" selection="6a">
+        <text xml:space="preserve">Physical function was evaluated using the HAQ-DI at baseline, week 52 and week 104.25</text>
+    </sentence>
+    <sentence charOffset="7938-8038" id="S54" selection="6a">
+        <text xml:space="preserve">Employment status (either employed or unemployed) was collected at baseline and at weeks 52 and 104.</text>
+    </sentence>
+    <sentence charOffset="8039-8146" id="S55" selection="6a">
+        <text xml:space="preserve">At each time point, a patient was asked if there was a change in employment status from the previous visit.</text>
+    </sentence>
+    <sentence charOffset="8169-8189" id="S56" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="8198-8425" id="S57" selection="">
+        <text xml:space="preserve">Descriptive analyses of changes in disease activity included observed data from patients who completed 52 or 104 weeks of treatment, had one or more post-baseline DAS28 and underwent radiography at baseline and weeks 52 or 104.</text>
+    </sentence>
+    <sentence charOffset="8426-8607" id="S58" selection="">
+        <text xml:space="preserve">Analyses of the relationships between HAQ-DI and JE or JSN included observed data from patients with available HAQ-DI, radiographic data and DAS28 at baseline, week 52, or week 104.</text>
+    </sentence>
+    <sentence charOffset="8608-8812" id="S59" selection="">
+        <text xml:space="preserve">Analysis of the relationships between employment status and JE or JSN included observed data from patients with available employment status, radiographic data and HAQ-DI at baseline, week 52, or week 104.</text>
+    </sentence>
+    <sentence charOffset="8821-8948" id="S60" selection="">
+        <text xml:space="preserve">Overall mean changes from baseline in DAS28 were calculated at weeks 52 and 104 for the analysis population by treatment group.</text>
+    </sentence>
+    <sentence charOffset="8949-9279" id="S61" selection="12a">
+        <text xml:space="preserve">At weeks 52 and 104, the associations between TA-DAS28 tertiles and changes from baseline in JE and JSN were compared for patients who received ADA+MTX combination therapy, adalimumab monotherapy, or methotrexate monotherapy between and within treatment groups using an analysis of variance on the van der Waerden normal scores.26</text>
+    </sentence>
+    <sentence charOffset="9288-9434" id="S62" selection="12a">
+        <text xml:space="preserve">The relationships between HAQ-DI and JE or JSN at baseline, week 52 and week 104 were evaluated using quantile (non-parametric) regression models.</text>
+    </sentence>
+    <sentence charOffset="9435-9637" id="S63" selection="12b">
+        <text xml:space="preserve">Each model evaluated the relationships between HAQ-DI and either concurrent JE or JSN as independent variables after covariate adjustment for concurrent DAS28 and baseline disease duration, age and sex.</text>
+    </sentence>
+    <sentence charOffset="9646-9877" id="S64" selection="12a">
+        <text xml:space="preserve">The relationships between employment status and JE or JSN at baseline, week 52 and week 104 were evaluated using logistic regression models with covariate adjustment for concurrent HAQ-DI and baseline disease duration, age and sex.</text>
+    </sentence>
+    <sentence charOffset="9878-10167" id="S65" selection="12a">
+        <text xml:space="preserve">The relationship between baseline JE or JSN and baseline employment status was further evaluated by calculating tertiles of JE or JSN and determining the percentages of patients in each tertile who were employed at baseline; differences across JE or JSN tertiles were evaluated through χ2.</text>
+    </sentence>
+    <sentence charOffset="10191-10198" id="S66">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="10214-10279" id="S67" selection="">
+        <text xml:space="preserve">Relationship between disease activity and changes in joint damage</text>
+    </sentence>
+    <sentence charOffset="10288-10594" id="S68" selection="16">
+        <text xml:space="preserve">Of the 799 patients originally randomly assigned in PREMIER, 638 (including 229 of 268, 205 of 274 and 204 of 257 patients randomly assigned to receive ADA+MTX, adalimumab and methotrexate, respectively) had one or more post-baseline DAS28 and underwent radiography at baseline and week 52 and/or week 104.</text>
+    </sentence>
+    <sentence charOffset="10595-10771" id="S69" selection="15">
+        <text xml:space="preserve">No significant differences between treatment groups were detected in the baseline demographics and disease characteristics for the patients included in this analysis (table 1).</text>
+    </sentence>
+    <sentence charOffset="10772-10895" id="S70" selection="15">
+        <text xml:space="preserve">As would be expected for a patient population with short disease duration, baseline radiographic scores were generally low.</text>
+    </sentence>
+    <sentence charOffset="10905-11007" id="S71" selection="15">
+        <text xml:space="preserve">Table 1 Baseline demographics and disease characteristics of patients included in analyses of PREMIER*</text>
+    </sentence>
+    <sentence charOffset="11017-11321" id="S72" selection="17a">
+        <text xml:space="preserve">Following 52 and 104 weeks of treatment, patients receiving ADA+MTX combination therapy had greater mean reductions from baseline in DAS28 (−3.6 and −3.8, respectively) than patients receiving adalimumab monotherapy (−2.8 and −3.1, respectively) or methotrexate monotherapy (−2.8 and −3.1, respectively).</text>
+    </sentence>
+    <sentence charOffset="11322-11442" id="S73" selection="17a">
+        <text xml:space="preserve">This pattern of treatment responses was evident at week 2 and maintained throughout the 104-week study (data not shown).</text>
+    </sentence>
+    <sentence charOffset="11451-11940" id="S74" selection="17a">
+        <text xml:space="preserve">The between-group differences in DAS28 response resulted in different distributions of patients across the TA-DAS28 tertiles between the combination and monotherapy treatment groups: approximately half of the patients receiving combination therapy were in the lowest TA-DAS28 tertile, while patients receiving either adalimumab or methotrexate monotherapy were clustered in the higher TA-DAS28 tertiles (see n and percentage in each treatment group over time presented in figures 1 and 2).</text>
+    </sentence>
+    <sentence charOffset="11950-12084" id="S75" selection="17a">
+        <text xml:space="preserve">Figure 1 Changes in joint erosion (JE) by time-averaged 28-joint disease activity score (TA-DAS28(C-reactive protein (CRP))) tertiles.</text>
+    </sentence>
+    <sentence charOffset="12085-12174" id="S76" selection="17a">
+        <text xml:space="preserve">Changes in JE are shown over 52 weeks (A) and 104 weeks (B) by tertiles of TA-DAS28(CRP).</text>
+    </sentence>
+    <sentence charOffset="12175-12282" id="S77" selection="">
+        <text xml:space="preserve">*p&lt;.0.05 for treatment group difference compared with methotrexate (MTX) monotherapy; **p&lt;0.01; ***p&lt;0.001.</text>
+    </sentence>
+    <sentence charOffset="12283-12355" id="S78" selection="">
+        <text xml:space="preserve">Figures show the median (solid line), mean (dotted line) and IQR (bars).</text>
+    </sentence>
+    <sentence charOffset="12356-12372" id="S79" selection="">
+        <text xml:space="preserve">ADA, adalimumab.</text>
+    </sentence>
+    <sentence charOffset="12383-12526" id="S80" selection="17a">
+        <text xml:space="preserve">Figure 2 Changes in joint space narrowing (JSN) by time-averaged 28-joint disease activity score (TA-DAS28(C-reactive protein (CRP))) tertiles.</text>
+    </sentence>
+    <sentence charOffset="12527-12617" id="S81" selection="17a">
+        <text xml:space="preserve">Changes in JSN are shown over 52 weeks (A) and 104 weeks (B) by tertiles of TA-DAS28(CRP).</text>
+    </sentence>
+    <sentence charOffset="12618-12715" id="S82" selection="">
+        <text xml:space="preserve">**p&lt;0.01 for treatment group difference compared with methotrexate (MTX) monotherapy; ***p&lt;0.001.</text>
+    </sentence>
+    <sentence charOffset="12716-12788" id="S83" selection="">
+        <text xml:space="preserve">Figures show the median (solid line), mean (dotted line) and IQR (bars).</text>
+    </sentence>
+    <sentence charOffset="12789-12805" id="S84" selection="">
+        <text xml:space="preserve">ADA, adalimumab.</text>
+    </sentence>
+    <sentence charOffset="12815-12924" id="S85" selection="17a">
+        <text xml:space="preserve">The relationships between TA-DAS28 tertiles and changes in JE or JSN were different between treatment groups.</text>
+    </sentence>
+    <sentence charOffset="12925-13350" id="S86" selection="17a">
+        <text xml:space="preserve">In the methotrexate and adalimumab monotherapy groups, radiographic progression (both JE and JSN) increased significantly (p≤0.02) with increasing disease activity (figures 1 and 2 and table 2), although at several time points the increases in JE and JSN of adalimumab monotherapy were smaller than were observed with methotrexate monotherapy, a result that was more pronounced for the middle DAS28 tertiles of JE (figure 1).</text>
+    </sentence>
+    <sentence charOffset="13351-13490" id="S87" selection="17a">
+        <text xml:space="preserve">In contrast, in the ADA+MTX group, the relationship between radiographic progression and disease activity was generally abrogated (p≥0.06).</text>
+    </sentence>
+    <sentence charOffset="13491-13592" id="S88" selection="17a">
+        <text xml:space="preserve">Indeed, there was less overall progression of both JE and JSN compared with methotrexate monotherapy.</text>
+    </sentence>
+    <sentence charOffset="13593-13724" id="S89" selection="17a">
+        <text xml:space="preserve">Interestingly, the link between progression and disease activity was less apparent for JSN than for JE in ADA+MTX-treated patients.</text>
+    </sentence>
+    <sentence charOffset="13725-13865" id="S90" selection="17a">
+        <text xml:space="preserve">Within each treatment group, the relationships between TA-DAS28 and changes in JE and JSN were generally similar across both time intervals.</text>
+    </sentence>
+    <sentence charOffset="13875-13965" id="S91" selection="17a">
+        <text xml:space="preserve">Table 2 The relationship between TA-DAS28(CRP) tertiles and changes in radiographic scores</text>
+    </sentence>
+    <sentence charOffset="13989-14041" id="S92" selection="">
+        <text xml:space="preserve">Relationship between JE or JSN and physical function</text>
+    </sentence>
+    <sentence charOffset="14050-14171" id="S93" selection="16">
+        <text xml:space="preserve">A total of 765 patients from PREMIER had available HAQ-DI, radiographic data and DAS28 at baseline, week 52, or week 104.</text>
+    </sentence>
+    <sentence charOffset="14172-14370" id="S94" selection="18">
+        <text xml:space="preserve">In quantile regression models, age, female sex and disease activity (DAS28) generally were all positively associated with physical function (HAQ-DI) (table 3), consistent with previous reports.27 28</text>
+    </sentence>
+    <sentence charOffset="14371-14438" id="S95" selection="18">
+        <text xml:space="preserve">Disease duration was not associated with HAQ-DI scores at any time.</text>
+    </sentence>
+    <sentence charOffset="14439-14682" id="S96" selection="18">
+        <text xml:space="preserve">JE and JSN differed in their relationships with physical function: while JE scores were not associated with HAQ-DI at any of the time points examined, JSN scores were positively associated with HAQ-DI scores at both 52 and 104 weeks (table 3).</text>
+    </sentence>
+    <sentence charOffset="14683-14948" id="S97" selection="18">
+        <text xml:space="preserve">The relationship between JSN and HAQ-DI was less evident at baseline, presumably due to either the dominating effect of disease activity or the level of baseline damage in this population not meeting the threshold required to observe an effect on physical function.</text>
+    </sentence>
+    <sentence charOffset="14949-15083" id="S98" selection="18">
+        <text xml:space="preserve">Treatment effect, baseline steroid use and osteoarthritis status did not appear to impact HAQ-DI scores additionally (data not shown).</text>
+    </sentence>
+    <sentence charOffset="15093-15176" id="S99" selection="18">
+        <text xml:space="preserve">Table 3 Quantile (median) regression analysis of HAQ-DI scores at three time points</text>
+    </sentence>
+    <sentence charOffset="15200-15245" id="S100" selection="">
+        <text xml:space="preserve">Relationship between JE or JSN and employment</text>
+    </sentence>
+    <sentence charOffset="15254-15385" id="S101" selection="16">
+        <text xml:space="preserve">Of the 664 patients originally enrolled in the study of employment outcomes, 649 (98%) had available employment status at baseline.</text>
+    </sentence>
+    <sentence charOffset="15386-15625" id="S102" selection="17a">
+        <text xml:space="preserve">Being younger, male and having less disability were associated with being employed at baseline and weeks 52 and 104; shorter disease duration was associated with being employed at baseline but not at the later time points (data not shown).</text>
+    </sentence>
+    <sentence charOffset="15626-15934" id="S103" selection="17a">
+        <text xml:space="preserve">While the presence of JE did not convey a significant impact on employment status at any time point evaluated, small, but statistically significant, associations were found between JSN scores and being employed at baseline (OR 0.97, p=.02) and weeks 52 (OR 0.97, p=.007) and 104 (OR 0.98, p=.04) (figure 3A).</text>
+    </sentence>
+    <sentence charOffset="15935-16277" id="S104" selection="17a">
+        <text xml:space="preserve">When baseline employment status was assessed solely by baseline levels of JE or JSN, the percentages of employed patients generally decreased with increasing baseline values of JE or JSN, although the relationship was more apparent for JSN (p=0.02 vs p&lt;0.001 for the overall differences among JE and JSN tertiles, respectively; figures 3B,C).</text>
+    </sentence>
+    <sentence charOffset="16287-16361" id="S105" selection="17a">
+        <text xml:space="preserve">Figure 3 Relationship between radiographic measures and employment status.</text>
+    </sentence>
+    <sentence charOffset="16362-16531" id="S106" selection="17a">
+        <text xml:space="preserve">(A) Logistic regression analysis of the relationship between joint erosion (JE) or joint space narrowing (JSN) and employment status at baseline, 52 weeks and 104 weeks.</text>
+    </sentence>
+    <sentence charOffset="16532-16633" id="S107" selection="">
+        <text xml:space="preserve">Percentages of patients who were employed at baseline within each baseline JE (A) or JSN (B) tertile.</text>
+    </sentence>
+    <sentence charOffset="16658-16668" id="S108">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="16675-16856" id="S109" selection="">
+        <text xml:space="preserve">The hallmarks of RA—inflammation, damage to bone and cartilage, and physical disability—are thought to be interrelated processes that often progress rapidly following disease onset.</text>
+    </sentence>
+    <sentence charOffset="16857-17041" id="S110" selection="">
+        <text xml:space="preserve">Treatment with the combination of a TNF inhibitor and methotrexate often limits, or even prevents, joint damage in patients who may lack an otherwise measurable clinical response.11–15</text>
+    </sentence>
+    <sentence charOffset="17042-17308" id="S111" selection="22">
+        <text xml:space="preserve">Our results further refine the understanding of this clinical and functional benefit by demonstrating that ADA+MTX protects against JE and JSN onset or worsening; both of these benefits are also largely independent of the therapeutic effect on inflammatory activity.</text>
+    </sentence>
+    <sentence charOffset="17315-17467" id="S112" selection="">
+        <text xml:space="preserve">Earlier analyses have not evaluated the individual effects of anti-TNF plus methotrexate on JE and JSN progression in response to disease activity.11–15</text>
+    </sentence>
+    <sentence charOffset="17468-17616" id="S113" selection="">
+        <text xml:space="preserve">These findings reveal that both JE and JSN increase consistently with increasing disease activity in patients treated with methotrexate monotherapy.</text>
+    </sentence>
+    <sentence charOffset="17617-17739" id="S114" selection="">
+        <text xml:space="preserve">Interestingly, a similar trend in JE and JSN increase in relation to disease activity is seen with adalimumab monotherapy.</text>
+    </sentence>
+    <sentence charOffset="17740-17934" id="S115" selection="">
+        <text xml:space="preserve">However, a recent analysis suggests that adalimumab provides better joint protection than methotrexate in individual joints with pre-existing damage, irrespective of the presence of synovitis.29</text>
+    </sentence>
+    <sentence charOffset="17935-18051" id="S116" selection="">
+        <text xml:space="preserve">Importantly, ADA+MTX reduces the progression of both JE and JSN in a manner that is independent of disease activity.</text>
+    </sentence>
+    <sentence charOffset="18052-18320" id="S117" selection="22">
+        <text xml:space="preserve">Interestingly, the relationship between disease activity and JSN progression appeared less prevalent than with JE progression, suggesting that ADA+MTX may have even stronger inhibitory effects on JSN progression than on JE progression, despite persistent inflammation.</text>
+    </sentence>
+    <sentence charOffset="18321-18437" id="S118" selection="22">
+        <text xml:space="preserve">Alternatively, the threshold of TNF required to elicit JSN may be higher than that required to cause erosive damage.</text>
+    </sentence>
+    <sentence charOffset="18438-18699" id="S119" selection="22">
+        <text xml:space="preserve">This novel finding on the abrogation of effects of disease activity on JSN by combination therapy with ADA+MTX appears to be of particular importance in light of recent observations that JSN may affect physical function more profoundly than bony joint damage.17</text>
+    </sentence>
+    <sentence charOffset="18700-19035" id="S120" selection="22">
+        <text xml:space="preserve">Indeed, the present analysis expands these findings by demonstrating that in early RA patients progression of JSN, but not JE, is not only significantly associated with loss of physical function, but that JSN progression also has an adverse effect on employment status not seen with JE progression, even at this early stage of disease.</text>
+    </sentence>
+    <sentence charOffset="19042-19151" id="S121" selection="">
+        <text xml:space="preserve">A positive association between physical function and joint damage has been documented in advanced RA.27 28 30</text>
+    </sentence>
+    <sentence charOffset="19152-19344" id="S122" selection="">
+        <text xml:space="preserve">Less consideration has been given to this relationship in early RA patients, although increasing joint damage and longer disease duration have been linked to irreversible physical disability.3</text>
+    </sentence>
+    <sentence charOffset="19345-19507" id="S123" selection="">
+        <text xml:space="preserve">In a study of patients with advanced RA, joint damage was associated with HAQ-DI after adjustment for age, sex, DAS28, CRP, disease duration and treatment type.28</text>
+    </sentence>
+    <sentence charOffset="19508-19567" id="S124" selection="">
+        <text xml:space="preserve">A similar set of covariates was evaluated in this analysis.</text>
+    </sentence>
+    <sentence charOffset="19568-19718" id="S125" selection="">
+        <text xml:space="preserve">No relationship between JSN and HAQ-DI was apparent at baseline; however, JSN and HAQ-DI were associated following both 52 and 104 weeks of treatment.</text>
+    </sentence>
+    <sentence charOffset="19719-19912" id="S126" selection="22">
+        <text xml:space="preserve">It is possible that baseline disease activity masked the relationship between JSN and HAQ-DI, and this relationship only became discernible once treatment reduced disease activity sufficiently.</text>
+    </sentence>
+    <sentence charOffset="19913-20155" id="S127" selection="22">
+        <text xml:space="preserve">Alternatively, the inability to detect this relationship at baseline may have reflected the short duration of disease in these patients, as an impact on physical function may require a threshold of accrued damage not yet achieved at baseline.</text>
+    </sentence>
+    <sentence charOffset="20156-20467" id="S128" selection="22">
+        <text xml:space="preserve">In addition, an earlier analysis from PREMIER identified no relationship between concurrent values of the mTSS and HAQ-DI, but a change in the mTSS was significantly associated with HAQ-DI,31 suggesting that progression of joint damage may be more predictive of future function than existing damage in early RA.</text>
+    </sentence>
+    <sentence charOffset="20468-20677" id="S129" selection="21">
+        <text xml:space="preserve">The consistency of the relationships reported across the evaluated 2-year period suggests that these results may be extrapolated to patients with a longer duration of disease than those included in this study.</text>
+    </sentence>
+    <sentence charOffset="20678-20862" id="S130" selection="21">
+        <text xml:space="preserve">Indeed, the observed coefficients, although indicative of a weak association, are consistent with those obtained from longitudinal analyses of patients with more advanced disease.28 30</text>
+    </sentence>
+    <sentence charOffset="20863-21017" id="S131" selection="22">
+        <text xml:space="preserve">They also indicate that subtle progression of JSN in patients with aggressive forms of the disease, if left unchecked, may lead to long-term disability.17</text>
+    </sentence>
+    <sentence charOffset="21024-21269" id="S132" selection="">
+        <text xml:space="preserve">Although previous results are suggestive of an interconnected association between joint damage, physical function and employment status,19 32 33 the relative contribution of JE and JSN progression to employment status has not yet been evaluated.</text>
+    </sentence>
+    <sentence charOffset="21270-21381" id="S133" selection="22">
+        <text xml:space="preserve">Our data indicate that progression of JSN plays a more prominent role than JE in determining employment status.</text>
+    </sentence>
+    <sentence charOffset="21382-21558" id="S134" selection="">
+        <text xml:space="preserve">Patients with RA frequently lose their jobs early in the course of the disease, with 20−30% experiencing permanent work disability during the first 2−3 years after diagnosis.34</text>
+    </sentence>
+    <sentence charOffset="21559-21750" id="S135" selection="22">
+        <text xml:space="preserve">These data indicate that early control of JSN progression is important not only to protect patients’ physical functioning but to help them maintain the lifestyle they had before RA diagnosis.</text>
+    </sentence>
+    <sentence charOffset="21751-22008" id="S136" selection="">
+        <text xml:space="preserve">A similar association with reduced physical function and job impairment is observed in patients with osteoarthritis;35 however, there is no evidence that existing osteoarthritis independently impacted JE or JSN progression or HAQ-DI scores in this database.</text>
+    </sentence>
+    <sentence charOffset="22015-22095" id="S137" selection="">
+        <text xml:space="preserve">Several limitations must temper the interpretation of the results of this study.</text>
+    </sentence>
+    <sentence charOffset="22096-22310" id="S138" selection="20">
+        <text xml:space="preserve">Although the radiographic endpoints used are widely reported and validated, they remain surrogate measures that rely on visual representation and interpretation of joint damage and can be subject to error and bias.</text>
+    </sentence>
+    <sentence charOffset="22311-22512" id="S139" selection="20">
+        <text xml:space="preserve">Furthermore, as JSN is not a direct measure of cartilage damage, surrounding tissues may also be damaged, and the JSN measurement technique cannot determine the relative contributions of these tissues.</text>
+    </sentence>
+    <sentence charOffset="22513-22584" id="S140" selection="">
+        <text xml:space="preserve">Still, such contribution is less likely at this early stage of disease.</text>
+    </sentence>
+    <sentence charOffset="22585-22643" id="S141" selection="20">
+        <text xml:space="preserve">The joints analysed for JE and JSN also offer limitations.</text>
+    </sentence>
+    <sentence charOffset="22644-22955" id="S142" selection="20">
+        <text xml:space="preserve">Larger joints, such as joints of the knee, may impact physical function and employability to a greater extent than the joints of the hands, wrist and feet that are scored for JE and JSN, and an examination into grip strength in relation to these patient-reported outcomes may have produced greater correlations.</text>
+    </sentence>
+    <sentence charOffset="22956-23289" id="S143" selection="">
+        <text xml:space="preserve">However, it is important to note that this study included patients with an average disease duration of less than 1 year; therefore, finding a statistically significant association between these variables at this early stage of RA portends a high risk of a much larger consequence if damage were allowed to accrue over longer periods.</text>
+    </sentence>
+    <sentence charOffset="23290-23371" id="S144" selection="20">
+        <text xml:space="preserve">Differences in patient discontinuations over time represent a further limitation.</text>
+    </sentence>
+    <sentence charOffset="23372-23528" id="S145" selection="">
+        <text xml:space="preserve">Still, the observed differences between treatment groups may have been more pronounced had rates of discontinuation been comparable across treatment groups.</text>
+    </sentence>
+    <sentence charOffset="23529-23695" id="S146" selection="20">
+        <text xml:space="preserve">Finally, the post-hoc nature of these analyses should be considered to be hypothesis generating and require confirmation in other databases of patients with early RA.</text>
+    </sentence>
+    <sentence charOffset="23712-23723" id="S147">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="23730-23921" id="S148" selection="">
+        <text xml:space="preserve">In this population with early, progressive RA, JSN progression was associated with impairment in physical function and work status throughout 2 years of treatment, but JE progression was not.</text>
+    </sentence>
+    <sentence charOffset="23922-24135" id="S149" selection="22">
+        <text xml:space="preserve">Because of the clinical implications of JSN progression for disability and work impairment, protection from the onset or worsening of JSN should be an important factor when choosing between therapeutic modalities.</text>
+    </sentence>
+    <sentence charOffset="24136-24268" id="S150" selection="">
+        <text xml:space="preserve">Combination therapy with ADA+MTX suppresses JE and JSN progression and does so in a manner independent of clinical disease activity.</text>
+    </sentence>
+    <sentence charOffset="24278-24289" id="S151">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="24297-24553" id="S152" selection="">
+        <text xml:space="preserve">Medical writing assistance in the development and revision of this manuscript was provided by Benjamin Wolfe, PhD, and Troy Scott, DVM, of Abbott, and Ellen Stoltzfus, PhD, and Robin Stromberg, PhD, of JK Associates, Inc. This support was funded by Abbott.</text>
+    </sentence>
+    <sentence charOffset="24575-24710" id="S153" selection="">
+        <text xml:space="preserve">Contributors: All authors participated in interpretation of the data, critically revised the manuscript and approved the final version.</text>
+    </sentence>
+    <sentence charOffset="24733-24819" id="S154" selection="25,23">
+        <text xml:space="preserve">Funding: Abbott sponsored the study (NCT00195663) and contributed to the study design.</text>
+    </sentence>
+    <sentence charOffset="24842-25303" id="S155" selection="">
+        <text xml:space="preserve">Competing interests: JSS has received consulting fees or other remuneration from Abbott, Amgen, Astra-Zeneca, BMS, Celgene, Centocor-Janssen, Glaxo, Lilly, Pfizer (Wyeth), MSD (Schering-Plough), Novo-Nordisk, Roche, Sandoz and UCB, research grants from Abbott, BMS, Pfizer (Wyeth), MSD (Schering-Plough), Roche and UCB, and has served on speaker's bureaux on behalf of Abbott, BMS, Centocor-Janssen, Pfizer (Wyeth), MSD (Schering-Plough), Roche, Sandoz and UCB.</text>
+    </sentence>
+    <sentence charOffset="25304-25504" id="S156" selection="">
+        <text xml:space="preserve">DMvdH has received consulting fees or other remuneration from Abbott, Amgen, AstraZeneca, BMS, Centocor, Chugai, Merck, Novartis, Otsuka, Pfizer, Roche, Sanofi-Aventis, Schering-Plough, UCB and Wyeth.</text>
+    </sentence>
+    <sentence charOffset="25505-25931" id="S157" selection="">
+        <text xml:space="preserve">ECK has received consulting fees or other remuneration from, and served on advisory boards on behalf of, Abbott, AstraZeneca, Biotest, BMS, Centocor, Genentech, Merck, Nycomed, Pfizer, Roche and UCB, has received research grants from Abbott, Amgen, AstraZeneca, BMS, Centocor, Genzyme, Merck, Novartis, Pfizer, Roche and UCB, and has speaker honoraria agreements with Abbott, Amgen, BMS, Janssen, Merck, Pfizer, Roche and UCB.</text>
+    </sentence>
+    <sentence charOffset="25932-26068" id="S158" selection="">
+        <text xml:space="preserve">RFvV has served as a consultant for and/or received research support from Abbott, Glaxo SmithKline, Merck, Pfizer, Roche and UCB Pharma.</text>
+    </sentence>
+    <sentence charOffset="26069-26271" id="S159" selection="">
+        <text xml:space="preserve">MBG has received research grants from Abbott and Merck-Serono and has received consulting fees or other remuneration from Abbott, NicOx, Biomet Orthopaedics, Pfizer, Merck-Serono and Fidia Farmaceutici.</text>
+    </sentence>
+    <sentence charOffset="26272-26450" id="S160" selection="">
+        <text xml:space="preserve">RBML has received research grants and consulting fees or other remuneration from and served on speaker's bureaux on behalf of, Abbott, Amgen, Centocor, Pfizer/Wyeth, UCB and BMS.</text>
+    </sentence>
+    <sentence charOffset="26451-26554" id="S161" selection="">
+        <text xml:space="preserve">BG, MAC, NC and SL are all full-time employees of Abbott and may hold stock or stock options in Abbott.</text>
+    </sentence>
+    <sentence charOffset="26577-26725" id="S162" selection="">
+        <text xml:space="preserve">Ethics approval: The study protocols were approved by the local institutional review boards or independent ethics committees at participating sites.</text>
+    </sentence>
+    <sentence charOffset="26748-26774" id="S163" selection="">
+        <text xml:space="preserve">Patient consent: Obtained.</text>
+    </sentence>
+    <sentence charOffset="26797-26868" id="S164" selection="">
+        <text xml:space="preserve">Provenance and peer review: Not commissioned; externally peer reviewed.</text>
+    </sentence>
+    <sentence charOffset="26891-27257" id="S165" selection="">
+        <text xml:space="preserve">Open Access: This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 3.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial.</text>
+    </sentence>
+    <sentence charOffset="27258-27309" id="S166" selection="">
+        <text xml:space="preserve">See: http://creativecommons.org/licenses/by-nc/3.0/</text>
+    </sentence>
+    <section textSpan="0-207" title="Title" titleSpan="0-5"/>
+    <section textSpan="208-2132" title="Abstract" titleSpan="208-216">
+        <section textSpan="226-639" title="Objectives" titleSpan="237-247"/>
+        <section textSpan="648-1275" title="Methods" titleSpan="659-666"/>
+        <section textSpan="1284-1771" title="Results" titleSpan="1295-1302"/>
+        <section textSpan="1780-2124" title="Conclusions" titleSpan="1791-1802"/>
+    </section>
+    <section textSpan="2138-4910" title="Introduction" titleSpan="2145-2157"/>
+    <section textSpan="4915-10179" title="Methods" titleSpan="4922-4929">
+        <section textSpan="4936-5891" title="Study design" titleSpan="4945-4957"/>
+        <section textSpan="5898-6751" title="Patient characteristics" titleSpan="5907-5930"/>
+        <section textSpan="6758-8153" title="Clinical, radiographic, functional and employment assessments" titleSpan="6767-6828"/>
+        <section textSpan="8160-10174" title="Statistical analysis" titleSpan="8169-8189"/>
+    </section>
+    <section textSpan="10184-16646" title="Results" titleSpan="10191-10198">
+        <section textSpan="10205-13973" title="Relationship between disease activity and changes in joint damage" titleSpan="10214-10279"/>
+        <section textSpan="13980-15184" title="Relationship between JE or JSN and physical function" titleSpan="13989-14041"/>
+        <section textSpan="15191-16641" title="Relationship between JE or JSN and employment" titleSpan="15200-15245"/>
+    </section>
+    <section textSpan="16651-23700" title="Discussion" titleSpan="16658-16668"/>
+    <section textSpan="23705-24273" title="Conclusions" titleSpan="23712-23723"/>
+    <section textSpan="24278-27322" title="Back matter" titleSpan="24278-24289"/>
+</document>

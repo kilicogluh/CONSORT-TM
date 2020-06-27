@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3502035" note="">
+    <text xml:space="preserve">Title
+Effect of intensive structured care on individual blood pressure targets in primary care: multicentre randomised controlled trial
+Abstract
+
+        Objective To determine the effectiveness of intensive structured care to optimise blood pressure control based on individual absolute risk targets in primary care.
+        Design Pragmatic multicentre randomised controlled trial.
+        Setting General practices throughout Australia, except Northern Territory, 2009-11.
+        Participants Of 2185 patients from 119 general practices who were eligible for drug treatment for hypertension according to national guidelines 416 (19.0%) achieved their individual blood pressure target during a 28 day run-in period of monotherapy. After exclusions, 1562 participants not at target blood pressure (systolic 150 (SD 17) mm Hg, diastolic 88 (SD 11) mm Hg) were randomised (1:2 ratio) to usual care (n=524) or the intervention (n=1038).
+        Intervention Computer assisted clinical profiling and risk target setting (all participants) with intensified follow-up and stepwise drug titration (initial angiotensin receptor blocker monotherapy or two forms of combination therapy using angiotensin receptor blockers) for those randomised to the intervention. The control group received usual care.
+        Main outcome measures The primary outcome was individual blood pressure target achieved at 26 weeks. Secondary outcomes were change in mean sitting systolic and diastolic blood pressure, absolute risk for cardiovascular disease within five years based on the Framingham risk score, and proportion and rate of adverse events.
+        Results On an intention to treat basis, there was an 8.8% absolute difference in individual blood pressure target achieved at 26 weeks in favour of the intervention group compared with usual care group (358/988 (36.2%) v 138/504 (27.4%)): adjusted relative risk 1.28 (95% confidence interval 1.10 to 1.49, P=0.0013). There was also a 9.5% absolute difference in favour of the intervention group for achieving the classic blood pressure target of ≤140/90 mm Hg (627/988 (63.5%) v 272/504 (54.0%)): adjusted relative risk 1.18 (1.07 to 1.29, P&lt;0.001). The intervention group achieved a mean adjusted reduction in systolic blood pressure of 13.2 mm Hg (95% confidence interval −12.3 to −14.2 mm Hg) and diastolic blood pressure of 7.7 mm Hg (−7.1 to −8.3 mm Hg) v 10.1 mm Hg (−8.8 to 11.3 mm Hg) and 5.5 mm Hg (−4.7 to −6.2 mm Hg) in the usual care group (P&lt;0.001). Among 1141 participants in whom five year absolute cardiovascular risk scores were calculated from baseline to the 26 week follow-up, the reduction in risk scores was greater in the intervention group than usual care group (14.7% (SD 9.3%) to 10.9% (SD 8.0%); difference −3.7% (SD 4.5%) and 15.0% (SD 10.1%) to 12.4% (SD 9.4%); −2.6% (SD 4.5%): adjusted mean difference −1.13% (95% confidence interval −0.69% to −1.63%; P&lt;0.001). Owing to adverse events 82 (7.9%) participants in the intervention group and 10 (1.9%) in the usual care group had their drug treatment modified.
+        Conclusions In a primary care setting intensive structured care resulted in higher levels of blood pressure control, with clinically lower blood pressure and absolute risk of future cardiovascular events overall and with more people achieving their target blood pressure. An important gap in treatment remains though and applying intensive management and achieving currently advocated risk based blood pressure targets is challenging.
+      
+
+
+    
+      Introduction
+      Although hypertension is a readily detectable and modifiable condition it is responsible for more deaths worldwide than any other cardiovascular risk factor, including tobacco use, obesity, and lipid disorders.1 In the United States, of all modifiable risk factors hypertension has been associated with the greatest population attributable risk for all cause mortality (30%) and deaths from cardiovascular disease (40%).2 Epidemiological studies suggest a relation between raised blood pressure and increased risk of cardiovascular events.3 Large scale clinical trials examining the efficacy of a broad range of antihypertensives found a consistent and continuous reduction in cardiovascular risk (primary or secondary events and across all age groups) according to the baseline values and magnitude of change in both systolic and diastolic blood pressure.3 Traditionally, the ideal blood pressure target has been ≤140/90 mm Hg for those aged less than 80 years and these are reflected in current guidelines from the National Institute for Health and Clinical Excellence in the United Kingdom.4 The introduction of absolute risk profiling for primary prevention purposes4 5 and more stringent, individualised blood pressure targets for higher risk groups such as people with type 2 diabetes or more advanced forms of cardiovascular disease6 7 has provided clinicians in other regions of the world with a challenge in meeting these targets. Considering the recent debate on whether more stringent blood pressure targets fail to provide cardioprotection and perhaps even confer harm at blood pressure levels approaching 110/75 mm Hg8 it is likely that more stringent blood pressure targets will be subject to further consideration.
+      Regardless of recommended blood pressure targets, however, the translation of potential benefits from clinical trials to the real life management of hypertension (much of which occurs in primary care) is less than ideal. Many people prescribed antihypertensive treatment have a blood pressure &gt;140/90 mm Hg.9 A key component of effective translation in the primary care setting seems to be the application of structured programmes to apply antihypertensive treatments by a rigorous stepped care approach10 to overcome the common phenomenon of prescription resistance11 (whereby clinicians are reluctant to up-titrate existing drug treatment or prescribe additional antihypertensive agents) and to achieve better individual blood pressure control. For example, nurse led interventions that comprise a structured care algorithm are associated with greater reductions in blood pressure levels than usual care overall.12 Few studies, however, have specifically tested the application of structured care in the setting of more stringent, risk based blood pressure targets in a large and diverse range of general practices—that is, small to large clinics and those with and without practice nurses to implement structured care.
+      As described elsewhere,13 the Valsartan Intensified Primary carE Reduction of Blood Pressure (VIPER-BP) study was a pragmatic, multicentre, randomised trial evaluating the clinical effectiveness and overall safety of a more intensive and structured approach to optimising blood pressure control in a group of people with persistently high blood pressure in a real world primary care setting.
+      In a typical cohort of primary care patients with suboptimal blood pressure (individualised target according to their risk profile6), we hypothesised that a greater proportion of those randomised to the intervention would achieve individualised blood pressure control at the end of 26 weeks compared with those randomised to usual care.
+    
+    
+      Methods
+      The Australian universal health insurance scheme (Medicare) provides citizens with free access to public hospitals and reimbursed access (70% of services with no co-payment) to a widespread network of primary care or general practice clinics. A parallel system, the Pharmaceutical Benefits Scheme, provides subsidised drug treatment to all Australians, with capped payments for those with a chronic illness; most prescriptions for drugs being generated by general practitioners managing people with chronic conditions such as hypertension.
+      
+        Participants
+        Study participants were recruited by 260 general practitioners from 119 general practices distributed throughout every state and territory of Australia except the sparsely populated Northern Territory. People routinely managed by these doctors were potentially eligible to participate if they were aged 18 or more, had a diagnosis of hypertension requiring active drug treatment according to guidelines, and consented to participate. We excluded people who had a mean initial systolic blood pressure of 180 mm Hg or more while sitting, were prescribed three or more antihypertensives; had moderate to severe renal disease (clinical diagnosis or estimated glomerular filtration rate &lt;60 mL/min/1.73m2), or had contraindications to angiotensin receptor blockers, calcium channel blockers, or thiazide diuretics. Recruitment took place from July 2009 to December 2010, with follow-up completed in July 2011. 
+      
+      
+        Study design
+        This was an open label, two arm, randomised trial comparing an intensive blood pressure management strategy with usual care (control).13 Randomisation was by computer generated, group assignment stratified according to nominated blood pressure target (three strata) and block randomisation (units of 12) per general practitioner. An independent data management team at Baker IDI coordinated a standardised protocol for randomising participants over the telephone. Participants were assigned to the groups using a prespecified ratio of 1:2 for usual care versus intervention (with a further ratio of 1:2 within the intervention arm to assign participants to a monotherapy strategy and to two possible combined treatment strategies). Quality control of the sites and general practitioners was achieved by visits before randomisation and at study end. The study was independently monitored by routine visits, and case report forms were verified against clinical records for 20% of patients. We used standardised operating procedures for data queries and management. All queries were resolved by the time the study dataset was locked and no further changes were permitted. Figure 1 provides a graphical representation of the study timelines.
+         Fig 1 Summary of study timelines
+      
+      
+        Study entry
+        Eligible participants underwent baseline assessment, including determination of absolute cardiovascular risk.5 On the basis of this assessment, we identified target risk factor measures (including blood pressure, lipid levels, exercise levels, smoking status, and body mass index) for each participant according to national guidelines.6 A computer program developed by Baker IDI enabled clinical profiling in all participants and subsequent management in intervention patients (see appendix I in the supplementary file). Eligible participants began a standard 28 day run-in period of treatment with open label, oral valsartan 80 mg daily, with a mandatory blood pressure check 14 days after the start of treatment to determine the need for immediate (rescue) randomisation if systolic blood pressure was ≥180 mm Hg or clinically indicated. We then randomised into the study those who did not achieve their prespecified blood pressure target within this run-in period or were not specifically withdrawn or lost to follow-up (blinded allocation).
+      
+      
+        Blood pressure measurement
+        Throughout the study we used a standardised protocol based on national guidelines to record blood pressure measurements.6 After participants had rested for at least five minutes and while they were seated we obtained three blood pressure measurements separated by one minute intervals using an appropriate sized cuff and a calibrated, semiautomated oscillometric device approved by the Therapeutic Goods Administration of Australia. We defined aberrant measurements as those where the lowest reading was 10 mm Hg or more for systolic blood pressure or 5 mm Hg or more for diastolic blood pressure below the highest of the three seated readings. If this occurred, the participant was rested for three minutes and the procedure repeated. Given the size and nature of the study, it was impractical to obtain independent, blinded blood pressure levels. Nominated study staff at each site (general practitioner or practice nurse) verified the blood pressure measurements by an independent audit of the clinical details in the case records, outputs from the blood pressure monitor, and the computer decision tool.
+      
+      
+        Usual care
+        For those assigned to usual care, we asked general practitioners to follow their usual pattern of clinic visits and treatment strategies (no restriction on prescribed drugs) to achieve the individualised blood pressure target and other prevention targets identified during the run-in phase; the only mandatory study visits were at weeks 6 (a typically brief 10-15 minute consultation) and 26 (final comprehensive evaluation). We explicitly acknowledged that this was an enhanced form of usual care given that the participants had already been subject to clinical profiling and had an identified blood pressure target and their doctors potentially had knowledge of the intervention (with the inherent problem of contamination).
+      
+      
+        Study intervention
+        Those allocated to the intervention arm followed an intensive stepped programme of management, with mandatory visits to their doctor at weeks 6, 10, 14, and 18 after randomisation to review their blood pressure and to adjust their treatment if needed according to prespecified algorithms (see appendix II in the supplementary file). Typically, these consultations lasted 10-15 minutes (about 60 minutes in total) in addition to the time taken for clinical profiling at baseline. Reflecting contemporary treatment options for the management of hypertension, different drug pathways were mandated (initial monotherapy with valsartan 160 mg or combined with hydrochlorothiazide or amlodipine, as single combined pills). Scheduling of visits and up-titration of drug treatment was guided by the same computer program developed by Baker IDI to facilitate the initial risk profiling and management. A final clinic visit for clinical re-evaluation was scheduled at 26 weeks.
+      
+      
+        Study endpoints
+        The primary endpoint was the percentage of participants who achieved their individualised blood pressure target according to national guidelines6 during 26 weeks of follow-up (using last recorded blood pressure for intention to treat analyses). These stringent blood pressure targets, which have been rarely examined for feasibility in a controlled trial, are ≤125/75 mm Hg if a patient has proteinuria, ≤130/80 mm Hg if end organ damage is present (including any form of cardiovascular disease, diabetes, or microalbuminuria), and the classic target of ≤140/90 mm Hg for those without evidence of the other two criteria.
+        Key secondary endpoints included change in mean sitting systolic and diastolic blood pressure and absolute risk for cardiovascular disease within five years based on the Framingham risk score5 (where applicable). Secondary endpoints also included the type and rate of adverse events potentially attributable to antihypertensive treatment, and serious adverse events including all cause mortality and fatal and non-fatal cardiovascular events—for example, acute myocardial infarction, stroke, and heart failure. Several other secondary endpoints will be the subject of future or expanded reports, including changes in quality of life, depression, self care behaviours, and evidence of end organ damage (including electrocardiographic evidence of left ventricular hypertrophy and newly detected proteinuria).
+      
+      
+        Study power
+        We largely met the study targets for overall recruitment and number of participants entering the run-in phase. Based on the combination of a strong potential for interventional contamination, balanced against the need to establish clinically significant differences between the two groups, the study was initially powered to detect a minimum absolute difference of 7% between the groups for the primary endpoint.13 As proportionately more patients achieved blood pressure control during the study run-in and thus the number of randomised participants was reduced, we recalculated that a total randomised cohort of more than 1500 participants would still provide sufficient study power to detect a minimum 8% difference between groups with more than 85% study power (two sided α level of 0.05 and adjusting for 2:1 randomisation for study intervention versus usual care).13
+      
+      
+        Statistical analyses
+        The study statistician (on behalf of the clinical safety and efficacy committee) independently analysed the data according to a prospectively designed statistical analysis plan. If blood pressure values were missing at 26 weeks, we carried forward the last recorded blood pressure measurement after randomisation for primary endpoint analysis. Baseline and outcome data were analysed using SPSS for Windows version 19.0. Continuous data are presented as means (standard deviations) or medians (interquartile ranges). Categorical data are presented as percentages.
+        We carried out efficacy analyses on an intention to treat population, consisting of all participants randomised to the intervention arm or to the usual care arm and who had at least one recorded blood pressure measurement after randomisation. Analyses were based on the treatment group to which the participant was randomised. We compared the primary endpoint measure (blood pressure control at week 26) between the study groups using a log binomial generalised linear model with stratification status at randomisation as a covariate. Stratification status was fit as a categorical variable with the three blood pressure target groups (≤125/75 mm Hg, ≤130/80 mm Hg, and ≤140/90 mm Hg) based on the participant’s clinical profile. Change in systolic and diastolic blood pressure from baseline to 26 weeks were each analysed by analysis of covariance, with treatment group and stratification status as factors and mean baseline blood pressure as a covariate. We also describe the proportion and rate of adverse events (per participant).
+      
+    
+    
+      Results
+      Overall, 2337 participants (1381 men (59.1%), mean age 58 (SD 12) years) with hypertension from 119 general practices were enrolled into the study; 2185 participants from 114 practices subsequently started the run-in phase of initial treatment (valsartan 80 mg/day for 14-28 days, fig 2). (The figure in appendix II in the supplementary file shows a simplified flow chart of study activity and interventions according to group randomisation, including the initial phase of clinical profiling of all participants who entered the run-in phase of the study, and the two study arms after randomisation.)
+       Fig 2 Flow of participants through study
+      Of those who entered the run-in phase, 1329 (60.8%) had pre-existing hypertension and had been treated for a median of 5 (interquartile range 2-10) years. Previous treatment, which was stopped on entry to the study, comprised monotherapy with either angiotensin converting enzyme inhibitors or angiotensin receptor blockers (n=907, 68.2%), a calcium channel antagonist (n=233, 17.5%), or combination antihypertensive treatment (n=259, 19.5%). The initial blood pressure target for these 2185 participants was ≤125/75 mm Hg in 330 (15.1%), ≤130/80 mm Hg in 993 (45.4%), and ≤140/90 mm Hg in 862 (39.5%). During the run-in phase, 416 (19.0%) participants reached their initial prespecified blood pressure target; comprising 20 (6.7%) of those with a preliminary blood pressure target of ≤125/75 mm Hg, 128 (12.9%) with ≤130/80 mm Hg, and 268 (31.1%) with ≤140/90 mm Hg. A further 207 (9.5%) participants withdrew from the study (56 (2.6%) experienced an adverse event) and were not randomised (fig 2).
+      Table 1 shows the baseline characteristics of the 1562 participants randomised to the usual care group (n=524, 33.5%) or intervention group (n=1038, 66.5%); 360 (23.0%) participants in the intervention group were randomised to the monotherapy arm and 678 (43.4%) to the combination therapy arm. The proportion of patients treated for hypertension before the study run-in phase (40% with angiotensin converting enzyme inhibitors, 20% with an angiotensin receptor blocker, and 21% with combination therapy including a calcium antagonist or diuretic) had increased to 66.9%, with little difference between the groups. The groups were well matched for clinical and personal characteristics and prespecified blood pressure targets. At randomisation, 219 (14.0% with equal proportions in each group) were assigned to a blood pressure target that differed from the recommended (automated) clinical profile; these reflected general practitioners’ discretion for a mostly higher blood pressure target than recommended. An endpoint blood pressure was recorded in 504/524 participants in the usual care group and 988/1038 in the intervention group, at any time point after randomisation.
+      Table 1  Baseline characteristics according to group randomisation (n=1562). Values are numbers (percentages) of participants unless stated otherwise
+      
+        Patterns of blood pressure management
+        Drug treatment after randomisation was recorded in 501 participants (95.6%) in the usual care arm and 991 (95.5%) in the intervention arm. In the intervention group, attendance (within 14 days) at scheduled visits varied from 79.9-91.0%; the highest attendance being at six weeks (compared with 91.4% in the usual care group, table 2). Overall, participants in the usual care group had 854 clinic reviews (mean 1.7 visits) after randomisation compared with 3477 in the intervention group (mean 3.5 visits). Figures in appendix II in the supplementary file show the (complex) pattern of prescribing in the usual care group and the composite treatment groups comprising the intervention group. At randomisation, most participants in the intervention arm were prescribed their per protocol treatment: 334/360 (92.8%) monotherapy (valsartan 160 mg daily), 228/250 (91.2%) hydrochlorothiazide combination therapy (valsartan 80 mg + hydrochlorothiazide 12.5 mg daily), and 398/417 (95.4%) amlodipine combination (valsartan 80 mg + amlodipine 5 mg daily); 11 participants in the combination arm (all early study withdrawals) did not have their combination treatment selected at randomisation. In the next six weeks, 108 (32%), 118 (52%), and 207 (52%) of these participants, respectively, had progressed to the next level treatment as per study protocol. At baseline in the usual care group, 367 (70.0%) participants were still receiving valsartan 80 mg/day and 67 (12.8%) were receiving the increased dose of 160 mg/day. By study completion (based on last prescribed treatment) a greater proportion of participants in the usual care group (n=227) than intervention group (n=154) were prescribed monotherapy (43.3 v 14.8%) and fewer were prescribed combination (217 (41.4%) v 609 (58.7%)) or triple (21 (4.1%) v 155 (14.9%) antihypertensive therapy. Alternatively, prescription resistance with deviation from the management protocol was evident in 360 participants (34.7%): most deviations (&gt;90%) involved general practitioners not up-titrating antihypertensive treatment to achieve one of the two lower blood pressure targets.
+        Table 2  Mean systolic and diastolic blood pressure and absolute change from baseline by study visits. Values are means (standard deviations) unless stated otherwise
+      
+      
+        Primary endpoint: individualised blood pressure control
+        On an intention to treat basis, there was an 8.8% absolute difference in the primary endpoint in favour of the intervention group, with 358/988 (36.2%) participants in the intervention arm achieving their individual blood pressure target compared with 138/504 (27.4%) in the usual care arm: adjusted relative risk 1.28 (95% confidence interval 1.10 to 1.49, P=0.0013). Table 2 shows absolute blood pressure values (with change in blood pressure from baseline) and overall pattern of blood pressure control for both groups during progressive visits. Overall, 627/988 (63.5%) participants in the intervention group compared with 272/504 (54.0%) in the usual care group achieved the classic blood pressure target of ≤140/90 mm Hg. This represents an absolute difference of 9.5% in favour of the intervention group: relative risk 1.18 (95% confidence interval 1.07 to 1.29, P&lt;0.001).
+      
+      
+        Secondary endpoint: change in blood pressure
+        Clinically important falls in mean and systolic blood pressure were observed in both groups during the 26 weeks of follow-up, with a lower diastolic and systolic blood pressure value recorded after randomisation in 311 (59.4%) participants in the usual care group compared with 719 (69.3%) in the intervention group. Individualised control of blood pressure showed an inverse gradient; lower rates of achieving the blood pressure target were associated with more stringent targets (P&lt;0.001) but better rates of control throughout in the intervention group. During study follow-up, mean blood pressure changed (randomisation to endpoint blood pressure) from 150 (SD 17)/88 (SD 11) mm Hg to 136 (SD 15)/81 (SD 10) mm Hg in the intervention group compared with 149 (SD 17)/87 (SD 11) mm Hg to 139 (SD 15)/82 (SD 11) mm Hg in the usual care group (table 2); adjusted mean reduction in blood pressure 13.2 (95% confidence interval 12.3 to 14.2) mm Hg and 7.7 (7.1 to 8.3) mm Hg compared with 10.1 (8.8 to 11.3) mm Hg and 5.5 (4.7 to 6.2) mm Hg in favour of intervention (P&lt;0.001). In those who completed the 26 weeks of follow-up (186 (SD 20) days) the equivalent reduction in blood pressure was also in favour of the intervention (P&lt;0.001): adjusted mean reduction in blood pressure 14.6 (13.7 to 15.6) mm Hg and 8.2 (7.6 to 8.8) mm Hg compared with 10.4 (9.1 to 11.7) mm Hg and 5.6 (4.7 to 6.4) mm Hg. The intervention was associated with greater levels of individual blood pressure control in all three target groups (fig 3). Overall, those assigned the combination treatment arm of the intervention group had the highest rate of individual blood pressure control (37.9% for the endpoint and 42.1% at week 26). Similarly, an analysis of change in blood pressure from baseline to 26 weeks (n=1323) according to target group showed consistent benefits of the intervention (8-12% reduction in systolic blood pressure and 7-14% reduction in diastolic blood pressure) compared with usual care (6-8% and 5-9%, respectively), with the most gains in blood pressure reduction achieved through the combination treatment arm overall (see appendix II in the supplementary file).
+         Fig 3 Change in systolic and diastolic blood pressure according to individual blood pressure target at randomisation (n=1492). On an adjusted basis, participants assigned to intervention were significantly more likely to achieve their target at the two higher blood pressure target levels
+      
+      
+        Change in absolute cardiovascular risk
+        Among the 1141 participants in whom absolute cardiovascular risk profiles were calculated from baseline to 26 weeks’ follow-up (that is, complete data on profiling both before and after randomisation), the intervention group had a significantly greater reduction in risk scores (14.7% (SD 9.3%) to 10.9% (SD 8.0%); −3.7% (SD 4.5%)) than the usual care group (15.0% (SD 10.1%) to 12.4% (SD 9.4%); −2.6% (SD 4.5%)); the adjusted mean reduction in risk being in favour of the intervention group (−1.13%, 95% confidence interval −0.69% to −1.63%; P&lt;0.001). Overall, the proportion of high risk participants (&gt;15% absolute risk of an event) in the intervention group decreased from 41.2% to 25.6% and in the usual care group from 40.2% to 30.1%.
+      
+      
+        Safety profile
+        A total of 1044 adverse events were recorded in 592 (27.1%) participants during the study run-in phase, with 424 (40.6%) classified as related to treatment by the treating doctor. Overall, 2184 adverse events were recorded after randomisation, with 2152 occurring among the 1492 participants who had at least six weeks’ follow-up (see appendix III in the supplementary file for a summary of the adverse events). This included 196 (57.8%) participants allocated to the monotherapy arm and 355 (54.7%) to the combination therapy arm; this compared with 246 (48.8%) participants in the usual care group. Of the adverse events after randomisation, 543 (24.9%) were classified as related to treatment, with 422 (0.41/participant) occurring in the intervention arm and 121 (0.23/participant) in the usual care arm (table 3). The three most common adverse events after randomisation attributed to study treatment were dizziness (including postural hypotension, 86 events), peripheral oedema (79 events), and fatigue or lethargy (46 events). The rate of dizziness (0.07 v 0.03 adverse events/participant) and oedema (predominantly peripheral oedema, 0.06 v 0.03 adverse events/participants) was highest in the intervention group overall, and most common in the combination arm. One (0.06%) participant randomised to the intervention group died due to adenocarcinoma. Post-randomisation, 24 (4.6%) participants in the usual care group experienced 35 serious adverse events compared with 37 (3.7%) participants and 57 serious adverse events in the intervention group (6.7 v 5.6 events/100 patients). In the usual care and intervention groups, respectively, this included six and eight events involving admission to hospital for chest pain/angina pectoris, one (in each group) for acute myocardial infarction, and four (in each group) for other cardiovascular events. Overall, due to an adverse event drug treatment was altered in 82 (7.9%) intervention participants compared with 10 (1.9%) usual care participants (1.1% v 0.2%, respectively, were withdrawn by the general practitioner or voluntarily withdrew.
+        Table 3  Number of adverse events by system organ class and relation to study treatment derived from before randomisation (n=2185) and endpoint blood pressure (n=1492) population
+      
+    
+    
+      Discussion
+      A strategy comprising automated risk profiling plus standardised guideline based, stepwise drug treatment (initial monotherapy using an angiotensin receptor blocker or two forms of combination therapy) and intensified follow-up and treatment titration, resulted in more participants (absolute difference 8.8%) with persistent hypertension achieving their individual blood pressure target at 26 weeks than participants receiving usual care. Importantly, two thirds of the participants had a history of persistent hypertension despite receiving a typical range of antihypertensive treatments, and the remainder were unresponsive to valsartan monotherapy; one of the most commonly prescribed antihypertensive agents globally. The study population had an average five year risk of a major cardiovascular event of over 15% and therefore represented the more difficult end of the spectrum of people with hypertension managed in primary care. The detailed clinical profiling at study entry and general practitioners’ access to the computer assisted treatment protocol may explain the large, clinically significant, reductions in blood pressure in both groups (mean change &gt;13/7 mm Hg in the intervention group and &gt;10/5 mm Hg in the control group). The combined application of more intensive follow-up and drug treatment is reflected in greater use of combination therapies (prescribed as single pills) and progressive reductions in blood pressure between six and 26 weeks in the intervention group. These incremental benefits in blood pressure control largely influenced more favourable absolute cardiovascular risk scores in participants assigned to intervention, with just over one third in this group achieving their individual blood pressure target and around two thirds the classic blood pressure target of ≤140/90 mm Hg; the same advocated by NICE in the United Kingdom.4 If further adjustment is made for those who initially responded to more intensive management and monotherapy using an angiotensin receptor blocker at study run-in (apportioning equal success and failure to both treatment groups), this figure increases from 64% to 72%. An important trade-off for what could be considered to be modest absolute differences in absolute blood pressure levels between groups was the small increase in the proportion of participants who withdrew from the study (1.1% v 0.2%) and more frequent (7.9% v 1.9%) modification of treatment due to adverse events in the intervention group.
+      
+        Strengths and limitations of this study
+        The intervention directly addressed the difficult challenge of optimising blood pressure control in a real world general practice setting using commonly prescribed forms of antihypertensive agents. This is a major concern for countries with aging populations, where hypertension related heart and cerebrovascular disease is a growing problem.14 By necessity, this pragmatic study used an open label design (with no blinding of treatment pathways or blood pressure measurements possible) with scheduled visits that varied according to clinic schedules and prescribed drug treatment and relied on the mainstream healthcare system in Australia. The broader application and possible impact of the intervention (particularly in other healthcare systems) therefore needs to be interpreted cautiously. However, we do have preliminary projections (data not shown) based on national primary care data in Australia, that even the modest absolute differences in blood pressure between groups would have a potentially large impact (as reflected in the primary endpoint and absolute risk differences) among the thousands of Australians who don’t achieve their blood pressure targets each year. The selection of valsartan based treatments, rather than an open choice of agents, was predicated on the ability to standardise drug treatment in the intervention arm with precise up-titration pathways and to determine the potential impact of monotherapy versus combination therapy on short (six weeks) and longer term (26 weeks) blood pressure control. Certainly these agents targeting the renin-angiotensin system represent some of the most commonly applied in clinical practice internationally, and the treatment regimen is broadly consistent with the NICE guidelines (phase 3) for people with hypertension who do not respond to initial monotherapy.4 We deliberately chose individual randomisation rather than a cluster design to increase the robustness of our findings for two reasons. Firstly, we wanted to avoid potential imbalances between the groups when using a larger unit of randomisation (that is, a general practice). Secondly, we wanted to expose participants with the same general practitioner to the two study groups (and indeed treatment arms within the intervention group) to truly determine if the programme would alter blood pressure management at the individual level. Although this resulted in almost inevitable cross contamination of more intensive management in the usual care group (with clinically significant reductions in blood pressure in both groups), we were still able to show that the intervention was associated with incremental benefits in blood pressure control (8.8% absolute difference in the primary endpoint) tempered by more adverse events requiring adjustment of treatment. Alternatively, unblinded blood pressures in the clinic reported by general practitioners (albeit using a standardised protocol and automated monitors) may have resulted in an element of bias, the recruitment of participants with so called white coat hypertension,15 or an observed regression to the mean (blood pressure) over time. Wherever possible we minimised these factors by implementing a 28 day standardised treatment and blood pressure monitoring run-in phase, applying a standardised protocol for blood pressure monitoring and undertaking independent clinical auditing for data verification. Whether these data would be reproduced if we had studied 24 hour ambulatory blood pressure or home blood pressure measurements is open to debate.16 However, at this time current guidelines are based on clinic blood pressure measurements and the study reflects current clinical practice in most countries. We do not know as of yet if the reduction in absolute cardiovascular risk will be maintained or result in fewer cardiovascular events in the future. Notably, 4% of randomised participants did not have an endpoint blood pressure recorded and were excluded from endpoint analyses. For these 70 participants, retrospective analyses where either the randomised blood pressure was brought forward (relative risk 1.27, 95% confidence interval 1.09 to 1.48) or the change in blood pressure was imputed according to study group and blood pressure target (1.26, 1.08 to 1.46) did not substantially alter the primary endpoint results (P&lt;0.001 for both comparisons). The general practitioners were reluctant to try to meet the more aggressive guideline targets for blood pressure reduction and in almost 15% of cases opted for a more lenient target, in effect making the task of achieving control easier.
+      
+      
+        Supporting the evidence in favour of structured primary care
+        Consistent with data from other countries such as the United States,2 we have strong evidence from community based studies,9 preliminary data from the pilot stages of the VIPER-BP study,13 and data from the usual care group, that present approaches to the management of hypertension have meant that the “rule of halves” still applies—that is, close to 50% of those treated for hypertension in primary care remain hypertensive. Regardless of recent suggestions that lower blood pressure targets in high risk people should be reassessed,8 there is still clear evidence from population cohorts2 and meta-analyses of clinical trial data3 that lowering blood pressure (even by the modest, incremental margins associated with more intensive management) will noticeably attenuate the rates of stroke and other cardiovascular disease. In support of a more aggressive approach to the management of hypertension, retrospective results from both the Valsartan Antihypertensive Long-term Use Evaluation trial17 18 and Avoiding Cardiovascular Events in Combination Therapy in Patients Living with Hypertension19 trial suggest there are advantages to achieving early blood pressure control and that application of combination treatments are more likely to achieve this goal. The intervention in the current study brought all these elements together, with more than double (81% v 40%) the proportion of intervention participants receiving combination therapy compared with monotherapy at 26 weeks. To our knowledge this study (incorporating a combined drug and disease management approach to the management of blood pressure facilitated by a standardised computer support program) is one of the largest studies of its kind. Although there have been several large hypertension trials with a major focus on the efficacy of different combinations of drug treatment20 and specific studies of algorithm based strategies,10 12 there are few large scale, multicentre studies that have specifically compared a structured and intensive care approach with usual care in achieving better blood pressure control based on more stringent risk based targets in patients with persistent hypertension managed in primary care. The results of the present study therefore strengthen the conclusions of a recently updated Cochrane review recommending a stepped and intensive approach to the management of hypertension in primary care; particularly in those participants who remain hypertensive despite initial treatment.10 In particular, the results complement the findings of a similarly large scale (cluster randomised design) Canadian study21 of a simplified treatment algorithm in primary care that showed a 12% absolute difference (65% v 53%) in favour of the study intervention. Notable differences were the low proportion of participants requiring more stringent blood pressure targets (about 15%) and the lack of initial standardised care that in the present study resulted in almost one in five participants achieving early blood pressure control during the study run-in phase. Thus our randomised cohort represented a more “challenging” group of patients with hypertension. It could be argued that we have now reached a similar stage of developing the evidence in favour of more structured care (that is, beyond a purely drug related approach) to optimise blood pressure management in primary care to that of heart failure management programmes; where head to head trials of different forms of structured care are being undertaken22 to refine (rather than to establish) a new level of best clinical practice.
+      
+      
+        Clinical implications
+        Several important issues highlighted by this pragmatic study involving more than 250 general practitioners are relevant to clinical practice guidelines and health policy in Australia and other high income countries where hypertension remains a problem. Firstly, the initial application of standardised monotherapy (valsartan 80 mg/day) in a structured approach, irrespective of previous treatment, was immediately successful in controlling a large group of people with hypertension and should be considered when reviewing primary endpoint data. Given its size and direct relevance to other high income countries, the study is likely to influence future blood pressure guidelines, particularly informing debate around the attainment of lower blood pressure targets, whether these lower targets are truly achievable, and the role of prescription resistance11 in limiting what is meant by “truly achievable.” Only a small proportion of participants in the most stringent blood pressure group achieved this target despite the intensive approach with three or more drugs applied in the intervention. Given the nature of the study, these data are likely to reflect real world blood pressure management, and any consideration of retaining more stringent blood pressure targets (particularly if low values are proved to be unnecessary in those with pre-existing cardiovascular disease8) has to consider the impact of at least aiming for lower blood pressure to achieve values ≤140/90 mm Hg. Both an overall reluctance by general practitioners to prescribe higher doses of combination or triple treatment and individual patient factors seem to have prevented more participants from reaching their individual blood pressure target and the classic target of ≤140/90 mm Hg. It is worth highlighting that in the Australian healthcare system, subsidised drug treatment ensures that costs are not usually a barrier to the application of more aggressive treatment.
+        Although the absolute difference in change in blood pressure between the groups might be considered modest, they not only contributed to more people achieving the primary endpoint in the intervention group but also favourably altered both the absolute risk of future cardiovascular events (a clinically meaningful 1% difference in mean scores between groups) and the relative risk reduction of future coronary artery disease (−6% difference in mean risk) and strokes (−11% difference) in favour of the intervention (data not shown). The expected trade-off between more intense blood pressure control and an increase in adverse events occurred, with more participants in the intervention group withdrawn on this basis (1.1% v 0.2%) or requiring active change to their treatment (7.9% v 1.9%). This needs to be carefully considered against the overall difference (8.8% in favour of the intervention group) in the primary endpoint. Overall, the number and frequency of adverse events was consistent with the nature and size of the patient cohort and the drugs being prescribed. Whereas there seems to be a gradient in blood pressure control according to the amount of drug treatment (with greater control achieved in those assigned to immediate combination therapy at randomisation), spending additional clinical time (&gt;1 hour over six months) with participants probably also contributed. Such a conclusion is consistent with previous systematic reviews and meta-analyses,10 and the patient centred approach advocated by contemporary guidelines.4 6 7 This observation is further strengthened by the initial response to the run-in phase of the study where information on non-drug measures was provided with only low dose monotherapy (19% blood pressure control) and substantial anecdotal evidence from participants who appreciated the “beyond pharmacological” approach to their management.
+      
+      
+        Future challenges
+        Despite noticeable reductions in blood pressure in both arms of the VIPER-BP study, a relatively small proportion of participants achieved these more stringent blood pressure targets; the classic target of ≤140/90 mm Hg being far more attainable. Given the intensity of the intervention and facilitated pathways to higher doses of combination antihypertensive treatment, these data highlight critical questions around the application of more stringent blood pressure targets in high risk people—that is, those with established cardiovascular disease or renal disease. The results are particularly relevant to clinicians when clinical guidelines and health policies seek to apply expert recommendations that may not be truly achievable. As such, these data may prompt a re-evaluation of blood pressure targets to reflect real world limitations for doctors managing hypertension in the busy and often complex primary care setting. The results also point to major patient related barriers to eviscerating blood pressure targets as even with best practice drug prescription and clinical support most participants still did not achieve the primary endpoint of blood pressure recommended by current guidelines. Most importantly, however, we have shown that a structured blood pressure management approach (computer assisted) results in higher blood pressure control rates in a primary care setting. As always, the challenge will be to implement this strategy into wider clinical practice by further analysing what did and did not work in this and other similar studies and how best to deliver pragmatic tools to facilitate the optimal management of blood pressure in the primary care setting.
+        
+          
+            What is already known on this topic
+            
+              
+                Hypertension is the leading risk factor for cardiovascular disease worldwide and one of the most common conditions managed in primary care
+              
+              
+                Despite effective drug treatments, a substantial proportion of affected people remain above their ideal blood pressure target
+              
+              
+                Systematic reviews suggest that additional gains in blood pressure control can be attained with a more intensive structured approach to management
+              
+            
+          
+          
+            What this study adds
+            
+              
+                Compared with usual care, an intensive, structured programme for blood pressure control in primary care was associated with an 8.8% increase in the proportion of participants achieving individual targets and 9.5% increase in those achieving the classic target of ≤140/90 mm Hg 
+              
+              
+                Despite parallel reductions in absolute cardiovascular risk, achieving more stringent blood pressure targets remains a challenge
+              
+              
+                Modification of treatment owing to adverse events was more common in the intervention group than usual care group (7.9% v 1.9%) 
+              
+            
+          
+        
+      
+    
+  
+
+Back matter
+
+      
+        
+          We thank the study nurse coordinators for helping the general practitioner to participate in the study and the clinical trial research staff and data management staff at Baker IDI Heart and Diabetes Institute.
+        
+        
+          The following general practitioners were involved in the study: Fadi Abouzeid, Geoffrey Adsett, Ata Ahmadi, Robert Allan, Olataga Alofivae-Doorbinnia, Paul Anderson (Queensland), Paul Anderson (Victoria), Jacob Artinian, Luke Ashford, David Austin, Enrique Avedillo, Alex Avergun, Claudio Baldi, Das Balgi, Rekha Balgi, Chistopher Balkwill, Usha Bansal, Dominic Barbaro, Antwan Barich, Sanaa Barich, Annette Barratt, Neyamul Bashir, Patricia Batchelor, Indranie Benedict, Atul Bhatnager, Leocadio Blanco-Isquierdo, Mark Bloch, Neil Bodsworth, Olof Boshoff, Roly Bott, Sandra Bransgrove, Paddy Brazier, Keith Brennan, David Brockman, Sergey Bromberg, Sarah Burbury, Donna Burgess, Rob Burns, John Byrne, Gillian Cameron, Ken Cameron, Ian Cameron, Fiona Campbell, Robert Cargill, Michael Neil Cavanagh, Aaron Chambers, Joe Chamizo, Jose Chamizo, Maria Cheng, Robert Chester, Ka Cho Cheung, Herbert Keung Cheung, Saroj Chhajed, John Chin, Michael Chin, Susan Chupungco, Kim Chye, Ray Cibulskis, Trevor Claridge, Peter Clarke, George Clegg, Edward Collinson, Ewe Conroy, Stephen Cook, David Copeland, Norman Cornish, Ian Robert Cram, Peter Cummins, Andrew Cunnane, Alexander Daniel, Suzanne Davey, Peter Day, Chaminda De Silva, Annette Deada, Arnold Dela Cruz, May Dennis, Ivor Desouza, Neil Donovan, Philip Downing, Nichola Dunn, Philippa Eccles, Mark Faigen, Fred Faigenbaum, Mario Fantasia, Ramsis Farag, Graham Farquhar, John Feros, Joseph Fieber, Michael Fine, Robert Finlayson, Robert Flynn, Gerard Peter Foley, Jacob Foo, Seyed Afshin Forghani, Gregory Frean, Brad Gallagher, Hong Gan, Jason Garrood, Peter Gavrilov, Peter Gibson, Chris Gillis, Peter Goodwin, Andrew Gowers, Francis Graham, Peter Grant, Philip Greenfield, Richard Grove, Birute Gunsberg, Michael James Hand, Peter Hay, Daniel Hendry, Michael Hickey, Alfred Hoh, Alexander Holliday, Rachid Homsi, Robert Houston, Chris Hughes, Jonathan Hughes, Robin Hughes, Jonathan Isles, Bindiganaral Jayashree, James Jeong, Christopher Jones, Thavamany Kanapathipillai, Sarit Kanungo, Lakshimi Kathigesu, Harjinder Kaur, Cath Keaney, Peter Kemp, Thomas Kerr, Richard Keys, Alireza Khossousi, Owen King, Christopher Knight,Lilian Lao, Quang Le, William Leadston, Warren Lee, James Liew, Juliette Little, Hsin-Hua Liu, Ying Liu, Dianne Loeffler, Shyuan Jium Loh, Edward Lurie, Russell Macdougall, Ewa Maczuba-Pilch, Sitalakshmi Mahadevan, Drew Mattsson, Lloyd Mayson, Stephen McKelvie, Felix McKnight, Keki Mehta, Ralph Mendelsohn, Robert Micallef, Evette Mikhail, Tiasha Mills, Gordon Milne, Vahid Mohabbati, Chandra Mohan, Stephen Moulding, Mina Mounir Moussa, David Muirhead, Patrick Mulhern, Philip Myers, Victor Nakhla, Raulito Naval, Ratna Neville, Lawrence Noonan, Ashley Noud, Mohammed Obeidullah, Charles Obinwanor, James Ogundipe, Judith Omalley-Ford, Andre Oracki, John O’Sullivan, John Pak, Raymol Pallath, George Panaretos, Ing T Pang, Chandra Panicker, Earl Pantillano, Naresh Parajuli, Mala Pasupuleti, Praful Patel, Veena Patel, Rodney Pearce, Jinxin Peng, Benedict Ponti, Anthony John Portelli, Jane Potter, Tonse Prasad, Cameron Profitt, Jane Purdie, Dick Quan, Mohammad Rafiq, Mohammed Rahman, Neil Rajanayagam, Surjit Rana, Jey Randhawa, Yuri Raymon, Roberto Regozo, Kiro Ristevski, Christopher Roach, Gary Roberts, David Rockman, Bede Rogers, Caroline Rogers, Fiona Ronsberg, Erica Rowley, Paul Russell, Debbie Saw, Blacelina Sayo, Tim Schindler, Amirtharajan Selvakumar, Ann Darian Sharp, Jan Sheringham, Matthew Shields, Suranahalli Shivaprakash, Vince Signoriello, Kanwal Singh, Promica Singh-Panwar, Thakur Singh-Panwar, Malathy Sivapalan, Michelle Skellern, Vasa Skorupanovic, Susan Smythe, Michael Sorani, Andrew Springfield, Judith Spurling, Nagappan Srigandan, Mahalingam Srinivasan, Philip Stowell, Darko Sulava, PHilip Sutherland, Mohammad Taghisadeh, Ven Tan, Janine Teasdale, Alex Terris, Esther Tham, Terrence Than, Dunstan Thompson, Liping Tian, Albert Tran, Jacobus Van Staden, Sarita Vasram, Eva Velickovski, Gemma Victorino, Girolano Vinci, Stefan Visagie, Emanuel Vlahakis, David Voon, Steven Wade, Arief Wahab, Joseph Waks, David Alan Wallace, Lynette Wallace, Michelle Walsh, Malathi Waran, Caroline Warne, Bahgat Wassif, Robert Welsh, Gerald Westhoff, Rodney Willett, Jennifer Williams, Sheena Wilmot, Susan Wong, Guy Wright, Joseph Yam, Suellen Young, Leonard Yudeiken, George Zankov, Robert Zubeshaw, and Michele Zwi. 
+        
+        
+          Contributors: The VIPER-BP study was designed by Baker IDI Heart and Diabetes Institute (SS, MJC, and GLJ) in consultation with a scientific advisory board (CA, JA, AB, LMB, FJdeL, MH, JH, HK, MN, MS, and NPS) who received remuneration (MH excepted) from Novartis Pharmaceuticals Australia as study consultants. SS prepared the first draft of the manuscript, with edits and revisions provided by all authors. All authors had full access to all the data and read and approved the final version of the manuscript. All authors had final responsibility for the decision to submit the manuscript for publication. SS, MJC, and GLJ act as guarantors for the study.
+        
+        
+          Funding: The VIPER-BP study was sponsored by Novartis Pharmaceuticals Australia. The sponsors participated in discussions on the design and conduct of the study and provided logistical support during the trial. The study statistician (Adrian Esterman, University of South Australia) independently generated analyses on behalf of the other members of the clinical safety and efficacy committee (Colin Johnston, MN, Richard Gerraty) who received remuneration from Novartis Pharmaceuticals Australia as study consultants. The study investigators and sponsor jointly assessed study data. All the investigators received remuneration from Baker IDI for the research component of clinical study activities.
+        
+        
+          Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare that all authors had a form of support (as described above) and specific relationships (as described above) with Novartis Pharmaceuticals Australia for the submitted work. SS, GLJ, and MJC are supported by the National Health and Medical Research Council of Australia. VIPER-BP study was supported by the Victoria government’s operational infrastructure support program.
+        
+        
+          Ethical approval: This study was approved by the Alfred Human Research Ethics Committee (Melbourne Australia; Project No 358/08) and the Royal Australian College of General Practitioners (Melbourne Australia; Project No NREEC 09/006).
+        
+        
+          Data sharing: From January 2014, study data will be available from the corresponding author (simon.stewart@bakeridi.edu.au).
+        
+      
+    
+
+      Cite this as: BMJ 2012;345:e7156</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-135" id="S2" selection="1a">
+        <text xml:space="preserve">Effect of intensive structured care on individual blood pressure targets in primary care: multicentre randomised controlled trial</text>
+    </sentence>
+    <sentence charOffset="136-144" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="154-317" id="S4" selection="1b">
+        <text xml:space="preserve">Objective To determine the effectiveness of intensive structured care to optimise blood pressure control based on individual absolute risk targets in primary care.</text>
+    </sentence>
+    <sentence charOffset="326-383" id="S5" selection="">
+        <text xml:space="preserve">Design Pragmatic multicentre randomised controlled trial.</text>
+    </sentence>
+    <sentence charOffset="392-475" id="S6" selection="">
+        <text xml:space="preserve">Setting General practices throughout Australia, except Northern Territory, 2009-11.</text>
+    </sentence>
+    <sentence charOffset="484-733" id="S7" selection="">
+        <text xml:space="preserve">Participants Of 2185 patients from 119 general practices who were eligible for drug treatment for hypertension according to national guidelines 416 (19.0%) achieved their individual blood pressure target during a 28 day run-in period of monotherapy.</text>
+    </sentence>
+    <sentence charOffset="734-935" id="S8" selection="">
+        <text xml:space="preserve">After exclusions, 1562 participants not at target blood pressure (systolic 150 (SD 17) mm Hg, diastolic 88 (SD 11) mm Hg) were randomised (1:2 ratio) to usual care (n=524) or the intervention (n=1038).</text>
+    </sentence>
+    <sentence charOffset="944-1256" id="S9" selection="">
+        <text xml:space="preserve">Intervention Computer assisted clinical profiling and risk target setting (all participants) with intensified follow-up and stepwise drug titration (initial angiotensin receptor blocker monotherapy or two forms of combination therapy using angiotensin receptor blockers) for those randomised to the intervention.</text>
+    </sentence>
+    <sentence charOffset="1257-1295" id="S10" selection="">
+        <text xml:space="preserve">The control group received usual care.</text>
+    </sentence>
+    <sentence charOffset="1304-1404" id="S11" selection="">
+        <text xml:space="preserve">Main outcome measures The primary outcome was individual blood pressure target achieved at 26 weeks.</text>
+    </sentence>
+    <sentence charOffset="1405-1628" id="S12" selection="">
+        <text xml:space="preserve">Secondary outcomes were change in mean sitting systolic and diastolic blood pressure, absolute risk for cardiovascular disease within five years based on the Framingham risk score, and proportion and rate of adverse events.</text>
+    </sentence>
+    <sentence charOffset="1637-1953" id="S13" selection="">
+        <text xml:space="preserve">Results On an intention to treat basis, there was an 8.8% absolute difference in individual blood pressure target achieved at 26 weeks in favour of the intervention group compared with usual care group (358/988 (36.2%) v 138/504 (27.4%)): adjusted relative risk 1.28 (95% confidence interval 1.10 to 1.49, P=0.0013).</text>
+    </sentence>
+    <sentence charOffset="1954-2186" id="S14" selection="">
+        <text xml:space="preserve">There was also a 9.5% absolute difference in favour of the intervention group for achieving the classic blood pressure target of ≤140/90 mm Hg (627/988 (63.5%) v 272/504 (54.0%)): adjusted relative risk 1.18 (1.07 to 1.29, P&lt;0.001).</text>
+    </sentence>
+    <sentence charOffset="2187-2499" id="S15" selection="">
+        <text xml:space="preserve">The intervention group achieved a mean adjusted reduction in systolic blood pressure of 13.2 mm Hg (95% confidence interval −12.3 to −14.2 mm Hg) and diastolic blood pressure of 7.7 mm Hg (−7.1 to −8.3 mm Hg) v 10.1 mm Hg (−8.8 to 11.3 mm Hg) and 5.5 mm Hg (−4.7 to −6.2 mm Hg) in the usual care group (P&lt;0.001).</text>
+    </sentence>
+    <sentence charOffset="2500-2929" id="S16" selection="">
+        <text xml:space="preserve">Among 1141 participants in whom five year absolute cardiovascular risk scores were calculated from baseline to the 26 week follow-up, the reduction in risk scores was greater in the intervention group than usual care group (14.7% (SD 9.3%) to 10.9% (SD 8.0%); difference −3.7% (SD 4.5%) and 15.0% (SD 10.1%) to 12.4% (SD 9.4%); −2.6% (SD 4.5%): adjusted mean difference −1.13% (95% confidence interval −0.69% to −1.63%; P&lt;0.001).</text>
+    </sentence>
+    <sentence charOffset="2930-3075" id="S17" selection="">
+        <text xml:space="preserve">Owing to adverse events 82 (7.9%) participants in the intervention group and 10 (1.9%) in the usual care group had their drug treatment modified.</text>
+    </sentence>
+    <sentence charOffset="3084-3355" id="S18" selection="">
+        <text xml:space="preserve">Conclusions In a primary care setting intensive structured care resulted in higher levels of blood pressure control, with clinically lower blood pressure and absolute risk of future cardiovascular events overall and with more people achieving their target blood pressure.</text>
+    </sentence>
+    <sentence charOffset="3356-3518" id="S19" selection="">
+        <text xml:space="preserve">An important gap in treatment remains though and applying intensive management and achieving currently advocated risk based blood pressure targets is challenging.</text>
+    </sentence>
+    <sentence charOffset="3539-3551" id="S20">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="3558-3769" id="S21" selection="">
+        <text xml:space="preserve">Although hypertension is a readily detectable and modifiable condition it is responsible for more deaths worldwide than any other cardiovascular risk factor, including tobacco use, obesity, and lipid disorders.1</text>
+    </sentence>
+    <sentence charOffset="3770-3979" id="S22" selection="">
+        <text xml:space="preserve">In the United States, of all modifiable risk factors hypertension has been associated with the greatest population attributable risk for all cause mortality (30%) and deaths from cardiovascular disease (40%).2</text>
+    </sentence>
+    <sentence charOffset="3980-4098" id="S23" selection="">
+        <text xml:space="preserve">Epidemiological studies suggest a relation between raised blood pressure and increased risk of cardiovascular events.3</text>
+    </sentence>
+    <sentence charOffset="4099-4415" id="S24" selection="">
+        <text xml:space="preserve">Large scale clinical trials examining the efficacy of a broad range of antihypertensives found a consistent and continuous reduction in cardiovascular risk (primary or secondary events and across all age groups) according to the baseline values and magnitude of change in both systolic and diastolic blood pressure.3</text>
+    </sentence>
+    <sentence charOffset="4416-4652" id="S25" selection="">
+        <text xml:space="preserve">Traditionally, the ideal blood pressure target has been ≤140/90 mm Hg for those aged less than 80 years and these are reflected in current guidelines from the National Institute for Health and Clinical Excellence in the United Kingdom.4</text>
+    </sentence>
+    <sentence charOffset="4653-4997" id="S26" selection="">
+        <text xml:space="preserve">The introduction of absolute risk profiling for primary prevention purposes4 5 and more stringent, individualised blood pressure targets for higher risk groups such as people with type 2 diabetes or more advanced forms of cardiovascular disease6 7 has provided clinicians in other regions of the world with a challenge in meeting these targets.</text>
+    </sentence>
+    <sentence charOffset="4998-5287" id="S27" selection="">
+        <text xml:space="preserve">Considering the recent debate on whether more stringent blood pressure targets fail to provide cardioprotection and perhaps even confer harm at blood pressure levels approaching 110/75 mm Hg8 it is likely that more stringent blood pressure targets will be subject to further consideration.</text>
+    </sentence>
+    <sentence charOffset="5294-5514" id="S28" selection="">
+        <text xml:space="preserve">Regardless of recommended blood pressure targets, however, the translation of potential benefits from clinical trials to the real life management of hypertension (much of which occurs in primary care) is less than ideal.</text>
+    </sentence>
+    <sentence charOffset="5515-5602" id="S29" selection="">
+        <text xml:space="preserve">Many people prescribed antihypertensive treatment have a blood pressure &gt;140/90 mm Hg.9</text>
+    </sentence>
+    <sentence charOffset="5603-6040" id="S30" selection="2a">
+        <text xml:space="preserve">A key component of effective translation in the primary care setting seems to be the application of structured programmes to apply antihypertensive treatments by a rigorous stepped care approach10 to overcome the common phenomenon of prescription resistance11 (whereby clinicians are reluctant to up-titrate existing drug treatment or prescribe additional antihypertensive agents) and to achieve better individual blood pressure control.</text>
+    </sentence>
+    <sentence charOffset="6041-6210" id="S31" selection="">
+        <text xml:space="preserve">For example, nurse led interventions that comprise a structured care algorithm are associated with greater reductions in blood pressure levels than usual care overall.12</text>
+    </sentence>
+    <sentence charOffset="6211-6515" id="S32" selection="2a">
+        <text xml:space="preserve">Few studies, however, have specifically tested the application of structured care in the setting of more stringent, risk based blood pressure targets in a large and diverse range of general practices—that is, small to large clinics and those with and without practice nurses to implement structured care.</text>
+    </sentence>
+    <sentence charOffset="6522-6913" id="S33" selection="2b">
+        <text xml:space="preserve">As described elsewhere,13 the Valsartan Intensified Primary carE Reduction of Blood Pressure (VIPER-BP) study was a pragmatic, multicentre, randomised trial evaluating the clinical effectiveness and overall safety of a more intensive and structured approach to optimising blood pressure control in a group of people with persistently high blood pressure in a real world primary care setting.</text>
+    </sentence>
+    <sentence charOffset="6920-7256" id="S34" selection="2b">
+        <text xml:space="preserve">In a typical cohort of primary care patients with suboptimal blood pressure (individualised target according to their risk profile6), we hypothesised that a greater proportion of those randomised to the intervention would achieve individualised blood pressure control at the end of 26 weeks compared with those randomised to usual care.</text>
+    </sentence>
+    <sentence charOffset="7273-7280" id="S35">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="7287-7529" id="S36" selection="">
+        <text xml:space="preserve">The Australian universal health insurance scheme (Medicare) provides citizens with free access to public hospitals and reimbursed access (70% of services with no co-payment) to a widespread network of primary care or general practice clinics.</text>
+    </sentence>
+    <sentence charOffset="7530-7826" id="S37" selection="">
+        <text xml:space="preserve">A parallel system, the Pharmaceutical Benefits Scheme, provides subsidised drug treatment to all Australians, with capped payments for those with a chronic illness; most prescriptions for drugs being generated by general practitioners managing people with chronic conditions such as hypertension.</text>
+    </sentence>
+    <sentence charOffset="7842-7854" id="S38" selection="">
+        <text xml:space="preserve">Participants</text>
+    </sentence>
+    <sentence charOffset="7863-8064" id="S39" selection="4b">
+        <text xml:space="preserve">Study participants were recruited by 260 general practitioners from 119 general practices distributed throughout every state and territory of Australia except the sparsely populated Northern Territory.</text>
+    </sentence>
+    <sentence charOffset="8065-8296" id="S40" selection="4a">
+        <text xml:space="preserve">People routinely managed by these doctors were potentially eligible to participate if they were aged 18 or more, had a diagnosis of hypertension requiring active drug treatment according to guidelines, and consented to participate.</text>
+    </sentence>
+    <sentence charOffset="8297-8672" id="S41" selection="4a">
+        <text xml:space="preserve">We excluded people who had a mean initial systolic blood pressure of 180 mm Hg or more while sitting, were prescribed three or more antihypertensives; had moderate to severe renal disease (clinical diagnosis or estimated glomerular filtration rate &lt;60 mL/min/1.73m2), or had contraindications to angiotensin receptor blockers, calcium channel blockers, or thiazide diuretics.</text>
+    </sentence>
+    <sentence charOffset="8673-8767" id="S42" selection="14a">
+        <text xml:space="preserve">Recruitment took place from July 2009 to December 2010, with follow-up completed in July 2011.</text>
+    </sentence>
+    <sentence charOffset="8791-8803" id="S43" selection="">
+        <text xml:space="preserve">Study design</text>
+    </sentence>
+    <sentence charOffset="8812-8948" id="S44" selection="3a">
+        <text xml:space="preserve">This was an open label, two arm, randomised trial comparing an intensive blood pressure management strategy with usual care (control).13</text>
+    </sentence>
+    <sentence charOffset="8949-9141" id="S45" selection="8a,8b">
+        <text xml:space="preserve">Randomisation was by computer generated, group assignment stratified according to nominated blood pressure target (three strata) and block randomisation (units of 12) per general practitioner.</text>
+    </sentence>
+    <sentence charOffset="9142-9275" id="S46" selection="10">
+        <text xml:space="preserve">An independent data management team at Baker IDI coordinated a standardised protocol for randomising participants over the telephone.</text>
+    </sentence>
+    <sentence charOffset="9276-9543" id="S47" selection="3a">
+        <text xml:space="preserve">Participants were assigned to the groups using a prespecified ratio of 1:2 for usual care versus intervention (with a further ratio of 1:2 within the intervention arm to assign participants to a monotherapy strategy and to two possible combined treatment strategies).</text>
+    </sentence>
+    <sentence charOffset="9544-9660" id="S48" selection="">
+        <text xml:space="preserve">Quality control of the sites and general practitioners was achieved by visits before randomisation and at study end.</text>
+    </sentence>
+    <sentence charOffset="9661-9799" id="S49" selection="">
+        <text xml:space="preserve">The study was independently monitored by routine visits, and case report forms were verified against clinical records for 20% of patients.</text>
+    </sentence>
+    <sentence charOffset="9800-9874" id="S50" selection="">
+        <text xml:space="preserve">We used standardised operating procedures for data queries and management.</text>
+    </sentence>
+    <sentence charOffset="9875-9980" id="S51" selection="">
+        <text xml:space="preserve">All queries were resolved by the time the study dataset was locked and no further changes were permitted.</text>
+    </sentence>
+    <sentence charOffset="9981-10049" id="S52" selection="">
+        <text xml:space="preserve">Figure 1 provides a graphical representation of the study timelines.</text>
+    </sentence>
+    <sentence charOffset="10059-10091" id="S53" selection="3a,5">
+        <text xml:space="preserve">Fig 1 Summary of study timelines</text>
+    </sentence>
+    <sentence charOffset="10114-10125" id="S54" selection="">
+        <text xml:space="preserve">Study entry</text>
+    </sentence>
+    <sentence charOffset="10134-10244" id="S55" selection="">
+        <text xml:space="preserve">Eligible participants underwent baseline assessment, including determination of absolute cardiovascular risk.5</text>
+    </sentence>
+    <sentence charOffset="10245-10470" id="S56" selection="">
+        <text xml:space="preserve">On the basis of this assessment, we identified target risk factor measures (including blood pressure, lipid levels, exercise levels, smoking status, and body mass index) for each participant according to national guidelines.6</text>
+    </sentence>
+    <sentence charOffset="10471-10654" id="S57" selection="">
+        <text xml:space="preserve">A computer program developed by Baker IDI enabled clinical profiling in all participants and subsequent management in intervention patients (see appendix I in the supplementary file).</text>
+    </sentence>
+    <sentence charOffset="10655-10973" id="S58" selection="5">
+        <text xml:space="preserve">Eligible participants began a standard 28 day run-in period of treatment with open label, oral valsartan 80 mg daily, with a mandatory blood pressure check 14 days after the start of treatment to determine the need for immediate (rescue) randomisation if systolic blood pressure was ≥180 mm Hg or clinically indicated.</text>
+    </sentence>
+    <sentence charOffset="10974-11178" id="S59" selection="">
+        <text xml:space="preserve">We then randomised into the study those who did not achieve their prespecified blood pressure target within this run-in period or were not specifically withdrawn or lost to follow-up (blinded allocation).</text>
+    </sentence>
+    <sentence charOffset="11201-11227" id="S60" selection="">
+        <text xml:space="preserve">Blood pressure measurement</text>
+    </sentence>
+    <sentence charOffset="11236-11357" id="S61" selection="">
+        <text xml:space="preserve">Throughout the study we used a standardised protocol based on national guidelines to record blood pressure measurements.6</text>
+    </sentence>
+    <sentence charOffset="11358-11668" id="S62" selection="6a">
+        <text xml:space="preserve">After participants had rested for at least five minutes and while they were seated we obtained three blood pressure measurements separated by one minute intervals using an appropriate sized cuff and a calibrated, semiautomated oscillometric device approved by the Therapeutic Goods Administration of Australia.</text>
+    </sentence>
+    <sentence charOffset="11669-11880" id="S63" selection="6a">
+        <text xml:space="preserve">We defined aberrant measurements as those where the lowest reading was 10 mm Hg or more for systolic blood pressure or 5 mm Hg or more for diastolic blood pressure below the highest of the three seated readings.</text>
+    </sentence>
+    <sentence charOffset="11881-11971" id="S64" selection="6a">
+        <text xml:space="preserve">If this occurred, the participant was rested for three minutes and the procedure repeated.</text>
+    </sentence>
+    <sentence charOffset="11972-12084" id="S65" selection="">
+        <text xml:space="preserve">Given the size and nature of the study, it was impractical to obtain independent, blinded blood pressure levels.</text>
+    </sentence>
+    <sentence charOffset="12085-12343" id="S66" selection="6a">
+        <text xml:space="preserve">Nominated study staff at each site (general practitioner or practice nurse) verified the blood pressure measurements by an independent audit of the clinical details in the case records, outputs from the blood pressure monitor, and the computer decision tool.</text>
+    </sentence>
+    <sentence charOffset="12366-12376" id="S67" selection="">
+        <text xml:space="preserve">Usual care</text>
+    </sentence>
+    <sentence charOffset="12385-12810" id="S68" selection="6a">
+        <text xml:space="preserve">For those assigned to usual care, we asked general practitioners to follow their usual pattern of clinic visits and treatment strategies (no restriction on prescribed drugs) to achieve the individualised blood pressure target and other prevention targets identified during the run-in phase; the only mandatory study visits were at weeks 6 (a typically brief 10-15 minute consultation) and 26 (final comprehensive evaluation).</text>
+    </sentence>
+    <sentence charOffset="12811-13111" id="S69" selection="">
+        <text xml:space="preserve">We explicitly acknowledged that this was an enhanced form of usual care given that the participants had already been subject to clinical profiling and had an identified blood pressure target and their doctors potentially had knowledge of the intervention (with the inherent problem of contamination).</text>
+    </sentence>
+    <sentence charOffset="13134-13152" id="S70" selection="">
+        <text xml:space="preserve">Study intervention</text>
+    </sentence>
+    <sentence charOffset="13161-13493" id="S71" selection="6a">
+        <text xml:space="preserve">Those allocated to the intervention arm followed an intensive stepped programme of management, with mandatory visits to their doctor at weeks 6, 10, 14, and 18 after randomisation to review their blood pressure and to adjust their treatment if needed according to prespecified algorithms (see appendix II in the supplementary file).</text>
+    </sentence>
+    <sentence charOffset="13494-13639" id="S72" selection="">
+        <text xml:space="preserve">Typically, these consultations lasted 10-15 minutes (about 60 minutes in total) in addition to the time taken for clinical profiling at baseline.</text>
+    </sentence>
+    <sentence charOffset="13640-13877" id="S73" selection="5">
+        <text xml:space="preserve">Reflecting contemporary treatment options for the management of hypertension, different drug pathways were mandated (initial monotherapy with valsartan 160 mg or combined with hydrochlorothiazide or amlodipine, as single combined pills).</text>
+    </sentence>
+    <sentence charOffset="13878-14053" id="S74" selection="5">
+        <text xml:space="preserve">Scheduling of visits and up-titration of drug treatment was guided by the same computer program developed by Baker IDI to facilitate the initial risk profiling and management.</text>
+    </sentence>
+    <sentence charOffset="14054-14128" id="S75" selection="6a">
+        <text xml:space="preserve">A final clinic visit for clinical re-evaluation was scheduled at 26 weeks.</text>
+    </sentence>
+    <sentence charOffset="14151-14166" id="S76" selection="">
+        <text xml:space="preserve">Study endpoints</text>
+    </sentence>
+    <sentence charOffset="14175-14419" id="S77" selection="6a">
+        <text xml:space="preserve">The primary endpoint was the percentage of participants who achieved their individualised blood pressure target according to national guidelines6 during 26 weeks of follow-up (using last recorded blood pressure for intention to treat analyses).</text>
+    </sentence>
+    <sentence charOffset="14420-14796" id="S78" selection="6a">
+        <text xml:space="preserve">These stringent blood pressure targets, which have been rarely examined for feasibility in a controlled trial, are ≤125/75 mm Hg if a patient has proteinuria, ≤130/80 mm Hg if end organ damage is present (including any form of cardiovascular disease, diabetes, or microalbuminuria), and the classic target of ≤140/90 mm Hg for those without evidence of the other two criteria.</text>
+    </sentence>
+    <sentence charOffset="14805-15017" id="S79" selection="6a">
+        <text xml:space="preserve">Key secondary endpoints included change in mean sitting systolic and diastolic blood pressure and absolute risk for cardiovascular disease within five years based on the Framingham risk score5 (where applicable).</text>
+    </sentence>
+    <sentence charOffset="15018-15315" id="S80" selection="6a">
+        <text xml:space="preserve">Secondary endpoints also included the type and rate of adverse events potentially attributable to antihypertensive treatment, and serious adverse events including all cause mortality and fatal and non-fatal cardiovascular events—for example, acute myocardial infarction, stroke, and heart failure.</text>
+    </sentence>
+    <sentence charOffset="15316-15611" id="S81" selection="">
+        <text xml:space="preserve">Several other secondary endpoints will be the subject of future or expanded reports, including changes in quality of life, depression, self care behaviours, and evidence of end organ damage (including electrocardiographic evidence of left ventricular hypertrophy and newly detected proteinuria).</text>
+    </sentence>
+    <sentence charOffset="15634-15645" id="S82" selection="">
+        <text xml:space="preserve">Study power</text>
+    </sentence>
+    <sentence charOffset="15654-15764" id="S83" selection="">
+        <text xml:space="preserve">We largely met the study targets for overall recruitment and number of participants entering the run-in phase.</text>
+    </sentence>
+    <sentence charOffset="15765-16068" id="S84" selection="7a">
+        <text xml:space="preserve">Based on the combination of a strong potential for interventional contamination, balanced against the need to establish clinically significant differences between the two groups, the study was initially powered to detect a minimum absolute difference of 7% between the groups for the primary endpoint.13</text>
+    </sentence>
+    <sentence charOffset="16069-16526" id="S85" selection="7a">
+        <text xml:space="preserve">As proportionately more patients achieved blood pressure control during the study run-in and thus the number of randomised participants was reduced, we recalculated that a total randomised cohort of more than 1500 participants would still provide sufficient study power to detect a minimum 8% difference between groups with more than 85% study power (two sided α level of 0.05 and adjusting for 2:1 randomisation for study intervention versus usual care).13</text>
+    </sentence>
+    <sentence charOffset="16549-16569" id="S86" selection="">
+        <text xml:space="preserve">Statistical analyses</text>
+    </sentence>
+    <sentence charOffset="16578-16755" id="S87" selection="">
+        <text xml:space="preserve">The study statistician (on behalf of the clinical safety and efficacy committee) independently analysed the data according to a prospectively designed statistical analysis plan.</text>
+    </sentence>
+    <sentence charOffset="16756-16921" id="S88" selection="12a">
+        <text xml:space="preserve">If blood pressure values were missing at 26 weeks, we carried forward the last recorded blood pressure measurement after randomisation for primary endpoint analysis.</text>
+    </sentence>
+    <sentence charOffset="16922-16998" id="S89" selection="12a">
+        <text xml:space="preserve">Baseline and outcome data were analysed using SPSS for Windows version 19.0.</text>
+    </sentence>
+    <sentence charOffset="16999-17094" id="S90" selection="12a">
+        <text xml:space="preserve">Continuous data are presented as means (standard deviations) or medians (interquartile ranges).</text>
+    </sentence>
+    <sentence charOffset="17095-17141" id="S91" selection="12a">
+        <text xml:space="preserve">Categorical data are presented as percentages.</text>
+    </sentence>
+    <sentence charOffset="17150-17392" id="S92" selection="">
+        <text xml:space="preserve">We carried out efficacy analyses on an intention to treat population, consisting of all participants randomised to the intervention arm or to the usual care arm and who had at least one recorded blood pressure measurement after randomisation.</text>
+    </sentence>
+    <sentence charOffset="17393-17476" id="S93" selection="">
+        <text xml:space="preserve">Analyses were based on the treatment group to which the participant was randomised.</text>
+    </sentence>
+    <sentence charOffset="17477-17684" id="S94" selection="12a">
+        <text xml:space="preserve">We compared the primary endpoint measure (blood pressure control at week 26) between the study groups using a log binomial generalised linear model with stratification status at randomisation as a covariate.</text>
+    </sentence>
+    <sentence charOffset="17685-17879" id="S95" selection="12a">
+        <text xml:space="preserve">Stratification status was fit as a categorical variable with the three blood pressure target groups (≤125/75 mm Hg, ≤130/80 mm Hg, and ≤140/90 mm Hg) based on the participant’s clinical profile.</text>
+    </sentence>
+    <sentence charOffset="17880-18106" id="S96" selection="12a">
+        <text xml:space="preserve">Change in systolic and diastolic blood pressure from baseline to 26 weeks were each analysed by analysis of covariance, with treatment group and stratification status as factors and mean baseline blood pressure as a covariate.</text>
+    </sentence>
+    <sentence charOffset="18107-18184" id="S97" selection="">
+        <text xml:space="preserve">We also describe the proportion and rate of adverse events (per participant).</text>
+    </sentence>
+    <sentence charOffset="18208-18215" id="S98">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="18222-18510" id="S99" selection="13a">
+        <text xml:space="preserve">Overall, 2337 participants (1381 men (59.1%), mean age 58 (SD 12) years) with hypertension from 119 general practices were enrolled into the study; 2185 participants from 114 practices subsequently started the run-in phase of initial treatment (valsartan 80 mg/day for 14-28 days, fig 2).</text>
+    </sentence>
+    <sentence charOffset="18511-18821" id="S100" selection="13a">
+        <text xml:space="preserve">(The figure in appendix II in the supplementary file shows a simplified flow chart of study activity and interventions according to group randomisation, including the initial phase of clinical profiling of all participants who entered the run-in phase of the study, and the two study arms after randomisation.)</text>
+    </sentence>
+    <sentence charOffset="18829-18869" id="S101" selection="13a,13b,16">
+        <text xml:space="preserve">Fig 2 Flow of participants through study</text>
+    </sentence>
+    <sentence charOffset="18876-19030" id="S102" selection="15">
+        <text xml:space="preserve">Of those who entered the run-in phase, 1329 (60.8%) had pre-existing hypertension and had been treated for a median of 5 (interquartile range 2-10) years.</text>
+    </sentence>
+    <sentence charOffset="19031-19318" id="S103" selection="15">
+        <text xml:space="preserve">Previous treatment, which was stopped on entry to the study, comprised monotherapy with either angiotensin converting enzyme inhibitors or angiotensin receptor blockers (n=907, 68.2%), a calcium channel antagonist (n=233, 17.5%), or combination antihypertensive treatment (n=259, 19.5%).</text>
+    </sentence>
+    <sentence charOffset="19319-19478" id="S104" selection="15">
+        <text xml:space="preserve">The initial blood pressure target for these 2185 participants was ≤125/75 mm Hg in 330 (15.1%), ≤130/80 mm Hg in 993 (45.4%), and ≤140/90 mm Hg in 862 (39.5%).</text>
+    </sentence>
+    <sentence charOffset="19479-19743" id="S105" selection="13b">
+        <text xml:space="preserve">During the run-in phase, 416 (19.0%) participants reached their initial prespecified blood pressure target; comprising 20 (6.7%) of those with a preliminary blood pressure target of ≤125/75 mm Hg, 128 (12.9%) with ≤130/80 mm Hg, and 268 (31.1%) with ≤140/90 mm Hg.</text>
+    </sentence>
+    <sentence charOffset="19744-19875" id="S106" selection="13b">
+        <text xml:space="preserve">A further 207 (9.5%) participants withdrew from the study (56 (2.6%) experienced an adverse event) and were not randomised (fig 2).</text>
+    </sentence>
+    <sentence charOffset="19882-20176" id="S107" selection="15">
+        <text xml:space="preserve">Table 1 shows the baseline characteristics of the 1562 participants randomised to the usual care group (n=524, 33.5%) or intervention group (n=1038, 66.5%); 360 (23.0%) participants in the intervention group were randomised to the monotherapy arm and 678 (43.4%) to the combination therapy arm.</text>
+    </sentence>
+    <sentence charOffset="20177-20496" id="S108" selection="15">
+        <text xml:space="preserve">The proportion of patients treated for hypertension before the study run-in phase (40% with angiotensin converting enzyme inhibitors, 20% with an angiotensin receptor blocker, and 21% with combination therapy including a calcium antagonist or diuretic) had increased to 66.9%, with little difference between the groups.</text>
+    </sentence>
+    <sentence charOffset="20497-20608" id="S109" selection="15">
+        <text xml:space="preserve">The groups were well matched for clinical and personal characteristics and prespecified blood pressure targets.</text>
+    </sentence>
+    <sentence charOffset="20609-20891" id="S110" selection="">
+        <text xml:space="preserve">At randomisation, 219 (14.0% with equal proportions in each group) were assigned to a blood pressure target that differed from the recommended (automated) clinical profile; these reflected general practitioners’ discretion for a mostly higher blood pressure target than recommended.</text>
+    </sentence>
+    <sentence charOffset="20892-21058" id="S111" selection="16">
+        <text xml:space="preserve">An endpoint blood pressure was recorded in 504/524 participants in the usual care group and 988/1038 in the intervention group, at any time point after randomisation.</text>
+    </sentence>
+    <sentence charOffset="21065-21141" id="S112" selection="15">
+        <text xml:space="preserve">Table 1  Baseline characteristics according to group randomisation (n=1562).</text>
+    </sentence>
+    <sentence charOffset="21142-21214" id="S113" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) of participants unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="21230-21267" id="S114" selection="">
+        <text xml:space="preserve">Patterns of blood pressure management</text>
+    </sentence>
+    <sentence charOffset="21276-21414" id="S115" selection="16">
+        <text xml:space="preserve">Drug treatment after randomisation was recorded in 501 participants (95.6%) in the usual care arm and 991 (95.5%) in the intervention arm.</text>
+    </sentence>
+    <sentence charOffset="21415-21611" id="S116" selection="">
+        <text xml:space="preserve">In the intervention group, attendance (within 14 days) at scheduled visits varied from 79.9-91.0%; the highest attendance being at six weeks (compared with 91.4% in the usual care group, table 2).</text>
+    </sentence>
+    <sentence charOffset="21612-21782" id="S117" selection="">
+        <text xml:space="preserve">Overall, participants in the usual care group had 854 clinic reviews (mean 1.7 visits) after randomisation compared with 3477 in the intervention group (mean 3.5 visits).</text>
+    </sentence>
+    <sentence charOffset="21783-21967" id="S118" selection="">
+        <text xml:space="preserve">Figures in appendix II in the supplementary file show the (complex) pattern of prescribing in the usual care group and the composite treatment groups comprising the intervention group.</text>
+    </sentence>
+    <sentence charOffset="21968-22461" id="S119" selection="16">
+        <text xml:space="preserve">At randomisation, most participants in the intervention arm were prescribed their per protocol treatment: 334/360 (92.8%) monotherapy (valsartan 160 mg daily), 228/250 (91.2%) hydrochlorothiazide combination therapy (valsartan 80 mg + hydrochlorothiazide 12.5 mg daily), and 398/417 (95.4%) amlodipine combination (valsartan 80 mg + amlodipine 5 mg daily); 11 participants in the combination arm (all early study withdrawals) did not have their combination treatment selected at randomisation.</text>
+    </sentence>
+    <sentence charOffset="22462-22623" id="S120" selection="16">
+        <text xml:space="preserve">In the next six weeks, 108 (32%), 118 (52%), and 207 (52%) of these participants, respectively, had progressed to the next level treatment as per study protocol.</text>
+    </sentence>
+    <sentence charOffset="22624-22790" id="S121" selection="16">
+        <text xml:space="preserve">At baseline in the usual care group, 367 (70.0%) participants were still receiving valsartan 80 mg/day and 67 (12.8%) were receiving the increased dose of 160 mg/day.</text>
+    </sentence>
+    <sentence charOffset="22791-23118" id="S122" selection="16">
+        <text xml:space="preserve">By study completion (based on last prescribed treatment) a greater proportion of participants in the usual care group (n=227) than intervention group (n=154) were prescribed monotherapy (43.3 v 14.8%) and fewer were prescribed combination (217 (41.4%) v 609 (58.7%)) or triple (21 (4.1%) v 155 (14.9%) antihypertensive therapy.</text>
+    </sentence>
+    <sentence charOffset="23119-23396" id="S123" selection="">
+        <text xml:space="preserve">Alternatively, prescription resistance with deviation from the management protocol was evident in 360 participants (34.7%): most deviations (&gt;90%) involved general practitioners not up-titrating antihypertensive treatment to achieve one of the two lower blood pressure targets.</text>
+    </sentence>
+    <sentence charOffset="23405-23507" id="S124" selection="17a">
+        <text xml:space="preserve">Table 2  Mean systolic and diastolic blood pressure and absolute change from baseline by study visits.</text>
+    </sentence>
+    <sentence charOffset="23508-23570" id="S125" selection="">
+        <text xml:space="preserve">Values are means (standard deviations) unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="23593-23648" id="S126" selection="">
+        <text xml:space="preserve">Primary endpoint: individualised blood pressure control</text>
+    </sentence>
+    <sentence charOffset="23657-24025" id="S127" selection="17b">
+        <text xml:space="preserve">On an intention to treat basis, there was an 8.8% absolute difference in the primary endpoint in favour of the intervention group, with 358/988 (36.2%) participants in the intervention arm achieving their individual blood pressure target compared with 138/504 (27.4%) in the usual care arm: adjusted relative risk 1.28 (95% confidence interval 1.10 to 1.49, P=0.0013).</text>
+    </sentence>
+    <sentence charOffset="24026-24205" id="S128" selection="17a">
+        <text xml:space="preserve">Table 2 shows absolute blood pressure values (with change in blood pressure from baseline) and overall pattern of blood pressure control for both groups during progressive visits.</text>
+    </sentence>
+    <sentence charOffset="24206-24384" id="S129" selection="17b">
+        <text xml:space="preserve">Overall, 627/988 (63.5%) participants in the intervention group compared with 272/504 (54.0%) in the usual care group achieved the classic blood pressure target of ≤140/90 mm Hg.</text>
+    </sentence>
+    <sentence charOffset="24385-24536" id="S130" selection="17b">
+        <text xml:space="preserve">This represents an absolute difference of 9.5% in favour of the intervention group: relative risk 1.18 (95% confidence interval 1.07 to 1.29, P&lt;0.001).</text>
+    </sentence>
+    <sentence charOffset="24559-24603" id="S131" selection="">
+        <text xml:space="preserve">Secondary endpoint: change in blood pressure</text>
+    </sentence>
+    <sentence charOffset="24612-24928" id="S132" selection="17b">
+        <text xml:space="preserve">Clinically important falls in mean and systolic blood pressure were observed in both groups during the 26 weeks of follow-up, with a lower diastolic and systolic blood pressure value recorded after randomisation in 311 (59.4%) participants in the usual care group compared with 719 (69.3%) in the intervention group.</text>
+    </sentence>
+    <sentence charOffset="24929-25168" id="S133" selection="17a">
+        <text xml:space="preserve">Individualised control of blood pressure showed an inverse gradient; lower rates of achieving the blood pressure target were associated with more stringent targets (P&lt;0.001) but better rates of control throughout in the intervention group.</text>
+    </sentence>
+    <sentence charOffset="25169-25687" id="S134" selection="17a">
+        <text xml:space="preserve">During study follow-up, mean blood pressure changed (randomisation to endpoint blood pressure) from 150 (SD 17)/88 (SD 11) mm Hg to 136 (SD 15)/81 (SD 10) mm Hg in the intervention group compared with 149 (SD 17)/87 (SD 11) mm Hg to 139 (SD 15)/82 (SD 11) mm Hg in the usual care group (table 2); adjusted mean reduction in blood pressure 13.2 (95% confidence interval 12.3 to 14.2) mm Hg and 7.7 (7.1 to 8.3) mm Hg compared with 10.1 (8.8 to 11.3) mm Hg and 5.5 (4.7 to 6.2) mm Hg in favour of intervention (P&lt;0.001).</text>
+    </sentence>
+    <sentence charOffset="25688-26010" id="S135" selection="17a">
+        <text xml:space="preserve">In those who completed the 26 weeks of follow-up (186 (SD 20) days) the equivalent reduction in blood pressure was also in favour of the intervention (P&lt;0.001): adjusted mean reduction in blood pressure 14.6 (13.7 to 15.6) mm Hg and 8.2 (7.6 to 8.8) mm Hg compared with 10.4 (9.1 to 11.7) mm Hg and 5.6 (4.7 to 6.4) mm Hg.</text>
+    </sentence>
+    <sentence charOffset="26011-26135" id="S136" selection="17b">
+        <text xml:space="preserve">The intervention was associated with greater levels of individual blood pressure control in all three target groups (fig 3).</text>
+    </sentence>
+    <sentence charOffset="26136-26320" id="S137" selection="17b">
+        <text xml:space="preserve">Overall, those assigned the combination treatment arm of the intervention group had the highest rate of individual blood pressure control (37.9% for the endpoint and 42.1% at week 26).</text>
+    </sentence>
+    <sentence charOffset="26321-26776" id="S138" selection="17a">
+        <text xml:space="preserve">Similarly, an analysis of change in blood pressure from baseline to 26 weeks (n=1323) according to target group showed consistent benefits of the intervention (8-12% reduction in systolic blood pressure and 7-14% reduction in diastolic blood pressure) compared with usual care (6-8% and 5-9%, respectively), with the most gains in blood pressure reduction achieved through the combination treatment arm overall (see appendix II in the supplementary file).</text>
+    </sentence>
+    <sentence charOffset="26786-26912" id="S139" selection="17a">
+        <text xml:space="preserve">Fig 3 Change in systolic and diastolic blood pressure according to individual blood pressure target at randomisation (n=1492).</text>
+    </sentence>
+    <sentence charOffset="26913-27074" id="S140" selection="17b">
+        <text xml:space="preserve">On an adjusted basis, participants assigned to intervention were significantly more likely to achieve their target at the two higher blood pressure target levels</text>
+    </sentence>
+    <sentence charOffset="27097-27135" id="S141" selection="">
+        <text xml:space="preserve">Change in absolute cardiovascular risk</text>
+    </sentence>
+    <sentence charOffset="27144-27696" id="S142" selection="17a">
+        <text xml:space="preserve">Among the 1141 participants in whom absolute cardiovascular risk profiles were calculated from baseline to 26 weeks’ follow-up (that is, complete data on profiling both before and after randomisation), the intervention group had a significantly greater reduction in risk scores (14.7% (SD 9.3%) to 10.9% (SD 8.0%); −3.7% (SD 4.5%)) than the usual care group (15.0% (SD 10.1%) to 12.4% (SD 9.4%); −2.6% (SD 4.5%)); the adjusted mean reduction in risk being in favour of the intervention group (−1.13%, 95% confidence interval −0.69% to −1.63%; P&lt;0.001).</text>
+    </sentence>
+    <sentence charOffset="27697-27884" id="S143" selection="17b">
+        <text xml:space="preserve">Overall, the proportion of high risk participants (&gt;15% absolute risk of an event) in the intervention group decreased from 41.2% to 25.6% and in the usual care group from 40.2% to 30.1%.</text>
+    </sentence>
+    <sentence charOffset="27907-27921" id="S144" selection="">
+        <text xml:space="preserve">Safety profile</text>
+    </sentence>
+    <sentence charOffset="27930-28109" id="S145" selection="17a">
+        <text xml:space="preserve">A total of 1044 adverse events were recorded in 592 (27.1%) participants during the study run-in phase, with 424 (40.6%) classified as related to treatment by the treating doctor.</text>
+    </sentence>
+    <sentence charOffset="28110-28341" id="S146" selection="17a">
+        <text xml:space="preserve">Overall, 2184 adverse events were recorded after randomisation, with 2152 occurring among the 1492 participants who had at least six weeks’ follow-up (see appendix III in the supplementary file for a summary of the adverse events).</text>
+    </sentence>
+    <sentence charOffset="28342-28530" id="S147" selection="17a">
+        <text xml:space="preserve">This included 196 (57.8%) participants allocated to the monotherapy arm and 355 (54.7%) to the combination therapy arm; this compared with 246 (48.8%) participants in the usual care group.</text>
+    </sentence>
+    <sentence charOffset="28531-28748" id="S148" selection="17a">
+        <text xml:space="preserve">Of the adverse events after randomisation, 543 (24.9%) were classified as related to treatment, with 422 (0.41/participant) occurring in the intervention arm and 121 (0.23/participant) in the usual care arm (table 3).</text>
+    </sentence>
+    <sentence charOffset="28749-28963" id="S149" selection="17a,19">
+        <text xml:space="preserve">The three most common adverse events after randomisation attributed to study treatment were dizziness (including postural hypotension, 86 events), peripheral oedema (79 events), and fatigue or lethargy (46 events).</text>
+    </sentence>
+    <sentence charOffset="28964-29199" id="S150" selection="17a,19">
+        <text xml:space="preserve">The rate of dizziness (0.07 v 0.03 adverse events/participant) and oedema (predominantly peripheral oedema, 0.06 v 0.03 adverse events/participants) was highest in the intervention group overall, and most common in the combination arm.</text>
+    </sentence>
+    <sentence charOffset="29200-29288" id="S151" selection="19">
+        <text xml:space="preserve">One (0.06%) participant randomised to the intervention group died due to adenocarcinoma.</text>
+    </sentence>
+    <sentence charOffset="29289-29519" id="S152" selection="17a">
+        <text xml:space="preserve">Post-randomisation, 24 (4.6%) participants in the usual care group experienced 35 serious adverse events compared with 37 (3.7%) participants and 57 serious adverse events in the intervention group (6.7 v 5.6 events/100 patients).</text>
+    </sentence>
+    <sentence charOffset="29520-29786" id="S153" selection="17a,19">
+        <text xml:space="preserve">In the usual care and intervention groups, respectively, this included six and eight events involving admission to hospital for chest pain/angina pectoris, one (in each group) for acute myocardial infarction, and four (in each group) for other cardiovascular events.</text>
+    </sentence>
+    <sentence charOffset="29787-30029" id="S154" selection="17a,13b">
+        <text xml:space="preserve">Overall, due to an adverse event drug treatment was altered in 82 (7.9%) intervention participants compared with 10 (1.9%) usual care participants (1.1% v 0.2%, respectively, were withdrawn by the general practitioner or voluntarily withdrew.</text>
+    </sentence>
+    <sentence charOffset="30038-30216" id="S155" selection="17a">
+        <text xml:space="preserve">Table 3  Number of adverse events by system organ class and relation to study treatment derived from before randomisation (n=2185) and endpoint blood pressure (n=1492) population</text>
+    </sentence>
+    <sentence charOffset="30240-30250" id="S156">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="30257-30696" id="S157" selection="">
+        <text xml:space="preserve">A strategy comprising automated risk profiling plus standardised guideline based, stepwise drug treatment (initial monotherapy using an angiotensin receptor blocker or two forms of combination therapy) and intensified follow-up and treatment titration, resulted in more participants (absolute difference 8.8%) with persistent hypertension achieving their individual blood pressure target at 26 weeks than participants receiving usual care.</text>
+    </sentence>
+    <sentence charOffset="30697-30979" id="S158" selection="">
+        <text xml:space="preserve">Importantly, two thirds of the participants had a history of persistent hypertension despite receiving a typical range of antihypertensive treatments, and the remainder were unresponsive to valsartan monotherapy; one of the most commonly prescribed antihypertensive agents globally.</text>
+    </sentence>
+    <sentence charOffset="30980-31192" id="S159" selection="">
+        <text xml:space="preserve">The study population had an average five year risk of a major cardiovascular event of over 15% and therefore represented the more difficult end of the spectrum of people with hypertension managed in primary care.</text>
+    </sentence>
+    <sentence charOffset="31193-31498" id="S160" selection="22">
+        <text xml:space="preserve">The detailed clinical profiling at study entry and general practitioners’ access to the computer assisted treatment protocol may explain the large, clinically significant, reductions in blood pressure in both groups (mean change &gt;13/7 mm Hg in the intervention group and &gt;10/5 mm Hg in the control group).</text>
+    </sentence>
+    <sentence charOffset="31499-31749" id="S161" selection="">
+        <text xml:space="preserve">The combined application of more intensive follow-up and drug treatment is reflected in greater use of combination therapies (prescribed as single pills) and progressive reductions in blood pressure between six and 26 weeks in the intervention group.</text>
+    </sentence>
+    <sentence charOffset="31750-32128" id="S162" selection="22">
+        <text xml:space="preserve">These incremental benefits in blood pressure control largely influenced more favourable absolute cardiovascular risk scores in participants assigned to intervention, with just over one third in this group achieving their individual blood pressure target and around two thirds the classic blood pressure target of ≤140/90 mm Hg; the same advocated by NICE in the United Kingdom.4</text>
+    </sentence>
+    <sentence charOffset="32129-32397" id="S163" selection="">
+        <text xml:space="preserve">If further adjustment is made for those who initially responded to more intensive management and monotherapy using an angiotensin receptor blocker at study run-in (apportioning equal success and failure to both treatment groups), this figure increases from 64% to 72%.</text>
+    </sentence>
+    <sentence charOffset="32398-32738" id="S164" selection="">
+        <text xml:space="preserve">An important trade-off for what could be considered to be modest absolute differences in absolute blood pressure levels between groups was the small increase in the proportion of participants who withdrew from the study (1.1% v 0.2%) and more frequent (7.9% v 1.9%) modification of treatment due to adverse events in the intervention group.</text>
+    </sentence>
+    <sentence charOffset="32754-32793" id="S165" selection="">
+        <text xml:space="preserve">Strengths and limitations of this study</text>
+    </sentence>
+    <sentence charOffset="32802-32999" id="S166" selection="">
+        <text xml:space="preserve">The intervention directly addressed the difficult challenge of optimising blood pressure control in a real world general practice setting using commonly prescribed forms of antihypertensive agents.</text>
+    </sentence>
+    <sentence charOffset="33000-33146" id="S167" selection="">
+        <text xml:space="preserve">This is a major concern for countries with aging populations, where hypertension related heart and cerebrovascular disease is a growing problem.14</text>
+    </sentence>
+    <sentence charOffset="33147-33443" id="S168" selection="20,11a">
+        <text xml:space="preserve">By necessity, this pragmatic study used an open label design (with no blinding of treatment pathways or blood pressure measurements possible) with scheduled visits that varied according to clinic schedules and prescribed drug treatment and relied on the mainstream healthcare system in Australia.</text>
+    </sentence>
+    <sentence charOffset="33444-33596" id="S169" selection="21">
+        <text xml:space="preserve">The broader application and possible impact of the intervention (particularly in other healthcare systems) therefore needs to be interpreted cautiously.</text>
+    </sentence>
+    <sentence charOffset="33597-33982" id="S170" selection="">
+        <text xml:space="preserve">However, we do have preliminary projections (data not shown) based on national primary care data in Australia, that even the modest absolute differences in blood pressure between groups would have a potentially large impact (as reflected in the primary endpoint and absolute risk differences) among the thousands of Australians who don’t achieve their blood pressure targets each year.</text>
+    </sentence>
+    <sentence charOffset="33983-34336" id="S171" selection="">
+        <text xml:space="preserve">The selection of valsartan based treatments, rather than an open choice of agents, was predicated on the ability to standardise drug treatment in the intervention arm with precise up-titration pathways and to determine the potential impact of monotherapy versus combination therapy on short (six weeks) and longer term (26 weeks) blood pressure control.</text>
+    </sentence>
+    <sentence charOffset="34337-34636" id="S172" selection="">
+        <text xml:space="preserve">Certainly these agents targeting the renin-angiotensin system represent some of the most commonly applied in clinical practice internationally, and the treatment regimen is broadly consistent with the NICE guidelines (phase 3) for people with hypertension who do not respond to initial monotherapy.4</text>
+    </sentence>
+    <sentence charOffset="34637-34772" id="S173" selection="">
+        <text xml:space="preserve">We deliberately chose individual randomisation rather than a cluster design to increase the robustness of our findings for two reasons.</text>
+    </sentence>
+    <sentence charOffset="34773-34913" id="S174" selection="">
+        <text xml:space="preserve">Firstly, we wanted to avoid potential imbalances between the groups when using a larger unit of randomisation (that is, a general practice).</text>
+    </sentence>
+    <sentence charOffset="34914-35172" id="S175" selection="">
+        <text xml:space="preserve">Secondly, we wanted to expose participants with the same general practitioner to the two study groups (and indeed treatment arms within the intervention group) to truly determine if the programme would alter blood pressure management at the individual level.</text>
+    </sentence>
+    <sentence charOffset="35173-35598" id="S176" selection="20">
+        <text xml:space="preserve">Although this resulted in almost inevitable cross contamination of more intensive management in the usual care group (with clinically significant reductions in blood pressure in both groups), we were still able to show that the intervention was associated with incremental benefits in blood pressure control (8.8% absolute difference in the primary endpoint) tempered by more adverse events requiring adjustment of treatment.</text>
+    </sentence>
+    <sentence charOffset="35599-35930" id="S177" selection="20">
+        <text xml:space="preserve">Alternatively, unblinded blood pressures in the clinic reported by general practitioners (albeit using a standardised protocol and automated monitors) may have resulted in an element of bias, the recruitment of participants with so called white coat hypertension,15 or an observed regression to the mean (blood pressure) over time.</text>
+    </sentence>
+    <sentence charOffset="35931-36199" id="S178" selection="">
+        <text xml:space="preserve">Wherever possible we minimised these factors by implementing a 28 day standardised treatment and blood pressure monitoring run-in phase, applying a standardised protocol for blood pressure monitoring and undertaking independent clinical auditing for data verification.</text>
+    </sentence>
+    <sentence charOffset="36200-36347" id="S179" selection="20,21">
+        <text xml:space="preserve">Whether these data would be reproduced if we had studied 24 hour ambulatory blood pressure or home blood pressure measurements is open to debate.16</text>
+    </sentence>
+    <sentence charOffset="36348-36504" id="S180" selection="">
+        <text xml:space="preserve">However, at this time current guidelines are based on clinic blood pressure measurements and the study reflects current clinical practice in most countries.</text>
+    </sentence>
+    <sentence charOffset="36505-36653" id="S181" selection="21">
+        <text xml:space="preserve">We do not know as of yet if the reduction in absolute cardiovascular risk will be maintained or result in fewer cardiovascular events in the future.</text>
+    </sentence>
+    <sentence charOffset="36654-36783" id="S182" selection="20">
+        <text xml:space="preserve">Notably, 4% of randomised participants did not have an endpoint blood pressure recorded and were excluded from endpoint analyses.</text>
+    </sentence>
+    <sentence charOffset="36784-37160" id="S183" selection="">
+        <text xml:space="preserve">For these 70 participants, retrospective analyses where either the randomised blood pressure was brought forward (relative risk 1.27, 95% confidence interval 1.09 to 1.48) or the change in blood pressure was imputed according to study group and blood pressure target (1.26, 1.08 to 1.46) did not substantially alter the primary endpoint results (P&lt;0.001 for both comparisons).</text>
+    </sentence>
+    <sentence charOffset="37161-37398" id="S184" selection="20">
+        <text xml:space="preserve">The general practitioners were reluctant to try to meet the more aggressive guideline targets for blood pressure reduction and in almost 15% of cases opted for a more lenient target, in effect making the task of achieving control easier.</text>
+    </sentence>
+    <sentence charOffset="37421-37481" id="S185" selection="">
+        <text xml:space="preserve">Supporting the evidence in favour of structured primary care</text>
+    </sentence>
+    <sentence charOffset="37490-37916" id="S186" selection="">
+        <text xml:space="preserve">Consistent with data from other countries such as the United States,2 we have strong evidence from community based studies,9 preliminary data from the pilot stages of the VIPER-BP study,13 and data from the usual care group, that present approaches to the management of hypertension have meant that the “rule of halves” still applies—that is, close to 50% of those treated for hypertension in primary care remain hypertensive.</text>
+    </sentence>
+    <sentence charOffset="37917-38316" id="S187" selection="">
+        <text xml:space="preserve">Regardless of recent suggestions that lower blood pressure targets in high risk people should be reassessed,8 there is still clear evidence from population cohorts2 and meta-analyses of clinical trial data3 that lowering blood pressure (even by the modest, incremental margins associated with more intensive management) will noticeably attenuate the rates of stroke and other cardiovascular disease.</text>
+    </sentence>
+    <sentence charOffset="38317-38750" id="S188" selection="">
+        <text xml:space="preserve">In support of a more aggressive approach to the management of hypertension, retrospective results from both the Valsartan Antihypertensive Long-term Use Evaluation trial17 18 and Avoiding Cardiovascular Events in Combination Therapy in Patients Living with Hypertension19 trial suggest there are advantages to achieving early blood pressure control and that application of combination treatments are more likely to achieve this goal.</text>
+    </sentence>
+    <sentence charOffset="38751-38972" id="S189" selection="">
+        <text xml:space="preserve">The intervention in the current study brought all these elements together, with more than double (81% v 40%) the proportion of intervention participants receiving combination therapy compared with monotherapy at 26 weeks.</text>
+    </sentence>
+    <sentence charOffset="38973-39198" id="S190" selection="">
+        <text xml:space="preserve">To our knowledge this study (incorporating a combined drug and disease management approach to the management of blood pressure facilitated by a standardised computer support program) is one of the largest studies of its kind.</text>
+    </sentence>
+    <sentence charOffset="39199-39683" id="S191" selection="">
+        <text xml:space="preserve">Although there have been several large hypertension trials with a major focus on the efficacy of different combinations of drug treatment20 and specific studies of algorithm based strategies,10 12 there are few large scale, multicentre studies that have specifically compared a structured and intensive care approach with usual care in achieving better blood pressure control based on more stringent risk based targets in patients with persistent hypertension managed in primary care.</text>
+    </sentence>
+    <sentence charOffset="39684-39976" id="S192" selection="22">
+        <text xml:space="preserve">The results of the present study therefore strengthen the conclusions of a recently updated Cochrane review recommending a stepped and intensive approach to the management of hypertension in primary care; particularly in those participants who remain hypertensive despite initial treatment.10</text>
+    </sentence>
+    <sentence charOffset="39977-40238" id="S193" selection="22">
+        <text xml:space="preserve">In particular, the results complement the findings of a similarly large scale (cluster randomised design) Canadian study21 of a simplified treatment algorithm in primary care that showed a 12% absolute difference (65% v 53%) in favour of the study intervention.</text>
+    </sentence>
+    <sentence charOffset="40239-40540" id="S194" selection="">
+        <text xml:space="preserve">Notable differences were the low proportion of participants requiring more stringent blood pressure targets (about 15%) and the lack of initial standardised care that in the present study resulted in almost one in five participants achieving early blood pressure control during the study run-in phase.</text>
+    </sentence>
+    <sentence charOffset="40541-40637" id="S195" selection="">
+        <text xml:space="preserve">Thus our randomised cohort represented a more “challenging” group of patients with hypertension.</text>
+    </sentence>
+    <sentence charOffset="40638-41072" id="S196" selection="22">
+        <text xml:space="preserve">It could be argued that we have now reached a similar stage of developing the evidence in favour of more structured care (that is, beyond a purely drug related approach) to optimise blood pressure management in primary care to that of heart failure management programmes; where head to head trials of different forms of structured care are being undertaken22 to refine (rather than to establish) a new level of best clinical practice.</text>
+    </sentence>
+    <sentence charOffset="41095-41116" id="S197" selection="">
+        <text xml:space="preserve">Clinical implications</text>
+    </sentence>
+    <sentence charOffset="41125-41377" id="S198" selection="">
+        <text xml:space="preserve">Several important issues highlighted by this pragmatic study involving more than 250 general practitioners are relevant to clinical practice guidelines and health policy in Australia and other high income countries where hypertension remains a problem.</text>
+    </sentence>
+    <sentence charOffset="41378-41669" id="S199" selection="22">
+        <text xml:space="preserve">Firstly, the initial application of standardised monotherapy (valsartan 80 mg/day) in a structured approach, irrespective of previous treatment, was immediately successful in controlling a large group of people with hypertension and should be considered when reviewing primary endpoint data.</text>
+    </sentence>
+    <sentence charOffset="41670-42030" id="S200" selection="21">
+        <text xml:space="preserve">Given its size and direct relevance to other high income countries, the study is likely to influence future blood pressure guidelines, particularly informing debate around the attainment of lower blood pressure targets, whether these lower targets are truly achievable, and the role of prescription resistance11 in limiting what is meant by “truly achievable.”</text>
+    </sentence>
+    <sentence charOffset="42031-42219" id="S201" selection="">
+        <text xml:space="preserve">Only a small proportion of participants in the most stringent blood pressure group achieved this target despite the intensive approach with three or more drugs applied in the intervention.</text>
+    </sentence>
+    <sentence charOffset="42220-42607" id="S202" selection="22">
+        <text xml:space="preserve">Given the nature of the study, these data are likely to reflect real world blood pressure management, and any consideration of retaining more stringent blood pressure targets (particularly if low values are proved to be unnecessary in those with pre-existing cardiovascular disease8) has to consider the impact of at least aiming for lower blood pressure to achieve values ≤140/90 mm Hg.</text>
+    </sentence>
+    <sentence charOffset="42608-42886" id="S203" selection="22">
+        <text xml:space="preserve">Both an overall reluctance by general practitioners to prescribe higher doses of combination or triple treatment and individual patient factors seem to have prevented more participants from reaching their individual blood pressure target and the classic target of ≤140/90 mm Hg.</text>
+    </sentence>
+    <sentence charOffset="42887-43073" id="S204" selection="">
+        <text xml:space="preserve">It is worth highlighting that in the Australian healthcare system, subsidised drug treatment ensures that costs are not usually a barrier to the application of more aggressive treatment.</text>
+    </sentence>
+    <sentence charOffset="43082-43614" id="S205" selection="">
+        <text xml:space="preserve">Although the absolute difference in change in blood pressure between the groups might be considered modest, they not only contributed to more people achieving the primary endpoint in the intervention group but also favourably altered both the absolute risk of future cardiovascular events (a clinically meaningful 1% difference in mean scores between groups) and the relative risk reduction of future coronary artery disease (−6% difference in mean risk) and strokes (−11% difference) in favour of the intervention (data not shown).</text>
+    </sentence>
+    <sentence charOffset="43615-43873" id="S206" selection="22">
+        <text xml:space="preserve">The expected trade-off between more intense blood pressure control and an increase in adverse events occurred, with more participants in the intervention group withdrawn on this basis (1.1% v 0.2%) or requiring active change to their treatment (7.9% v 1.9%).</text>
+    </sentence>
+    <sentence charOffset="43874-44010" id="S207" selection="22">
+        <text xml:space="preserve">This needs to be carefully considered against the overall difference (8.8% in favour of the intervention group) in the primary endpoint.</text>
+    </sentence>
+    <sentence charOffset="44011-44156" id="S208" selection="22">
+        <text xml:space="preserve">Overall, the number and frequency of adverse events was consistent with the nature and size of the patient cohort and the drugs being prescribed.</text>
+    </sentence>
+    <sentence charOffset="44157-44467" id="S209" selection="22">
+        <text xml:space="preserve">Whereas there seems to be a gradient in blood pressure control according to the amount of drug treatment (with greater control achieved in those assigned to immediate combination therapy at randomisation), spending additional clinical time (&gt;1 hour over six months) with participants probably also contributed.</text>
+    </sentence>
+    <sentence charOffset="44468-44629" id="S210" selection="22">
+        <text xml:space="preserve">Such a conclusion is consistent with previous systematic reviews and meta-analyses,10 and the patient centred approach advocated by contemporary guidelines.4 6 7</text>
+    </sentence>
+    <sentence charOffset="44630-44967" id="S211" selection="22">
+        <text xml:space="preserve">This observation is further strengthened by the initial response to the run-in phase of the study where information on non-drug measures was provided with only low dose monotherapy (19% blood pressure control) and substantial anecdotal evidence from participants who appreciated the “beyond pharmacological” approach to their management.</text>
+    </sentence>
+    <sentence charOffset="44990-45007" id="S212" selection="">
+        <text xml:space="preserve">Future challenges</text>
+    </sentence>
+    <sentence charOffset="45016-45262" id="S213" selection="">
+        <text xml:space="preserve">Despite noticeable reductions in blood pressure in both arms of the VIPER-BP study, a relatively small proportion of participants achieved these more stringent blood pressure targets; the classic target of ≤140/90 mm Hg being far more attainable.</text>
+    </sentence>
+    <sentence charOffset="45263-45583" id="S214" selection="">
+        <text xml:space="preserve">Given the intensity of the intervention and facilitated pathways to higher doses of combination antihypertensive treatment, these data highlight critical questions around the application of more stringent blood pressure targets in high risk people—that is, those with established cardiovascular disease or renal disease.</text>
+    </sentence>
+    <sentence charOffset="45584-45751" id="S215" selection="22">
+        <text xml:space="preserve">The results are particularly relevant to clinicians when clinical guidelines and health policies seek to apply expert recommendations that may not be truly achievable.</text>
+    </sentence>
+    <sentence charOffset="45752-45944" id="S216" selection="22">
+        <text xml:space="preserve">As such, these data may prompt a re-evaluation of blood pressure targets to reflect real world limitations for doctors managing hypertension in the busy and often complex primary care setting.</text>
+    </sentence>
+    <sentence charOffset="45945-46220" id="S217" selection="22">
+        <text xml:space="preserve">The results also point to major patient related barriers to eviscerating blood pressure targets as even with best practice drug prescription and clinical support most participants still did not achieve the primary endpoint of blood pressure recommended by current guidelines.</text>
+    </sentence>
+    <sentence charOffset="46221-46408" id="S218" selection="">
+        <text xml:space="preserve">Most importantly, however, we have shown that a structured blood pressure management approach (computer assisted) results in higher blood pressure control rates in a primary care setting.</text>
+    </sentence>
+    <sentence charOffset="46409-46702" id="S219" selection="">
+        <text xml:space="preserve">As always, the challenge will be to implement this strategy into wider clinical practice by further analysing what did and did not work in this and other similar studies and how best to deliver pragmatic tools to facilitate the optimal management of blood pressure in the primary care setting.</text>
+    </sentence>
+    <sentence charOffset="46735-46770" id="S220" selection="">
+        <text xml:space="preserve">What is already known on this topic</text>
+    </sentence>
+    <sentence charOffset="46815-46953" id="S221" selection="">
+        <text xml:space="preserve">Hypertension is the leading risk factor for cardiovascular disease worldwide and one of the most common conditions managed in primary care</text>
+    </sentence>
+    <sentence charOffset="47000-47125" id="S222" selection="">
+        <text xml:space="preserve">Despite effective drug treatments, a substantial proportion of affected people remain above their ideal blood pressure target</text>
+    </sentence>
+    <sentence charOffset="47172-47318" id="S223" selection="">
+        <text xml:space="preserve">Systematic reviews suggest that additional gains in blood pressure control can be attained with a more intensive structured approach to management</text>
+    </sentence>
+    <sentence charOffset="47381-47401" id="S224" selection="">
+        <text xml:space="preserve">What this study adds</text>
+    </sentence>
+    <sentence charOffset="47446-47722" id="S225" selection="">
+        <text xml:space="preserve">Compared with usual care, an intensive, structured programme for blood pressure control in primary care was associated with an 8.8% increase in the proportion of participants achieving individual targets and 9.5% increase in those achieving the classic target of ≤140/90 mm Hg</text>
+    </sentence>
+    <sentence charOffset="47770-47898" id="S226" selection="">
+        <text xml:space="preserve">Despite parallel reductions in absolute cardiovascular risk, achieving more stringent blood pressure targets remains a challenge</text>
+    </sentence>
+    <sentence charOffset="47945-48072" id="S227" selection="">
+        <text xml:space="preserve">Modification of treatment owing to adverse events was more common in the intervention group than usual care group (7.9% v 1.9%)</text>
+    </sentence>
+    <sentence charOffset="48138-48149" id="S228">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="48177-48386" id="S229" selection="">
+        <text xml:space="preserve">We thank the study nurse coordinators for helping the general practitioner to participate in the study and the clinical trial research staff and data management staff at Baker IDI Heart and Diabetes Institute.</text>
+    </sentence>
+    <sentence charOffset="48415-52830" id="S230" selection="">
+        <text xml:space="preserve">The following general practitioners were involved in the study: Fadi Abouzeid, Geoffrey Adsett, Ata Ahmadi, Robert Allan, Olataga Alofivae-Doorbinnia, Paul Anderson (Queensland), Paul Anderson (Victoria), Jacob Artinian, Luke Ashford, David Austin, Enrique Avedillo, Alex Avergun, Claudio Baldi, Das Balgi, Rekha Balgi, Chistopher Balkwill, Usha Bansal, Dominic Barbaro, Antwan Barich, Sanaa Barich, Annette Barratt, Neyamul Bashir, Patricia Batchelor, Indranie Benedict, Atul Bhatnager, Leocadio Blanco-Isquierdo, Mark Bloch, Neil Bodsworth, Olof Boshoff, Roly Bott, Sandra Bransgrove, Paddy Brazier, Keith Brennan, David Brockman, Sergey Bromberg, Sarah Burbury, Donna Burgess, Rob Burns, John Byrne, Gillian Cameron, Ken Cameron, Ian Cameron, Fiona Campbell, Robert Cargill, Michael Neil Cavanagh, Aaron Chambers, Joe Chamizo, Jose Chamizo, Maria Cheng, Robert Chester, Ka Cho Cheung, Herbert Keung Cheung, Saroj Chhajed, John Chin, Michael Chin, Susan Chupungco, Kim Chye, Ray Cibulskis, Trevor Claridge, Peter Clarke, George Clegg, Edward Collinson, Ewe Conroy, Stephen Cook, David Copeland, Norman Cornish, Ian Robert Cram, Peter Cummins, Andrew Cunnane, Alexander Daniel, Suzanne Davey, Peter Day, Chaminda De Silva, Annette Deada, Arnold Dela Cruz, May Dennis, Ivor Desouza, Neil Donovan, Philip Downing, Nichola Dunn, Philippa Eccles, Mark Faigen, Fred Faigenbaum, Mario Fantasia, Ramsis Farag, Graham Farquhar, John Feros, Joseph Fieber, Michael Fine, Robert Finlayson, Robert Flynn, Gerard Peter Foley, Jacob Foo, Seyed Afshin Forghani, Gregory Frean, Brad Gallagher, Hong Gan, Jason Garrood, Peter Gavrilov, Peter Gibson, Chris Gillis, Peter Goodwin, Andrew Gowers, Francis Graham, Peter Grant, Philip Greenfield, Richard Grove, Birute Gunsberg, Michael James Hand, Peter Hay, Daniel Hendry, Michael Hickey, Alfred Hoh, Alexander Holliday, Rachid Homsi, Robert Houston, Chris Hughes, Jonathan Hughes, Robin Hughes, Jonathan Isles, Bindiganaral Jayashree, James Jeong, Christopher Jones, Thavamany Kanapathipillai, Sarit Kanungo, Lakshimi Kathigesu, Harjinder Kaur, Cath Keaney, Peter Kemp, Thomas Kerr, Richard Keys, Alireza Khossousi, Owen King, Christopher Knight,Lilian Lao, Quang Le, William Leadston, Warren Lee, James Liew, Juliette Little, Hsin-Hua Liu, Ying Liu, Dianne Loeffler, Shyuan Jium Loh, Edward Lurie, Russell Macdougall, Ewa Maczuba-Pilch, Sitalakshmi Mahadevan, Drew Mattsson, Lloyd Mayson, Stephen McKelvie, Felix McKnight, Keki Mehta, Ralph Mendelsohn, Robert Micallef, Evette Mikhail, Tiasha Mills, Gordon Milne, Vahid Mohabbati, Chandra Mohan, Stephen Moulding, Mina Mounir Moussa, David Muirhead, Patrick Mulhern, Philip Myers, Victor Nakhla, Raulito Naval, Ratna Neville, Lawrence Noonan, Ashley Noud, Mohammed Obeidullah, Charles Obinwanor, James Ogundipe, Judith Omalley-Ford, Andre Oracki, John O’Sullivan, John Pak, Raymol Pallath, George Panaretos, Ing T Pang, Chandra Panicker, Earl Pantillano, Naresh Parajuli, Mala Pasupuleti, Praful Patel, Veena Patel, Rodney Pearce, Jinxin Peng, Benedict Ponti, Anthony John Portelli, Jane Potter, Tonse Prasad, Cameron Profitt, Jane Purdie, Dick Quan, Mohammad Rafiq, Mohammed Rahman, Neil Rajanayagam, Surjit Rana, Jey Randhawa, Yuri Raymon, Roberto Regozo, Kiro Ristevski, Christopher Roach, Gary Roberts, David Rockman, Bede Rogers, Caroline Rogers, Fiona Ronsberg, Erica Rowley, Paul Russell, Debbie Saw, Blacelina Sayo, Tim Schindler, Amirtharajan Selvakumar, Ann Darian Sharp, Jan Sheringham, Matthew Shields, Suranahalli Shivaprakash, Vince Signoriello, Kanwal Singh, Promica Singh-Panwar, Thakur Singh-Panwar, Malathy Sivapalan, Michelle Skellern, Vasa Skorupanovic, Susan Smythe, Michael Sorani, Andrew Springfield, Judith Spurling, Nagappan Srigandan, Mahalingam Srinivasan, Philip Stowell, Darko Sulava, PHilip Sutherland, Mohammad Taghisadeh, Ven Tan, Janine Teasdale, Alex Terris, Esther Tham, Terrence Than, Dunstan Thompson, Liping Tian, Albert Tran, Jacobus Van Staden, Sarita Vasram, Eva Velickovski, Gemma Victorino, Girolano Vinci, Stefan Visagie, Emanuel Vlahakis, David Voon, Steven Wade, Arief Wahab, Joseph Waks, David Alan Wallace, Lynette Wallace, Michelle Walsh, Malathi Waran, Caroline Warne, Bahgat Wassif, Robert Welsh, Gerald Westhoff, Rodney Willett, Jennifer Williams, Sheena Wilmot, Susan Wong, Guy Wright, Joseph Yam, Suellen Young, Leonard Yudeiken, George Zankov, Robert Zubeshaw, and Michele Zwi.</text>
+    </sentence>
+    <sentence charOffset="52860-53171" id="S231" selection="">
+        <text xml:space="preserve">Contributors: The VIPER-BP study was designed by Baker IDI Heart and Diabetes Institute (SS, MJC, and GLJ) in consultation with a scientific advisory board (CA, JA, AB, LMB, FJdeL, MH, JH, HK, MN, MS, and NPS) who received remuneration (MH excepted) from Novartis Pharmaceuticals Australia as study consultants.</text>
+    </sentence>
+    <sentence charOffset="53172-53268" id="S232" selection="">
+        <text xml:space="preserve">SS prepared the first draft of the manuscript, with edits and revisions provided by all authors.</text>
+    </sentence>
+    <sentence charOffset="53269-53371" id="S233" selection="">
+        <text xml:space="preserve">All authors had full access to all the data and read and approved the final version of the manuscript.</text>
+    </sentence>
+    <sentence charOffset="53372-53467" id="S234" selection="">
+        <text xml:space="preserve">All authors had final responsibility for the decision to submit the manuscript for publication.</text>
+    </sentence>
+    <sentence charOffset="53468-53517" id="S235" selection="">
+        <text xml:space="preserve">SS, MJC, and GLJ act as guarantors for the study.</text>
+    </sentence>
+    <sentence charOffset="53546-53626" id="S236" selection="25">
+        <text xml:space="preserve">Funding: The VIPER-BP study was sponsored by Novartis Pharmaceuticals Australia.</text>
+    </sentence>
+    <sentence charOffset="53627-53756" id="S237" selection="">
+        <text xml:space="preserve">The sponsors participated in discussions on the design and conduct of the study and provided logistical support during the trial.</text>
+    </sentence>
+    <sentence charOffset="53757-54064" id="S238" selection="25">
+        <text xml:space="preserve">The study statistician (Adrian Esterman, University of South Australia) independently generated analyses on behalf of the other members of the clinical safety and efficacy committee (Colin Johnston, MN, Richard Gerraty) who received remuneration from Novartis Pharmaceuticals Australia as study consultants.</text>
+    </sentence>
+    <sentence charOffset="54065-54129" id="S239" selection="">
+        <text xml:space="preserve">The study investigators and sponsor jointly assessed study data.</text>
+    </sentence>
+    <sentence charOffset="54130-54245" id="S240" selection="">
+        <text xml:space="preserve">All the investigators received remuneration from Baker IDI for the research component of clinical study activities.</text>
+    </sentence>
+    <sentence charOffset="54274-54628" id="S241" selection="">
+        <text xml:space="preserve">Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare that all authors had a form of support (as described above) and specific relationships (as described above) with Novartis Pharmaceuticals Australia for the submitted work.</text>
+    </sentence>
+    <sentence charOffset="54629-54725" id="S242" selection="25">
+        <text xml:space="preserve">SS, GLJ, and MJC are supported by the National Health and Medical Research Council of Australia.</text>
+    </sentence>
+    <sentence charOffset="54726-54827" id="S243" selection="">
+        <text xml:space="preserve">VIPER-BP study was supported by the Victoria government’s operational infrastructure support program.</text>
+    </sentence>
+    <sentence charOffset="54856-55090" id="S244" selection="">
+        <text xml:space="preserve">Ethical approval: This study was approved by the Alfred Human Research Ethics Committee (Melbourne Australia; Project No 358/08) and the Royal Australian College of General Practitioners (Melbourne Australia; Project No NREEC 09/006).</text>
+    </sentence>
+    <sentence charOffset="55119-55243" id="S245" selection="">
+        <text xml:space="preserve">Data sharing: From January 2014, study data will be available from the corresponding author (simon.stewart@bakeridi.edu.au).</text>
+    </sentence>
+    <sentence charOffset="55272-55304" id="S246" selection="">
+        <text xml:space="preserve">Cite this as: BMJ 2012;345:e7156</text>
+    </sentence>
+    <section textSpan="0-135" title="Title" titleSpan="0-5"/>
+    <section textSpan="136-3526" title="Abstract" titleSpan="136-144"/>
+    <section textSpan="3532-7261" title="Introduction" titleSpan="3539-3551"/>
+    <section textSpan="7266-18196" title="Methods" titleSpan="7273-7280">
+        <section textSpan="7833-8775" title="Participants" titleSpan="7842-7854"/>
+        <section textSpan="8782-10098" title="Study design" titleSpan="8791-8803"/>
+        <section textSpan="10105-11185" title="Study entry" titleSpan="10114-10125"/>
+        <section textSpan="11192-12350" title="Blood pressure measurement" titleSpan="11201-11227"/>
+        <section textSpan="12357-13118" title="Usual care" titleSpan="12366-12376"/>
+        <section textSpan="13125-14135" title="Study intervention" titleSpan="13134-13152"/>
+        <section textSpan="14142-15618" title="Study endpoints" titleSpan="14151-14166"/>
+        <section textSpan="15625-16533" title="Study power" titleSpan="15634-15645"/>
+        <section textSpan="16540-18191" title="Statistical analyses" titleSpan="16549-16569"/>
+    </section>
+    <section textSpan="18201-30228" title="Results" titleSpan="18208-18215">
+        <section textSpan="21221-23577" title="Patterns of blood pressure management" titleSpan="21230-21267"/>
+        <section textSpan="23584-24543" title="Primary endpoint: individualised blood pressure control" titleSpan="23593-23648"/>
+        <section textSpan="24550-27081" title="Secondary endpoint: change in blood pressure" titleSpan="24559-24603"/>
+        <section textSpan="27088-27891" title="Change in absolute cardiovascular risk" titleSpan="27097-27135"/>
+        <section textSpan="27898-30223" title="Safety profile" titleSpan="27907-27921"/>
+    </section>
+    <section textSpan="30233-48133" title="Discussion" titleSpan="30240-30250">
+        <section textSpan="32745-37405" title="Strengths and limitations of this study" titleSpan="32754-32793"/>
+        <section textSpan="37412-41079" title="Supporting the evidence in favour of structured primary care" titleSpan="37421-37481"/>
+        <section textSpan="41086-44974" title="Clinical implications" titleSpan="41095-41116"/>
+        <section textSpan="44981-48128" title="Future challenges" titleSpan="44990-45007">
+            <section textSpan="46722-47357" title="What is already known on this topic" titleSpan="46735-46770"/>
+            <section textSpan="47368-48112" title="What this study adds" titleSpan="47381-47401"/>
+        </section>
+    </section>
+    <section textSpan="48138-55310" title="Back matter" titleSpan="48138-48149"/>
+</document>

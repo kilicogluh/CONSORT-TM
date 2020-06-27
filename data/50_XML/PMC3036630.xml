@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3036630" note="">
+    <text xml:space="preserve">Title
+Airway inflammation and mannitol challenge test in COPD
+Abstract
+
+        
+          Background
+          Eosinophilic airway inflammation has successfully been used to tailor anti-inflammatory therapy in chronic obstructive pulmonary disease (COPD). Airway hyperresponsiveness (AHR) by indirect challenges is associated with airway inflammation. We hypothesized that AHR to inhaled mannitol captures eosinophilia in induced sputum in COPD.
+        
+        
+          Methods
+          Twenty-eight patients (age 58 ± 7.8 yr, packyears 40 ± 15.5, post-bronchodilator FEV1 77 ± 14.0%predicted, no inhaled steroids ≥4 wks) with mild-moderate COPD (GOLD I-II) completed two randomized visits with hypertonic saline-induced sputum and mannitol challenge (including sputum collection). AHR to mannitol was expressed as response-dose-ratio (RDR) and related to cell counts, ECP, MPO and IL-8 levels in sputum.
+        
+        
+          Results
+          There was a positive correlation between RDR to mannitol and eosinophil numbers (r = 0.47, p = 0.03) and level of IL-8 (r = 0.46, p = 0.04) in hypertonic saline-induced sputum. Furthermore, significant correlations were found between RDR and eosinophil numbers (r = 0.71, p = 0.001), level of ECP (r = 0.72, p = 0.001), IL-8 (r = 0.57, p = 0.015) and MPO (r = 0.64, p = 0.007) in sputum collected after mannitol challenge. ROC-curves showed 60% sensitivity and 100% specificity of RDR for &gt;2.5% eosinophils in mannitol-induced sputum.
+        
+        
+          Conclusions
+          In mild-moderate COPD mannitol hyperresponsiveness is associated with biomarkers of airway inflammation. The high specificity of mannitol challenge suggests that the test is particularly suitable to exclude eosinophilic airways inflammation, which may facilitate individualized treatment in COPD.
+        
+        
+          Trial registration
+          Netherlands Trial Register (NTR): NTR1283
+        
+      
+
+
+    
+      Introduction
+      Chronic obstructive pulmonary disease (COPD) is an inflammatory airway disease characterized by non-reversible airflow limitation[1]. Airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gasses. The treatment options in COPD are still limited and current efforts focus on therapy targeted to particular phenotypes of the disease[1]. A non-invasive, standardised way to measure and monitor airway inflammation in COPD is hypertonic saline-induced sputum[2]. Analysis of induced sputum provides information about cell counts (eosinophils, neutrophils, lymphocytes, macrophages) and cell activity by mediator concentrations (e.g. ECP, MPO and IL-8).
+      In COPD patients the identification of sputum eosinophilia has shown to be of clinical value as it predicts a response to corticosteroids[3-5]. Furthermore, guiding inhaled steroid therapy by sputum eosinophil counts leads to a reduction in exacerbations in COPD, without an increase in steroid dose[6]. These observations demonstrate the value of identifying inflammatory subphenotypes in the treatment of COPD. However, the application of sputum analysis is somewhat limited by the requirement of lab facilities and the not-directly available results. Therefore, there is a need for adequate surrogate markers of airway inflammation in COPD.
+      Airway hyperresponsiveness (AHR) may serve as a surrogate measure of airway inflammation, since it is associated with the presence of inflammatory cells and release of mediators in the airways[7]. In particular, this holds for indirect challenges, amongst which dry powder mannitol challenge is relatively easy to apply[8,9]. Local mannitol deposition results in an osmotic change, likely to induce the release of mediators from inflammatory cells in the airways[10]. Studies in asthma showed that AHR to mannitol is indeed related to the degree of eosinophilic airway inflammation and is sensitive to treatment with inhaled corticosteroids[11-13]. Interestingly, a proof of concept study demonstrated that mannitol challenge might also be useful in identifying COPD patients who will most likely benefit from inhaled corticosteroids[14]. This may suggest that AHR to mannitol identifies the degree of eosinophilic inflammation in COPD.
+      We postulated that AHR to mannitol captures eosinophilic airway inflammation in adults with mild to moderate COPD. Our aim was to test this hypothesis by examining the relationship between AHR to mannitol and markers of inflammation in hypertonic saline-induced sputum, blood and exhaled air. As secondary aim, we investigated whether similar relations can be observed when using spontaneously produced sputum during or directly after the mannitol challenge itself. Finally, we constructed receiver operating characteristic (ROC) curves using AHR against sputum eosinophilia in COPD.
+    
+    
+      Methods
+      
+        Patients
+        Thirty-two patients with mild to moderately severe COPD were included from two respiratory clinics in Amsterdam, The Netherlands. The definition of COPD was based on GOLD[1]. Inclusion criteria were symptoms of dyspnea, chronic cough or sputum production, current or ex-smoker with at least 20 packyears of smoking history, postbronchodilator FEV1 &gt;1.5 liter and &gt;50% of predicted value, FEV1/FVC &lt;0.70 and clinically stable for ≥ 4 weeks prior to recruitment. Exclusion criteria were (inhaled) steroid therapy or antibiotic treatment or exacerbation or chest infection ≤ 4 weeks prior to recruitment, treatment with β-blockers, respiratory disease other than COPD including known asthma or allergic rhinitis and contra-indications for challenge testing according to international guidelines[15]. Patients were asked to withhold strenuous exercise and smoking for 6 hrs and eating for 2 hrs; caffeine and short-acting bronchodilators for 8 hrs; long-acting bronchodilators for 48 hrs; short-acting anti-cholinergics for 24 hrs; long-acting anti-cholinergics and anti-histamines for 72 hrs; and leukotriene antagonists for 4 days prior to the mannitol challenge.
+        The study was approved by the Hospital Medical Ethics Committee and all patients gave their written informed consent. The study was registered in the Netherlands trial register under NTR 1283, was designed, performed and analysed by the authors, and was not sponsored by others than the Academic Medical Centre, Amsterdam, The Netherlands itself.
+      
+      
+        Study design
+        The study had a cross-sectional design with two studies days comprising randomized challenges with hypertonic saline and mannitol (figure 1). At a separate screening visit, inclusion and exclusion criteria were examined, postbronchodilator (400 μg salbutamol) spirometry was performed and diffusion capacity was measured.
+        Figure 1 Study design.
+        The sequence of the two study visits was randomized [interval (median (range)):7(7-15) days]. On one day sputum was induced by hypertonic saline and a venous blood sample was obtained. On the other day exhaled nitric oxide was measured first, followed by assessment of atopy and mannitol challenge testing.
+      
+      
+        Measurements
+        
+          Lung function
+          Spirometry (MasterscreenPneumo; Jaeger; Würzburg, Germany) was performed by a trained respiratory technician according to the latest recommendations[16]. Diffusion capacity of the lung for carbon monoxide (DL, CO) was measured according to the recommendations using the single breath method and was corrected for haemoglobin[17].
+        
+        
+          Mannitol challenge
+          Mannitol challenge was performed using a commercially available kit (Pharmaxis Ltd; Sydney, Australia) as described by Anderson et al[8]. Patients inhaled sequential doses of 5, 10, 20, 40, 80, 160, 160 and 160 mg of mannitol via the inhaler. The test stopped when 15% fall in FEV1 was achieved or the cumulative dose of 635 mg had been administered. Response-dose-ratio (RDR) was calculated as the%fall in FEV1 at the last dose, divided by the total cumulative dose mannitol (%fall.mg) in milligrams administered[18].
+          If a patient had to cough spontaneously during the mannitol challenge, he or she was asked to expectorate. This sputum was labeled as mannitol-induced sputum.
+        
+        
+          Sputum induction and processing
+          Prior to sputum induction, patients inhaled 200 μg salbutamol. Sputum was induced by inhalation of NaCl 4.5% during 3 × 5 min intervals[19]. This sputum was labeled as induced sputum.
+          Whole sputum samples were processed according to a protocol that has been validated in our laboratory[20]. Differential cell counts were expressed as the percentage of non-squamous cells. Absolute cell numbers were calculated as (% cell × total cell count)/sputum weight. Sputum samples containing &gt;80% non-squamous cells were excluded from analysis.
+          All sputum cell counts were performed by one experienced and qualified technician blinded to the clinical details. As an extra control 10% of the samples were analyzed by a second technician.
+        
+        
+          Analysis of soluble markers in sputum supernatant
+          Levels of eosinophil cationic protein (ECP; detection limit &gt;60 pg/ml), myeloperoxidase (MPO; detection limit &gt;1.5 ng/ml), interleukin-8 (IL-8; detection limit &gt;19.1 pg/ml) and alpha-2-macroglobulin (α2M; detection limit &gt;2.1 mg/ml) were measured by enzyme-linked immunosorbent assays (ELISA)[21,22].
+        
+        
+          Exhaled Nitric Oxide (FeNO)
+          FeNO was measured with a portable rapid-response chemoluminescent analyser (flow rate 50 mL/s; NIOX System, Aerocrine, Sweden) according to recent guidelines[23].
+        
+        
+          Statistical analysis
+          The relationship between AHR to mannitol (RDR) and the markers of airway inflammation were analyzed using Pearson's correlation coefficient (rp). Non-normally distributed data were log-transformed for further analysis. If no cells were counted, a value of 0.1 was taken before log-transformation. Receiver operating characteristic (ROC) curves were constructed, using RDR against eosinophilic vs non eosinophilic COPD (threshold 2.5% sputum eosinophils). Wilcoxon signed rank test and Bland-Altman analysis was used to compare cell counts of the two sputum samples.
+          A sample size estimation showed that the detectable value of the correlation (r) under the alternative hypothesis with a sample of 23 patients (n) is between 1-0.55 (power = 0.808; alpha = 0.05). Therefore, thirty-two patients were recruited taking into account an expected 10% drop-out rate and a 20% probability of missing or non-valid data.
+        
+      
+    
+    
+      Results
+      Twenty-eight of the 32 patients completed the study (table 1). Four patients dropped out for reasons of: non-compliance with medication restrictions (n = 1), lost to follow up (n = 1), FEV1 &lt;1.2 litre prior to challenge (n = 1) and inability to perform all techniques necessary to measure lung function (n = 1). Two out of 28 mannitol challenges were not completed for reasons of coughing (n = 1) and tiredness (n = 1), but these patients were included since this was not an exclusion criterion. Hypertonic saline-induced sputum was collected in 28 patients and mannitol-induced sputum in 21 patients.
+      Table 1 Patient characteristics I
+      
+        Correlation of inflammatory markers in hypertonic saline-induced sputum and blood with AHR to mannitol
+        The baseline values for airway hyperresponsiveness and inflammatory markers are presented in table 2. Five hypertonic saline-induced sputum samples were excluded from analyses as a result of &gt;80% non-squamous cells on differential cell counts. There was a significant positive correlation between the degree of AHR to mannitol (RDR mannitol) and eosinophil counts (r = 0.47, p = 0.03, figure 2) per gram hypertonic saline-induced sputum and with IL-8 levels (r = 0.46, p = 0.04). The correlation between RDR mannitol and blood eosinophils was borderline significant (r = 0.38, p = 0.06, figure 2). No other correlations between RDR mannitol and hypertonic saline-induced sputum parameters were found (Table 3). In addition, a significant, positive association between RDR mannitol and the level of FeNO (r = 0.67, p = 0.0002, figure 2) was observed. When using PD15 to mannitol, the correlation coefficients with sputum and blood eosinophils counts were -0.38 (p = 0.09) and -0.43 (p = 0.03), respectively.
+        Table 2 Patient characteristics II- Airway hyperresponsiveness (AHR) and airway inflammation
+        Table 3 Correlation between AHR to mannitol expressed by the response-dose ratio (RDR) and markers of airway inflammation
+        Figure 2 Correlation AHR to mannitol and eosinophils in hypertonic saline-induced sputum (left), blood eosinophils (middle) and fraction exhaled nitric oxide (right).
+      
+      
+        Mannitol- induced sputum markers
+        Two out of 21 sputum samples were excluded from analyses as a result of &gt;80% non-squamous cells on differential cell counts. There were strongly significant positive correlations between RDR mannitol and the absolute and relative numbers of eosinophils and the level of ECP in mannitol-induced sputum (r = 0.71, p = 0.001; r = 0.60, p = 0.008; r = 0.72, p = 0.001, respectively) (Figure 3). In addition, RDR mannitol was related to the levels IL-8 (r = 0.57, p = 0.015) and MPO (r = 0.64, p = 0.007) (Table 3).
+        Figure 3 Correlation AHR to mannitol and the absolute (left) and relative (middle) amount of eosinophils and ECP (right) in mannitol- induced sputum.
+        Inflammatory markers as obtained by hypertonic- and mannitol challenge were generally well correlated (Table 4). The limits of agreement by Bland and Altman analyses for eosinophil counts and log ECP were -5.7-8.6% and -0.73-0.72, respectively.
+        Table 4 Induced sputum total and differential cell count and mediators when collected with hypertonic saline or mannitol (18 paired samples)
+      
+      
+        ROC curves
+        The overall accuracy of RDR to mannitol for the assessment of eosinophilic or non eosinophilic COPD, described as the area under the ROC curve (Figure 4), was 67% (95% CI, 33.6 to 97.5%) for hypertonic saline- and 80% (95% CI, 47.7 to 112.3%) for mannitol-induced sputum. At RDR of 0.08%fall.mg the sensitivity and specificity for &gt;2.5% eosinophils in hypertonic saline-induced sputum was 50% (95% CI, 11.8 to 88.2%) and 93% (95% CI, 68 to 99.8%), respectively. For mannitol-induced sputum the sensitivity and specificity was 60% (95% CI, 14.7 to 94.7%) and 100% (95% CI, 75.3 to 100%) respectively (Figure 4). When using a cut-point of 2.0% eosinophils we observed sensitivities of 44% (95% CI, 13.7 to 78.8%) and 43% (95% CI, 9.0 to 81.6%) with specificities of 100% (95% CI, 73.5 to 100.0%) and 100% (95% CI, 71.5 to 100%) for hypertonic saline- and mannitol- induced sputum, respectively.
+        Figure 4 ROC curve. The curve of sensitivity against 100-specificity is based on using reactivity to mannitol, given as RDR values (%fall.mg), to predict eosinophilic COPD (&gt;2.5%) in hypertonic saline (left) and mannitol-induced (right) sputum. Dotted line: line of identity.
+      
+    
+    
+      Discussion
+      In this group of mild to moderate COPD patients, AHR to inhaled mannitol was consistently associated with eosinophil counts in hypertonic saline- as well as mannitol-induced sputum. In addition, we observed associations between AHR to mannitol and soluble markers of inflammation in sputum. Our results suggest that mannitol challenge identifies inflammatory subphenotypes in COPD, in particular those patients without eosinophilic inflammation due to the high specificity of the test. This may facilitate individualized treatment in COPD.
+      To our knowledge, this is the first study assessing the relationship between airway hyperresponsiveness to inhaled mannitol and markers of airway inflammation in sputum and exhaled air in patients with COPD. These observations extend previous findings in COPD using adenosine 5'-monophosphate (AMP), in which a correlation between AHR to AMP and eosinophils in sputum was observed[24]. Interestingly, a similar correlation between RDR to mannitol and sputum eosinophils was recently reported in patients with asthma, also showing absence of eosinophilia in patients without mannitol hyperresponsiveness[13]. Hence, mannitol challenge appears to provide valuable information on the inflammatory profile in both patients with COPD and asthma.
+      In our study, particular attention was paid to methodological aspects such as selection of COPD patients, design and methods. The patients were derived from a clinical population rather than an epidemiological one, in order to strengthen the applicability of our findings. All patients were well characterised by using subjective and objective criteria. This included the presence of symptoms, fixed airway obstruction and smoking history. The full range in sputum eosinophils counts was 0.1 to 7.4%, which is similar to previous studies in COPD[3-5]. To exclude any confounding effects of inhaled corticosteroids on mannitol challenge, the patients who used inhaled corticosteroids stopped this medication for 4 weeks[9,11]. In order to answer the research question accurately, we performed mannitol challenge and sputum induction on separate days. In addition, we examined sputum expectorated after the mannitol itself, which confirmed our results. Furthermore, as inflammatory markers we used both, the presence of inflammatory cells and markers of cell activation. This provided consistent associations.
+      Nevertheless, our study has limitations. First, we could not obtain adequate sputum samples in all patients at all time points. Even though the power of the study was adequate to address the primary objectives, it may not have been adequate to examine our secondary objective. Second, we can not exclude that our COPD group included patients who also had asthma. We excluded those with a previous history of asthma, but this may not have sufficed. However, all patients had a smoking history, fixed airflow limitation, met the COPD GOLD criteria, and were diagnosed and treated as COPD patients. Third, the patients needed to stop the inhaled corticosteroids in order to examine unbiased disease markers. Therefore, the test performance cannot be generalized to COPD patients on inhaled steroids. This will require a separate study. Finally, we did not include a second mannitol challenge for examining reproducibility of our results, which is a limitation of our design.
+      How can we interpret these results? Mannitol is an osmotic stimulus that causes airway narrowing by release of bronchoconstrictor mediators such as leukotrienes, prostaglandins and histamine[25,26]. The source of these mediators is likely to be mast cells and eosinophils in the airways as both these cell types release mediators in vitro in response to mannitol[10,11,27]. Mast cells and eosinophils are not unimportant in COPD and may contribute to the fluctuations of airways obstruction as observed e.g. during exacerbations[28-31]. We did not observe associations of mannitol responsiveness with neutrophil counts in sputum or blood, but did found significant correlations with sputum IL-8 and MPO. This may suggest that epithelial cell and neutrophil activity are also involved in determining the airway narrowing to inhaled mannitol in COPD. Interestingly, mannitol responsiveness was more strongly associated with FeNO than with sputum eosinophils. However, we did not find a significant association between the latter two parameters. This is in keeping with the data by Siva et al. [6]. Our results suggest that mannitol responsiveness is a better marker of eosinophilic inflammation than FeNO in COPD.
+      Notably, we observed that most COPD patients produced adequate sputum samples during the mannitol challenge. This occurred even in absence of encouraging the patients to expectorate. Therefore, the success rate of obtaining mannitol-induced sputum may well be improved by adjusting the standard operating procedure of the test. Our findings extend a recent study in asthma, showing adequate sputum samples after mannitol challenge[32]. Inhaled mannitol changes osmolarity and reduces viscoelasticity, surface tension, contact angle and the solids content of sputum[33]. This may explain why 75% of the patients gave up sputum during mannitol challenge. Our results suggest that mannitol activated eosinophils, neutrophils and epithelial cells. Hence, even though AHR to mannitol was associated with eosinophilic airway inflammation, it is likely to be a more pleiotropic stimulus within the airways.
+      What are the clinical implications of our study? Eosinophilic airway inflammation predicts the response of COPD patients to systemic and inhaled corticosteroids[4,5]. In addition, inhaled steroid therapy guided by sputum eosinophils reduces exacerbation rate in patients with COPD[6]. Our results suggest that mannitol challenge can identify COPD patients without eosinophilic airway inflammation, who not likely to benefit from inhaled steroid therapy[6]. This subphenotype of patients cannot be distinguished from other patients with COPD on clinical grounds or lung function criteria. Therefore, mannitol challenge may qualify as a feasible alternative in the monitoring of anti-inflammatory therapy in COPD. The high specificity (100%) in combination with limited sensitivity indicates that mannitol responsiveness is particularly suitable to exclude sputum eosinophilia in COPD. Indeed, inhaled steroids appear to be ineffective in COPD patients with the lowest responsiveness to mannitol[14]. Therefore, mannitol responsiveness may support decisions to refrain from inhaled steroid treatment, thereby potentially preventing overtreatment of COPD. This requires a randomized controlled study in COPD comparing a treatment strategy based on AHR to mannitol with the currently recommended treatment strategy based on clinical markers only. It remains to be established whether mannitol challenge can also be an outcome measure of the efficacy of steroids in COPD, as has been shown in asthma[12]. Finally, our data suggest that the assessment of AHR and airway inflammation in COPD can be combined in a single test. This would have large practical advantages, not only in clinical research, but also regarding the guidance and monitoring of anti-inflammatory therapy in clinical practice.
+    
+    
+      Conclusions
+      We conclude that airway responsiveness to mannitol can be used to rule out eosinophilic airway inflammation in patients with mild to moderate COPD who are not treated with inhaled corticosteroids. These finding suggests that mannitol challenge is a candidate for the guidance and monitoring of individualized, anti-inflammatory therapy in COPD, as an alternative to sputum eosinophils.
+    
+    
+      List of abbreviations
+      AHR: airway hyperresponsiveness; ECP: eosinophil cationic protein; FeNO: fraction exhaled nitric oxide; FEV1: forced expiratory volume in one second; FEV1/FVC: forced vital capacity divided by the forced expiratory volume in one second; FVC: forced vital capacity; ICS: inhaled corticosteroids; IL-8: interleukin-8; MPO: myeloperoxidase; PD15: provocation dose to cause a fall in FEV1 &gt;15%; RDR: response dose ratio; ROC: receiver operating characteristic.
+    
+    
+      Competing interests
+      The authors declare that they have no competing interests.
+    
+    
+      Authors' contributions
+      SdN was the main author of the paper and developed the study design and subject recruitment, collected study data and performed statistical analysis. All other authors contributed significantly to the design of the study, the collection and assessment of clinical data and development of this paper. All authors contributed significantly to the development of the manuscript and all have seen and approved the final version and take responsibility for the content.
+    
+  
+
+Back matter
+
+      Acknowledgements
+      We would like to thank the participants in the study and Tamara Dekker for determining the inflammatory parameters. This study was financially supported by the Academic Medical Centre, Amsterdam, without external sponsor.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-61" id="S2" selection="">
+        <text xml:space="preserve">Airway inflammation and mannitol challenge test in COPD</text>
+    </sentence>
+    <sentence charOffset="62-70" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="91-101" id="S4" selection="1b">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="112-256" id="S5" selection="">
+        <text xml:space="preserve">Eosinophilic airway inflammation has successfully been used to tailor anti-inflammatory therapy in chronic obstructive pulmonary disease (COPD).</text>
+    </sentence>
+    <sentence charOffset="257-352" id="S6" selection="">
+        <text xml:space="preserve">Airway hyperresponsiveness (AHR) by indirect challenges is associated with airway inflammation.</text>
+    </sentence>
+    <sentence charOffset="353-446" id="S7" selection="">
+        <text xml:space="preserve">We hypothesized that AHR to inhaled mannitol captures eosinophilia in induced sputum in COPD.</text>
+    </sentence>
+    <sentence charOffset="475-482" id="S8" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="493-787" id="S9" selection="">
+        <text xml:space="preserve">Twenty-eight patients (age 58 ± 7.8 yr, packyears 40 ± 15.5, post-bronchodilator FEV1 77 ± 14.0%predicted, no inhaled steroids ≥4 wks) with mild-moderate COPD (GOLD I-II) completed two randomized visits with hypertonic saline-induced sputum and mannitol challenge (including sputum collection).</text>
+    </sentence>
+    <sentence charOffset="788-910" id="S10" selection="">
+        <text xml:space="preserve">AHR to mannitol was expressed as response-dose-ratio (RDR) and related to cell counts, ECP, MPO and IL-8 levels in sputum.</text>
+    </sentence>
+    <sentence charOffset="939-946" id="S11" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="957-1133" id="S12" selection="">
+        <text xml:space="preserve">There was a positive correlation between RDR to mannitol and eosinophil numbers (r = 0.47, p = 0.03) and level of IL-8 (r = 0.46, p = 0.04) in hypertonic saline-induced sputum.</text>
+    </sentence>
+    <sentence charOffset="1134-1379" id="S13" selection="">
+        <text xml:space="preserve">Furthermore, significant correlations were found between RDR and eosinophil numbers (r = 0.71, p = 0.001), level of ECP (r = 0.72, p = 0.001), IL-8 (r = 0.57, p = 0.015) and MPO (r = 0.64, p = 0.007) in sputum collected after mannitol challenge.</text>
+    </sentence>
+    <sentence charOffset="1380-1491" id="S14" selection="">
+        <text xml:space="preserve">ROC-curves showed 60% sensitivity and 100% specificity of RDR for &gt;2.5% eosinophils in mannitol-induced sputum.</text>
+    </sentence>
+    <sentence charOffset="1520-1531" id="S15" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="1542-1646" id="S16" selection="">
+        <text xml:space="preserve">In mild-moderate COPD mannitol hyperresponsiveness is associated with biomarkers of airway inflammation.</text>
+    </sentence>
+    <sentence charOffset="1647-1838" id="S17" selection="">
+        <text xml:space="preserve">The high specificity of mannitol challenge suggests that the test is particularly suitable to exclude eosinophilic airways inflammation, which may facilitate individualized treatment in COPD.</text>
+    </sentence>
+    <sentence charOffset="1867-1885" id="S18" selection="">
+        <text xml:space="preserve">Trial registration</text>
+    </sentence>
+    <sentence charOffset="1896-1937" id="S19" selection="23">
+        <text xml:space="preserve">Netherlands Trial Register (NTR): NTR1283</text>
+    </sentence>
+    <sentence charOffset="1967-1979" id="S20">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="1986-2119" id="S21" selection="">
+        <text xml:space="preserve">Chronic obstructive pulmonary disease (COPD) is an inflammatory airway disease characterized by non-reversible airflow limitation[1].</text>
+    </sentence>
+    <sentence charOffset="2120-2260" id="S22" selection="">
+        <text xml:space="preserve">Airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gasses.</text>
+    </sentence>
+    <sentence charOffset="2261-2398" id="S23" selection="">
+        <text xml:space="preserve">The treatment options in COPD are still limited and current efforts focus on therapy targeted to particular phenotypes of the disease[1].</text>
+    </sentence>
+    <sentence charOffset="2399-2522" id="S24" selection="">
+        <text xml:space="preserve">A non-invasive, standardised way to measure and monitor airway inflammation in COPD is hypertonic saline-induced sputum[2].</text>
+    </sentence>
+    <sentence charOffset="2523-2712" id="S25" selection="">
+        <text xml:space="preserve">Analysis of induced sputum provides information about cell counts (eosinophils, neutrophils, lymphocytes, macrophages) and cell activity by mediator concentrations (e.g. ECP, MPO and IL-8).</text>
+    </sentence>
+    <sentence charOffset="2719-2862" id="S26" selection="">
+        <text xml:space="preserve">In COPD patients the identification of sputum eosinophilia has shown to be of clinical value as it predicts a response to corticosteroids[3-5].</text>
+    </sentence>
+    <sentence charOffset="2863-3022" id="S27" selection="">
+        <text xml:space="preserve">Furthermore, guiding inhaled steroid therapy by sputum eosinophil counts leads to a reduction in exacerbations in COPD, without an increase in steroid dose[6].</text>
+    </sentence>
+    <sentence charOffset="3023-3131" id="S28" selection="">
+        <text xml:space="preserve">These observations demonstrate the value of identifying inflammatory subphenotypes in the treatment of COPD.</text>
+    </sentence>
+    <sentence charOffset="3132-3272" id="S29" selection="">
+        <text xml:space="preserve">However, the application of sputum analysis is somewhat limited by the requirement of lab facilities and the not-directly available results.</text>
+    </sentence>
+    <sentence charOffset="3273-3362" id="S30" selection="2a">
+        <text xml:space="preserve">Therefore, there is a need for adequate surrogate markers of airway inflammation in COPD.</text>
+    </sentence>
+    <sentence charOffset="3369-3565" id="S31" selection="">
+        <text xml:space="preserve">Airway hyperresponsiveness (AHR) may serve as a surrogate measure of airway inflammation, since it is associated with the presence of inflammatory cells and release of mediators in the airways[7].</text>
+    </sentence>
+    <sentence charOffset="3566-3694" id="S32" selection="">
+        <text xml:space="preserve">In particular, this holds for indirect challenges, amongst which dry powder mannitol challenge is relatively easy to apply[8,9].</text>
+    </sentence>
+    <sentence charOffset="3695-3836" id="S33" selection="">
+        <text xml:space="preserve">Local mannitol deposition results in an osmotic change, likely to induce the release of mediators from inflammatory cells in the airways[10].</text>
+    </sentence>
+    <sentence charOffset="3837-4017" id="S34" selection="2a">
+        <text xml:space="preserve">Studies in asthma showed that AHR to mannitol is indeed related to the degree of eosinophilic airway inflammation and is sensitive to treatment with inhaled corticosteroids[11-13].</text>
+    </sentence>
+    <sentence charOffset="4018-4207" id="S35" selection="">
+        <text xml:space="preserve">Interestingly, a proof of concept study demonstrated that mannitol challenge might also be useful in identifying COPD patients who will most likely benefit from inhaled corticosteroids[14].</text>
+    </sentence>
+    <sentence charOffset="4208-4305" id="S36" selection="">
+        <text xml:space="preserve">This may suggest that AHR to mannitol identifies the degree of eosinophilic inflammation in COPD.</text>
+    </sentence>
+    <sentence charOffset="4312-4426" id="S37" selection="2b">
+        <text xml:space="preserve">We postulated that AHR to mannitol captures eosinophilic airway inflammation in adults with mild to moderate COPD.</text>
+    </sentence>
+    <sentence charOffset="4427-4604" id="S38" selection="2b">
+        <text xml:space="preserve">Our aim was to test this hypothesis by examining the relationship between AHR to mannitol and markers of inflammation in hypertonic saline-induced sputum, blood and exhaled air.</text>
+    </sentence>
+    <sentence charOffset="4605-4777" id="S39" selection="2b">
+        <text xml:space="preserve">As secondary aim, we investigated whether similar relations can be observed when using spontaneously produced sputum during or directly after the mannitol challenge itself.</text>
+    </sentence>
+    <sentence charOffset="4778-4895" id="S40" selection="">
+        <text xml:space="preserve">Finally, we constructed receiver operating characteristic (ROC) curves using AHR against sputum eosinophilia in COPD.</text>
+    </sentence>
+    <sentence charOffset="4912-4919" id="S41">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="4935-4943" id="S42" selection="">
+        <text xml:space="preserve">Patients</text>
+    </sentence>
+    <sentence charOffset="4952-5081" id="S43" selection="4b">
+        <text xml:space="preserve">Thirty-two patients with mild to moderately severe COPD were included from two respiratory clinics in Amsterdam, The Netherlands.</text>
+    </sentence>
+    <sentence charOffset="5082-5126" id="S44" selection="">
+        <text xml:space="preserve">The definition of COPD was based on GOLD[1].</text>
+    </sentence>
+    <sentence charOffset="5127-5412" id="S45" selection="4a">
+        <text xml:space="preserve">Inclusion criteria were symptoms of dyspnea, chronic cough or sputum production, current or ex-smoker with at least 20 packyears of smoking history, postbronchodilator FEV1 &gt;1.5 liter and &gt;50% of predicted value, FEV1/FVC &lt;0.70 and clinically stable for ≥ 4 weeks prior to recruitment.</text>
+    </sentence>
+    <sentence charOffset="5413-5748" id="S46" selection="4a">
+        <text xml:space="preserve">Exclusion criteria were (inhaled) steroid therapy or antibiotic treatment or exacerbation or chest infection ≤ 4 weeks prior to recruitment, treatment with β-blockers, respiratory disease other than COPD including known asthma or allergic rhinitis and contra-indications for challenge testing according to international guidelines[15].</text>
+    </sentence>
+    <sentence charOffset="5749-6113" id="S47" selection="">
+        <text xml:space="preserve">Patients were asked to withhold strenuous exercise and smoking for 6 hrs and eating for 2 hrs; caffeine and short-acting bronchodilators for 8 hrs; long-acting bronchodilators for 48 hrs; short-acting anti-cholinergics for 24 hrs; long-acting anti-cholinergics and anti-histamines for 72 hrs; and leukotriene antagonists for 4 days prior to the mannitol challenge.</text>
+    </sentence>
+    <sentence charOffset="6122-6239" id="S48" selection="">
+        <text xml:space="preserve">The study was approved by the Hospital Medical Ethics Committee and all patients gave their written informed consent.</text>
+    </sentence>
+    <sentence charOffset="6240-6468" id="S49" selection="23">
+        <text xml:space="preserve">The study was registered in the Netherlands trial register under NTR 1283, was designed, performed and analysed by the authors, and was not sponsored by others than the Academic Medical Centre, Amsterdam, The Netherlands itself.</text>
+    </sentence>
+    <sentence charOffset="6491-6503" id="S50" selection="">
+        <text xml:space="preserve">Study design</text>
+    </sentence>
+    <sentence charOffset="6512-6653" id="S51" selection="3a">
+        <text xml:space="preserve">The study had a cross-sectional design with two studies days comprising randomized challenges with hypertonic saline and mannitol (figure 1).</text>
+    </sentence>
+    <sentence charOffset="6654-6833" id="S52" selection="">
+        <text xml:space="preserve">At a separate screening visit, inclusion and exclusion criteria were examined, postbronchodilator (400 μg salbutamol) spirometry was performed and diffusion capacity was measured.</text>
+    </sentence>
+    <sentence charOffset="6842-6864" id="S53" selection="13a">
+        <text xml:space="preserve">Figure 1 Study design.</text>
+    </sentence>
+    <sentence charOffset="6873-6966" id="S54" selection="">
+        <text xml:space="preserve">The sequence of the two study visits was randomized [interval (median (range)):7(7-15) days].</text>
+    </sentence>
+    <sentence charOffset="6967-7057" id="S55" selection="5">
+        <text xml:space="preserve">On one day sputum was induced by hypertonic saline and a venous blood sample was obtained.</text>
+    </sentence>
+    <sentence charOffset="7058-7179" id="S56" selection="5">
+        <text xml:space="preserve">On the other day exhaled nitric oxide was measured first, followed by assessment of atopy and mannitol challenge testing.</text>
+    </sentence>
+    <sentence charOffset="7202-7214" id="S57" selection="">
+        <text xml:space="preserve">Measurements</text>
+    </sentence>
+    <sentence charOffset="7234-7247" id="S58" selection="">
+        <text xml:space="preserve">Lung function</text>
+    </sentence>
+    <sentence charOffset="7258-7411" id="S59" selection="6a">
+        <text xml:space="preserve">Spirometry (MasterscreenPneumo; Jaeger; Würzburg, Germany) was performed by a trained respiratory technician according to the latest recommendations[16].</text>
+    </sentence>
+    <sentence charOffset="7412-7587" id="S60" selection="6a">
+        <text xml:space="preserve">Diffusion capacity of the lung for carbon monoxide (DL, CO) was measured according to the recommendations using the single breath method and was corrected for haemoglobin[17].</text>
+    </sentence>
+    <sentence charOffset="7616-7634" id="S61" selection="">
+        <text xml:space="preserve">Mannitol challenge</text>
+    </sentence>
+    <sentence charOffset="7645-7782" id="S62" selection="5">
+        <text xml:space="preserve">Mannitol challenge was performed using a commercially available kit (Pharmaxis Ltd; Sydney, Australia) as described by Anderson et al[8].</text>
+    </sentence>
+    <sentence charOffset="7783-7887" id="S63" selection="5">
+        <text xml:space="preserve">Patients inhaled sequential doses of 5, 10, 20, 40, 80, 160, 160 and 160 mg of mannitol via the inhaler.</text>
+    </sentence>
+    <sentence charOffset="7888-7995" id="S64" selection="5">
+        <text xml:space="preserve">The test stopped when 15% fall in FEV1 was achieved or the cumulative dose of 635 mg had been administered.</text>
+    </sentence>
+    <sentence charOffset="7996-8163" id="S65" selection="6a">
+        <text xml:space="preserve">Response-dose-ratio (RDR) was calculated as the%fall in FEV1 at the last dose, divided by the total cumulative dose mannitol (%fall.mg) in milligrams administered[18].</text>
+    </sentence>
+    <sentence charOffset="8174-8280" id="S66" selection="5">
+        <text xml:space="preserve">If a patient had to cough spontaneously during the mannitol challenge, he or she was asked to expectorate.</text>
+    </sentence>
+    <sentence charOffset="8281-8332" id="S67" selection="5">
+        <text xml:space="preserve">This sputum was labeled as mannitol-induced sputum.</text>
+    </sentence>
+    <sentence charOffset="8361-8392" id="S68" selection="">
+        <text xml:space="preserve">Sputum induction and processing</text>
+    </sentence>
+    <sentence charOffset="8403-8465" id="S69" selection="5">
+        <text xml:space="preserve">Prior to sputum induction, patients inhaled 200 μg salbutamol.</text>
+    </sentence>
+    <sentence charOffset="8466-8543" id="S70" selection="5">
+        <text xml:space="preserve">Sputum was induced by inhalation of NaCl 4.5% during 3 × 5 min intervals[19].</text>
+    </sentence>
+    <sentence charOffset="8544-8586" id="S71" selection="5">
+        <text xml:space="preserve">This sputum was labeled as induced sputum.</text>
+    </sentence>
+    <sentence charOffset="8597-8703" id="S72" selection="6a">
+        <text xml:space="preserve">Whole sputum samples were processed according to a protocol that has been validated in our laboratory[20].</text>
+    </sentence>
+    <sentence charOffset="8704-8784" id="S73" selection="6a">
+        <text xml:space="preserve">Differential cell counts were expressed as the percentage of non-squamous cells.</text>
+    </sentence>
+    <sentence charOffset="8785-8868" id="S74" selection="6a">
+        <text xml:space="preserve">Absolute cell numbers were calculated as (% cell × total cell count)/sputum weight.</text>
+    </sentence>
+    <sentence charOffset="8869-8947" id="S75" selection="6a">
+        <text xml:space="preserve">Sputum samples containing &gt;80% non-squamous cells were excluded from analysis.</text>
+    </sentence>
+    <sentence charOffset="8958-9072" id="S76" selection="6a">
+        <text xml:space="preserve">All sputum cell counts were performed by one experienced and qualified technician blinded to the clinical details.</text>
+    </sentence>
+    <sentence charOffset="9073-9149" id="S77" selection="6a">
+        <text xml:space="preserve">As an extra control 10% of the samples were analyzed by a second technician.</text>
+    </sentence>
+    <sentence charOffset="9178-9227" id="S78" selection="">
+        <text xml:space="preserve">Analysis of soluble markers in sputum supernatant</text>
+    </sentence>
+    <sentence charOffset="9238-9538" id="S79" selection="6a">
+        <text xml:space="preserve">Levels of eosinophil cationic protein (ECP; detection limit &gt;60 pg/ml), myeloperoxidase (MPO; detection limit &gt;1.5 ng/ml), interleukin-8 (IL-8; detection limit &gt;19.1 pg/ml) and alpha-2-macroglobulin (α2M; detection limit &gt;2.1 mg/ml) were measured by enzyme-linked immunosorbent assays (ELISA)[21,22].</text>
+    </sentence>
+    <sentence charOffset="9567-9594" id="S80" selection="">
+        <text xml:space="preserve">Exhaled Nitric Oxide (FeNO)</text>
+    </sentence>
+    <sentence charOffset="9605-9767" id="S81" selection="6a">
+        <text xml:space="preserve">FeNO was measured with a portable rapid-response chemoluminescent analyser (flow rate 50 mL/s; NIOX System, Aerocrine, Sweden) according to recent guidelines[23].</text>
+    </sentence>
+    <sentence charOffset="9796-9816" id="S82" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="9827-9972" id="S83" selection="12a">
+        <text xml:space="preserve">The relationship between AHR to mannitol (RDR) and the markers of airway inflammation were analyzed using Pearson's correlation coefficient (rp).</text>
+    </sentence>
+    <sentence charOffset="9973-10045" id="S84" selection="12a">
+        <text xml:space="preserve">Non-normally distributed data were log-transformed for further analysis.</text>
+    </sentence>
+    <sentence charOffset="10046-10123" id="S85" selection="">
+        <text xml:space="preserve">If no cells were counted, a value of 0.1 was taken before log-transformation.</text>
+    </sentence>
+    <sentence charOffset="10124-10281" id="S86" selection="12a">
+        <text xml:space="preserve">Receiver operating characteristic (ROC) curves were constructed, using RDR against eosinophilic vs non eosinophilic COPD (threshold 2.5% sputum eosinophils).</text>
+    </sentence>
+    <sentence charOffset="10282-10392" id="S87" selection="12a">
+        <text xml:space="preserve">Wilcoxon signed rank test and Bland-Altman analysis was used to compare cell counts of the two sputum samples.</text>
+    </sentence>
+    <sentence charOffset="10403-10598" id="S88" selection="7a">
+        <text xml:space="preserve">A sample size estimation showed that the detectable value of the correlation (r) under the alternative hypothesis with a sample of 23 patients (n) is between 1-0.55 (power = 0.808; alpha = 0.05).</text>
+    </sentence>
+    <sentence charOffset="10599-10746" id="S89" selection="7a">
+        <text xml:space="preserve">Therefore, thirty-two patients were recruited taking into account an expected 10% drop-out rate and a 20% probability of missing or non-valid data.</text>
+    </sentence>
+    <sentence charOffset="10779-10786" id="S90">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="10793-10855" id="S91" selection="13a">
+        <text xml:space="preserve">Twenty-eight of the 32 patients completed the study (table 1).</text>
+    </sentence>
+    <sentence charOffset="10856-11104" id="S92" selection="13b">
+        <text xml:space="preserve">Four patients dropped out for reasons of: non-compliance with medication restrictions (n = 1), lost to follow up (n = 1), FEV1 &lt;1.2 litre prior to challenge (n = 1) and inability to perform all techniques necessary to measure lung function (n = 1).</text>
+    </sentence>
+    <sentence charOffset="11105-11288" id="S93" selection="">
+        <text xml:space="preserve">Two out of 28 mannitol challenges were not completed for reasons of coughing (n = 1) and tiredness (n = 1), but these patients were included since this was not an exclusion criterion.</text>
+    </sentence>
+    <sentence charOffset="11289-11394" id="S94" selection="13a,16">
+        <text xml:space="preserve">Hypertonic saline-induced sputum was collected in 28 patients and mannitol-induced sputum in 21 patients.</text>
+    </sentence>
+    <sentence charOffset="11401-11434" id="S95" selection="15">
+        <text xml:space="preserve">Table 1 Patient characteristics I</text>
+    </sentence>
+    <sentence charOffset="11450-11552" id="S96" selection="">
+        <text xml:space="preserve">Correlation of inflammatory markers in hypertonic saline-induced sputum and blood with AHR to mannitol</text>
+    </sentence>
+    <sentence charOffset="11561-11662" id="S97" selection="15">
+        <text xml:space="preserve">The baseline values for airway hyperresponsiveness and inflammatory markers are presented in table 2.</text>
+    </sentence>
+    <sentence charOffset="11663-11804" id="S98" selection="13b">
+        <text xml:space="preserve">Five hypertonic saline-induced sputum samples were excluded from analyses as a result of &gt;80% non-squamous cells on differential cell counts.</text>
+    </sentence>
+    <sentence charOffset="11805-12040" id="S99" selection="17a">
+        <text xml:space="preserve">There was a significant positive correlation between the degree of AHR to mannitol (RDR mannitol) and eosinophil counts (r = 0.47, p = 0.03, figure 2) per gram hypertonic saline-induced sputum and with IL-8 levels (r = 0.46, p = 0.04).</text>
+    </sentence>
+    <sentence charOffset="12041-12158" id="S100" selection="17a">
+        <text xml:space="preserve">The correlation between RDR mannitol and blood eosinophils was borderline significant (r = 0.38, p = 0.06, figure 2).</text>
+    </sentence>
+    <sentence charOffset="12159-12271" id="S101" selection="17a">
+        <text xml:space="preserve">No other correlations between RDR mannitol and hypertonic saline-induced sputum parameters were found (Table 3).</text>
+    </sentence>
+    <sentence charOffset="12272-12410" id="S102" selection="17a">
+        <text xml:space="preserve">In addition, a significant, positive association between RDR mannitol and the level of FeNO (r = 0.67, p = 0.0002, figure 2) was observed.</text>
+    </sentence>
+    <sentence charOffset="12411-12567" id="S103" selection="17a">
+        <text xml:space="preserve">When using PD15 to mannitol, the correlation coefficients with sputum and blood eosinophils counts were -0.38 (p = 0.09) and -0.43 (p = 0.03), respectively.</text>
+    </sentence>
+    <sentence charOffset="12576-12668" id="S104" selection="15">
+        <text xml:space="preserve">Table 2 Patient characteristics II- Airway hyperresponsiveness (AHR) and airway inflammation</text>
+    </sentence>
+    <sentence charOffset="12677-12798" id="S105" selection="17a">
+        <text xml:space="preserve">Table 3 Correlation between AHR to mannitol expressed by the response-dose ratio (RDR) and markers of airway inflammation</text>
+    </sentence>
+    <sentence charOffset="12807-12973" id="S106" selection="17a">
+        <text xml:space="preserve">Figure 2 Correlation AHR to mannitol and eosinophils in hypertonic saline-induced sputum (left), blood eosinophils (middle) and fraction exhaled nitric oxide (right).</text>
+    </sentence>
+    <sentence charOffset="12996-13028" id="S107" selection="">
+        <text xml:space="preserve">Mannitol- induced sputum markers</text>
+    </sentence>
+    <sentence charOffset="13037-13161" id="S108" selection="13b">
+        <text xml:space="preserve">Two out of 21 sputum samples were excluded from analyses as a result of &gt;80% non-squamous cells on differential cell counts.</text>
+    </sentence>
+    <sentence charOffset="13162-13427" id="S109" selection="17a">
+        <text xml:space="preserve">There were strongly significant positive correlations between RDR mannitol and the absolute and relative numbers of eosinophils and the level of ECP in mannitol-induced sputum (r = 0.71, p = 0.001; r = 0.60, p = 0.008; r = 0.72, p = 0.001, respectively) (Figure 3).</text>
+    </sentence>
+    <sentence charOffset="13428-13547" id="S110" selection="17a">
+        <text xml:space="preserve">In addition, RDR mannitol was related to the levels IL-8 (r = 0.57, p = 0.015) and MPO (r = 0.64, p = 0.007) (Table 3).</text>
+    </sentence>
+    <sentence charOffset="13556-13705" id="S111" selection="17a">
+        <text xml:space="preserve">Figure 3 Correlation AHR to mannitol and the absolute (left) and relative (middle) amount of eosinophils and ECP (right) in mannitol- induced sputum.</text>
+    </sentence>
+    <sentence charOffset="13714-13826" id="S112" selection="17a">
+        <text xml:space="preserve">Inflammatory markers as obtained by hypertonic- and mannitol challenge were generally well correlated (Table 4).</text>
+    </sentence>
+    <sentence charOffset="13827-13958" id="S113" selection="17a">
+        <text xml:space="preserve">The limits of agreement by Bland and Altman analyses for eosinophil counts and log ECP were -5.7-8.6% and -0.73-0.72, respectively.</text>
+    </sentence>
+    <sentence charOffset="13967-14107" id="S114" selection="17a">
+        <text xml:space="preserve">Table 4 Induced sputum total and differential cell count and mediators when collected with hypertonic saline or mannitol (18 paired samples)</text>
+    </sentence>
+    <sentence charOffset="14130-14140" id="S115" selection="">
+        <text xml:space="preserve">ROC curves</text>
+    </sentence>
+    <sentence charOffset="14149-14420" id="S116" selection="17a">
+        <text xml:space="preserve">The overall accuracy of RDR to mannitol for the assessment of eosinophilic or non eosinophilic COPD, described as the area under the ROC curve (Figure 4), was 67% (95% CI, 33.6 to 97.5%) for hypertonic saline- and 80% (95% CI, 47.7 to 112.3%) for mannitol-induced sputum.</text>
+    </sentence>
+    <sentence charOffset="14421-14610" id="S117" selection="17a">
+        <text xml:space="preserve">At RDR of 0.08%fall.mg the sensitivity and specificity for &gt;2.5% eosinophils in hypertonic saline-induced sputum was 50% (95% CI, 11.8 to 88.2%) and 93% (95% CI, 68 to 99.8%), respectively.</text>
+    </sentence>
+    <sentence charOffset="14611-14759" id="S118" selection="17a">
+        <text xml:space="preserve">For mannitol-induced sputum the sensitivity and specificity was 60% (95% CI, 14.7 to 94.7%) and 100% (95% CI, 75.3 to 100%) respectively (Figure 4).</text>
+    </sentence>
+    <sentence charOffset="14760-15041" id="S119" selection="17a">
+        <text xml:space="preserve">When using a cut-point of 2.0% eosinophils we observed sensitivities of 44% (95% CI, 13.7 to 78.8%) and 43% (95% CI, 9.0 to 81.6%) with specificities of 100% (95% CI, 73.5 to 100.0%) and 100% (95% CI, 71.5 to 100%) for hypertonic saline- and mannitol- induced sputum, respectively.</text>
+    </sentence>
+    <sentence charOffset="15050-15069" id="S120" selection="17a">
+        <text xml:space="preserve">Figure 4 ROC curve.</text>
+    </sentence>
+    <sentence charOffset="15070-15294" id="S121" selection="">
+        <text xml:space="preserve">The curve of sensitivity against 100-specificity is based on using reactivity to mannitol, given as RDR values (%fall.mg), to predict eosinophilic COPD (&gt;2.5%) in hypertonic saline (left) and mannitol-induced (right) sputum.</text>
+    </sentence>
+    <sentence charOffset="15295-15325" id="S122" selection="">
+        <text xml:space="preserve">Dotted line: line of identity.</text>
+    </sentence>
+    <sentence charOffset="15349-15359" id="S123">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="15366-15547" id="S124" selection="">
+        <text xml:space="preserve">In this group of mild to moderate COPD patients, AHR to inhaled mannitol was consistently associated with eosinophil counts in hypertonic saline- as well as mannitol-induced sputum.</text>
+    </sentence>
+    <sentence charOffset="15548-15656" id="S125" selection="">
+        <text xml:space="preserve">In addition, we observed associations between AHR to mannitol and soluble markers of inflammation in sputum.</text>
+    </sentence>
+    <sentence charOffset="15657-15851" id="S126" selection="22">
+        <text xml:space="preserve">Our results suggest that mannitol challenge identifies inflammatory subphenotypes in COPD, in particular those patients without eosinophilic inflammation due to the high specificity of the test.</text>
+    </sentence>
+    <sentence charOffset="15852-15905" id="S127" selection="22">
+        <text xml:space="preserve">This may facilitate individualized treatment in COPD.</text>
+    </sentence>
+    <sentence charOffset="15912-16119" id="S128" selection="">
+        <text xml:space="preserve">To our knowledge, this is the first study assessing the relationship between airway hyperresponsiveness to inhaled mannitol and markers of airway inflammation in sputum and exhaled air in patients with COPD.</text>
+    </sentence>
+    <sentence charOffset="16120-16297" id="S129" selection="22">
+        <text xml:space="preserve">These observations extend previous findings in COPD using adenosine 5'-monophosphate (AMP), in which a correlation between AHR to AMP and eosinophils in sputum was observed[24].</text>
+    </sentence>
+    <sentence charOffset="16298-16519" id="S130" selection="">
+        <text xml:space="preserve">Interestingly, a similar correlation between RDR to mannitol and sputum eosinophils was recently reported in patients with asthma, also showing absence of eosinophilia in patients without mannitol hyperresponsiveness[13].</text>
+    </sentence>
+    <sentence charOffset="16520-16652" id="S131" selection="22">
+        <text xml:space="preserve">Hence, mannitol challenge appears to provide valuable information on the inflammatory profile in both patients with COPD and asthma.</text>
+    </sentence>
+    <sentence charOffset="16659-16784" id="S132" selection="">
+        <text xml:space="preserve">In our study, particular attention was paid to methodological aspects such as selection of COPD patients, design and methods.</text>
+    </sentence>
+    <sentence charOffset="16785-16931" id="S133" selection="21">
+        <text xml:space="preserve">The patients were derived from a clinical population rather than an epidemiological one, in order to strengthen the applicability of our findings.</text>
+    </sentence>
+    <sentence charOffset="16932-17012" id="S134" selection="">
+        <text xml:space="preserve">All patients were well characterised by using subjective and objective criteria.</text>
+    </sentence>
+    <sentence charOffset="17013-17098" id="S135" selection="">
+        <text xml:space="preserve">This included the presence of symptoms, fixed airway obstruction and smoking history.</text>
+    </sentence>
+    <sentence charOffset="17099-17210" id="S136" selection="">
+        <text xml:space="preserve">The full range in sputum eosinophils counts was 0.1 to 7.4%, which is similar to previous studies in COPD[3-5].</text>
+    </sentence>
+    <sentence charOffset="17211-17384" id="S137" selection="">
+        <text xml:space="preserve">To exclude any confounding effects of inhaled corticosteroids on mannitol challenge, the patients who used inhaled corticosteroids stopped this medication for 4 weeks[9,11].</text>
+    </sentence>
+    <sentence charOffset="17385-17508" id="S138" selection="">
+        <text xml:space="preserve">In order to answer the research question accurately, we performed mannitol challenge and sputum induction on separate days.</text>
+    </sentence>
+    <sentence charOffset="17509-17609" id="S139" selection="">
+        <text xml:space="preserve">In addition, we examined sputum expectorated after the mannitol itself, which confirmed our results.</text>
+    </sentence>
+    <sentence charOffset="17610-17727" id="S140" selection="">
+        <text xml:space="preserve">Furthermore, as inflammatory markers we used both, the presence of inflammatory cells and markers of cell activation.</text>
+    </sentence>
+    <sentence charOffset="17728-17766" id="S141" selection="">
+        <text xml:space="preserve">This provided consistent associations.</text>
+    </sentence>
+    <sentence charOffset="17773-17813" id="S142" selection="">
+        <text xml:space="preserve">Nevertheless, our study has limitations.</text>
+    </sentence>
+    <sentence charOffset="17814-17900" id="S143" selection="20">
+        <text xml:space="preserve">First, we could not obtain adequate sputum samples in all patients at all time points.</text>
+    </sentence>
+    <sentence charOffset="17901-18049" id="S144" selection="20">
+        <text xml:space="preserve">Even though the power of the study was adequate to address the primary objectives, it may not have been adequate to examine our secondary objective.</text>
+    </sentence>
+    <sentence charOffset="18050-18135" id="S145" selection="20">
+        <text xml:space="preserve">Second, we can not exclude that our COPD group included patients who also had asthma.</text>
+    </sentence>
+    <sentence charOffset="18136-18220" id="S146" selection="20">
+        <text xml:space="preserve">We excluded those with a previous history of asthma, but this may not have sufficed.</text>
+    </sentence>
+    <sentence charOffset="18221-18368" id="S147" selection="">
+        <text xml:space="preserve">However, all patients had a smoking history, fixed airflow limitation, met the COPD GOLD criteria, and were diagnosed and treated as COPD patients.</text>
+    </sentence>
+    <sentence charOffset="18369-18477" id="S148" selection="20">
+        <text xml:space="preserve">Third, the patients needed to stop the inhaled corticosteroids in order to examine unbiased disease markers.</text>
+    </sentence>
+    <sentence charOffset="18478-18569" id="S149" selection="20">
+        <text xml:space="preserve">Therefore, the test performance cannot be generalized to COPD patients on inhaled steroids.</text>
+    </sentence>
+    <sentence charOffset="18570-18605" id="S150" selection="">
+        <text xml:space="preserve">This will require a separate study.</text>
+    </sentence>
+    <sentence charOffset="18606-18744" id="S151" selection="20">
+        <text xml:space="preserve">Finally, we did not include a second mannitol challenge for examining reproducibility of our results, which is a limitation of our design.</text>
+    </sentence>
+    <sentence charOffset="18751-18786" id="S152" selection="">
+        <text xml:space="preserve">How can we interpret these results?</text>
+    </sentence>
+    <sentence charOffset="18787-18949" id="S153" selection="">
+        <text xml:space="preserve">Mannitol is an osmotic stimulus that causes airway narrowing by release of bronchoconstrictor mediators such as leukotrienes, prostaglandins and histamine[25,26].</text>
+    </sentence>
+    <sentence charOffset="18950-19124" id="S154" selection="">
+        <text xml:space="preserve">The source of these mediators is likely to be mast cells and eosinophils in the airways as both these cell types release mediators in vitro in response to mannitol[10,11,27].</text>
+    </sentence>
+    <sentence charOffset="19125-19287" id="S155" selection="">
+        <text xml:space="preserve">Mast cells and eosinophils are not unimportant in COPD and may contribute to the fluctuations of airways obstruction as observed e.g. during exacerbations[28-31].</text>
+    </sentence>
+    <sentence charOffset="19288-19454" id="S156" selection="">
+        <text xml:space="preserve">We did not observe associations of mannitol responsiveness with neutrophil counts in sputum or blood, but did found significant correlations with sputum IL-8 and MPO.</text>
+    </sentence>
+    <sentence charOffset="19455-19599" id="S157" selection="22">
+        <text xml:space="preserve">This may suggest that epithelial cell and neutrophil activity are also involved in determining the airway narrowing to inhaled mannitol in COPD.</text>
+    </sentence>
+    <sentence charOffset="19600-19707" id="S158" selection="">
+        <text xml:space="preserve">Interestingly, mannitol responsiveness was more strongly associated with FeNO than with sputum eosinophils.</text>
+    </sentence>
+    <sentence charOffset="19708-19793" id="S159" selection="">
+        <text xml:space="preserve">However, we did not find a significant association between the latter two parameters.</text>
+    </sentence>
+    <sentence charOffset="19794-19846" id="S160" selection="">
+        <text xml:space="preserve">This is in keeping with the data by Siva et al. [6].</text>
+    </sentence>
+    <sentence charOffset="19847-19962" id="S161" selection="22">
+        <text xml:space="preserve">Our results suggest that mannitol responsiveness is a better marker of eosinophilic inflammation than FeNO in COPD.</text>
+    </sentence>
+    <sentence charOffset="19969-20077" id="S162" selection="">
+        <text xml:space="preserve">Notably, we observed that most COPD patients produced adequate sputum samples during the mannitol challenge.</text>
+    </sentence>
+    <sentence charOffset="20078-20151" id="S163" selection="">
+        <text xml:space="preserve">This occurred even in absence of encouraging the patients to expectorate.</text>
+    </sentence>
+    <sentence charOffset="20152-20296" id="S164" selection="22">
+        <text xml:space="preserve">Therefore, the success rate of obtaining mannitol-induced sputum may well be improved by adjusting the standard operating procedure of the test.</text>
+    </sentence>
+    <sentence charOffset="20297-20404" id="S165" selection="22">
+        <text xml:space="preserve">Our findings extend a recent study in asthma, showing adequate sputum samples after mannitol challenge[32].</text>
+    </sentence>
+    <sentence charOffset="20405-20538" id="S166" selection="">
+        <text xml:space="preserve">Inhaled mannitol changes osmolarity and reduces viscoelasticity, surface tension, contact angle and the solids content of sputum[33].</text>
+    </sentence>
+    <sentence charOffset="20539-20621" id="S167" selection="">
+        <text xml:space="preserve">This may explain why 75% of the patients gave up sputum during mannitol challenge.</text>
+    </sentence>
+    <sentence charOffset="20622-20712" id="S168" selection="22">
+        <text xml:space="preserve">Our results suggest that mannitol activated eosinophils, neutrophils and epithelial cells.</text>
+    </sentence>
+    <sentence charOffset="20713-20868" id="S169" selection="22">
+        <text xml:space="preserve">Hence, even though AHR to mannitol was associated with eosinophilic airway inflammation, it is likely to be a more pleiotropic stimulus within the airways.</text>
+    </sentence>
+    <sentence charOffset="20875-20923" id="S170" selection="">
+        <text xml:space="preserve">What are the clinical implications of our study?</text>
+    </sentence>
+    <sentence charOffset="20924-21041" id="S171" selection="">
+        <text xml:space="preserve">Eosinophilic airway inflammation predicts the response of COPD patients to systemic and inhaled corticosteroids[4,5].</text>
+    </sentence>
+    <sentence charOffset="21042-21159" id="S172" selection="">
+        <text xml:space="preserve">In addition, inhaled steroid therapy guided by sputum eosinophils reduces exacerbation rate in patients with COPD[6].</text>
+    </sentence>
+    <sentence charOffset="21160-21331" id="S173" selection="22">
+        <text xml:space="preserve">Our results suggest that mannitol challenge can identify COPD patients without eosinophilic airway inflammation, who not likely to benefit from inhaled steroid therapy[6].</text>
+    </sentence>
+    <sentence charOffset="21332-21462" id="S174" selection="">
+        <text xml:space="preserve">This subphenotype of patients cannot be distinguished from other patients with COPD on clinical grounds or lung function criteria.</text>
+    </sentence>
+    <sentence charOffset="21463-21586" id="S175" selection="22">
+        <text xml:space="preserve">Therefore, mannitol challenge may qualify as a feasible alternative in the monitoring of anti-inflammatory therapy in COPD.</text>
+    </sentence>
+    <sentence charOffset="21587-21758" id="S176" selection="22">
+        <text xml:space="preserve">The high specificity (100%) in combination with limited sensitivity indicates that mannitol responsiveness is particularly suitable to exclude sputum eosinophilia in COPD.</text>
+    </sentence>
+    <sentence charOffset="21759-21873" id="S177" selection="">
+        <text xml:space="preserve">Indeed, inhaled steroids appear to be ineffective in COPD patients with the lowest responsiveness to mannitol[14].</text>
+    </sentence>
+    <sentence charOffset="21874-22027" id="S178" selection="22">
+        <text xml:space="preserve">Therefore, mannitol responsiveness may support decisions to refrain from inhaled steroid treatment, thereby potentially preventing overtreatment of COPD.</text>
+    </sentence>
+    <sentence charOffset="22028-22217" id="S179" selection="">
+        <text xml:space="preserve">This requires a randomized controlled study in COPD comparing a treatment strategy based on AHR to mannitol with the currently recommended treatment strategy based on clinical markers only.</text>
+    </sentence>
+    <sentence charOffset="22218-22374" id="S180" selection="">
+        <text xml:space="preserve">It remains to be established whether mannitol challenge can also be an outcome measure of the efficacy of steroids in COPD, as has been shown in asthma[12].</text>
+    </sentence>
+    <sentence charOffset="22375-22493" id="S181" selection="">
+        <text xml:space="preserve">Finally, our data suggest that the assessment of AHR and airway inflammation in COPD can be combined in a single test.</text>
+    </sentence>
+    <sentence charOffset="22494-22666" id="S182" selection="">
+        <text xml:space="preserve">This would have large practical advantages, not only in clinical research, but also regarding the guidance and monitoring of anti-inflammatory therapy in clinical practice.</text>
+    </sentence>
+    <sentence charOffset="22683-22694" id="S183">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="22701-22897" id="S184" selection="">
+        <text xml:space="preserve">We conclude that airway responsiveness to mannitol can be used to rule out eosinophilic airway inflammation in patients with mild to moderate COPD who are not treated with inhaled corticosteroids.</text>
+    </sentence>
+    <sentence charOffset="22898-23086" id="S185" selection="22">
+        <text xml:space="preserve">These finding suggests that mannitol challenge is a candidate for the guidance and monitoring of individualized, anti-inflammatory therapy in COPD, as an alternative to sputum eosinophils.</text>
+    </sentence>
+    <sentence charOffset="23103-23124" id="S186">
+        <text xml:space="preserve">List of abbreviations</text>
+    </sentence>
+    <sentence charOffset="23131-23587" id="S187" selection="">
+        <text xml:space="preserve">AHR: airway hyperresponsiveness; ECP: eosinophil cationic protein; FeNO: fraction exhaled nitric oxide; FEV1: forced expiratory volume in one second; FEV1/FVC: forced vital capacity divided by the forced expiratory volume in one second; FVC: forced vital capacity; ICS: inhaled corticosteroids; IL-8: interleukin-8; MPO: myeloperoxidase; PD15: provocation dose to cause a fall in FEV1 &gt;15%; RDR: response dose ratio; ROC: receiver operating characteristic.</text>
+    </sentence>
+    <sentence charOffset="23604-23623" id="S188">
+        <text xml:space="preserve">Competing interests</text>
+    </sentence>
+    <sentence charOffset="23630-23688" id="S189" selection="">
+        <text xml:space="preserve">The authors declare that they have no competing interests.</text>
+    </sentence>
+    <sentence charOffset="23705-23727" id="S190">
+        <text xml:space="preserve">Authors' contributions</text>
+    </sentence>
+    <sentence charOffset="23734-23883" id="S191" selection="">
+        <text xml:space="preserve">SdN was the main author of the paper and developed the study design and subject recruitment, collected study data and performed statistical analysis.</text>
+    </sentence>
+    <sentence charOffset="23884-24033" id="S192" selection="">
+        <text xml:space="preserve">All other authors contributed significantly to the design of the study, the collection and assessment of clinical data and development of this paper.</text>
+    </sentence>
+    <sentence charOffset="24034-24198" id="S193" selection="">
+        <text xml:space="preserve">All authors contributed significantly to the development of the manuscript and all have seen and approved the final version and take responsibility for the content.</text>
+    </sentence>
+    <sentence charOffset="24208-24219" id="S194">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="24227-24243" id="S195" selection="">
+        <text xml:space="preserve">Acknowledgements</text>
+    </sentence>
+    <sentence charOffset="24250-24365" id="S196" selection="">
+        <text xml:space="preserve">We would like to thank the participants in the study and Tamara Dekker for determining the inflammatory parameters.</text>
+    </sentence>
+    <sentence charOffset="24366-24471" id="S197" selection="25">
+        <text xml:space="preserve">This study was financially supported by the Academic Medical Centre, Amsterdam, without external sponsor.</text>
+    </sentence>
+    <section textSpan="0-61" title="Title" titleSpan="0-5"/>
+    <section textSpan="62-1954" title="Abstract" titleSpan="62-70">
+        <section textSpan="80-455" title="Background" titleSpan="91-101"/>
+        <section textSpan="464-919" title="Methods" titleSpan="475-482"/>
+        <section textSpan="928-1500" title="Results" titleSpan="939-946"/>
+        <section textSpan="1509-1847" title="Conclusions" titleSpan="1520-1531"/>
+        <section textSpan="1856-1946" title="Trial registration" titleSpan="1867-1885"/>
+    </section>
+    <section textSpan="1960-4900" title="Introduction" titleSpan="1967-1979"/>
+    <section textSpan="4905-10767" title="Methods" titleSpan="4912-4919">
+        <section textSpan="4926-6475" title="Patients" titleSpan="4935-4943"/>
+        <section textSpan="6482-7186" title="Study design" titleSpan="6491-6503"/>
+        <section textSpan="7193-10762" title="Measurements" titleSpan="7202-7214">
+            <section textSpan="7223-7596" title="Lung function" titleSpan="7234-7247"/>
+            <section textSpan="7605-8341" title="Mannitol challenge" titleSpan="7616-7634"/>
+            <section textSpan="8350-9158" title="Sputum induction and processing" titleSpan="8361-8392"/>
+            <section textSpan="9167-9547" title="Analysis of soluble markers in sputum supernatant" titleSpan="9178-9227"/>
+            <section textSpan="9556-9776" title="Exhaled Nitric Oxide (FeNO)" titleSpan="9567-9594"/>
+            <section textSpan="9785-10755" title="Statistical analysis" titleSpan="9796-9816"/>
+        </section>
+    </section>
+    <section textSpan="10772-15337" title="Results" titleSpan="10779-10786">
+        <section textSpan="11441-12980" title="Correlation of inflammatory markers in hypertonic saline-induced sputum and blood with AHR to mannitol" titleSpan="11450-11552"/>
+        <section textSpan="12987-14114" title="Mannitol- induced sputum markers" titleSpan="12996-13028"/>
+        <section textSpan="14121-15332" title="ROC curves" titleSpan="14130-14140"/>
+    </section>
+    <section textSpan="15342-22671" title="Discussion" titleSpan="15349-15359"/>
+    <section textSpan="22676-23091" title="Conclusions" titleSpan="22683-22694"/>
+    <section textSpan="23096-23592" title="List of abbreviations" titleSpan="23103-23124"/>
+    <section textSpan="23597-23693" title="Competing interests" titleSpan="23604-23623"/>
+    <section textSpan="23698-24203" title="Authors' contributions" titleSpan="23705-23727"/>
+    <section textSpan="24208-24477" title="Back matter" titleSpan="24208-24219"/>
+</document>

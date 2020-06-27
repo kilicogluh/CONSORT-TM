@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3641608" note="">
+    <text xml:space="preserve">Title
+Routine versus clinically driven laboratory monitoring and first-line antiretroviral therapy strategies in African children with HIV (ARROW): a 5-year open-label randomised factorial trial
+
+        Summary
+        
+          Background
+          No trials have investigated routine laboratory monitoring for children with HIV, nor four-drug induction strategies to increase durability of first-line antiretroviral therapy (ART).
+        
+        
+          Methods
+          In this open-label parallel-group trial, Ugandan and Zimbabwean children or adolescents with HIV, aged 3 months to 17 years and eligible for ART, were randomly assigned in a factorial design. Randomisation was to either clinically driven monitoring or routine laboratory and clinical monitoring for toxicity (haematology and biochemistry) and efficacy (CD4 cell counts; non-inferiority monitoring randomisation); and simultaneously to standard three-drug or to four-drug induction first-line ART, in three groups: three-drug treatment (non-nucleoside reverse transcriptase inhibitor [NNRTI], lamivudine, abacavir; group A) versus four-drug induction (NNRTI, lamivudine, abacavir, zidovudine; groups B and C), decreasing after week 36 to three-drug NNRTI, lamivudine, plus abacavir (group B) or lamivudine, abacavir, plus zidovudine (group C; superiority ART-strategy randomisation). For patients assigned to routine laboratory monitoring, results were returned every 12 weeks to clinicians; for clinically driven monitoring, toxicity results were only returned for requested clinical reasons or if grade 4. Children switched to second-line ART for WHO stage 3 or 4 events or (routine laboratory monitoring only) age-dependent WHO CD4 criteria. Randomisation used computer-generated sequentially numbered tables incorporated securely within the database. Primary efficacy endpoints were new WHO stage 4 events or death for monitoring and change in CD4 percentage at 72 and 144 weeks for ART-strategy randomisations; the co-primary toxicity endpoint was grade 3 or 4 adverse events. Analysis was by intention to treat. This trial is registered, ISRCTN24791884.
+        
+        
+          Findings
+          1206 children were randomly assigned to clinically driven (n=606) versus routine laboratory monitoring (n=600), and groups A (n=397), B (n=404), and C (n=405). 47 (8%) children on clinically driven monitoring versus 39 (7%) on routine laboratory monitoring had a new WHO stage 4 event or died (hazard ratio [HR] 1·13, 95% CI 0·73–1·73, p=0·59; non-inferiority criterion met). However, in years 2–5, rates were higher in children on clinically driven monitoring (1·3 vs 0·4 per 100 child-years, difference 0·99, 0·37–1·60, p=0·002). One or more grade 3 or 4 adverse events occurred in 283 (47%) children on clinically driven versus 282 (47%) on routine laboratory monitoring (HR 0·98, 0·83–1·16, p=0·83). Mean CD4 percentage change did not differ between ART groups at week 72 (16·5% [SD 8·6] vs 17·1% [8·5] vs 17·3% [8·0], p=0·33) or week 144 (p=0·69), but four-drug groups (B, C) were superior to three-drug group A at week 36 (12·4% [7·2] vs 14·1% [7·1] vs 14·6% [7·3], p&lt;0·0001). Excess grade 3 or 4 events in groups B (one or more events reported by 157 [40%] children in A, 190 [47%] in B; HR [B:A] 1·32, 1·07–1·63) and C (218 [54%] children in C; HR [C:A] 1·58, 1·29–1·94; global p=0·0001) were driven by asymptomatic neutropenia in zidovudine-containing groups (B, C; 86 group A, 133 group B, 184 group C), but resulted in drug substitutions in only zero versus two versus four children, respectively.
+        
+        
+          Interpretation
+          NNRTI plus NRTI-based three-drug or four-drug ART can be given across childhood without routine toxicity monitoring; CD4 monitoring provided clinical benefit after the first year on ART, but event rates were very low and long-term survival high, suggesting ART rollout should take priority. CD4 benefits from four-drug induction were not durable, but three-NRTI long-term maintenance was immunologically and clinically similar to NNRTI-based ART and could be valuable during tuberculosis co-treatment.
+        
+        
+          Funding
+          UK Medical Research Council, the UK Department for International Development; drugs donated and viral load assays funded by ViiV Healthcare and GlaxoSmithKline.
+        
+      
+
+
+    
+      Introduction
+      In high-income countries, routine laboratory tests are done (typically every 3–4 months) to monitor efficacy (HIV viral load, CD4 counts) and toxicity (haematology or biochemistry panels) in patients with HIV on antiretroviral therapy (ART). Although not mandated when public health ART rollout started,1 the extent to which HIV treatment programmes in resource-limited settings should provide routine laboratory monitoring versus focus resources on expanding ART access for the many in need, remains an ongoing debate, particularly relevant with slowing growth in health assistance for resource-limited countries in the current economic crisis.2
+      90% of children with HIV live in sub-Saharan Africa; in 2011, only about 28% of those needing ART were receiving it.3 Infrastructure, personnel, and supply chain constraints all affect the ability to monitor, and tests for detecting toxicity and measuring efficacy are generally unavailable, particularly at low-level facilities.4 Trials in adults have compared routine laboratory with clinical monitoring on ART.5–8 These showed no benefit from routine toxicity monitoring,5 small but significant benefits from CD4 monitoring,5,8 and no significant additional benefit of viral load over CD4 monitoring.6,8 No trials have evaluated monitoring strategies in children on ART; results in adults might not be generalisable because of differences in frequency of ART toxicity, predictive value of CD4s,9,10 and the clinical spectrum of paediatric HIV and its comorbidities, particularly in Africa.11
+      Children with HIV start ART early and will need to take treatment for longer than adults. Challenges in treatment of young children, in whom viral loads are higher, pharmacokinetics more variable, and adherence more challenging, might account for the lower virological suppression rates in children compared with adults in similar calendar periods.12,13 However, four-drug combinations (generally three nucleoside reverse transcriptase inhibitors [NRTIs] plus one non-nucleoside reverse transcriptase inhibitor [NNRTI]) have been reported to show superior virological and immunological responses compared with three-drug ART (two NRTIs plus one NNRTI or protease inhibitor) in an observational study in infants.14 Whether addition of one drug for a short period in an induction-maintenance approach might have benefits across childhood is unknown. A key advantage might be more rapid reduction of high viral loads in ART-naive children, which could have long-term benefits. A triple NRTI regimen after four-drug NRTI plus NNRTI induction also avoids challenges of managing interactions with antituberculosis drugs, particularly for young children unable to take efavirenz.
+      We therefore undertook the first paediatric trial (AntiRetroviral Research fOr Watoto [ARROW]) to evaluate the long-term effect of routine efficacy and toxicity monitoring and different first-line ART strategies in a factorial design in African children.
+    
+    
+      Methods
+      
+        Trial design
+        ARROW was an open-label randomised parallel-group trial in untreated (except for ART to prevent mother-to-child-transmission) children or adolescents (aged 3 months to 17 years) with HIV who met WHO 2006 criteria for ART initiation15 from three centres in Uganda (Joint Clinical Research Centre, Kampala; Baylor-Uganda, Mulago; MRC/UVRI Uganda Research Unit on AIDS, Entebbe), and one in Zimbabwe (University of Zimbabwe, Harare). Children with acute infections, on drugs contraindicated with ART, unlikely to adhere or to attend regularly, with laboratory abnormalities contraindicating ART, pregnant or breastfeeding, or perinatally exposed to ART (if &lt;6 months old) were excluded. Participants were randomly assigned (1:1) to clinically driven monitoring versus routine laboratory plus clinical monitoring for toxicity (haematology and biochemistry) and efficacy (CD4). Children were also randomly assigned (1:1:1) in a factorial design to three approaches for first-line ART: open-label lamivudine, abacavir, plus NNRTI continuously (group A, control); induction-maintenance with four-drug lamivudine, abacavir, NNRTI, plus zidovudine for 36 weeks, then lamivudine, abacavir, plus NNRTI (group B); or induction-maintenance with lamivudine, abacavir, NNRTI, plus zidovudine for 36 weeks, then lamivudine, abacavir, plus zidovudine (group C). HLA testing was not done. HIV viral loads were done retrospectively on stored samples. The hypothesis was that clinically driven monitoring would result in similar outcomes to routine laboratory monitoring (non-inferiority) and that four-drug induction-maintenance would have greater efficacy than would standard three-drug ART. The NNRTI (nevirapine or efavirenz) was chosen by clinicians according to local availability and age. Caregivers gave written informed consent; older children (8–17 years) aware of their HIV status also gave assent or consent following national guidelines. The trial was approved by research ethics committees in Uganda, Zimbabwe, and the UK.
+      
+      
+        Randomisation and masking
+        Both factorial randomisations were stratified by centre and age (&lt;7, 7–12, ≥13 years). The computer-generated sequentially numbered randomisation list (with variable block sizes) containing both allocations was pre-prepared by the trial statistician and incorporated within the secure database at each trial centre, connected to but not located within each clinical centre, allowing trial managers to access the next number, but not the whole list. Randomisation was undertaken by clinicians phoning the local trials centre. Once randomised, allocation was open—ie, physicians and carers were aware of group assignment.
+      
+      
+        Procedures
+        All participants were examined by a doctor and had routine full blood count with white cell differential, lymphocyte subsets (CD4, CD8), biochemistry tests (bilirubin, urea, creatinine, aspartate aminotransferase, alanine aminotransferase) at screening, randomisation (lymphocytes only), weeks 4, 8, and 12, then every 12 weeks. Screening results were used to assess eligibility. All subsequent results for participants assigned to routine laboratory monitoring were returned to clinicians, whereas results at and after randomisation for participants allocated clinically driven monitoring were only returned if requested for clinical management (authorised by centre project leaders); haemoglobin results at week 8 were automatically returned on the basis of early anaemia in DART,16 as were grade 4 laboratory toxicities (protocol safety criteria; grades defined17 apart from neutrophils18). Total lymphocytes and CD4 tests were never returned for participants on clinically driven monitoring, but for all children other investigations could be requested and concomitant drugs prescribed, as clinically indicated.
+        All children received ART as syrups or tablets dosed according to WHO weight-band tables.19–21 Children were reviewed every 4–6 weeks by a nurse using a standard symptom checklist. Antiretroviral drugs could be substituted, preferably within class, after adverse events. During four-drug induction, a drug could be dropped because of toxicity or drug interactions with antituberculosis treatment. Switching to second-line ART (including a ritonavir-boosted protease inhibitor) was based on clinical criteria in all participants (new or recurrent WHO stage 4 event;15 or WHO stage 3 event or events at clinician discretion, particularly if recurrent or persistent), or on laboratory criteria for routine laboratory monitoring (confirmed on-ART CD4 of &lt;15% at age 1–2 years, &lt;10% at 3–4 years, &lt;100 cells/mL at ≥5 years). See appendix for further details.
+        Co-primary endpoints for the monitoring randomisation were progression to new WHO stage 4 event or death (efficacy), and grade 3 or 4 adverse events not solely related to HIV (safety). Co-primary endpoints for the ART-strategy randomisation were change in CD4 percentage from randomisation to 72 and 144 weeks (efficacy) and grade 3 or 4 adverse events (safety). Secondary endpoints for both randomisations (if not co-primary) were: mortality; new (or new or recurrent) WHO stage 4 event or death; new (or new or recurrent) WHO stage 3 or 4 event or death; grade 3 or 4 adverse events definitely, probably, or uncertainly ART-related; serious adverse events22 not solely HIV-related; ART-modifying adverse events; admissions to hospital; height, weight, and body-mass index for age; CD4; number and class of antiretrovirals received; switch to second-line regimen; adherence; viral load and resistance (done retrospectively; see appendix). All WHO stage 3 or 4 events, deaths, and serious adverse events were reviewed against prespecified criteria by an endpoint review committee with an independent chair and members, masked to randomised allocations.
+      
+      
+        Statistical analysis
+        1200 children followed up for 3·5–5·0 years with less than 10% loss to follow-up provided 90% power to establish that clinically driven monitoring was not inferior to routine laboratory monitoring on the primary efficacy outcome, defined as the upper 95% confidence limit for the difference (clinically driven minus routine laboratory monitoring) in rate of first new WHO stage 4 event or deaths per 100 child-years being no greater than 1·6 per 100 child-years (assumed rate for routine laboratory monitoring of 2·5 per 100 child-years). For the ART-strategy randomisation, 1200 children provided 80% power to detect differences in change in CD4 percentage of more than 2·5% across the three groups (F test, two-sided α=0·05) assuming 20% missing data (loss to follow-up, missed visit or test) and standard deviation 10%.23 Interim data were reviewed annually by an independent data monitoring committee (four meetings) using the Haybittle-Peto criterion (p&lt;0·001).
+        Randomised groups were compared with Kaplan-Meier plots, log-rank tests, and proportional hazards models, stratified by randomisation stratification factors (including the other factorial) for time-to-event disease progression, ART, and adverse event outcomes, censoring at the earlier of trial closure or last follow-up. Categorical variables were compared with χ2 or exact (if indicated) tests. Change in CD4 percentage was compared with normal linear regression adjusted for randomisation stratification factors. Laboratory measurements and adherence were compared across randomised groups over time with generalised estimating equations (independent correlation; closest measurement to each scheduled visit within equally spaced windows). All comparisons were as randomised (intention-to-treat). Subgroups specified in the analysis plan were the factorial randomisations, time on ART, sex, age, centre, CD4, weight for age, randomisation year, and previous ART for prevention of mother-to-child transmission. Baseline values were those nearest to but before and within 42 days of randomisation. Z scores were determined with the British reference because it covers the full age range of ARROW children.24 All analyses were done with Stata 12.1. All p values are two-sided.
+        This trial is registered, ISRCTN24791884.
+      
+      
+        Role of the funding sources
+        The sponsor (UK Medical Research Council), other funders (UK Department for International Development), and ViiV Healthcare/GlaxoSmithKline (donated drugs; funded viral load assays) had no direct role in study design, data collection, analysis, interpretation, report writing, or the decision to submit for publication. The corresponding author had full access to all data and responsibility for submission for publication.
+      
+    
+    
+      Results
+      Figure 1 Trial profile
+        
+        Study ended on March 16, 2012. ART=antiretroviral therapy. *Predominant reason for ineligibility given according to frequency. † First randomisation included, second excluded. ‡Communication error at enrolment. §Both on intensive phase of tuberculosis treatment.
+Table 1 Characteristics at randomisation
+1210 children were enrolled (March 15, 2007–Nov 18, 2008). One was randomly assigned twice at different centres (second randomisation was excluded), and three had major eligibility violations, leaving 600 children assigned to routine laboratory and 606 to clinically driven monitoring, and 397 to group A, 404 to group B, and 405 to group C (figure 1). Baseline characteristics were similar across randomised groups (table 1). Median follow-up to planned trial closure (March 16, 2012) was 4·0 (IQR 3·7–4·4) years in each monitoring and ART-strategy group (maximum 5·0 years; total 4685 child-years). Only 33 (3%) children (median follow-up 150 [IQR 46–169] weeks) not known to have died were not seen after trial closure (figure 1). Completeness of nurse visits every 4–6 weeks and doctor visits every 12 weeks was more than 95% (46 531/48 461 nurse, 19 088/19 765 doctor visits) and was similar in all groups.
+      For children assigned to clinically driven monitoring, clinicians could request individual laboratory toxicity results from routine haematology or biochemistry panels for clinical reasons. Panel tests could also be requested in both groups at extra patient-initiated visits. However, most were done at routine visits (10 805 [92%] haematology and 10 778 [94%] biochemistry; appendix). In clinically driven monitoring, apart from week 8 haemoglobin (returned per protocol), very few results were released (from 486 [4%] panels); most commonly requested results were haemoglobin (2%, n=265) and neutrophils (3%, n=323; appendix). More additional haematology tests were requested during nurse visits or extra visits in routine laboratory than in clinically driven monitoring (p&lt;0·0001); there were no significant differences in requests for additional biochemistry tests (p=0·17) or other non-routine (eg, electrolytes) tests (p=0·97).
+      Table 2 ART received
+At trial end, 578 (95%) children on clinically driven monitoring versus 565 (94%) on routine laboratory monitoring were still on first-line ART (table 2); 330 (83%) children in group A, 356 (88%) in group B, and 367 (91%) in group C were still on their original randomised regimen. Among 151 first-line drug changes, equal numbers were due to adverse events and antituberculosis therapy (both 59 changes [39%]; table 2). Changes to first-line therapy occurred at rates of 3·3 per 100 child-years in routine laboratory monitoring versus 3·2 per 100 child-years in clinically driven monitoring (p=0·94); and 3·5, 3·7, and 2·6 per 100 child-years in groups A, B, and C, respectively (p=0·25).
+      30 children in group A, 20 in group B, and nine in group C stopped nevirapine because of starting antituberculosis treatment. Whereas in group A nevirapine was mainly substituted with zidovudine (&lt;3 years) or efavirenz (&gt;3 years), in the four-drug groups, about a third (five children in group B and six in C) simply dropped nevirapine during four-drug induction to continue on three NRTIs. Adverse events resulted in a drug being substituted or dropped in five children in group A, 28 in group B, and 26 in group C; most changes were zidovudine-related (16 in B, 20 in C; table 2).
+      Adherence by self-reported questionnaire was similar in both monitoring groups: mean 6·7% (1813/26 917) of children on clinically driven monitoring reported missing doses in the past 28 days versus 6·5% (1683/25 935) on routine laboratory monitoring (p=0·26). There were small but significant differences by ART strategy, with fewer reporting missing doses in the past 28 days in group A through week 36 (induction period; 7·9% [253/2966] in group A, 9·8% [326/3014] in group B, 9·0% [295/2999] in group C; p=0·02) and overall (6·1% [1059/16345], 7·3% [1302/16640], 6·5% [1135/16371], respectively; p&lt;0·0001).
+      Figure 2 Substitution in first-line ART (any reason) and switch to second-line ART (A) By monitoring strategy. (B) By ART strategy. Lines show cumulative incidence of switch to second-line treatment before death on first-line, and of substitution in first-line before death on first-line estimated treating death on first-line as a competing risk. ART=antiretroviral therapy. CHR=cause-specific hazard ratio. CDM=clinically driven monitoring. LCM=laboratory and clinical monitoring.
+No child switched to second-line treatment during their first year on ART. Overall, 28 (5%) children on clinically driven monitoring versus 35 (6%) on routine laboratory monitoring switched to second-line treatment (hazard ratio [HR] 0·78, 95% CI 0·48–1·29, p=0·22; table 2; figure 2), after median 2·8 (IQR 1·8–3·3) years versus 2·2 (1·5–3·0) years, respectively. All children on routine laboratory monitoring meeting CD4 switch criteria actually switched. At switch, median CD4 percentage was 8·5% (IQR 1·5–22·5) in the clinically driven monitoring group and 7% (3–13) in the routine laboratory monitoring group; 11 children (39%) versus 14 (40%) had CD4 percentage less than 5% and six children (21%) versus none had CD4 percentage greater than 25%, respectively. 2% of follow-up (40/2373 child-years) was spent on second-line treatment in children on clinically driven monitoring versus 3% (67/2311 child-years) in those on routine laboratory monitoring. 26 [7%] children in group A switched to second-line treatment versus 17 [4%] in group B and 20 (5%) in group C; these differences were not significant (p=0·25; figure 2).
+      There was no evidence of interaction between monitoring and induction-maintenance ART strategies in primary or secondary outcomes (heterogeneity p&gt;0·1) except for WHO stage 4 events or death in the first year on ART, for which the relative difference between clinically driven and routine laboratory monitoring varied by first-line ART strategy (appendix). Since most variation was between groups B and C, who received identical ART for the first 36 weeks, this year 1 interaction appeared attributable to chance in children initiating ART with severe immunodeficiency.
+      Figure 3 New WHO 4 stage event or death (A), CD4 (B), viral load (C), and adverse events (D), by monitoring strategy
+        
+        CDM=clinically driven monitoring. LCM=laboratory and clinical monitoring. ART=antiretroviral therapy. AE=adverse event. SAE=serious adverse event. *CD4 cell count in children aged 5 years or older at ART initiation. † Upper lines show suppression less than 400 copies per mL and lower lines suppression less than 80 copies per mL (2:1 dilution used for most samples because of low stored volumes).
+47 (8%) children on clinically driven monitoring versus 39 (7%) on routine laboratory monitoring had a new WHO stage 4 event or died (2·0 vs 1·7 per 100 child-years, respectively). The absolute difference of 0·32 per 100 child-years (95% CI −0·47 to 1·12) translated into a relative HR of 1·13 (95% CI 0·73–1·73, p=0·59; figure 3). The upper 95% confidence limit for the absolute difference was below the non-inferiority margin of 1·6.
+      Although overall progression was similar, a prespecified subgroup analysis showed children on routine laboratory monitoring had higher event rates during the first 3 months on ART and lower rates from the second year on ART compared with those on clinically driven monitoring (heterogeneity p=0·045; appendix). After year 1, 23 (4%) children on clinically driven monitoring versus six (1%) on routine laboratory monitoring had a first WHO stage 4 event or died (difference 0·99 per 100 child-years, 95% CI 0·37–1·60, p=0·002). The most common WHO stage 4 events were oesophageal candidiasis (eight on clinically driven and five on routine laboratory monitoring) and severe unexplained failure-to-thrive (nine on clinically driven and three on routine laboratory monitoring).
+      25 (4%) children died in the clinically driven monitoring group versus 29 (5%) in the routine laboratory monitoring group (1·1 vs 1·3 per 100 child-years, respectively; difference −0·2 per 100 child-years, 95% CI −0·82 to 0·41; HR 0·84, 95% CI 0·49–1·44; p=0·45; appendix). Most deaths (19 clinically driven and 20 routine laboratory monitoring) were primarily HIV-related; only one was drug-related (chemotherapy plus zidovudine). Similar variation over time (heterogeneity p=0·03; appendix) was observed for deaths alone as for the combined endpoint of WHO stage 4 or death (13 deaths on clinically driven and 27 on routine laboratory monitoring in first year, 12 vs two subsequently; difference 0·56 per 100 child-years, 95% CI 0·15–0·97, with 12 of the 14 deaths after 1 year in children aged &gt;8 years). Progression to new WHO stage 3 or 4 events or death gave similar results (HR [clinically driven:routine laboratory monitoring] 1·00, 0·73–1·38; p=0·98; appendix). Pulmonary tuberculosis was the commonest WHO stage 3 event (25 clinically driven monitoring, 28 routine laboratory monitoring). Among 45 WHO stage 3 or 4 events reported on clinically driven monitoring and 21 on routine laboratory monitoring from the second year onwards, 14 versus one were failure-to-thrive and 15 versus 15 were extrapulmonary or pulmonary tuberculosis, highlighting the potential of weight monitoring to identify first-line CD4 failure clinically.
+      CD4 percentage increased throughout the first 3 years on ART before plateauing in both groups (figure 3; p=0·23). Only 11 (2%) children on clinically driven monitoring versus two (&lt;1%) on routine laboratory monitoring had CD4 less than 5% at their last visit (exact p=0·01; appendix). Viral load suppression was similar in both monitoring groups (figure 3; global p&gt;0·7). At the latest test, median 3·7 (IQR 3·0–4·1) years after ART initiation, 351 (77%) of 458 children on clinically driven monitoring versus 345 (78%) of 443 on routine laboratory monitoring had viral load less than 400 copies per mL (p=0·66), similar across ages (heterogeneity p=0·25); 329 (72%) on clinically driven monitoring versus 313 (71%) on routine laboratory monitoring had viral load less than 80 copies per mL (p=0·70).
+      Weight for age and height for age did not differ significantly between groups (p=0·71, p=0·07; appendix). 49 (9%) children on clinically driven monitoring versus 29 (5%) on routine laboratory monitoring had weight-for-age Z score less than −3 (approximate one thousandth percentile of normal UK weight) at last visit (global p=0·12).
+      One or more grade 3 or 4 adverse events (co-primary endpoint) occurred in 283 (47%) children on clinically driven monitoring versus 282 (47%) on routine laboratory monitoring (HR 0·98, 95% CI 0·83–1·16, p=0·83; figure 3). Of 1170 adverse events (621 clinically driven monitoring, 549 routine laboratory monitoring), 810 (69%) were asymptomatic laboratory results, most commonly grade 3 neutropenia (171 clinically driven monitoring, 167 routine laboratory monitoring; appendix); only 87 (7%) were definitely, probably, or uncertainly ART-related (41 clinically driven monitoring, 46 routine laboratory monitoring). 111 (18%) children on clinically driven monitoring versus 109 (18%) on routine laboratory monitoring had one or more grade 4 adverse events (HR 0·99, 0·76–1·29, p=0·94). Although there was no difference in grade 4 adverse events, 147 (24%) children on clinically driven monitoring versus 117 (20%) on routine laboratory monitoring had one or more serious adverse events (any grade; HR 1·30, 1·02–1·66, p=0·04). Most of the 362 serious adverse events (217 clinically driven, 145 routine laboratory monitoring) were malaria (113 clinically driven, 65 routine laboratory monitoring), and most (179 clinically driven, 117 routine laboratory monitoring) were admissions to hospital. The excess malaria serious adverse events in the clinically driven monitoring group were mostly in children with parasite counts less than 500 per 200 white blood cells, or were not diagnostically confirmed (figure 3). Differences in time to first hospital admission were smaller (HR 1·18, 0·99–1·41, p=0·07), with no difference in duration of admission (median 5 [IQR 3–6] days in clinically driven and routine laboratory monitoring; rank-sum p=0·54). ART-modifying adverse events occurred in 31 (5%) children on clinically driven monitoring versus 32 (5%) on routine laboratory monitoring (HR 0·95, 0·58–1·56, p=0·84). The most common modification (14 clinically driven, 13 routine laboratory monitoring) was to stop (on four-drug regimen) or substitute zidovudine.
+      Figure 4 New WHO 4 stage event or death (A), CD4 (B), viral load (C), and adverse events (D), by ART strategy
+        
+        ART=antiretroviral therapy. AE=adverse event. SAE=serious adverse event. *CD4 cell count in children aged 5 years or older at ART initiation. † Upper lines show suppression less than 400 copies per mL and lower lines suppression less than 80 copies per mL (2:1 dilution used for most samples because of low stored volumes).
+There was no significant difference between the three ART strategy randomisation groups in mean CD4 percentage change at week 72 (p=0·33) or 144 (p=0·69; figure 4). However, at week 36 (when all children moved to three drugs), CD4 percentage responses were significantly greater in the four-drug induction groups (p&lt;0·0001; figure 4; appendix).
+      Viral load suppression less than 400 copies per mL was similar in the three ART strategy groups at weeks 4, 36, and 48 (p&gt;0·4), but differed significantly at weeks 24 (p=0·009) and 144 (p=0·009; figure 4). At week 24, suppression was significantly greater in induction groups receiving four drugs (285 [88%] of 324 children in groups B and C vs 114 [77%] of 148 in group A). By contrast, similarly to week 144, at the latest test suppression was significantly greater in children receiving two NRTIs plus an NNRTI (496 [84%] of 591 in groups A and B vs 200 [65%] of 310 in group C). No significant difference was seen in suppression less than 80 copies per mL at week 24 (p=0·41); however, suppression less than 80 copies per mL was significantly greater in groups A and B at week 144 and latest test (466 [79%] in groups A and B vs 176 [57%] in group C; p&lt;0·0001). Results were similar when restricted to children younger than 5 years (not shown) or 3 years (appendix).
+      There was no evidence of differences between ART-strategy groups in progression to new WHO stage 4 event or death (HR [B:A] 0·89, 95% CI 0·53–1·48; HR [C:A] 0·91, 0·54–1·52; global p=0·89), WHO stage 3 or 4 event or death (HR [B:A] 0·82, 0·55–1·20; HR [C:A] 0·80, 0·54–1·17; global p=0·44), or mortality overall (HR [B:A] 0·66, 0·33–1·31; HR [C:A] 0·97, 0·52–1·81; global p=0·43; figure 4; appendix). In particular, there was no evidence that greater initial CD4 increases in groups B or C significantly reduced disease progression risks in the first year (13 deaths in group A vs nine in group B vs 18 in group C; 22 vs 19 vs 24 WHO stage 4 events or deaths; 36 vs 35 vs 37 WHO stage 3 or 4 events or deaths). However, there was also no suggestion of higher event rates in group C receiving long-term three-NRTI maintenance, despite lower long-term viral load suppression; if anything, fewer events occurred after 1 year (seven deaths in group A vs five in group B vs two in group C; 18 vs 13 vs eight WHO stage 4 events or deaths; 37 vs 26 vs 17 WHO stage 3 or 4 events or deaths). There was no evidence of differences in weight for age (p=0·58) or height for age (p=0·90) across ART strategies (appendix).
+      157 (40%) children in group A, 190 (47%) in group B, and 218 (54%) in group C had one or more grade 3 or 4 adverse events (co-primary endpoint; HR [B:A] 1·32, 95% CI 1·07–1·63; HR [C:A] 1·58, 1·29–1·94; global p=0·0001; figure 4). The difference was almost exclusively driven by excess asymptomatic neutropenia (86 vs 133 vs 184 events; appendix). There were 15 versus 41 versus 31 definitely, probably, or uncertainly ART-related grade 3 or 4 adverse events, respectively. There were no significant differences in grade 3 or 4 anaemia or grade 4 only anaemia (with or without clinical symptoms; grade 3 or 4: 38 vs 44 vs 44, respectively; grade 4: 21 vs 24 vs 25, respectively). There were also no significant differences in the numbers of children with one or more grade 4 adverse events (63 [16%] vs 81 [20%] vs 76 [19%]; HR [B:A] 1·27, 0·91–1·76; HR [C:A] 1·20, 0·86–1·68; global p=0·34) or serious adverse events (87 [22%] vs 82 [20%] vs 95 [23%]; HR [B:A] 0·92, 0·68–1·25; HR [C:A] 1·09, 0·81–1·46; global p=0·53).
+      ART-modifying adverse events occurred in eight (2%) children in group A versus 30 (7%) in group B and 25 (6%) in group C (HR [B:A] 3·80, 95% CI 1·74–8·29; HR (C:A) 3·09, 1·39–6·85; global p=0·002; figure 4). The most common modification (13 children in group B, 14 in C) was to stop (on four-drug regimen) or substitute zidovudine because of anaemia, even though grade 3 and 4 anaemias occurred similarly across all three groups. Despite substantial numbers of grade 3 neutropenias, only six children (two in group B, four in group C) modified ART (zidovudine) for this reason. Three children substituted zidovudine because of lipoatrophy in group C; two children in group A and three in group B substituted efavirenz because of lipodystrophy or gynaecomastia.
+    
+    
+      Discussion
+      The DART trial5 in African adults with HIV showed that routine laboratory monitoring for ART side-effects had no effect on toxicity outcomes. Although routine CD4 monitoring had significant benefits on disease progression and mortality, absolute differences were small.5 Health-economic analyses suggested point-of-care CD4 tests would need to cost less than US$3·80 for monitoring every 12 weeks after the first year on ART to be cost-effective.25 Smaller adult trials of routine CD4 or viral load monitoring, or both, have shown similar results,6–8 although no other trial has investigated toxicity monitoring. These results provide strong reassurance that increasing coverage by rollout of ART to adults at lower-level health facilities is the most rational and cost-effective policy at a population level, irrespective of provision of laboratory monitoring.
+      Most health centres in resource-limited settings treat adults and children with HIV in the same clinics. However, results from studies in adults might not generalise to children who have different comorbidities (eg, more anaemia associated with malnutrition, malaria, and sepsis, which could affect haematological monitoring). Differences in predictive value and interpretation of CD4 tests,9,10 faster disease progression in young children,26 and greater sensitivity of ART-related weight gain (which has reflected virological response27) could also affect the relative benefits of laboratory versus clinical monitoring.
+      
+      Panel
+      
+        Research in context
+      
+      
+        Systematic review
+      
+      We searched PubMed up to Jan 5, 2013, with search terms “HIV” AND “monitoring” AND (“antiretroviral therapy” OR “ART”) AND “trial”*. We identified three trials in adults;5,7,8 one further trial had been presented but not published.6 There were no trials in children. Trials in adults showed that clinical monitoring was safe and feasible, but CD4 monitoring to detect first-line failure provided small additional benefits; addition of viral load to routine CD4 monitoring provided no further benefits. Replacement of “monitoring” with child* identified previous short-term (24 or 48 week) trials that showed three-drug protease inhibitor-based (lopinavir or ritonavir) ART to be superior to nevirapine-based ART in children younger than 3 years;28,29 however, studies in older children found similar responses,30 and lopinavir and ritonavir are costly and logistically challenging to administer.
+      
+        Interpretation
+      
+      Routine laboratory monitoring for toxicity on non-nucleoside reverse transcriptase inhibitors (NNRTIs) plus nucleoside reverse transcriptase inhibitors (NRTIs; abacavir or zidovudine plus lamivudine) is not needed in children, as in adults; requiring such monitoring might be a barrier to life-saving treatment. CD4 monitoring provided a small but significant reduction in disease progression or death after the second year on ART in children, as in adults. However, unlike adults, CD4 and viral load responses were very similar irrespective of CD4 versus clinical monitoring. Monitoring weight-gain appeared a sensitive indicator of first-line CD4 failure, and drug changes occurred as often for concurrent tuberculosis as for adverse events. Four-drug ART with an NNRTI plus three NRTIs provided superior short-term virological suppression and CD4 responses, but these benefits were not sustained during maintenance three-drug ART. However, 83% of children in ARROW had viral load less than 400 copies per mL with abacavir, lamivudine, and a NNRTI for 3·7 years, irrespective of age, supporting previously reported superiority of abacavir over zidovudine.23 Three-NRTI long-term maintenance was clinically and immunologically similar to NNRTI-based ART, and would be useful during tuberculosis cotreatment. Results support an integrated approach to treatment of adults and children in treatment rollout. Cost and feasibility (eg, through point-of-care tests) of provision of CD4 monitoring are future challenges.
+    
+We therefore undertook the first paediatric trial investigating ART monitoring in children with fairly advanced HIV disease (panel). We found that NNRTI-based regimens, including WHO-recommended NRTIs, can be delivered safely across childhood without routine toxicity monitoring. Toxicity substitutions were infrequent, as previously reported;31 most were because of asymptomatic haematology results in children on zidovudine. Interestingly, grade 3 and 4 and grade 4 anaemias occurred similarly across groups receiving and not receiving zidovudine, both short and long term, suggesting that anaemia in children on ART is most likely caused by chronic HIV infection rather than antiretroviral drugs. Therefore, routine haemoglobin monitoring is likely unnecessary, even in children on zidovudine, and continuation of zidovudine without substitution (as occurred in clinically driven monitoring group C children) is unlikely to result in harm. Further, lack of haemoglobin testing before initiation of ART should not prevent zidovudine use, since haemoglobin values increased after ART initiation. Crucially, we observed no evidence of interaction between monitoring and ART strategies on any toxicity outcome. We previously reported very few possible hypersensitivity reactions to abacavir (four [&lt;1%] in 1206 patients32) or difficulties managing abacavir plus nevirapine together in African children.
+      Importantly for programme planners, first-line drug substitutions occurred as often for tuberculosis as for adverse events. Tuberculosis was also by far the most common WHO stage 3 or 4 event. One advantage of the four-drug induction regimen was the ability to simply drop nevirapine in children starting rifampicin. The ongoing tuberculosis incidence illustrates the potential usefulness of three-NRTI regimens in children, with 91% randomly assigned to group C still receiving maintenance with lamivudine, abacavir, and zidovudine after median 4 years. Tuberculosis remains particularly difficult to manage in children younger than 3 years who cannot take efavirenz, because rifampicin coadministration significantly reduces nevirapine33 and lopinavir concentrations. Super-boosting with additional ritonavir has been recommended with lopinavir,34 but ritonavir is unpalatable and difficult to dose.15 Substitution to three NRTIs is frequently used for children on NNRTI plus two NRTIs developing tuberculosis, but there have been concerns about reduced efficacy. Viral load suppression was similar to standard NNRTI-based ART at 48 weeks for children moving to maintenance three-NRTI at 36 weeks. However, viral load suppression was significantly lower at 144 weeks, suggesting that long-term three-NRTI treatment would not be advisable (even after four-drug induction). Importantly, there was no evidence of immunological or clinical harm from roughly 15% lower viral load suppression long-term with three NRTIs; if anything this group had fewer clinical events, similar to previous randomised adult data.35 These findings provide reassurance that a three-NRTI regimen is safe for children on ART when they need antituberculosis co-treatment.
+      Overall, there was no evidence that clinically driven monitoring was inferior to routine laboratory monitoring in terms of disease progression or mortality. However, we found interactions with time on ART, disease progression or death being somewhat lower in the clinically driven monitoring group in the first year. Chance seems the most likely explanation, because management was similar with no child switching to second-line during the first year in both groups. The only other possible explanation is that receiving CD4, biochemistry, and haematology results was actually harmful for children (eg, resulting in clinicians failing to undertake proper clinical evaluations), which seems implausible. From the second year, our results are qualitatively similar to those of the DART trial, with small but significant clinical event excesses in clinically driven monitoring. However, event rates were substantially lower than in DART, so the excess remained within the non-inferiority margin; also fewer children switched to second-line ART with similar proportions in both groups. Unlike DART, there was no evidence of excess switching with very low CD4 in clinically driven monitoring. Whereas switches in routine laboratory monitoring were predominantly triggered by falling CD4, in clinically driven monitoring most switches were for failure to thrive, which might be a more sensitive indicator of first-line CD4 failure than in adults and could be used where CD4 monitoring is unavailable. Unnecessary switching at high CD4 did occur, as in DART, but in very few children (six on clinically driven monitoring and none on routine monitoring switched with CD4 greater than 25%). Other paediatric studies in which routine CD4 and viral load monitoring were used have also reported fairly low rates of switching from first-line NNRTI-based ART over 5–6 years (eg, 8% of 2570 Ugandan children;36 22% in the PENPACT-1 trial30).
+      As expected and previously reported, most deaths were soon after starting ART in children with lowest pre-ART CD4 or weight for age.37 Irrespective of monitoring strategy, 5-year survival was remarkably high (96%, compared with 88% in DART), emphasising the importance of good clinical care, and availability of continuous ART and concomitant treatments. Loss to follow-up was only 2·7%, providing confidence that results are robust. We also observed no differences between clinically driven and routine laboratory monitoring in CD4 or viral load responses. The only difference between monitoring strategies was in serious adverse events, due to an excess of clinical malaria admissions to hospital in clinically driven monitoring. One limitation is that the trial allocation was of necessity open; lack of knowledge of CD4 in a child on clinically driven monitoring presenting with fever could have influenced decisions about hospital admission, given the plausible differential diagnosis of bacteraemia.38
+      Data for viral load from the 78% of children with results suggest that initiation of ART with four drugs might significantly improve early viral load suppression, consistent with greater early CD4 responses, particularly in those with very low pre-ART CD4. By design all children moved to three drugs at 36 weeks, in view of the possible toxicity and costs of four-drug regimens in the long term. Since toxicity differences were restricted to asymptomatic laboratory results with no effect on ART management, results hint that a longer-term four-drug, three NRTIs plus one NNRTI regimen might have continued to provide viral load and CD4 benefits, although this might not have translated into clinical benefit. However, viral load suppression with two NRTIs plus an NNRTI was fairly high, with 83% of children receiving an NNRTI with abacavir plus lamivudine throughout achieving less than 400 copies per mL long term, irrespective of monitoring strategy, so further gains from a fourth drug might be less plausible.
+      Viral load suppression was similar to other trials in which viral load monitoring was done routinely (eg, 82% &lt;400 copies per mL after median 5 years on two NRTIs plus an NNRTI or a protease inhibitor;30 85% of infants &lt;400 copies per mL after median 5 years on two NRTI plsu lopinavir or ritonavir (A Violari, personal communication); 85% and 75% of children &lt;3 years &lt;400 copies per mL after 48 weeks on two NRTI plus lopinavir or ritonavir, or nevirapine, respectively28). This finding might be partly because of superiority of abacavir (in the ARROW two-NRTI backbone) over zidovudine, as previously reported.27 Coupled with the low clinical event rates after 1 year in ARROW, our data suggest any additional benefits from routine viral load monitoring are likely to be small. Although CD4 and viral load failure do not correlate well,39 the implications of late detection of viral load failure are likely to depend largely on how resistance evolves with persisting viral replication. In PENPACT-1, lamivudine and NNRTI resistance occurred with low-level viral load failure,30 so the consequences of delaying switch on these regimens until CD4 failure might be small; the 3-year PHPT trial in adults, which randomly assigned patients to routine CD4 with or without viral load monitoring, found no additional benefit from viral load, although patients in both groups of this trial had high viral load suppression.6
+      Although open allocation was an unavoidable limitation of the monitoring randomisation and was not undertaken for the ART-strategy randomisation, the endpoint review committee adjudicated endpoints masked to randomisation. In a survey at ARROW exit, only four (1%) of 561 participants on clinically driven monitoring reported having CD4 testing done privately; clinicians remained masked. One possible criticism is that all ARROW centres had laboratories; however, the only way our results would not generalise to centres with lower-quality clinical care would be if these health-care workers were able to act more appropriately on routine laboratory results than in centres with high-quality care. This scenario seems unlikely since substantial CD4 variability and complexity around toxicity test interpretation mean that simple rules for acting on routine test results are unlikely ever to be optimum. Rather, clinicians providing the best clinical care are plausibly also best able to interpret and act on routine laboratory results. Thus although the overall risks of WHO events or death might be higher under poorer clinical care, differences in outcomes between routine and clinically driven laboratory monitoring would be likely, if anything, to be even smaller than observed in ARROW. Of note, we found no evidence that small benefits from CD4 monitoring varied by pre-ART CD4 or percentage, suggesting our results are robust to changes in ART initiation thresholds.
+      Toxicity monitoring has no benefit and costs money; it cannot therefore be cost-effective. This fact should reinforce WHO guidelines that routine toxicity tests are not required for paediatric ART provision, as for adults. Formal cost-effectiveness analysis is ongoing: given reduced efficacy of CD4 monitoring compared with DART, CD4 monitoring every 12 weeks is unlikely to be cost-effective in children overall (P Revill, personal communication), although it might have some potential to pick up earlier failure in older children or adolescents concealing adherence challenges. Cost-effectiveness analysis and systematic review is also planned to compare the induction-maintenance ART strategy with NNRTI and protease inhibitor-based first-line ART, including sensitivity analyses to account for increased efficacy but greater cost of abacavir versus zidovudine.
+      In conclusion, ARROW results should send a strong message to African ART programmes to accelerate ART rollout to children since this process currently lags woefully behind adults.3 The key finding is that ART provides enormous benefits to children and can be delivered safely with good-quality clinical care and without routine toxicity monitoring. For children initiating ART with severe immune suppression, addition of a fourth drug improves short-term immunological and virological responses; whether continuing a four-drug regimen longer-term would be advantageous remains unclear. However, ARROW results support short-term use of three-drug NRTI regimens during antituberculosis treatment in children already on ART. Simple point-of-care CD4 tests might have a future role, at least to confirm clinical need to switch to second-line ART, as in DART.40 In children, monitoring of weight gain should be emphasised as an important additional clinical aid for identification of first-line failure. Laboratory tests remain important for assessment of ART eligibility and for diagnosis and management of intercurrent infections. Mentoring of health-care workers to foster quality clinical care and reassurance that children do very well without laboratory monitoring of ART should energise faster and further scale-up of ART rollout for children with HIV in Africa.
+                  Correspondence to: Prof Diana M Gibb, MRC Clinical Trials Unit, London WC2B 6NH, UK, dmg@ctu.mrc.ac.uk        
+    
+  
+
+Back matter
+
+      Supplementary Material
+                     Supplementary appendix          
+    
+
+      Supplementary Material
+                     Supplementary video             Evidence from a large randomised controlled trial shows HIV treatment can be delivered safely to children with good quality clinical care, without routine laboratory tests to monitor for side effects or treatment effectiveness.          
+    
+
+      
+        Acknowledgments
+        Analysis and writing committee: Adeodata Kekitiinwa, Adrian Cook, Kusum Nathoo, Peter Mugyenyi, Patricia Nahirya-Ntege, Sabrina Bakeera-Kitaka, Margaret Thomason, Mutsa Bwakura-Dangarembizi, Victor Musiime, Paula Munderi, Bethany Naidoo-James, Tichaona Vhembo, Constance Tumusiime, Richard Katuramu, Jane Crawley, Andrew J Prendergast, Philippa Musoke, A Sarah Walker, Diana M Gibb. We thank the children, carers, and staff from all the centres participating in the ARROW trial, and the ARROW trial steering committee for access to data.
+        MRC/UVRI Uganda Research Unit on AIDS, Entebbe, Uganda: P Munderi, P Nahirya-Ntege, R Katuramu, J Lutaakome, F Nankya, G Nabulime, I Sekamatte, J Kyarimpa, A Ruberantwari, R Sebukyu, G Tushabe, D Wangi, M Musinguzi, M Aber, L Matama, D Nakitto-Kesi.
+        Joint Clinical Research Centre, Kampala, Uganda: P Mugyenyi, V Musiime, R Keishanyu, VD Afayo, J Bwomezi, J Byaruhanga, P Erimu, C Karungi, H Kizito, W S Namala, J Namusanje, R Nandugwa, T K Najjuko, E Natukunda, M Ndigendawani, S O Nsiyona, R Kibenge, B Bainomuhwezi, D Sseremba, J Tezikyabbiri, C S Tumusiime, A Balaba, A Mugumya, F Nghania, D Mwebesa, M Mutumba, E Bagurukira, F Odongo, S Mubokyi, M Ssenyonga, M Kasango, E Lutalo, P Oronon.
+        University of Zimbabwe, Harare, Zimbabwe: K J Nathoo, M F Bwakura-Dangarembizi, F Mapinge, E Chidziva, T Mhute, T Vhembo, R Mandidewa, M Chipiti, R Dzapasi, C Katanda, D Nyoni, G C Tinago, J Bhiri, S Mudzingwa, D Muchabaiwa, M Phiri, V Masore, C C Marozva, S J Maturure, S Tsikirayi, L Munetsi, K M Rashirai, J Steamer, R Nhema, W Bikwa, B Tambawoga, E Mufuka.
+        Baylor College of Medicine Children's Foundation Uganda, Mulago Hospital, Uganda: A Kekitiinwa, P Musoke, S Bakeera-Kitaka, R Namuddu, P Kasirye, A Babirye, J Asello, S Nakalanzi, N C Ssemambo, J Nakafeero, J Tikabibamu, G Musoba, J Ssanyu, M Kisekka.
+        MRC Clinical Trials Unit, London, UK: D M Gibb, M J Thomason, A S Walker, A D Cook, B Naidoo-James, M J Spyer, C Male, A J Glabay, L K Kendall, J Crawley, A J Prendergast.
+        Independent ARROW trial monitors: I Machingura, S Ssenyonjo.
+        Trial steering committee: I Weller (chair), E Luyirika, H Lyall, E Malianga, C Mwansambo, M Nyathi, F Miiro, D M Gibb, A Kekitiinwa, P Mugyenyi, P Munderi, K J Nathoo, A S Walker; Observers S Kinn, M McNeil, M Roberts, W Snowden.
+        Data and safety monitoring committee: A Breckenridge (chair), A Pozniak, C Hill, J Matenga, J Tumwine.
+        Endpoint review committee (independent members): G Tudor-Williams (Chair), H Barigye, H A Mujuru, G Ndeezi; Observers S Bakeera-Kitaka, M F Bwakura-Dangarembizi, J Crawley, V Musiime, P Nahirya-Ntege, A Prendergast, M Spyer.
+        Economics group: P Revill, T Mabugu, F Mirimo, S Walker, M J Sculpher.
+        Funding: ARROW is funded by the UK Medical Research Council and the UK Department for International Development. ViiV Healthcare/GlaxoSmithKline donated first-line drugs for ARROW and provided funding for viral load assays.
+      
+    
+
+      Contributors
+      The ARROW trial was designed by DMG, ASW, AK, KN, PMug, SB-K, MT, MB-D, VM, PMun, and PMus. The trial was done in Uganda by AK, PMug, PN-N, SB-K, VM, PMun, PMus, RK, and CT, and in Zimbabwe by KN, MB-D, TV, and AJP; and coordinated in the UK by DMG, MT, BN-J, JC, and ASW. ASW and ADC wrote the trial analysis plan, which all authors then reviewed; and ADC did the analyses. All authors contributed to interpretation of the data. DMG, ADC, and ASW wrote the first draft of the report. All authors revised the report critically and approved the final version.
+    
+
+      Conflicts of interest
+      We declare that we have no conflicts of interest.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-194" id="S2" selection="1a">
+        <text xml:space="preserve">Routine versus clinically driven laboratory monitoring and first-line antiretroviral therapy strategies in African children with HIV (ARROW): a 5-year open-label randomised factorial trial</text>
+    </sentence>
+    <sentence charOffset="204-211" id="S3">
+        <text xml:space="preserve">Summary</text>
+    </sentence>
+    <sentence charOffset="231-241" id="S4" selection="">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="252-434" id="S5" selection="1b">
+        <text xml:space="preserve">No trials have investigated routine laboratory monitoring for children with HIV, nor four-drug induction strategies to increase durability of first-line antiretroviral therapy (ART).</text>
+    </sentence>
+    <sentence charOffset="463-470" id="S6" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="481-672" id="S7" selection="">
+        <text xml:space="preserve">In this open-label parallel-group trial, Ugandan and Zimbabwean children or adolescents with HIV, aged 3 months to 17 years and eligible for ART, were randomly assigned in a factorial design.</text>
+    </sentence>
+    <sentence charOffset="673-1363" id="S8" selection="">
+        <text xml:space="preserve">Randomisation was to either clinically driven monitoring or routine laboratory and clinical monitoring for toxicity (haematology and biochemistry) and efficacy (CD4 cell counts; non-inferiority monitoring randomisation); and simultaneously to standard three-drug or to four-drug induction first-line ART, in three groups: three-drug treatment (non-nucleoside reverse transcriptase inhibitor [NNRTI], lamivudine, abacavir; group A) versus four-drug induction (NNRTI, lamivudine, abacavir, zidovudine; groups B and C), decreasing after week 36 to three-drug NNRTI, lamivudine, plus abacavir (group B) or lamivudine, abacavir, plus zidovudine (group C; superiority ART-strategy randomisation).</text>
+    </sentence>
+    <sentence charOffset="1364-1587" id="S9" selection="">
+        <text xml:space="preserve">For patients assigned to routine laboratory monitoring, results were returned every 12 weeks to clinicians; for clinically driven monitoring, toxicity results were only returned for requested clinical reasons or if grade 4.</text>
+    </sentence>
+    <sentence charOffset="1588-1724" id="S10" selection="">
+        <text xml:space="preserve">Children switched to second-line ART for WHO stage 3 or 4 events or (routine laboratory monitoring only) age-dependent WHO CD4 criteria.</text>
+    </sentence>
+    <sentence charOffset="1725-1834" id="S11" selection="">
+        <text xml:space="preserve">Randomisation used computer-generated sequentially numbered tables incorporated securely within the database.</text>
+    </sentence>
+    <sentence charOffset="1835-2061" id="S12" selection="">
+        <text xml:space="preserve">Primary efficacy endpoints were new WHO stage 4 events or death for monitoring and change in CD4 percentage at 72 and 144 weeks for ART-strategy randomisations; the co-primary toxicity endpoint was grade 3 or 4 adverse events.</text>
+    </sentence>
+    <sentence charOffset="2062-2097" id="S13" selection="">
+        <text xml:space="preserve">Analysis was by intention to treat.</text>
+    </sentence>
+    <sentence charOffset="2098-2139" id="S14" selection="23">
+        <text xml:space="preserve">This trial is registered, ISRCTN24791884.</text>
+    </sentence>
+    <sentence charOffset="2168-2176" id="S15" selection="">
+        <text xml:space="preserve">Findings</text>
+    </sentence>
+    <sentence charOffset="2187-2346" id="S16" selection="">
+        <text xml:space="preserve">1206 children were randomly assigned to clinically driven (n=606) versus routine laboratory monitoring (n=600), and groups A (n=397), B (n=404), and C (n=405).</text>
+    </sentence>
+    <sentence charOffset="2347-2562" id="S17" selection="">
+        <text xml:space="preserve">47 (8%) children on clinically driven monitoring versus 39 (7%) on routine laboratory monitoring had a new WHO stage 4 event or died (hazard ratio [HR] 1·13, 95% CI 0·73–1·73, p=0·59; non-inferiority criterion met).</text>
+    </sentence>
+    <sentence charOffset="2563-2718" id="S18" selection="">
+        <text xml:space="preserve">However, in years 2–5, rates were higher in children on clinically driven monitoring (1·3 vs 0·4 per 100 child-years, difference 0·99, 0·37–1·60, p=0·002).</text>
+    </sentence>
+    <sentence charOffset="2719-2890" id="S19" selection="">
+        <text xml:space="preserve">One or more grade 3 or 4 adverse events occurred in 283 (47%) children on clinically driven versus 282 (47%) on routine laboratory monitoring (HR 0·98, 0·83–1·16, p=0·83).</text>
+    </sentence>
+    <sentence charOffset="2891-3169" id="S20" selection="">
+        <text xml:space="preserve">Mean CD4 percentage change did not differ between ART groups at week 72 (16·5% [SD 8·6] vs 17·1% [8·5] vs 17·3% [8·0], p=0·33) or week 144 (p=0·69), but four-drug groups (B, C) were superior to three-drug group A at week 36 (12·4% [7·2] vs 14·1% [7·1] vs 14·6% [7·3], p&lt;0·0001).</text>
+    </sentence>
+    <sentence charOffset="3170-3595" id="S21" selection="">
+        <text xml:space="preserve">Excess grade 3 or 4 events in groups B (one or more events reported by 157 [40%] children in A, 190 [47%] in B; HR [B:A] 1·32, 1·07–1·63) and C (218 [54%] children in C; HR [C:A] 1·58, 1·29–1·94; global p=0·0001) were driven by asymptomatic neutropenia in zidovudine-containing groups (B, C; 86 group A, 133 group B, 184 group C), but resulted in drug substitutions in only zero versus two versus four children, respectively.</text>
+    </sentence>
+    <sentence charOffset="3624-3638" id="S22" selection="">
+        <text xml:space="preserve">Interpretation</text>
+    </sentence>
+    <sentence charOffset="3649-3939" id="S23" selection="">
+        <text xml:space="preserve">NNRTI plus NRTI-based three-drug or four-drug ART can be given across childhood without routine toxicity monitoring; CD4 monitoring provided clinical benefit after the first year on ART, but event rates were very low and long-term survival high, suggesting ART rollout should take priority.</text>
+    </sentence>
+    <sentence charOffset="3940-4150" id="S24" selection="">
+        <text xml:space="preserve">CD4 benefits from four-drug induction were not durable, but three-NRTI long-term maintenance was immunologically and clinically similar to NNRTI-based ART and could be valuable during tuberculosis co-treatment.</text>
+    </sentence>
+    <sentence charOffset="4179-4186" id="S25" selection="">
+        <text xml:space="preserve">Funding</text>
+    </sentence>
+    <sentence charOffset="4197-4357" id="S26" selection="25">
+        <text xml:space="preserve">UK Medical Research Council, the UK Department for International Development; drugs donated and viral load assays funded by ViiV Healthcare and GlaxoSmithKline.</text>
+    </sentence>
+    <sentence charOffset="4387-4399" id="S27">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="4406-4647" id="S28" selection="">
+        <text xml:space="preserve">In high-income countries, routine laboratory tests are done (typically every 3–4 months) to monitor efficacy (HIV viral load, CD4 counts) and toxicity (haematology or biochemistry panels) in patients with HIV on antiretroviral therapy (ART).</text>
+    </sentence>
+    <sentence charOffset="4648-5052" id="S29" selection="">
+        <text xml:space="preserve">Although not mandated when public health ART rollout started,1 the extent to which HIV treatment programmes in resource-limited settings should provide routine laboratory monitoring versus focus resources on expanding ART access for the many in need, remains an ongoing debate, particularly relevant with slowing growth in health assistance for resource-limited countries in the current economic crisis.2</text>
+    </sentence>
+    <sentence charOffset="5059-5176" id="S30" selection="">
+        <text xml:space="preserve">90% of children with HIV live in sub-Saharan Africa; in 2011, only about 28% of those needing ART were receiving it.3</text>
+    </sentence>
+    <sentence charOffset="5177-5389" id="S31" selection="">
+        <text xml:space="preserve">Infrastructure, personnel, and supply chain constraints all affect the ability to monitor, and tests for detecting toxicity and measuring efficacy are generally unavailable, particularly at low-level facilities.4</text>
+    </sentence>
+    <sentence charOffset="5390-5475" id="S32" selection="">
+        <text xml:space="preserve">Trials in adults have compared routine laboratory with clinical monitoring on ART.5–8</text>
+    </sentence>
+    <sentence charOffset="5476-5665" id="S33" selection="">
+        <text xml:space="preserve">These showed no benefit from routine toxicity monitoring,5 small but significant benefits from CD4 monitoring,5,8 and no significant additional benefit of viral load over CD4 monitoring.6,8</text>
+    </sentence>
+    <sentence charOffset="5666-5953" id="S34" selection="2a">
+        <text xml:space="preserve">No trials have evaluated monitoring strategies in children on ART; results in adults might not be generalisable because of differences in frequency of ART toxicity, predictive value of CD4s,9,10 and the clinical spectrum of paediatric HIV and its comorbidities, particularly in Africa.11</text>
+    </sentence>
+    <sentence charOffset="5960-6049" id="S35" selection="">
+        <text xml:space="preserve">Children with HIV start ART early and will need to take treatment for longer than adults.</text>
+    </sentence>
+    <sentence charOffset="6050-6313" id="S36" selection="2a">
+        <text xml:space="preserve">Challenges in treatment of young children, in whom viral loads are higher, pharmacokinetics more variable, and adherence more challenging, might account for the lower virological suppression rates in children compared with adults in similar calendar periods.12,13</text>
+    </sentence>
+    <sentence charOffset="6314-6673" id="S37" selection="">
+        <text xml:space="preserve">However, four-drug combinations (generally three nucleoside reverse transcriptase inhibitors [NRTIs] plus one non-nucleoside reverse transcriptase inhibitor [NNRTI]) have been reported to show superior virological and immunological responses compared with three-drug ART (two NRTIs plus one NNRTI or protease inhibitor) in an observational study in infants.14</text>
+    </sentence>
+    <sentence charOffset="6674-6807" id="S38" selection="2b">
+        <text xml:space="preserve">Whether addition of one drug for a short period in an induction-maintenance approach might have benefits across childhood is unknown.</text>
+    </sentence>
+    <sentence charOffset="6808-6933" id="S39" selection="">
+        <text xml:space="preserve">A key advantage might be more rapid reduction of high viral loads in ART-naive children, which could have long-term benefits.</text>
+    </sentence>
+    <sentence charOffset="6934-7132" id="S40" selection="">
+        <text xml:space="preserve">A triple NRTI regimen after four-drug NRTI plus NNRTI induction also avoids challenges of managing interactions with antituberculosis drugs, particularly for young children unable to take efavirenz.</text>
+    </sentence>
+    <sentence charOffset="7139-7393" id="S41" selection="2b">
+        <text xml:space="preserve">We therefore undertook the first paediatric trial (AntiRetroviral Research fOr Watoto [ARROW]) to evaluate the long-term effect of routine efficacy and toxicity monitoring and different first-line ART strategies in a factorial design in African children.</text>
+    </sentence>
+    <sentence charOffset="7410-7417" id="S42">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="7433-7445" id="S43" selection="">
+        <text xml:space="preserve">Trial design</text>
+    </sentence>
+    <sentence charOffset="7454-7884" id="S44" selection="3a,4a,4b">
+        <text xml:space="preserve">ARROW was an open-label randomised parallel-group trial in untreated (except for ART to prevent mother-to-child-transmission) children or adolescents (aged 3 months to 17 years) with HIV who met WHO 2006 criteria for ART initiation15 from three centres in Uganda (Joint Clinical Research Centre, Kampala; Baylor-Uganda, Mulago; MRC/UVRI Uganda Research Unit on AIDS, Entebbe), and one in Zimbabwe (University of Zimbabwe, Harare).</text>
+    </sentence>
+    <sentence charOffset="7885-8137" id="S45" selection="4a">
+        <text xml:space="preserve">Children with acute infections, on drugs contraindicated with ART, unlikely to adhere or to attend regularly, with laboratory abnormalities contraindicating ART, pregnant or breastfeeding, or perinatally exposed to ART (if &lt;6 months old) were excluded.</text>
+    </sentence>
+    <sentence charOffset="8138-8326" id="S46" selection="5">
+        <text xml:space="preserve">Participants were randomly assigned (1:1) to clinically driven monitoring versus routine laboratory plus clinical monitoring for toxicity (haematology and biochemistry) and efficacy (CD4).</text>
+    </sentence>
+    <sentence charOffset="8327-8798" id="S47" selection="5">
+        <text xml:space="preserve">Children were also randomly assigned (1:1:1) in a factorial design to three approaches for first-line ART: open-label lamivudine, abacavir, plus NNRTI continuously (group A, control); induction-maintenance with four-drug lamivudine, abacavir, NNRTI, plus zidovudine for 36 weeks, then lamivudine, abacavir, plus NNRTI (group B); or induction-maintenance with lamivudine, abacavir, NNRTI, plus zidovudine for 36 weeks, then lamivudine, abacavir, plus zidovudine (group C).</text>
+    </sentence>
+    <sentence charOffset="8799-8824" id="S48" selection="">
+        <text xml:space="preserve">HLA testing was not done.</text>
+    </sentence>
+    <sentence charOffset="8825-8885" id="S49" selection="">
+        <text xml:space="preserve">HIV viral loads were done retrospectively on stored samples.</text>
+    </sentence>
+    <sentence charOffset="8886-9127" id="S50" selection="">
+        <text xml:space="preserve">The hypothesis was that clinically driven monitoring would result in similar outcomes to routine laboratory monitoring (non-inferiority) and that four-drug induction-maintenance would have greater efficacy than would standard three-drug ART.</text>
+    </sentence>
+    <sentence charOffset="9128-9229" id="S51" selection="5">
+        <text xml:space="preserve">The NNRTI (nevirapine or efavirenz) was chosen by clinicians according to local availability and age.</text>
+    </sentence>
+    <sentence charOffset="9230-9384" id="S52" selection="">
+        <text xml:space="preserve">Caregivers gave written informed consent; older children (8–17 years) aware of their HIV status also gave assent or consent following national guidelines.</text>
+    </sentence>
+    <sentence charOffset="9385-9470" id="S53" selection="">
+        <text xml:space="preserve">The trial was approved by research ethics committees in Uganda, Zimbabwe, and the UK.</text>
+    </sentence>
+    <sentence charOffset="9493-9518" id="S54" selection="">
+        <text xml:space="preserve">Randomisation and masking</text>
+    </sentence>
+    <sentence charOffset="9527-9613" id="S55" selection="8b">
+        <text xml:space="preserve">Both factorial randomisations were stratified by centre and age (&lt;7, 7–12, ≥13 years).</text>
+    </sentence>
+    <sentence charOffset="9614-9975" id="S56" selection="9,8a">
+        <text xml:space="preserve">The computer-generated sequentially numbered randomisation list (with variable block sizes) containing both allocations was pre-prepared by the trial statistician and incorporated within the secure database at each trial centre, connected to but not located within each clinical centre, allowing trial managers to access the next number, but not the whole list.</text>
+    </sentence>
+    <sentence charOffset="9976-10051" id="S57" selection="10">
+        <text xml:space="preserve">Randomisation was undertaken by clinicians phoning the local trials centre.</text>
+    </sentence>
+    <sentence charOffset="10052-10146" id="S58" selection="11a">
+        <text xml:space="preserve">Once randomised, allocation was open—ie, physicians and carers were aware of group assignment.</text>
+    </sentence>
+    <sentence charOffset="10169-10179" id="S59" selection="">
+        <text xml:space="preserve">Procedures</text>
+    </sentence>
+    <sentence charOffset="10188-10516" id="S60" selection="6a">
+        <text xml:space="preserve">All participants were examined by a doctor and had routine full blood count with white cell differential, lymphocyte subsets (CD4, CD8), biochemistry tests (bilirubin, urea, creatinine, aspartate aminotransferase, alanine aminotransferase) at screening, randomisation (lymphocytes only), weeks 4, 8, and 12, then every 12 weeks.</text>
+    </sentence>
+    <sentence charOffset="10517-10567" id="S61" selection="">
+        <text xml:space="preserve">Screening results were used to assess eligibility.</text>
+    </sentence>
+    <sentence charOffset="10568-11081" id="S62" selection="">
+        <text xml:space="preserve">All subsequent results for participants assigned to routine laboratory monitoring were returned to clinicians, whereas results at and after randomisation for participants allocated clinically driven monitoring were only returned if requested for clinical management (authorised by centre project leaders); haemoglobin results at week 8 were automatically returned on the basis of early anaemia in DART,16 as were grade 4 laboratory toxicities (protocol safety criteria; grades defined17 apart from neutrophils18).</text>
+    </sentence>
+    <sentence charOffset="11082-11303" id="S63" selection="">
+        <text xml:space="preserve">Total lymphocytes and CD4 tests were never returned for participants on clinically driven monitoring, but for all children other investigations could be requested and concomitant drugs prescribed, as clinically indicated.</text>
+    </sentence>
+    <sentence charOffset="11312-11406" id="S64" selection="5">
+        <text xml:space="preserve">All children received ART as syrups or tablets dosed according to WHO weight-band tables.19–21</text>
+    </sentence>
+    <sentence charOffset="11407-11492" id="S65" selection="5">
+        <text xml:space="preserve">Children were reviewed every 4–6 weeks by a nurse using a standard symptom checklist.</text>
+    </sentence>
+    <sentence charOffset="11493-11582" id="S66" selection="5">
+        <text xml:space="preserve">Antiretroviral drugs could be substituted, preferably within class, after adverse events.</text>
+    </sentence>
+    <sentence charOffset="11583-11708" id="S67" selection="5">
+        <text xml:space="preserve">During four-drug induction, a drug could be dropped because of toxicity or drug interactions with antituberculosis treatment.</text>
+    </sentence>
+    <sentence charOffset="11709-12131" id="S68" selection="5">
+        <text xml:space="preserve">Switching to second-line ART (including a ritonavir-boosted protease inhibitor) was based on clinical criteria in all participants (new or recurrent WHO stage 4 event;15 or WHO stage 3 event or events at clinician discretion, particularly if recurrent or persistent), or on laboratory criteria for routine laboratory monitoring (confirmed on-ART CD4 of &lt;15% at age 1–2 years, &lt;10% at 3–4 years, &lt;100 cells/mL at ≥5 years).</text>
+    </sentence>
+    <sentence charOffset="12132-12165" id="S69" selection="">
+        <text xml:space="preserve">See appendix for further details.</text>
+    </sentence>
+    <sentence charOffset="12174-12358" id="S70" selection="6a">
+        <text xml:space="preserve">Co-primary endpoints for the monitoring randomisation were progression to new WHO stage 4 event or death (efficacy), and grade 3 or 4 adverse events not solely related to HIV (safety).</text>
+    </sentence>
+    <sentence charOffset="12359-12536" id="S71" selection="6a">
+        <text xml:space="preserve">Co-primary endpoints for the ART-strategy randomisation were change in CD4 percentage from randomisation to 72 and 144 weeks (efficacy) and grade 3 or 4 adverse events (safety).</text>
+    </sentence>
+    <sentence charOffset="12537-13113" id="S72" selection="6a">
+        <text xml:space="preserve">Secondary endpoints for both randomisations (if not co-primary) were: mortality; new (or new or recurrent) WHO stage 4 event or death; new (or new or recurrent) WHO stage 3 or 4 event or death; grade 3 or 4 adverse events definitely, probably, or uncertainly ART-related; serious adverse events22 not solely HIV-related; ART-modifying adverse events; admissions to hospital; height, weight, and body-mass index for age; CD4; number and class of antiretrovirals received; switch to second-line regimen; adherence; viral load and resistance (done retrospectively; see appendix).</text>
+    </sentence>
+    <sentence charOffset="13114-13326" id="S73" selection="6a,11a">
+        <text xml:space="preserve">All WHO stage 3 or 4 events, deaths, and serious adverse events were reviewed against prespecified criteria by an endpoint review committee with an independent chair and members, masked to randomised allocations.</text>
+    </sentence>
+    <sentence charOffset="13349-13369" id="S74" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="13378-13916" id="S75" selection="7a">
+        <text xml:space="preserve">1200 children followed up for 3·5–5·0 years with less than 10% loss to follow-up provided 90% power to establish that clinically driven monitoring was not inferior to routine laboratory monitoring on the primary efficacy outcome, defined as the upper 95% confidence limit for the difference (clinically driven minus routine laboratory monitoring) in rate of first new WHO stage 4 event or deaths per 100 child-years being no greater than 1·6 per 100 child-years (assumed rate for routine laboratory monitoring of 2·5 per 100 child-years).</text>
+    </sentence>
+    <sentence charOffset="13917-14202" id="S76" selection="7a">
+        <text xml:space="preserve">For the ART-strategy randomisation, 1200 children provided 80% power to detect differences in change in CD4 percentage of more than 2·5% across the three groups (F test, two-sided α=0·05) assuming 20% missing data (loss to follow-up, missed visit or test) and standard deviation 10%.23</text>
+    </sentence>
+    <sentence charOffset="14203-14344" id="S77" selection="7b">
+        <text xml:space="preserve">Interim data were reviewed annually by an independent data monitoring committee (four meetings) using the Haybittle-Peto criterion (p&lt;0·001).</text>
+    </sentence>
+    <sentence charOffset="14353-14674" id="S78" selection="12a">
+        <text xml:space="preserve">Randomised groups were compared with Kaplan-Meier plots, log-rank tests, and proportional hazards models, stratified by randomisation stratification factors (including the other factorial) for time-to-event disease progression, ART, and adverse event outcomes, censoring at the earlier of trial closure or last follow-up.</text>
+    </sentence>
+    <sentence charOffset="14675-14749" id="S79" selection="12a">
+        <text xml:space="preserve">Categorical variables were compared with χ2 or exact (if indicated) tests.</text>
+    </sentence>
+    <sentence charOffset="14750-14868" id="S80" selection="12a">
+        <text xml:space="preserve">Change in CD4 percentage was compared with normal linear regression adjusted for randomisation stratification factors.</text>
+    </sentence>
+    <sentence charOffset="14869-15095" id="S81" selection="12a">
+        <text xml:space="preserve">Laboratory measurements and adherence were compared across randomised groups over time with generalised estimating equations (independent correlation; closest measurement to each scheduled visit within equally spaced windows).</text>
+    </sentence>
+    <sentence charOffset="15096-15152" id="S82" selection="">
+        <text xml:space="preserve">All comparisons were as randomised (intention-to-treat).</text>
+    </sentence>
+    <sentence charOffset="15153-15365" id="S83" selection="">
+        <text xml:space="preserve">Subgroups specified in the analysis plan were the factorial randomisations, time on ART, sex, age, centre, CD4, weight for age, randomisation year, and previous ART for prevention of mother-to-child transmission.</text>
+    </sentence>
+    <sentence charOffset="15366-15451" id="S84" selection="">
+        <text xml:space="preserve">Baseline values were those nearest to but before and within 42 days of randomisation.</text>
+    </sentence>
+    <sentence charOffset="15452-15561" id="S85" selection="12a">
+        <text xml:space="preserve">Z scores were determined with the British reference because it covers the full age range of ARROW children.24</text>
+    </sentence>
+    <sentence charOffset="15562-15601" id="S86" selection="12a">
+        <text xml:space="preserve">All analyses were done with Stata 12.1.</text>
+    </sentence>
+    <sentence charOffset="15602-15629" id="S87" selection="12a">
+        <text xml:space="preserve">All p values are two-sided.</text>
+    </sentence>
+    <sentence charOffset="15638-15679" id="S88" selection="23">
+        <text xml:space="preserve">This trial is registered, ISRCTN24791884.</text>
+    </sentence>
+    <sentence charOffset="15702-15729" id="S89" selection="">
+        <text xml:space="preserve">Role of the funding sources</text>
+    </sentence>
+    <sentence charOffset="15738-16057" id="S90" selection="25">
+        <text xml:space="preserve">The sponsor (UK Medical Research Council), other funders (UK Department for International Development), and ViiV Healthcare/GlaxoSmithKline (donated drugs; funded viral load assays) had no direct role in study design, data collection, analysis, interpretation, report writing, or the decision to submit for publication.</text>
+    </sentence>
+    <sentence charOffset="16058-16161" id="S91" selection="">
+        <text xml:space="preserve">The corresponding author had full access to all data and responsibility for submission for publication.</text>
+    </sentence>
+    <sentence charOffset="16185-16192" id="S92">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="16199-16221" id="S93" selection="13a,13b,16">
+        <text xml:space="preserve">Figure 1 Trial profile</text>
+    </sentence>
+    <sentence charOffset="16239-16269" id="S94" selection="14a">
+        <text xml:space="preserve">Study ended on March 16, 2012.</text>
+    </sentence>
+    <sentence charOffset="16270-16297" id="S95" selection="">
+        <text xml:space="preserve">ART=antiretroviral therapy.</text>
+    </sentence>
+    <sentence charOffset="16298-16365" id="S96" selection="">
+        <text xml:space="preserve">*Predominant reason for ineligibility given according to frequency.</text>
+    </sentence>
+    <sentence charOffset="16366-16414" id="S97" selection="">
+        <text xml:space="preserve">† First randomisation included, second excluded.</text>
+    </sentence>
+    <sentence charOffset="16415-16449" id="S98" selection="">
+        <text xml:space="preserve">‡Communication error at enrolment.</text>
+    </sentence>
+    <sentence charOffset="16450-16501" id="S99" selection="">
+        <text xml:space="preserve">§Both on intensive phase of tuberculosis treatment.</text>
+    </sentence>
+    <sentence charOffset="16502-16542" id="S100" selection="15">
+        <text xml:space="preserve">Table 1 Characteristics at randomisation</text>
+    </sentence>
+    <sentence charOffset="16543-16601" id="S101" selection="14a,13a">
+        <text xml:space="preserve">1210 children were enrolled (March 15, 2007–Nov 18, 2008).</text>
+    </sentence>
+    <sentence charOffset="16602-16895" id="S102" selection="16,13a,13b">
+        <text xml:space="preserve">One was randomly assigned twice at different centres (second randomisation was excluded), and three had major eligibility violations, leaving 600 children assigned to routine laboratory and 606 to clinically driven monitoring, and 397 to group A, 404 to group B, and 405 to group C (figure 1).</text>
+    </sentence>
+    <sentence charOffset="16896-16969" id="S103" selection="15">
+        <text xml:space="preserve">Baseline characteristics were similar across randomised groups (table 1).</text>
+    </sentence>
+    <sentence charOffset="16970-17143" id="S104" selection="14a">
+        <text xml:space="preserve">Median follow-up to planned trial closure (March 16, 2012) was 4·0 (IQR 3·7–4·4) years in each monitoring and ART-strategy group (maximum 5·0 years; total 4685 child-years).</text>
+    </sentence>
+    <sentence charOffset="17144-17276" id="S105" selection="13b">
+        <text xml:space="preserve">Only 33 (3%) children (median follow-up 150 [IQR 46–169] weeks) not known to have died were not seen after trial closure (figure 1).</text>
+    </sentence>
+    <sentence charOffset="17277-17454" id="S106" selection="">
+        <text xml:space="preserve">Completeness of nurse visits every 4–6 weeks and doctor visits every 12 weeks was more than 95% (46 531/48 461 nurse, 19 088/19 765 doctor visits) and was similar in all groups.</text>
+    </sentence>
+    <sentence charOffset="17461-17649" id="S107" selection="">
+        <text xml:space="preserve">For children assigned to clinically driven monitoring, clinicians could request individual laboratory toxicity results from routine haematology or biochemistry panels for clinical reasons.</text>
+    </sentence>
+    <sentence charOffset="17650-17735" id="S108" selection="">
+        <text xml:space="preserve">Panel tests could also be requested in both groups at extra patient-initiated visits.</text>
+    </sentence>
+    <sentence charOffset="17736-17845" id="S109" selection="">
+        <text xml:space="preserve">However, most were done at routine visits (10 805 [92%] haematology and 10 778 [94%] biochemistry; appendix).</text>
+    </sentence>
+    <sentence charOffset="17846-18088" id="S110" selection="">
+        <text xml:space="preserve">In clinically driven monitoring, apart from week 8 haemoglobin (returned per protocol), very few results were released (from 486 [4%] panels); most commonly requested results were haemoglobin (2%, n=265) and neutrophils (3%, n=323; appendix).</text>
+    </sentence>
+    <sentence charOffset="18089-18393" id="S111" selection="">
+        <text xml:space="preserve">More additional haematology tests were requested during nurse visits or extra visits in routine laboratory than in clinically driven monitoring (p&lt;0·0001); there were no significant differences in requests for additional biochemistry tests (p=0·17) or other non-routine (eg, electrolytes) tests (p=0·97).</text>
+    </sentence>
+    <sentence charOffset="18400-18420" id="S112" selection="">
+        <text xml:space="preserve">Table 2 ART received</text>
+    </sentence>
+    <sentence charOffset="18421-18702" id="S113" selection="16">
+        <text xml:space="preserve">At trial end, 578 (95%) children on clinically driven monitoring versus 565 (94%) on routine laboratory monitoring were still on first-line ART (table 2); 330 (83%) children in group A, 356 (88%) in group B, and 367 (91%) in group C were still on their original randomised regimen.</text>
+    </sentence>
+    <sentence charOffset="18703-18841" id="S114" selection="17a">
+        <text xml:space="preserve">Among 151 first-line drug changes, equal numbers were due to adverse events and antituberculosis therapy (both 59 changes [39%]; table 2).</text>
+    </sentence>
+    <sentence charOffset="18842-19110" id="S115" selection="17a">
+        <text xml:space="preserve">Changes to first-line therapy occurred at rates of 3·3 per 100 child-years in routine laboratory monitoring versus 3·2 per 100 child-years in clinically driven monitoring (p=0·94); and 3·5, 3·7, and 2·6 per 100 child-years in groups A, B, and C, respectively (p=0·25).</text>
+    </sentence>
+    <sentence charOffset="19117-19242" id="S116" selection="17b">
+        <text xml:space="preserve">30 children in group A, 20 in group B, and nine in group C stopped nevirapine because of starting antituberculosis treatment.</text>
+    </sentence>
+    <sentence charOffset="19243-19507" id="S117" selection="17a">
+        <text xml:space="preserve">Whereas in group A nevirapine was mainly substituted with zidovudine (&lt;3 years) or efavirenz (&gt;3 years), in the four-drug groups, about a third (five children in group B and six in C) simply dropped nevirapine during four-drug induction to continue on three NRTIs.</text>
+    </sentence>
+    <sentence charOffset="19508-19699" id="S118" selection="17b">
+        <text xml:space="preserve">Adverse events resulted in a drug being substituted or dropped in five children in group A, 28 in group B, and 26 in group C; most changes were zidovudine-related (16 in B, 20 in C; table 2).</text>
+    </sentence>
+    <sentence charOffset="19706-19965" id="S119" selection="17b">
+        <text xml:space="preserve">Adherence by self-reported questionnaire was similar in both monitoring groups: mean 6·7% (1813/26 917) of children on clinically driven monitoring reported missing doses in the past 28 days versus 6·5% (1683/25 935) on routine laboratory monitoring (p=0·26).</text>
+    </sentence>
+    <sentence charOffset="19966-20315" id="S120" selection="17b">
+        <text xml:space="preserve">There were small but significant differences by ART strategy, with fewer reporting missing doses in the past 28 days in group A through week 36 (induction period; 7·9% [253/2966] in group A, 9·8% [326/3014] in group B, 9·0% [295/2999] in group C; p=0·02) and overall (6·1% [1059/16345], 7·3% [1302/16640], 6·5% [1135/16371], respectively; p&lt;0·0001).</text>
+    </sentence>
+    <sentence charOffset="20322-20432" id="S121" selection="17a">
+        <text xml:space="preserve">Figure 2 Substitution in first-line ART (any reason) and switch to second-line ART (A) By monitoring strategy.</text>
+    </sentence>
+    <sentence charOffset="20433-20453" id="S122" selection="">
+        <text xml:space="preserve">(B) By ART strategy.</text>
+    </sentence>
+    <sentence charOffset="20454-20669" id="S123" selection="">
+        <text xml:space="preserve">Lines show cumulative incidence of switch to second-line treatment before death on first-line, and of substitution in first-line before death on first-line estimated treating death on first-line as a competing risk.</text>
+    </sentence>
+    <sentence charOffset="20670-20697" id="S124" selection="">
+        <text xml:space="preserve">ART=antiretroviral therapy.</text>
+    </sentence>
+    <sentence charOffset="20698-20730" id="S125" selection="">
+        <text xml:space="preserve">CHR=cause-specific hazard ratio.</text>
+    </sentence>
+    <sentence charOffset="20731-20764" id="S126" selection="">
+        <text xml:space="preserve">CDM=clinically driven monitoring.</text>
+    </sentence>
+    <sentence charOffset="20765-20804" id="S127" selection="">
+        <text xml:space="preserve">LCM=laboratory and clinical monitoring.</text>
+    </sentence>
+    <sentence charOffset="20805-20879" id="S128" selection="17a">
+        <text xml:space="preserve">No child switched to second-line treatment during their first year on ART.</text>
+    </sentence>
+    <sentence charOffset="20880-21169" id="S129" selection="17b">
+        <text xml:space="preserve">Overall, 28 (5%) children on clinically driven monitoring versus 35 (6%) on routine laboratory monitoring switched to second-line treatment (hazard ratio [HR] 0·78, 95% CI 0·48–1·29, p=0·22; table 2; figure 2), after median 2·8 (IQR 1·8–3·3) years versus 2·2 (1·5–3·0) years, respectively.</text>
+    </sentence>
+    <sentence charOffset="21170-21262" id="S130" selection="17a">
+        <text xml:space="preserve">All children on routine laboratory monitoring meeting CD4 switch criteria actually switched.</text>
+    </sentence>
+    <sentence charOffset="21263-21571" id="S131" selection="17a">
+        <text xml:space="preserve">At switch, median CD4 percentage was 8·5% (IQR 1·5–22·5) in the clinically driven monitoring group and 7% (3–13) in the routine laboratory monitoring group; 11 children (39%) versus 14 (40%) had CD4 percentage less than 5% and six children (21%) versus none had CD4 percentage greater than 25%, respectively.</text>
+    </sentence>
+    <sentence charOffset="21572-21763" id="S132" selection="17b">
+        <text xml:space="preserve">2% of follow-up (40/2373 child-years) was spent on second-line treatment in children on clinically driven monitoring versus 3% (67/2311 child-years) in those on routine laboratory monitoring.</text>
+    </sentence>
+    <sentence charOffset="21764-21934" id="S133" selection="17b">
+        <text xml:space="preserve">26 [7%] children in group A switched to second-line treatment versus 17 [4%] in group B and 20 (5%) in group C; these differences were not significant (p=0·25; figure 2).</text>
+    </sentence>
+    <sentence charOffset="21941-22297" id="S134" selection="17a">
+        <text xml:space="preserve">There was no evidence of interaction between monitoring and induction-maintenance ART strategies in primary or secondary outcomes (heterogeneity p&gt;0·1) except for WHO stage 4 events or death in the first year on ART, for which the relative difference between clinically driven and routine laboratory monitoring varied by first-line ART strategy (appendix).</text>
+    </sentence>
+    <sentence charOffset="22298-22510" id="S135" selection="">
+        <text xml:space="preserve">Since most variation was between groups B and C, who received identical ART for the first 36 weeks, this year 1 interaction appeared attributable to chance in children initiating ART with severe immunodeficiency.</text>
+    </sentence>
+    <sentence charOffset="22517-22633" id="S136" selection="17a">
+        <text xml:space="preserve">Figure 3 New WHO 4 stage event or death (A), CD4 (B), viral load (C), and adverse events (D), by monitoring strategy</text>
+    </sentence>
+    <sentence charOffset="22651-22684" id="S137" selection="">
+        <text xml:space="preserve">CDM=clinically driven monitoring.</text>
+    </sentence>
+    <sentence charOffset="22685-22724" id="S138" selection="">
+        <text xml:space="preserve">LCM=laboratory and clinical monitoring.</text>
+    </sentence>
+    <sentence charOffset="22725-22752" id="S139" selection="">
+        <text xml:space="preserve">ART=antiretroviral therapy.</text>
+    </sentence>
+    <sentence charOffset="22753-22770" id="S140" selection="">
+        <text xml:space="preserve">AE=adverse event.</text>
+    </sentence>
+    <sentence charOffset="22771-22797" id="S141" selection="">
+        <text xml:space="preserve">SAE=serious adverse event.</text>
+    </sentence>
+    <sentence charOffset="22798-22866" id="S142" selection="">
+        <text xml:space="preserve">*CD4 cell count in children aged 5 years or older at ART initiation.</text>
+    </sentence>
+    <sentence charOffset="22867-23048" id="S143" selection="">
+        <text xml:space="preserve">† Upper lines show suppression less than 400 copies per mL and lower lines suppression less than 80 copies per mL (2:1 dilution used for most samples because of low stored volumes).</text>
+    </sentence>
+    <sentence charOffset="23049-23229" id="S144" selection="17b">
+        <text xml:space="preserve">47 (8%) children on clinically driven monitoring versus 39 (7%) on routine laboratory monitoring had a new WHO stage 4 event or died (2·0 vs 1·7 per 100 child-years, respectively).</text>
+    </sentence>
+    <sentence charOffset="23230-23380" id="S145" selection="17b">
+        <text xml:space="preserve">The absolute difference of 0·32 per 100 child-years (95% CI −0·47 to 1·12) translated into a relative HR of 1·13 (95% CI 0·73–1·73, p=0·59; figure 3).</text>
+    </sentence>
+    <sentence charOffset="23381-23484" id="S146" selection="17a">
+        <text xml:space="preserve">The upper 95% confidence limit for the absolute difference was below the non-inferiority margin of 1·6.</text>
+    </sentence>
+    <sentence charOffset="23491-23801" id="S147" selection="18">
+        <text xml:space="preserve">Although overall progression was similar, a prespecified subgroup analysis showed children on routine laboratory monitoring had higher event rates during the first 3 months on ART and lower rates from the second year on ART compared with those on clinically driven monitoring (heterogeneity p=0·045; appendix).</text>
+    </sentence>
+    <sentence charOffset="23802-24017" id="S148" selection="17b">
+        <text xml:space="preserve">After year 1, 23 (4%) children on clinically driven monitoring versus six (1%) on routine laboratory monitoring had a first WHO stage 4 event or died (difference 0·99 per 100 child-years, 95% CI 0·37–1·60, p=0·002).</text>
+    </sentence>
+    <sentence charOffset="24018-24265" id="S149" selection="17a">
+        <text xml:space="preserve">The most common WHO stage 4 events were oesophageal candidiasis (eight on clinically driven and five on routine laboratory monitoring) and severe unexplained failure-to-thrive (nine on clinically driven and three on routine laboratory monitoring).</text>
+    </sentence>
+    <sentence charOffset="24272-24545" id="S150" selection="17b">
+        <text xml:space="preserve">25 (4%) children died in the clinically driven monitoring group versus 29 (5%) in the routine laboratory monitoring group (1·1 vs 1·3 per 100 child-years, respectively; difference −0·2 per 100 child-years, 95% CI −0·82 to 0·41; HR 0·84, 95% CI 0·49–1·44; p=0·45; appendix).</text>
+    </sentence>
+    <sentence charOffset="24546-24703" id="S151" selection="17a">
+        <text xml:space="preserve">Most deaths (19 clinically driven and 20 routine laboratory monitoring) were primarily HIV-related; only one was drug-related (chemotherapy plus zidovudine).</text>
+    </sentence>
+    <sentence charOffset="24704-25079" id="S152" selection="17a">
+        <text xml:space="preserve">Similar variation over time (heterogeneity p=0·03; appendix) was observed for deaths alone as for the combined endpoint of WHO stage 4 or death (13 deaths on clinically driven and 27 on routine laboratory monitoring in first year, 12 vs two subsequently; difference 0·56 per 100 child-years, 95% CI 0·15–0·97, with 12 of the 14 deaths after 1 year in children aged &gt;8 years).</text>
+    </sentence>
+    <sentence charOffset="25080-25242" id="S153" selection="17a">
+        <text xml:space="preserve">Progression to new WHO stage 3 or 4 events or death gave similar results (HR [clinically driven:routine laboratory monitoring] 1·00, 0·73–1·38; p=0·98; appendix).</text>
+    </sentence>
+    <sentence charOffset="25243-25370" id="S154" selection="17a">
+        <text xml:space="preserve">Pulmonary tuberculosis was the commonest WHO stage 3 event (25 clinically driven monitoring, 28 routine laboratory monitoring).</text>
+    </sentence>
+    <sentence charOffset="25371-25710" id="S155" selection="17a">
+        <text xml:space="preserve">Among 45 WHO stage 3 or 4 events reported on clinically driven monitoring and 21 on routine laboratory monitoring from the second year onwards, 14 versus one were failure-to-thrive and 15 versus 15 were extrapulmonary or pulmonary tuberculosis, highlighting the potential of weight monitoring to identify first-line CD4 failure clinically.</text>
+    </sentence>
+    <sentence charOffset="25717-25830" id="S156" selection="17a">
+        <text xml:space="preserve">CD4 percentage increased throughout the first 3 years on ART before plateauing in both groups (figure 3; p=0·23).</text>
+    </sentence>
+    <sentence charOffset="25831-26001" id="S157" selection="17b">
+        <text xml:space="preserve">Only 11 (2%) children on clinically driven monitoring versus two (&lt;1%) on routine laboratory monitoring had CD4 less than 5% at their last visit (exact p=0·01; appendix).</text>
+    </sentence>
+    <sentence charOffset="26002-26088" id="S158" selection="17a">
+        <text xml:space="preserve">Viral load suppression was similar in both monitoring groups (figure 3; global p&gt;0·7).</text>
+    </sentence>
+    <sentence charOffset="26089-26517" id="S159" selection="17b">
+        <text xml:space="preserve">At the latest test, median 3·7 (IQR 3·0–4·1) years after ART initiation, 351 (77%) of 458 children on clinically driven monitoring versus 345 (78%) of 443 on routine laboratory monitoring had viral load less than 400 copies per mL (p=0·66), similar across ages (heterogeneity p=0·25); 329 (72%) on clinically driven monitoring versus 313 (71%) on routine laboratory monitoring had viral load less than 80 copies per mL (p=0·70).</text>
+    </sentence>
+    <sentence charOffset="26524-26629" id="S160" selection="17a">
+        <text xml:space="preserve">Weight for age and height for age did not differ significantly between groups (p=0·71, p=0·07; appendix).</text>
+    </sentence>
+    <sentence charOffset="26630-26857" id="S161" selection="17b">
+        <text xml:space="preserve">49 (9%) children on clinically driven monitoring versus 29 (5%) on routine laboratory monitoring had weight-for-age Z score less than −3 (approximate one thousandth percentile of normal UK weight) at last visit (global p=0·12).</text>
+    </sentence>
+    <sentence charOffset="26864-27085" id="S162" selection="17b">
+        <text xml:space="preserve">One or more grade 3 or 4 adverse events (co-primary endpoint) occurred in 283 (47%) children on clinically driven monitoring versus 282 (47%) on routine laboratory monitoring (HR 0·98, 95% CI 0·83–1·16, p=0·83; figure 3).</text>
+    </sentence>
+    <sentence charOffset="27086-27478" id="S163" selection="19,17b">
+        <text xml:space="preserve">Of 1170 adverse events (621 clinically driven monitoring, 549 routine laboratory monitoring), 810 (69%) were asymptomatic laboratory results, most commonly grade 3 neutropenia (171 clinically driven monitoring, 167 routine laboratory monitoring; appendix); only 87 (7%) were definitely, probably, or uncertainly ART-related (41 clinically driven monitoring, 46 routine laboratory monitoring).</text>
+    </sentence>
+    <sentence charOffset="27479-27648" id="S164" selection="17b">
+        <text xml:space="preserve">111 (18%) children on clinically driven monitoring versus 109 (18%) on routine laboratory monitoring had one or more grade 4 adverse events (HR 0·99, 0·76–1·29, p=0·94).</text>
+    </sentence>
+    <sentence charOffset="27649-27889" id="S165" selection="17b">
+        <text xml:space="preserve">Although there was no difference in grade 4 adverse events, 147 (24%) children on clinically driven monitoring versus 117 (20%) on routine laboratory monitoring had one or more serious adverse events (any grade; HR 1·30, 1·02–1·66, p=0·04).</text>
+    </sentence>
+    <sentence charOffset="27890-28156" id="S166" selection="19">
+        <text xml:space="preserve">Most of the 362 serious adverse events (217 clinically driven, 145 routine laboratory monitoring) were malaria (113 clinically driven, 65 routine laboratory monitoring), and most (179 clinically driven, 117 routine laboratory monitoring) were admissions to hospital.</text>
+    </sentence>
+    <sentence charOffset="28157-28375" id="S167" selection="19">
+        <text xml:space="preserve">The excess malaria serious adverse events in the clinically driven monitoring group were mostly in children with parasite counts less than 500 per 200 white blood cells, or were not diagnostically confirmed (figure 3).</text>
+    </sentence>
+    <sentence charOffset="28376-28609" id="S168" selection="17a">
+        <text xml:space="preserve">Differences in time to first hospital admission were smaller (HR 1·18, 0·99–1·41, p=0·07), with no difference in duration of admission (median 5 [IQR 3–6] days in clinically driven and routine laboratory monitoring; rank-sum p=0·54).</text>
+    </sentence>
+    <sentence charOffset="28610-28777" id="S169" selection="17b">
+        <text xml:space="preserve">ART-modifying adverse events occurred in 31 (5%) children on clinically driven monitoring versus 32 (5%) on routine laboratory monitoring (HR 0·95, 0·58–1·56, p=0·84).</text>
+    </sentence>
+    <sentence charOffset="28778-28924" id="S170" selection="17a">
+        <text xml:space="preserve">The most common modification (14 clinically driven, 13 routine laboratory monitoring) was to stop (on four-drug regimen) or substitute zidovudine.</text>
+    </sentence>
+    <sentence charOffset="28931-29040" id="S171" selection="17a">
+        <text xml:space="preserve">Figure 4 New WHO 4 stage event or death (A), CD4 (B), viral load (C), and adverse events (D), by ART strategy</text>
+    </sentence>
+    <sentence charOffset="29058-29085" id="S172" selection="">
+        <text xml:space="preserve">ART=antiretroviral therapy.</text>
+    </sentence>
+    <sentence charOffset="29086-29103" id="S173" selection="">
+        <text xml:space="preserve">AE=adverse event.</text>
+    </sentence>
+    <sentence charOffset="29104-29130" id="S174" selection="">
+        <text xml:space="preserve">SAE=serious adverse event.</text>
+    </sentence>
+    <sentence charOffset="29131-29199" id="S175" selection="">
+        <text xml:space="preserve">*CD4 cell count in children aged 5 years or older at ART initiation.</text>
+    </sentence>
+    <sentence charOffset="29200-29381" id="S176" selection="">
+        <text xml:space="preserve">† Upper lines show suppression less than 400 copies per mL and lower lines suppression less than 80 copies per mL (2:1 dilution used for most samples because of low stored volumes).</text>
+    </sentence>
+    <sentence charOffset="29382-29546" id="S177" selection="17a">
+        <text xml:space="preserve">There was no significant difference between the three ART strategy randomisation groups in mean CD4 percentage change at week 72 (p=0·33) or 144 (p=0·69; figure 4).</text>
+    </sentence>
+    <sentence charOffset="29547-29726" id="S178" selection="17a">
+        <text xml:space="preserve">However, at week 36 (when all children moved to three drugs), CD4 percentage responses were significantly greater in the four-drug induction groups (p&lt;0·0001; figure 4; appendix).</text>
+    </sentence>
+    <sentence charOffset="29733-29938" id="S179" selection="17a">
+        <text xml:space="preserve">Viral load suppression less than 400 copies per mL was similar in the three ART strategy groups at weeks 4, 36, and 48 (p&gt;0·4), but differed significantly at weeks 24 (p=0·009) and 144 (p=0·009; figure 4).</text>
+    </sentence>
+    <sentence charOffset="29939-30107" id="S180" selection="17a">
+        <text xml:space="preserve">At week 24, suppression was significantly greater in induction groups receiving four drugs (285 [88%] of 324 children in groups B and C vs 114 [77%] of 148 in group A).</text>
+    </sentence>
+    <sentence charOffset="30108-30315" id="S181" selection="17a">
+        <text xml:space="preserve">By contrast, similarly to week 144, at the latest test suppression was significantly greater in children receiving two NRTIs plus an NNRTI (496 [84%] of 591 in groups A and B vs 200 [65%] of 310 in group C).</text>
+    </sentence>
+    <sentence charOffset="30316-30598" id="S182" selection="17a">
+        <text xml:space="preserve">No significant difference was seen in suppression less than 80 copies per mL at week 24 (p=0·41); however, suppression less than 80 copies per mL was significantly greater in groups A and B at week 144 and latest test (466 [79%] in groups A and B vs 176 [57%] in group C; p&lt;0·0001).</text>
+    </sentence>
+    <sentence charOffset="30599-30703" id="S183" selection="18">
+        <text xml:space="preserve">Results were similar when restricted to children younger than 5 years (not shown) or 3 years (appendix).</text>
+    </sentence>
+    <sentence charOffset="30710-31110" id="S184" selection="17a">
+        <text xml:space="preserve">There was no evidence of differences between ART-strategy groups in progression to new WHO stage 4 event or death (HR [B:A] 0·89, 95% CI 0·53–1·48; HR [C:A] 0·91, 0·54–1·52; global p=0·89), WHO stage 3 or 4 event or death (HR [B:A] 0·82, 0·55–1·20; HR [C:A] 0·80, 0·54–1·17; global p=0·44), or mortality overall (HR [B:A] 0·66, 0·33–1·31; HR [C:A] 0·97, 0·52–1·81; global p=0·43; figure 4; appendix).</text>
+    </sentence>
+    <sentence charOffset="31111-31420" id="S185" selection="17a">
+        <text xml:space="preserve">In particular, there was no evidence that greater initial CD4 increases in groups B or C significantly reduced disease progression risks in the first year (13 deaths in group A vs nine in group B vs 18 in group C; 22 vs 19 vs 24 WHO stage 4 events or deaths; 36 vs 35 vs 37 WHO stage 3 or 4 events or deaths).</text>
+    </sentence>
+    <sentence charOffset="31421-31793" id="S186" selection="17a">
+        <text xml:space="preserve">However, there was also no suggestion of higher event rates in group C receiving long-term three-NRTI maintenance, despite lower long-term viral load suppression; if anything, fewer events occurred after 1 year (seven deaths in group A vs five in group B vs two in group C; 18 vs 13 vs eight WHO stage 4 events or deaths; 37 vs 26 vs 17 WHO stage 3 or 4 events or deaths).</text>
+    </sentence>
+    <sentence charOffset="31794-31918" id="S187" selection="17a">
+        <text xml:space="preserve">There was no evidence of differences in weight for age (p=0·58) or height for age (p=0·90) across ART strategies (appendix).</text>
+    </sentence>
+    <sentence charOffset="31925-32155" id="S188" selection="17b">
+        <text xml:space="preserve">157 (40%) children in group A, 190 (47%) in group B, and 218 (54%) in group C had one or more grade 3 or 4 adverse events (co-primary endpoint; HR [B:A] 1·32, 95% CI 1·07–1·63; HR [C:A] 1·58, 1·29–1·94; global p=0·0001; figure 4).</text>
+    </sentence>
+    <sentence charOffset="32156-32272" id="S189" selection="19">
+        <text xml:space="preserve">The difference was almost exclusively driven by excess asymptomatic neutropenia (86 vs 133 vs 184 events; appendix).</text>
+    </sentence>
+    <sentence charOffset="32273-32398" id="S190" selection="">
+        <text xml:space="preserve">There were 15 versus 41 versus 31 definitely, probably, or uncertainly ART-related grade 3 or 4 adverse events, respectively.</text>
+    </sentence>
+    <sentence charOffset="32399-32604" id="S191" selection="19">
+        <text xml:space="preserve">There were no significant differences in grade 3 or 4 anaemia or grade 4 only anaemia (with or without clinical symptoms; grade 3 or 4: 38 vs 44 vs 44, respectively; grade 4: 21 vs 24 vs 25, respectively).</text>
+    </sentence>
+    <sentence charOffset="32605-32945" id="S192" selection="17b">
+        <text xml:space="preserve">There were also no significant differences in the numbers of children with one or more grade 4 adverse events (63 [16%] vs 81 [20%] vs 76 [19%]; HR [B:A] 1·27, 0·91–1·76; HR [C:A] 1·20, 0·86–1·68; global p=0·34) or serious adverse events (87 [22%] vs 82 [20%] vs 95 [23%]; HR [B:A] 0·92, 0·68–1·25; HR [C:A] 1·09, 0·81–1·46; global p=0·53).</text>
+    </sentence>
+    <sentence charOffset="32952-33159" id="S193" selection="17b">
+        <text xml:space="preserve">ART-modifying adverse events occurred in eight (2%) children in group A versus 30 (7%) in group B and 25 (6%) in group C (HR [B:A] 3·80, 95% CI 1·74–8·29; HR (C:A) 3·09, 1·39–6·85; global p=0·002; figure 4).</text>
+    </sentence>
+    <sentence charOffset="33160-33381" id="S194" selection="19">
+        <text xml:space="preserve">The most common modification (13 children in group B, 14 in C) was to stop (on four-drug regimen) or substitute zidovudine because of anaemia, even though grade 3 and 4 anaemias occurred similarly across all three groups.</text>
+    </sentence>
+    <sentence charOffset="33382-33529" id="S195" selection="19">
+        <text xml:space="preserve">Despite substantial numbers of grade 3 neutropenias, only six children (two in group B, four in group C) modified ART (zidovudine) for this reason.</text>
+    </sentence>
+    <sentence charOffset="33530-33712" id="S196" selection="19">
+        <text xml:space="preserve">Three children substituted zidovudine because of lipoatrophy in group C; two children in group A and three in group B substituted efavirenz because of lipodystrophy or gynaecomastia.</text>
+    </sentence>
+    <sentence charOffset="33729-33739" id="S197">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="33746-33887" id="S198" selection="">
+        <text xml:space="preserve">The DART trial5 in African adults with HIV showed that routine laboratory monitoring for ART side-effects had no effect on toxicity outcomes.</text>
+    </sentence>
+    <sentence charOffset="33888-34016" id="S199" selection="">
+        <text xml:space="preserve">Although routine CD4 monitoring had significant benefits on disease progression and mortality, absolute differences were small.5</text>
+    </sentence>
+    <sentence charOffset="34017-34194" id="S200" selection="">
+        <text xml:space="preserve">Health-economic analyses suggested point-of-care CD4 tests would need to cost less than US$3·80 for monitoring every 12 weeks after the first year on ART to be cost-effective.25</text>
+    </sentence>
+    <sentence charOffset="34195-34358" id="S201" selection="">
+        <text xml:space="preserve">Smaller adult trials of routine CD4 or viral load monitoring, or both, have shown similar results,6–8 although no other trial has investigated toxicity monitoring.</text>
+    </sentence>
+    <sentence charOffset="34359-34607" id="S202" selection="">
+        <text xml:space="preserve">These results provide strong reassurance that increasing coverage by rollout of ART to adults at lower-level health facilities is the most rational and cost-effective policy at a population level, irrespective of provision of laboratory monitoring.</text>
+    </sentence>
+    <sentence charOffset="34614-34718" id="S203" selection="">
+        <text xml:space="preserve">Most health centres in resource-limited settings treat adults and children with HIV in the same clinics.</text>
+    </sentence>
+    <sentence charOffset="34719-34940" id="S204" selection="">
+        <text xml:space="preserve">However, results from studies in adults might not generalise to children who have different comorbidities (eg, more anaemia associated with malnutrition, malaria, and sepsis, which could affect haematological monitoring).</text>
+    </sentence>
+    <sentence charOffset="34941-35235" id="S205" selection="">
+        <text xml:space="preserve">Differences in predictive value and interpretation of CD4 tests,9,10 faster disease progression in young children,26 and greater sensitivity of ART-related weight gain (which has reflected virological response27) could also affect the relative benefits of laboratory versus clinical monitoring.</text>
+    </sentence>
+    <sentence charOffset="35249-35254" id="S206" selection="">
+        <text xml:space="preserve">Panel</text>
+    </sentence>
+    <sentence charOffset="35270-35289" id="S207" selection="">
+        <text xml:space="preserve">Research in context</text>
+    </sentence>
+    <sentence charOffset="35312-35329" id="S208" selection="">
+        <text xml:space="preserve">Systematic review</text>
+    </sentence>
+    <sentence charOffset="35343-35475" id="S209" selection="">
+        <text xml:space="preserve">We searched PubMed up to Jan 5, 2013, with search terms “HIV” AND “monitoring” AND (“antiretroviral therapy” OR “ART”) AND “trial”*.</text>
+    </sentence>
+    <sentence charOffset="35476-35575" id="S210" selection="">
+        <text xml:space="preserve">We identified three trials in adults;5,7,8 one further trial had been presented but not published.6</text>
+    </sentence>
+    <sentence charOffset="35576-35609" id="S211" selection="">
+        <text xml:space="preserve">There were no trials in children.</text>
+    </sentence>
+    <sentence charOffset="35610-35844" id="S212" selection="">
+        <text xml:space="preserve">Trials in adults showed that clinical monitoring was safe and feasible, but CD4 monitoring to detect first-line failure provided small additional benefits; addition of viral load to routine CD4 monitoring provided no further benefits.</text>
+    </sentence>
+    <sentence charOffset="35845-36238" id="S213" selection="">
+        <text xml:space="preserve">Replacement of “monitoring” with child* identified previous short-term (24 or 48 week) trials that showed three-drug protease inhibitor-based (lopinavir or ritonavir) ART to be superior to nevirapine-based ART in children younger than 3 years;28,29 however, studies in older children found similar responses,30 and lopinavir and ritonavir are costly and logistically challenging to administer.</text>
+    </sentence>
+    <sentence charOffset="36254-36268" id="S214" selection="">
+        <text xml:space="preserve">Interpretation</text>
+    </sentence>
+    <sentence charOffset="36282-36593" id="S215" selection="22">
+        <text xml:space="preserve">Routine laboratory monitoring for toxicity on non-nucleoside reverse transcriptase inhibitors (NNRTIs) plus nucleoside reverse transcriptase inhibitors (NRTIs; abacavir or zidovudine plus lamivudine) is not needed in children, as in adults; requiring such monitoring might be a barrier to life-saving treatment.</text>
+    </sentence>
+    <sentence charOffset="36594-36739" id="S216" selection="">
+        <text xml:space="preserve">CD4 monitoring provided a small but significant reduction in disease progression or death after the second year on ART in children, as in adults.</text>
+    </sentence>
+    <sentence charOffset="36740-36858" id="S217" selection="">
+        <text xml:space="preserve">However, unlike adults, CD4 and viral load responses were very similar irrespective of CD4 versus clinical monitoring.</text>
+    </sentence>
+    <sentence charOffset="36859-37025" id="S218" selection="">
+        <text xml:space="preserve">Monitoring weight-gain appeared a sensitive indicator of first-line CD4 failure, and drug changes occurred as often for concurrent tuberculosis as for adverse events.</text>
+    </sentence>
+    <sentence charOffset="37026-37215" id="S219" selection="">
+        <text xml:space="preserve">Four-drug ART with an NNRTI plus three NRTIs provided superior short-term virological suppression and CD4 responses, but these benefits were not sustained during maintenance three-drug ART.</text>
+    </sentence>
+    <sentence charOffset="37216-37441" id="S220" selection="22">
+        <text xml:space="preserve">However, 83% of children in ARROW had viral load less than 400 copies per mL with abacavir, lamivudine, and a NNRTI for 3·7 years, irrespective of age, supporting previously reported superiority of abacavir over zidovudine.23</text>
+    </sentence>
+    <sentence charOffset="37442-37590" id="S221" selection="22">
+        <text xml:space="preserve">Three-NRTI long-term maintenance was clinically and immunologically similar to NNRTI-based ART, and would be useful during tuberculosis cotreatment.</text>
+    </sentence>
+    <sentence charOffset="37591-37687" id="S222" selection="22">
+        <text xml:space="preserve">Results support an integrated approach to treatment of adults and children in treatment rollout.</text>
+    </sentence>
+    <sentence charOffset="37688-37796" id="S223" selection="">
+        <text xml:space="preserve">Cost and feasibility (eg, through point-of-care tests) of provision of CD4 monitoring are future challenges.</text>
+    </sentence>
+    <sentence charOffset="37802-37934" id="S224" selection="">
+        <text xml:space="preserve">We therefore undertook the first paediatric trial investigating ART monitoring in children with fairly advanced HIV disease (panel).</text>
+    </sentence>
+    <sentence charOffset="37935-38081" id="S225" selection="22">
+        <text xml:space="preserve">We found that NNRTI-based regimens, including WHO-recommended NRTIs, can be delivered safely across childhood without routine toxicity monitoring.</text>
+    </sentence>
+    <sentence charOffset="38082-38228" id="S226" selection="">
+        <text xml:space="preserve">Toxicity substitutions were infrequent, as previously reported;31 most were because of asymptomatic haematology results in children on zidovudine.</text>
+    </sentence>
+    <sentence charOffset="38229-38501" id="S227" selection="22">
+        <text xml:space="preserve">Interestingly, grade 3 and 4 and grade 4 anaemias occurred similarly across groups receiving and not receiving zidovudine, both short and long term, suggesting that anaemia in children on ART is most likely caused by chronic HIV infection rather than antiretroviral drugs.</text>
+    </sentence>
+    <sentence charOffset="38502-38744" id="S228" selection="22">
+        <text xml:space="preserve">Therefore, routine haemoglobin monitoring is likely unnecessary, even in children on zidovudine, and continuation of zidovudine without substitution (as occurred in clinically driven monitoring group C children) is unlikely to result in harm.</text>
+    </sentence>
+    <sentence charOffset="38745-38898" id="S229" selection="22">
+        <text xml:space="preserve">Further, lack of haemoglobin testing before initiation of ART should not prevent zidovudine use, since haemoglobin values increased after ART initiation.</text>
+    </sentence>
+    <sentence charOffset="38899-39011" id="S230" selection="22">
+        <text xml:space="preserve">Crucially, we observed no evidence of interaction between monitoring and ART strategies on any toxicity outcome.</text>
+    </sentence>
+    <sentence charOffset="39012-39203" id="S231" selection="">
+        <text xml:space="preserve">We previously reported very few possible hypersensitivity reactions to abacavir (four [&lt;1%] in 1206 patients32) or difficulties managing abacavir plus nevirapine together in African children.</text>
+    </sentence>
+    <sentence charOffset="39210-39333" id="S232" selection="">
+        <text xml:space="preserve">Importantly for programme planners, first-line drug substitutions occurred as often for tuberculosis as for adverse events.</text>
+    </sentence>
+    <sentence charOffset="39334-39402" id="S233" selection="">
+        <text xml:space="preserve">Tuberculosis was also by far the most common WHO stage 3 or 4 event.</text>
+    </sentence>
+    <sentence charOffset="39403-39526" id="S234" selection="">
+        <text xml:space="preserve">One advantage of the four-drug induction regimen was the ability to simply drop nevirapine in children starting rifampicin.</text>
+    </sentence>
+    <sentence charOffset="39527-39764" id="S235" selection="22">
+        <text xml:space="preserve">The ongoing tuberculosis incidence illustrates the potential usefulness of three-NRTI regimens in children, with 91% randomly assigned to group C still receiving maintenance with lamivudine, abacavir, and zidovudine after median 4 years.</text>
+    </sentence>
+    <sentence charOffset="39765-39979" id="S236" selection="">
+        <text xml:space="preserve">Tuberculosis remains particularly difficult to manage in children younger than 3 years who cannot take efavirenz, because rifampicin coadministration significantly reduces nevirapine33 and lopinavir concentrations.</text>
+    </sentence>
+    <sentence charOffset="39980-40113" id="S237" selection="">
+        <text xml:space="preserve">Super-boosting with additional ritonavir has been recommended with lopinavir,34 but ritonavir is unpalatable and difficult to dose.15</text>
+    </sentence>
+    <sentence charOffset="40114-40275" id="S238" selection="">
+        <text xml:space="preserve">Substitution to three NRTIs is frequently used for children on NNRTI plus two NRTIs developing tuberculosis, but there have been concerns about reduced efficacy.</text>
+    </sentence>
+    <sentence charOffset="40276-40409" id="S239" selection="">
+        <text xml:space="preserve">Viral load suppression was similar to standard NNRTI-based ART at 48 weeks for children moving to maintenance three-NRTI at 36 weeks.</text>
+    </sentence>
+    <sentence charOffset="40410-40583" id="S240" selection="22">
+        <text xml:space="preserve">However, viral load suppression was significantly lower at 144 weeks, suggesting that long-term three-NRTI treatment would not be advisable (even after four-drug induction).</text>
+    </sentence>
+    <sentence charOffset="40584-40821" id="S241" selection="22">
+        <text xml:space="preserve">Importantly, there was no evidence of immunological or clinical harm from roughly 15% lower viral load suppression long-term with three NRTIs; if anything this group had fewer clinical events, similar to previous randomised adult data.35</text>
+    </sentence>
+    <sentence charOffset="40822-40956" id="S242" selection="22">
+        <text xml:space="preserve">These findings provide reassurance that a three-NRTI regimen is safe for children on ART when they need antituberculosis co-treatment.</text>
+    </sentence>
+    <sentence charOffset="40963-41119" id="S243" selection="22">
+        <text xml:space="preserve">Overall, there was no evidence that clinically driven monitoring was inferior to routine laboratory monitoring in terms of disease progression or mortality.</text>
+    </sentence>
+    <sentence charOffset="41120-41279" id="S244" selection="22">
+        <text xml:space="preserve">However, we found interactions with time on ART, disease progression or death being somewhat lower in the clinically driven monitoring group in the first year.</text>
+    </sentence>
+    <sentence charOffset="41280-41429" id="S245" selection="22">
+        <text xml:space="preserve">Chance seems the most likely explanation, because management was similar with no child switching to second-line during the first year in both groups.</text>
+    </sentence>
+    <sentence charOffset="41430-41665" id="S246" selection="22">
+        <text xml:space="preserve">The only other possible explanation is that receiving CD4, biochemistry, and haematology results was actually harmful for children (eg, resulting in clinicians failing to undertake proper clinical evaluations), which seems implausible.</text>
+    </sentence>
+    <sentence charOffset="41666-41837" id="S247" selection="22">
+        <text xml:space="preserve">From the second year, our results are qualitatively similar to those of the DART trial, with small but significant clinical event excesses in clinically driven monitoring.</text>
+    </sentence>
+    <sentence charOffset="41838-42044" id="S248" selection="22">
+        <text xml:space="preserve">However, event rates were substantially lower than in DART, so the excess remained within the non-inferiority margin; also fewer children switched to second-line ART with similar proportions in both groups.</text>
+    </sentence>
+    <sentence charOffset="42045-42150" id="S249" selection="22">
+        <text xml:space="preserve">Unlike DART, there was no evidence of excess switching with very low CD4 in clinically driven monitoring.</text>
+    </sentence>
+    <sentence charOffset="42151-42457" id="S250" selection="22">
+        <text xml:space="preserve">Whereas switches in routine laboratory monitoring were predominantly triggered by falling CD4, in clinically driven monitoring most switches were for failure to thrive, which might be a more sensitive indicator of first-line CD4 failure than in adults and could be used where CD4 monitoring is unavailable.</text>
+    </sentence>
+    <sentence charOffset="42458-42644" id="S251" selection="">
+        <text xml:space="preserve">Unnecessary switching at high CD4 did occur, as in DART, but in very few children (six on clinically driven monitoring and none on routine monitoring switched with CD4 greater than 25%).</text>
+    </sentence>
+    <sentence charOffset="42645-42889" id="S252" selection="">
+        <text xml:space="preserve">Other paediatric studies in which routine CD4 and viral load monitoring were used have also reported fairly low rates of switching from first-line NNRTI-based ART over 5–6 years (eg, 8% of 2570 Ugandan children;36 22% in the PENPACT-1 trial30).</text>
+    </sentence>
+    <sentence charOffset="42896-43030" id="S253" selection="">
+        <text xml:space="preserve">As expected and previously reported, most deaths were soon after starting ART in children with lowest pre-ART CD4 or weight for age.37</text>
+    </sentence>
+    <sentence charOffset="43031-43250" id="S254" selection="22">
+        <text xml:space="preserve">Irrespective of monitoring strategy, 5-year survival was remarkably high (96%, compared with 88% in DART), emphasising the importance of good clinical care, and availability of continuous ART and concomitant treatments.</text>
+    </sentence>
+    <sentence charOffset="43251-43329" id="S255" selection="22">
+        <text xml:space="preserve">Loss to follow-up was only 2·7%, providing confidence that results are robust.</text>
+    </sentence>
+    <sentence charOffset="43330-43453" id="S256" selection="22">
+        <text xml:space="preserve">We also observed no differences between clinically driven and routine laboratory monitoring in CD4 or viral load responses.</text>
+    </sentence>
+    <sentence charOffset="43454-43627" id="S257" selection="22">
+        <text xml:space="preserve">The only difference between monitoring strategies was in serious adverse events, due to an excess of clinical malaria admissions to hospital in clinically driven monitoring.</text>
+    </sentence>
+    <sentence charOffset="43628-43903" id="S258" selection="20">
+        <text xml:space="preserve">One limitation is that the trial allocation was of necessity open; lack of knowledge of CD4 in a child on clinically driven monitoring presenting with fever could have influenced decisions about hospital admission, given the plausible differential diagnosis of bacteraemia.38</text>
+    </sentence>
+    <sentence charOffset="43910-44166" id="S259" selection="22">
+        <text xml:space="preserve">Data for viral load from the 78% of children with results suggest that initiation of ART with four drugs might significantly improve early viral load suppression, consistent with greater early CD4 responses, particularly in those with very low pre-ART CD4.</text>
+    </sentence>
+    <sentence charOffset="44167-44306" id="S260" selection="">
+        <text xml:space="preserve">By design all children moved to three drugs at 36 weeks, in view of the possible toxicity and costs of four-drug regimens in the long term.</text>
+    </sentence>
+    <sentence charOffset="44307-44620" id="S261" selection="22">
+        <text xml:space="preserve">Since toxicity differences were restricted to asymptomatic laboratory results with no effect on ART management, results hint that a longer-term four-drug, three NRTIs plus one NNRTI regimen might have continued to provide viral load and CD4 benefits, although this might not have translated into clinical benefit.</text>
+    </sentence>
+    <sentence charOffset="44621-44926" id="S262" selection="22">
+        <text xml:space="preserve">However, viral load suppression with two NRTIs plus an NNRTI was fairly high, with 83% of children receiving an NNRTI with abacavir plus lamivudine throughout achieving less than 400 copies per mL long term, irrespective of monitoring strategy, so further gains from a fourth drug might be less plausible.</text>
+    </sentence>
+    <sentence charOffset="44933-45408" id="S263" selection="22">
+        <text xml:space="preserve">Viral load suppression was similar to other trials in which viral load monitoring was done routinely (eg, 82% &lt;400 copies per mL after median 5 years on two NRTIs plus an NNRTI or a protease inhibitor;30 85% of infants &lt;400 copies per mL after median 5 years on two NRTI plsu lopinavir or ritonavir (A Violari, personal communication); 85% and 75% of children &lt;3 years &lt;400 copies per mL after 48 weeks on two NRTI plus lopinavir or ritonavir, or nevirapine, respectively28).</text>
+    </sentence>
+    <sentence charOffset="45409-45548" id="S264" selection="22">
+        <text xml:space="preserve">This finding might be partly because of superiority of abacavir (in the ARROW two-NRTI backbone) over zidovudine, as previously reported.27</text>
+    </sentence>
+    <sentence charOffset="45549-45713" id="S265" selection="22">
+        <text xml:space="preserve">Coupled with the low clinical event rates after 1 year in ARROW, our data suggest any additional benefits from routine viral load monitoring are likely to be small.</text>
+    </sentence>
+    <sentence charOffset="45714-45921" id="S266" selection="22">
+        <text xml:space="preserve">Although CD4 and viral load failure do not correlate well,39 the implications of late detection of viral load failure are likely to depend largely on how resistance evolves with persisting viral replication.</text>
+    </sentence>
+    <sentence charOffset="45922-46350" id="S267" selection="">
+        <text xml:space="preserve">In PENPACT-1, lamivudine and NNRTI resistance occurred with low-level viral load failure,30 so the consequences of delaying switch on these regimens until CD4 failure might be small; the 3-year PHPT trial in adults, which randomly assigned patients to routine CD4 with or without viral load monitoring, found no additional benefit from viral load, although patients in both groups of this trial had high viral load suppression.6</text>
+    </sentence>
+    <sentence charOffset="46357-46579" id="S268" selection="20">
+        <text xml:space="preserve">Although open allocation was an unavoidable limitation of the monitoring randomisation and was not undertaken for the ART-strategy randomisation, the endpoint review committee adjudicated endpoints masked to randomisation.</text>
+    </sentence>
+    <sentence charOffset="46580-46745" id="S269" selection="">
+        <text xml:space="preserve">In a survey at ARROW exit, only four (1%) of 561 participants on clinically driven monitoring reported having CD4 testing done privately; clinicians remained masked.</text>
+    </sentence>
+    <sentence charOffset="46746-47055" id="S270" selection="21">
+        <text xml:space="preserve">One possible criticism is that all ARROW centres had laboratories; however, the only way our results would not generalise to centres with lower-quality clinical care would be if these health-care workers were able to act more appropriately on routine laboratory results than in centres with high-quality care.</text>
+    </sentence>
+    <sentence charOffset="47056-47260" id="S271" selection="20">
+        <text xml:space="preserve">This scenario seems unlikely since substantial CD4 variability and complexity around toxicity test interpretation mean that simple rules for acting on routine test results are unlikely ever to be optimum.</text>
+    </sentence>
+    <sentence charOffset="47261-47393" id="S272" selection="">
+        <text xml:space="preserve">Rather, clinicians providing the best clinical care are plausibly also best able to interpret and act on routine laboratory results.</text>
+    </sentence>
+    <sentence charOffset="47394-47649" id="S273" selection="21">
+        <text xml:space="preserve">Thus although the overall risks of WHO events or death might be higher under poorer clinical care, differences in outcomes between routine and clinically driven laboratory monitoring would be likely, if anything, to be even smaller than observed in ARROW.</text>
+    </sentence>
+    <sentence charOffset="47650-47831" id="S274" selection="22">
+        <text xml:space="preserve">Of note, we found no evidence that small benefits from CD4 monitoring varied by pre-ART CD4 or percentage, suggesting our results are robust to changes in ART initiation thresholds.</text>
+    </sentence>
+    <sentence charOffset="47838-47928" id="S275" selection="">
+        <text xml:space="preserve">Toxicity monitoring has no benefit and costs money; it cannot therefore be cost-effective.</text>
+    </sentence>
+    <sentence charOffset="47929-48060" id="S276" selection="">
+        <text xml:space="preserve">This fact should reinforce WHO guidelines that routine toxicity tests are not required for paediatric ART provision, as for adults.</text>
+    </sentence>
+    <sentence charOffset="48061-48418" id="S277" selection="">
+        <text xml:space="preserve">Formal cost-effectiveness analysis is ongoing: given reduced efficacy of CD4 monitoring compared with DART, CD4 monitoring every 12 weeks is unlikely to be cost-effective in children overall (P Revill, personal communication), although it might have some potential to pick up earlier failure in older children or adolescents concealing adherence challenges.</text>
+    </sentence>
+    <sentence charOffset="48419-48703" id="S278" selection="">
+        <text xml:space="preserve">Cost-effectiveness analysis and systematic review is also planned to compare the induction-maintenance ART strategy with NNRTI and protease inhibitor-based first-line ART, including sensitivity analyses to account for increased efficacy but greater cost of abacavir versus zidovudine.</text>
+    </sentence>
+    <sentence charOffset="48710-48890" id="S279" selection="22">
+        <text xml:space="preserve">In conclusion, ARROW results should send a strong message to African ART programmes to accelerate ART rollout to children since this process currently lags woefully behind adults.3</text>
+    </sentence>
+    <sentence charOffset="48891-49058" id="S280" selection="22">
+        <text xml:space="preserve">The key finding is that ART provides enormous benefits to children and can be delivered safely with good-quality clinical care and without routine toxicity monitoring.</text>
+    </sentence>
+    <sentence charOffset="49059-49295" id="S281" selection="22">
+        <text xml:space="preserve">For children initiating ART with severe immune suppression, addition of a fourth drug improves short-term immunological and virological responses; whether continuing a four-drug regimen longer-term would be advantageous remains unclear.</text>
+    </sentence>
+    <sentence charOffset="49296-49431" id="S282" selection="22">
+        <text xml:space="preserve">However, ARROW results support short-term use of three-drug NRTI regimens during antituberculosis treatment in children already on ART.</text>
+    </sentence>
+    <sentence charOffset="49432-49566" id="S283" selection="22">
+        <text xml:space="preserve">Simple point-of-care CD4 tests might have a future role, at least to confirm clinical need to switch to second-line ART, as in DART.40</text>
+    </sentence>
+    <sentence charOffset="49567-49708" id="S284" selection="22">
+        <text xml:space="preserve">In children, monitoring of weight gain should be emphasised as an important additional clinical aid for identification of first-line failure.</text>
+    </sentence>
+    <sentence charOffset="49709-49837" id="S285" selection="22">
+        <text xml:space="preserve">Laboratory tests remain important for assessment of ART eligibility and for diagnosis and management of intercurrent infections.</text>
+    </sentence>
+    <sentence charOffset="49838-50074" id="S286" selection="">
+        <text xml:space="preserve">Mentoring of health-care workers to foster quality clinical care and reassurance that children do very well without laboratory monitoring of ART should energise faster and further scale-up of ART rollout for children with HIV in Africa.</text>
+    </sentence>
+    <sentence charOffset="50093-50195" id="S287" selection="">
+        <text xml:space="preserve">Correspondence to: Prof Diana M Gibb, MRC Clinical Trials Unit, London WC2B 6NH, UK, dmg@ctu.mrc.ac.uk</text>
+    </sentence>
+    <sentence charOffset="50213-50224" id="S288">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="50232-50254" id="S289" selection="">
+        <text xml:space="preserve">Supplementary Material</text>
+    </sentence>
+    <sentence charOffset="50276-50298" id="S290" selection="">
+        <text xml:space="preserve">Supplementary appendix</text>
+    </sentence>
+    <sentence charOffset="50321-50343" id="S291" selection="">
+        <text xml:space="preserve">Supplementary Material</text>
+    </sentence>
+    <sentence charOffset="50365-50624" id="S292" selection="">
+        <text xml:space="preserve">Supplementary video             Evidence from a large randomised controlled trial shows HIV treatment can be delivered safely to children with good quality clinical care, without routine laboratory tests to monitor for side effects or treatment effectiveness.</text>
+    </sentence>
+    <sentence charOffset="50656-50671" id="S293" selection="">
+        <text xml:space="preserve">Acknowledgments</text>
+    </sentence>
+    <sentence charOffset="50680-51062" id="S294" selection="">
+        <text xml:space="preserve">Analysis and writing committee: Adeodata Kekitiinwa, Adrian Cook, Kusum Nathoo, Peter Mugyenyi, Patricia Nahirya-Ntege, Sabrina Bakeera-Kitaka, Margaret Thomason, Mutsa Bwakura-Dangarembizi, Victor Musiime, Paula Munderi, Bethany Naidoo-James, Tichaona Vhembo, Constance Tumusiime, Richard Katuramu, Jane Crawley, Andrew J Prendergast, Philippa Musoke, A Sarah Walker, Diana M Gibb.</text>
+    </sentence>
+    <sentence charOffset="51063-51217" id="S295" selection="">
+        <text xml:space="preserve">We thank the children, carers, and staff from all the centres participating in the ARROW trial, and the ARROW trial steering committee for access to data.</text>
+    </sentence>
+    <sentence charOffset="51226-51475" id="S296" selection="">
+        <text xml:space="preserve">MRC/UVRI Uganda Research Unit on AIDS, Entebbe, Uganda: P Munderi, P Nahirya-Ntege, R Katuramu, J Lutaakome, F Nankya, G Nabulime, I Sekamatte, J Kyarimpa, A Ruberantwari, R Sebukyu, G Tushabe, D Wangi, M Musinguzi, M Aber, L Matama, D Nakitto-Kesi.</text>
+    </sentence>
+    <sentence charOffset="51484-51928" id="S297" selection="">
+        <text xml:space="preserve">Joint Clinical Research Centre, Kampala, Uganda: P Mugyenyi, V Musiime, R Keishanyu, VD Afayo, J Bwomezi, J Byaruhanga, P Erimu, C Karungi, H Kizito, W S Namala, J Namusanje, R Nandugwa, T K Najjuko, E Natukunda, M Ndigendawani, S O Nsiyona, R Kibenge, B Bainomuhwezi, D Sseremba, J Tezikyabbiri, C S Tumusiime, A Balaba, A Mugumya, F Nghania, D Mwebesa, M Mutumba, E Bagurukira, F Odongo, S Mubokyi, M Ssenyonga, M Kasango, E Lutalo, P Oronon.</text>
+    </sentence>
+    <sentence charOffset="51937-52297" id="S298" selection="">
+        <text xml:space="preserve">University of Zimbabwe, Harare, Zimbabwe: K J Nathoo, M F Bwakura-Dangarembizi, F Mapinge, E Chidziva, T Mhute, T Vhembo, R Mandidewa, M Chipiti, R Dzapasi, C Katanda, D Nyoni, G C Tinago, J Bhiri, S Mudzingwa, D Muchabaiwa, M Phiri, V Masore, C C Marozva, S J Maturure, S Tsikirayi, L Munetsi, K M Rashirai, J Steamer, R Nhema, W Bikwa, B Tambawoga, E Mufuka.</text>
+    </sentence>
+    <sentence charOffset="52306-52557" id="S299" selection="">
+        <text xml:space="preserve">Baylor College of Medicine Children's Foundation Uganda, Mulago Hospital, Uganda: A Kekitiinwa, P Musoke, S Bakeera-Kitaka, R Namuddu, P Kasirye, A Babirye, J Asello, S Nakalanzi, N C Ssemambo, J Nakafeero, J Tikabibamu, G Musoba, J Ssanyu, M Kisekka.</text>
+    </sentence>
+    <sentence charOffset="52566-52737" id="S300" selection="">
+        <text xml:space="preserve">MRC Clinical Trials Unit, London, UK: D M Gibb, M J Thomason, A S Walker, A D Cook, B Naidoo-James, M J Spyer, C Male, A J Glabay, L K Kendall, J Crawley, A J Prendergast.</text>
+    </sentence>
+    <sentence charOffset="52746-52806" id="S301" selection="">
+        <text xml:space="preserve">Independent ARROW trial monitors: I Machingura, S Ssenyonjo.</text>
+    </sentence>
+    <sentence charOffset="52815-53044" id="S302" selection="">
+        <text xml:space="preserve">Trial steering committee: I Weller (chair), E Luyirika, H Lyall, E Malianga, C Mwansambo, M Nyathi, F Miiro, D M Gibb, A Kekitiinwa, P Mugyenyi, P Munderi, K J Nathoo, A S Walker; Observers S Kinn, M McNeil, M Roberts, W Snowden.</text>
+    </sentence>
+    <sentence charOffset="53053-53155" id="S303" selection="">
+        <text xml:space="preserve">Data and safety monitoring committee: A Breckenridge (chair), A Pozniak, C Hill, J Matenga, J Tumwine.</text>
+    </sentence>
+    <sentence charOffset="53164-53388" id="S304" selection="">
+        <text xml:space="preserve">Endpoint review committee (independent members): G Tudor-Williams (Chair), H Barigye, H A Mujuru, G Ndeezi; Observers S Bakeera-Kitaka, M F Bwakura-Dangarembizi, J Crawley, V Musiime, P Nahirya-Ntege, A Prendergast, M Spyer.</text>
+    </sentence>
+    <sentence charOffset="53397-53467" id="S305" selection="">
+        <text xml:space="preserve">Economics group: P Revill, T Mabugu, F Mirimo, S Walker, M J Sculpher.</text>
+    </sentence>
+    <sentence charOffset="53476-53588" id="S306" selection="25">
+        <text xml:space="preserve">Funding: ARROW is funded by the UK Medical Research Council and the UK Department for International Development.</text>
+    </sentence>
+    <sentence charOffset="53589-53699" id="S307" selection="25">
+        <text xml:space="preserve">ViiV Healthcare/GlaxoSmithKline donated first-line drugs for ARROW and provided funding for viral load assays.</text>
+    </sentence>
+    <sentence charOffset="53719-53731" id="S308" selection="">
+        <text xml:space="preserve">Contributors</text>
+    </sentence>
+    <sentence charOffset="53738-53829" id="S309" selection="">
+        <text xml:space="preserve">The ARROW trial was designed by DMG, ASW, AK, KN, PMug, SB-K, MT, MB-D, VM, PMun, and PMus.</text>
+    </sentence>
+    <sentence charOffset="53830-54010" id="S310" selection="">
+        <text xml:space="preserve">The trial was done in Uganda by AK, PMug, PN-N, SB-K, VM, PMun, PMus, RK, and CT, and in Zimbabwe by KN, MB-D, TV, and AJP; and coordinated in the UK by DMG, MT, BN-J, JC, and ASW.</text>
+    </sentence>
+    <sentence charOffset="54011-54112" id="S311" selection="">
+        <text xml:space="preserve">ASW and ADC wrote the trial analysis plan, which all authors then reviewed; and ADC did the analyses.</text>
+    </sentence>
+    <sentence charOffset="54113-54167" id="S312" selection="">
+        <text xml:space="preserve">All authors contributed to interpretation of the data.</text>
+    </sentence>
+    <sentence charOffset="54168-54222" id="S313" selection="">
+        <text xml:space="preserve">DMG, ADC, and ASW wrote the first draft of the report.</text>
+    </sentence>
+    <sentence charOffset="54223-54296" id="S314" selection="">
+        <text xml:space="preserve">All authors revised the report critically and approved the final version.</text>
+    </sentence>
+    <sentence charOffset="54309-54330" id="S315" selection="">
+        <text xml:space="preserve">Conflicts of interest</text>
+    </sentence>
+    <sentence charOffset="54337-54386" id="S316" selection="">
+        <text xml:space="preserve">We declare that we have no conflicts of interest.</text>
+    </sentence>
+    <section textSpan="0-194" title="Title" titleSpan="0-5"/>
+    <section textSpan="195-4373" title="Summary" titleSpan="204-211">
+        <section textSpan="220-443" title="Background" titleSpan="231-241"/>
+        <section textSpan="452-2148" title="Methods" titleSpan="463-470"/>
+        <section textSpan="2157-3604" title="Findings" titleSpan="2168-2176"/>
+        <section textSpan="3613-4159" title="Interpretation" titleSpan="3624-3638"/>
+        <section textSpan="4168-4366" title="Funding" titleSpan="4179-4186"/>
+    </section>
+    <section textSpan="4380-7398" title="Introduction" titleSpan="4387-4399"/>
+    <section textSpan="7403-16173" title="Methods" titleSpan="7410-7417">
+        <section textSpan="7424-9477" title="Trial design" titleSpan="7433-7445"/>
+        <section textSpan="9484-10153" title="Randomisation and masking" titleSpan="9493-9518"/>
+        <section textSpan="10160-13333" title="Procedures" titleSpan="10169-10179"/>
+        <section textSpan="13340-15686" title="Statistical analysis" titleSpan="13349-13369"/>
+        <section textSpan="15693-16168" title="Role of the funding sources" titleSpan="15702-15729"/>
+    </section>
+    <section textSpan="16178-33717" title="Results" titleSpan="16185-16192"/>
+    <section textSpan="33722-50208" title="Discussion" titleSpan="33729-33739"/>
+    <section textSpan="50213-54392" title="Back matter" titleSpan="50213-50224"/>
+</document>

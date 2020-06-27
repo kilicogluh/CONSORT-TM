@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC4431679" note="">
+    <text xml:space="preserve">Title
+Trimethoprim-sulfamethoxazole versus vancomycin for severe infections caused by meticillin resistant Staphylococcus aureus: randomised controlled trial
+Abstract
+
+        Objective To show non-inferiority of trimethoprim-sulfamethoxazole compared with vancomycin for the treatment of severe infections due to meticillin resistant Staphylococcus aureus (MRSA).
+        Design Parallel, open label, randomised controlled trial.
+        Setting Four acute care hospitals in Israel.
+        Participants Adults with severe infections caused by MRSA susceptible to trimethoprim-sulfamethoxazole and vancomycin. Patients with left sided endocarditis, meningitis, chronic haemodialysis, and prolonged neutropenia were excluded.
+        Interventions Trimethoprim-sulfamethoxazole 320 mg/1600 mg twice daily versus vancomycin 1 g twice daily for a minimum of seven days and then by indication.
+        Main outcome measures The primary efficacy outcome was treatment failure assessed at day 7, consisting of death, persistence of haemodynamic instability or fever, stable or worsening Sequential Organ Failure Assessment score, and persistence of bacteraemia. The primary safety outcome was all cause mortality at day 30. Non-inferiority was defined by a difference of less than 15% for treatment failure.
+        Results 252 patients were included in the trial, of whom 91 (36%) had bacteraemia. No significant difference in treatment failure was seen for trimethoprim-sulfamethoxazole (51/135, 38%) versus vancomycin (32/117, 27%)—risk ratio 1.38 (95% confidence interval 0.96 to 1.99). However, trimethoprim-sulfamethoxazole did not meet the non-inferiority criterion—absolute difference 10.4% (95% confidence interval −1.2% to 21.5%). For patients with bacteraemia, the risk ratio was 1.40 (0.91 to 2.16). In a multivariable logistic regression analysis, trimethoprim-sulfamethoxazole was significantly associated with treatment failure (adjusted odds ratio 2.00, 1.09 to 3.65). The 30 day mortality rate was 32/252 (13%), with no significant difference between arms. Among patients with bacteraemia, 14/41 (34%) treated with trimethoprim-sulfamethoxazole and 9/50 (18%) with vancomycin died (risk ratio 1.90, 0.92 to 3.93).
+        Conclusions High dose trimethoprim-sulfamethoxazole did not achieve non-inferiority to vancomycin in the treatment of severe MRSA infections. The difference was particularly marked for patients with bacteraemia.
+        Trial registration Clinical trials NCT00427076.
+      
+
+
+    
+      Introduction
+      Trimethoprim-sulfamethoxazole is an old antibiotic active against Staphylococcus aureus. Trimethoprim is the main active component and bactericidal in itself, but the combination is highly synergistic.1 With increasing rates of meticillin resistant Staphylococcus aureus (MRSA) infections in healthcare settings and in the community, trimethoprim-sulfamethoxazole has been suggested as a convenient treatment option.2 3 4
+      MRSA isolates have retained susceptibility to trimethoprim-sulfamethoxazole in many locations worldwide despite several decades of exposure to the antibiotic. Coverage rates above 90% are described in contemporary reports for community associated MRSA and nosocomial isolates in the United States,5 6 7 8 Canada,9 10 11 Japan,12, Europe, Israel, and Turkey.13 14 15 Resistance is described in Australia, where 30% of nosocomial and 10% of community associated MRSA isolates were resistant to trimethoprim-sulfamethoxazole in 2012, but a significant trend for decreasing resistance from 2005 was observed, unlike other antibiotics.16 17 In sub-Saharan Africa, 19% resistance has been recently documented, owing to high rates of trimethoprim resistance.18 In India, more than 85% of MRSA isolates were resistant to trimethoprim-sulfamethoxazole between 2009 and 2011.19 20
+      Trimethoprim-sulfamethoxazole is recommended for the treatment of uncomplicated skin and soft tissue infections but not for MRSA bacteraemia or pneumonia.21 Vancomycin is the primary treatment recommendation for these infections. Alternatives to vancomycin are sought as vancomycin is inferior to β lactams in meticillin susceptible S aureus infections,22 23 and it may be less effective against MRSA at the higher end of the vancomycin susceptible range.24 In a small observational study, we reported similar outcomes for trimethoprim-sulfamethoxazole and vancomycin in the treatment of MRSA bacteraemia.25 Favourable outcomes for trimethoprim-sulfamethoxazole compared with vancomycin were reported in an observational study focusing on infections caused by MRSA with a minimal inhibitory concentration of 2 μg/mL to vancomycin.8 In both studies, treatment with trimethoprim-sulfamethoxazole was given to significantly less ill patients.
+      We did a randomised controlled trial to assess whether trimethoprim-sulfamethoxazole is non-inferior to vancomycin for the treatment of inpatients with severe MRSA infections, including bacteraemia.
+    
+    
+      Methods
+      This was an open label, parallel, one to one randomised controlled trial, conducted in four acute care hospitals (Rabin Medical Center, Petah-Tikva (192 patients); Rambam Health Care Campus (38 patients); Holy Family Hospital Nazareth (7 patients); Wolfson Medical Center (6 patients)) in Israel, between July 2007 and April 2014. Informed consent was obtained from all patients or their legal guardian.
+      
+        Study population and procedures
+        We included adult inpatients with severe infections caused by MRSA, including bacteraemia, and patients with highly probable MRSA infections. We defined bacteraemia as the isolation of MRSA in more than one blood culture bottle or isolated in a single bottle and accompanied by fever above 38°C, chills, or systolic blood pressure under 90 mm Hg. We defined other microbiologically documented MRSA infections by using predefined criteria adapted from surveillance definitions of healthcare associated infections,26 plus isolation of MRSA from a sterile sample from the source of infection. Patients with skin and soft tissue infections could be included only if they fulfilled the sepsis inflammatory response syndrome criteria.27 Patients with polymicrobial infections could be included, except those involving meticillin susceptible S aureus or mandating treatment with vancomycin or trimethoprim-sulfamethoxazole. The highly probable group included patients with ventilator associated pneumonia and prior antibiotic treatment, central catheter related infections, and surgical site infections in the presence of a foreign body, all without microbiological documentation.28 We excluded patients who had received trimethoprim-sulfamethoxazole or vancomycin for more than 48 hours; patients with MRSA resistant to trimethoprim-sulfamethoxazole or vancomycin; those with highly suspected or confirmed left sided endocarditis or meningitis; patients with chronic renal failure (creatinine clearance &lt;15 mL/min) and chronic haemodialysis (those with severe acute renal failure, including acute haemodialysis, could be included); neutropenic patients with acute leukaemia or bone marrow transplantation; and patients with known allergy to either study drug, treatment with methotrexate, pregnancy or lactation, previous enrolment in this study, or concurrent participation in another trial.
+        We used a central computer generated random number list to randomise patients to treatment with trimethoprim-sulfamethoxazole or vancomycin. Allocation was concealed in sealed, opaque numbered envelopes that were opened consecutively after informed consent was obtained. Trimethoprim-sulfamethoxazole was started intravenously at a dose of 320 mg trimethoprim/1600 mg sulfamethoxazole twice daily and could be switched to oral treatment using the same dose at the discretion of the treating physician. Dosing was based on a pharmacokinetic study showing that a lower dose resulted in inhibition but not killing of S aureus and on the dose used in a previous trial.23 29 The vancomycin starting dose was 1 g twice daily. In both arms, treatment was adjusted to renal function; in the vancomycin arm, it was directed by serum concentrations to obtain drug trough concentrations between 10 and 20 mg/dL. The complete study protocol is available on request. Treatment had to be administered for a minimum of seven days, following which the duration depended on the indication. Concomitant antibiotics, other than the combination of vancomycin and co-trimoxazole, could be administered. After randomisation, no blinding was performed, but outcomes were adjudicated blinded to allocation.
+      
+      
+        Outcomes
+        The primary efficacy outcome was clinical treatment failure at seven days and was a composite of death, persistence of fever (&lt;38°C for two consecutive days and no increase above 38° after resolution was required to rule out persistence), persistence of hypotension (&lt;90 mm Hg systolic or need for vasopressor support), non-improving Sequential Organ Failure Assessment (SOFA) score (for baseline SOFA ≥3, a decrease of at least 30% was required; and for baseline SOFA &lt;3, a stable or decreased SOFA score was required to rule out failure), or persistent bacteraemia on day 7. Blood cultures were repeated on day 2 for all patients with bacteraemia and daily thereafter for patients with persistent fever, persistent bacteraemia, or other signs of infection. We also defined a primary safety outcome of all cause mortality at 30 days.
+        Secondary outcomes included failure or modification of treatment, comprising treatment failure (as defined) or antibiotic treatment modification; bacteriological failure, defined as growth of MRSA on day 7 cultures; persistence of bacteraemia at 48 hours; length of hospital admission; duration of fever, summing all days with at least one measurement of temperature 38°C or above until day 30; and development of resistance defined as acquisition of trimethoprim-sulfamethoxazole or vancomycin resistant S aureus or vancomycin resistant Enterococci. Adverse events included renal failure defined using RIFLE criteria,30 rash, leucopoenia, any diarrhoea and Clostridium difficile associated diarrhoea, and other adverse events.
+      
+      
+        Sample size and analysis
+        To establish non-inferiority, we allowed a difference of up to 15% in the primary outcome. Assuming a 30% treatment failure rate for both treatment groups, we needed a sample of 128 patients per arm for a one sided test to rule out the pre-specified difference in the 95% confidence interval of the difference between groups, allowing for 10% non-evaluable patients (α=0.05, β=0.8). We did interim analyses of the primary safety outcome after recruitment of one third and two thirds of patients, with stopping boundaries (two sided α level, P&lt;0.01).
+        We did the primary analysis by intention to treat. We did per protocol analysis for patients without exclusion criteria after randomisation who received allocated treatment for a minimum of seven days. We did subgroup analysis for patients with MRSA bacteraemia. We used χ2 or Fisher’s exact tests to compare categorical outcomes. Continuous outcomes were skewed, so we described them as medians and compared them by using a median difference, all with 95% confidence intervals.31 We did multivariable analyses for the primary efficacy outcome, including the treatment arm as an independent variable. We entered all variables significantly associated with the outcome on univariate analysis (P&lt;0.05) and not correlated (Spearman correlation &gt;0.5) into a logistic regression analysis. We present risk ratios or odds ratios with 95% confidence intervals.
+      
+    
+    
+      Results
+      We evaluated 782 patients with clinically significant MRSA isolates, of whom 252 were included. The main reasons for exclusion were previous treatment with trimethoprim-sulfamethoxazole or vancomycin for more than 48 hours or inability to provide informed consent, related mostly to severity of sepsis (figure). Inclusion was based on microbiologically documented inclusion criteria in 245 (97%) patients: 91 (36%) with bacteraemia and 154 (61%) with MRSA isolated from other clinical samples. Patients’ mean age was 65.8 (SD 17) years, and all infections were healthcare associated (218 (87%) hospital acquired). Characteristics of patients and infections were mostly balanced between groups; the exception was bacteraemia, which was more common in the vancomycin group (table 1). Appropriate empirical antibiotic treatment was infrequent. Surgical interventions and catheter extraction, when indicated, were performed in similar proportions in the two study groups. Vancomycin trough concentrations were available for 97/117 (82.9%) patients in the vancomycin arm (≥10 µg/mL in 80 (83%) patients and ≥15 µg/mL in 65 (67%) patients). Isolates’ minimum inhibitory concentration to vancomycin was 2 µg/mL in 12/77 (16%) of patients in the vancomycin arm and lower in the remaining patients. All isolates were susceptible to trimethoprim-sulfamethoxazole (disk zone ≤10 mm). The median duration of treatment with assigned antibiotics in the per protocol population was 17 (95% confidence interval 12 to 22) days with trimethoprim-sulfamethoxazole (n=110) and 14 (13 to 15) days with vancomycin (n=96). Potentially effective antibiotics against MRSA (mainly rifampin) were added throughout the treatment course for 14/135 (10%) patients in the trimethoprim-sulfamethoxazole arm and 8/117 (7%) patients in the vancomycin arm (P=0.32).
+       Flow of patients through study. BMT=bone marrow transplant; MRSA=meticillin resistant Staphylococcus aureus
+      Table 1  Patients’ characteristics. Values are numbers (percentages) unless stated otherwise
+      We found no significant difference in treatment failure at day 7 between trimethoprim-sulfamethoxazole and vancomycin (risk ratio 1.38, 95% confidence interval 0.96 to 1.99) (table 2. The failure rate with trimethoprim-sulfamethoxazole was 51/135 (38%) compared with 32/117 (27%) with vancomycin, and the 95% confidence interval for the difference fell outside the lower limit of the 15% predefined for non-inferiority (−1.2% to 21.5%). Of the components comprising the composite outcome, the advantage to vancomycin emerged from higher bacteraemia persistence at day 7 and lack of improvement in SOFA score at day 7 with trimethoprim-sulfamethoxazole. We observed similar results in the per protocol population of patients completing seven days’ treatment (risk ratio 1.24, 0.82 to 1.89; absolute difference 9.9%, −3.1% to 22.5%) and for patients with bacteraemia (risk ratio 1.40, 0.91 to 2.16). Restricting the analysis to patients in the vancomycin group whose isolates’ minimum inhibitory concentrations were below 2 µg/mL resulted in a larger risk ratio in favour of vancomycin (1.64, 0.99 to 2.68).
+      Table 2  Study outcomes. Values are numbers (percentages) unless stated otherwise
+      All cause 30 day mortality did not differ significantly between groups. However, among patients with bacteraemia, mortality was nearly twice as high with trimethoprim-sulfamethoxazole—14/41 (34%) versus 9/50 (18%) with vancomycin (risk ratio 1.90, 0.92 to 3.93). Among non-bacteraemic patients, mortality rates were low (5/94 (5%) v 4/67 (6%)) and not significantly different (risk ratio 0.89, 0.25 to 3.2).
+      We found no significant differences with regard to the pre-defined secondary outcomes (table 2). Persistence of bacteraemia was slightly more common with vancomycin at 48 hours and with trimethoprim-sulfamethoxazole at seven days. There was no significant difference in length of hospital admission for patients discharged alive. Adverse events were reported with similar frequency. Renal failure at day 7 and day 30 was slightly more common with vancomycin, but this was not statistically significant (table 3).
+      Table 3  Adverse events. Values are numbers (percentages) unless stated otherwise
+      Variables significantly associated with the primary outcome on univariate analysis were included in the multivariable analysis. McCabe score, presence of nasogastric tube or urine catheter at onset of infection, white blood count, and albumin concentrations were associated with treatment failure but correlated with other included variables and were not entered into the regression analysis. Other significant variables are shown in table 4. On multivariable analysis, allocation to trimethoprim-sulfamethoxazole was significantly associated with treatment failure (adjusted odds ratio 2.00, 1.09 to 3.65). Other independent risk factors were bacteraemia and mechanical ventilation at infection onset; surgery in the 30 days before infection was inversely associated with treatment failure.
+      Table 4  Multivariate analysis for treatment failure
+    
+    
+      Discussion
+      In a randomised controlled trial including 252 patients with severe MRSA infections, trimethoprim-sulfamethoxazole did not fulfil criteria for non-inferiority to vancomycin. The absolute difference in treatment failure rates at day 7—comprising death, clinical/haemodynamic instability, and persistence of bacteraemia—was 10.4% (−1.2% to 21.5%) in favour of vancomycin, crossing the upper limit of 15% difference defined for non-inferiority. After adjustment for differences between groups, treatment with trimethoprim-sulfamethoxazole was significantly associated with treatment failure (odds ratio 2.00, 1.09 to 3.65). Thirty day mortality did not differ significantly between groups (risk ratio 1.27, 0.65 to 2.45); however, among patients with bacteraemia (n=91), death rates were non-significantly higher with trimethoprim-sulfamethoxazole. Results were similar in a per protocol analysis. Bacteriological cure and adverse event rates did not differ significantly between groups.
+      Our trial was pragmatic, targeting all patients treated with vancomycin in clinical practice. We defined no exclusion criteria related to severity of background illness or sepsis. Exclusions were based only on contraindications for trimethoprim-sulfamethoxazole (such as chronic haemodialysis) or previous evidence suggesting inferiority of trimethoprim-sulfamethoxazole. We thus excluded left sided endocarditis owing to an in vivo study of endocarditis in rabbits showing lower survival and vegetation sterilisation and higher bacterial load on vegetations with trimethoprim-sulfamethoxazole compared with vancomycin and other antibiotics.32 We excluded patients with MRSA meningitis owing to inferiority of trimethoprim-sulfamethoxazole to nafcillin in an experimental model of meticillin susceptible S aureus meningitis and lack of evidence in MRSA, despite good penetration of trimethoprim-sulfamethoxazole to the brain.33 34 We originally intended to recruit patients with non-microbiologically documented, highly probable MRSA infections. However, in practice, we found identifying such patients prospectively difficult and practically the trial included only patients with microbiologically confirmed MRSA infections. The main reason precluding inclusion of patients was inability to obtain informed consent at the time of acute sepsis. In Israel, regulations allow only legal guardians to replace patients’ informed consent (informed consent from relatives is not allowed), and with acute conditions most patients did not have an appointed legal guardian.
+      
+        Comparison with other studies
+        Few randomised controlled trials have assessed the effectiveness of trimethoprim-sulfamethoxazole for the treatment of staphylococcal infections. A single randomised controlled trial compared trimethoprim-sulfamethoxazole against vancomycin for staphylococcal infections.23 The trial randomised 228 intravenous drug users with suspected staphylococcal infections and analysed 101 with proven infections (54 with meticillin susceptible S aureus and 47 with MRSA). Vancomycin was superior to trimethoprim-sulfamethoxazole among patients with meticillin susceptible S aureus infections, but no differences were observed for patients with MRSA. Specifically, bacteraemia duration (total 57 patients) was longer with trimethoprim-sulfamethoxazole treatment for meticillin susceptible S aureus (7.8 v 3.5 days; P=0.05) and similar for MRSA (5.2 v 5.6 days). The authors concluded that trimethoprim-sulfamethoxazole is a valuable alternative for the treatment of MRSA infections, unlike the conclusions of our study. However, the study included significantly younger and less ill patients, with a single death compared with the 13% mortality rate in our study. In a recent randomised controlled trial, trimethoprim-sulfamethoxazole combined with rifampin was compared with linezolid in the treatment of MRSA infections (bacteraemia in 18/150 (12%) and mortality in 14/150 (9%)), showing no differences in failure/relapse rates or mortality.15 Among 50 patients with chronic meticillin susceptible S aureus osteomyelitis randomised to trimethoprim-sulfamethoxazole-rifampin versus oxacillin, long term outcomes were similar and patients allocated to trimethoprim-sulfamethoxazole-rifampin had a significantly shorter hospital stay (median 51 v 31 days).35 Finally, trimethoprim-sulfamethoxazole was not significantly different from doxycycline for uncomplicated skin and soft tissue infections in a small randomised controlled trial assessing 22 patients with MRSA.36
+        The main treatment options for MRSA infections other than vancomycin (or teicoplanin) and trimethoprim-sulfamethoxazole include linezolid, tedizolid, telavancin, dalbavancin, oritavancin, daptomycin, tigecycline, and ceftaroline.37 Most of the new antibiotics were evaluated for the treatment of skin and soft tissue infections in randomised controlled trials. Mortality was rarely assessed in these trials and when reported was very low (usually &lt;1%). Few randomised controlled trials targeted infections other than skin and soft tissue infections, and most did not include only MRSA. Daptomycin was non-inferior to standard therapy in a randomised controlled trial including 245 patients with S aureus bacteraemia, of whom 89 had MRSA bacteraemia and were treated with daptomycin or vancomycin.38 The overall mortality was 11%. Similar efficacy and safety for was shown for linezolid and vancomycin in nosocomial pneumonia, and the mortality rate in these trials was 14%.39 Tigecycline was non-inferior to vancomycin in a randomised controlled trial including 156 patients with invasive MRSA infections, but most were skin and soft tissue infections (mortality rate 5%).40 Telavancin was non-inferior to vancomycin in hospital acquired pneumonia (293 patients with MRSA, overall mortality in the study 19%).41 Compared with these trials, ours included a larger group of patients with MRSA bacteraemia and a sicker cohort overall, as evidenced by the mortality rates, more closely reflecting patients treated with MRSA infections in clinical practice.
+      
+      
+        Limitations of study
+        The main limitation of our trial is the small sample size of patients with bacteraemia, in whom results suggest an important advantage for vancomycin. No statistically significant differences were observed between groups at baseline for nearly all variables. However, a subtle difference existed for important prognostic variables, and more patients allocated to vancomycin were bacteraemic. Multivariable analysis of the entire study cohort showed a larger advantage of vancomycin with regard to treatment failure, reaching statistical significance. Patients with polymicrobial infections and receiving additional antibiotics were included in the study, reflecting its pragmatic nature. However, these were mostly inactive against MRSA and concomitant antibiotics covering MRSA were not allowed at randomisation. Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included, affecting the trial’s external validity. Finally, the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended,20 potentially resulting in an underestimation of the efficacy of vancomycin and the difference between arms.
+      
+      
+        Conclusion
+        Trimethoprim-sulfamethoxazole did not achieve non-inferiority compared with vancomycin among patients with invasive MRSA infections. In the subgroup of patients with bacteraemia, the difference in treatment failure and all cause mortality might be clinically important. Trimethoprim-sulfamethoxazole should not be used for the treatment of severe MRSA infections. We propose a further randomised controlled trial to examine the feasibility of step-down from vancomycin to trimethoprim-sulfamethoxazole, allowing early discharge of patients with MRSA responding to treatment.
+        
+          
+            What is already known on this topic
+            
+              
+                Trimethoprim-sulfamethoxazole has excellent coverage against meticillin resistant Staphylococcus aureus (MRSA) strains in most locations worldwide
+              
+              
+                Vancomycin is inferior to β lactams for meticillin susceptible S aureus and might be losing effectiveness against MRSA owing to minimum inhibitory concentration “creep”
+              
+              
+                No contemporary randomised controlled trials have compared trimethoprim-sulfamethoxazole with vancomycin in the treatment of severe MRSA infections
+              
+            
+          
+          
+            What this study adds
+            
+              
+                In a randomised controlled trial including 252 inpatients, trimethoprim-sulfamethoxazole did not achieve non-inferiority to vancomycin in the treatment of severe MRSA infections
+              
+              
+                The difference was particularly marked for patients with bacteraemia
+              
+              
+                Adverse events rates were similar for trimethoprim-sulfamethoxazole and vancomycin
+              
+            
+          
+        
+      
+    
+  
+
+Back matter
+
+      
+        
+          Contributors: MP and JB contributed equally. MP, JB, and LL contributed to study conception and design and analysed the data. All authors were involved in data collection, as were Maria Raskin, Ynon Lischinski, Morad Wattad, Olga Talker, Rawi Hazan, Laura Farbman, Vered Shani, and Vered Zaretsky (Rabin Medical Center); and Roni Bitterman, Anat Stern, Yael Dishon-Benattar, and Fidi Koppel (Rambam Health Care Campus). MP drafted the manuscript. All authors were involved in data interpretation and approval of the final manuscript. MP and LL are the guarantors.
+        
+        
+          Funding: The study was partially funded by the Sima Lior scholarship 2008 (MP) and Rabin Medical Center Young Investigator scholarship 2009 (DY). The funders had no role in trial design; data collection, analysis, or interpretation; or manuscript preparation.
+        
+        
+          Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare: no support from any organisation for the submitted work other than that detailed above; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work.
+        
+        
+          Ethical approval: The trial was approved by the ethics committees in each study centre, and informed consent was obtained from all patients or their legal guardian.
+        
+        
+          Transparency declaration: The lead authors (the manuscript’s guarantors) affirm that the manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned have been explained.
+        
+        
+          Data sharing: Case report forms, dataset, and statistical code are available from the corresponding author.
+        
+      
+    
+
+      Cite this as: BMJ 2015;350:h2219</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-157" id="S2" selection="1a">
+        <text xml:space="preserve">Trimethoprim-sulfamethoxazole versus vancomycin for severe infections caused by meticillin resistant Staphylococcus aureus: randomised controlled trial</text>
+    </sentence>
+    <sentence charOffset="158-166" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="176-364" id="S4" selection="1b">
+        <text xml:space="preserve">Objective To show non-inferiority of trimethoprim-sulfamethoxazole compared with vancomycin for the treatment of severe infections due to meticillin resistant Staphylococcus aureus (MRSA).</text>
+    </sentence>
+    <sentence charOffset="373-430" id="S5" selection="">
+        <text xml:space="preserve">Design Parallel, open label, randomised controlled trial.</text>
+    </sentence>
+    <sentence charOffset="439-483" id="S6" selection="">
+        <text xml:space="preserve">Setting Four acute care hospitals in Israel.</text>
+    </sentence>
+    <sentence charOffset="492-610" id="S7" selection="">
+        <text xml:space="preserve">Participants Adults with severe infections caused by MRSA susceptible to trimethoprim-sulfamethoxazole and vancomycin.</text>
+    </sentence>
+    <sentence charOffset="611-725" id="S8" selection="">
+        <text xml:space="preserve">Patients with left sided endocarditis, meningitis, chronic haemodialysis, and prolonged neutropenia were excluded.</text>
+    </sentence>
+    <sentence charOffset="734-890" id="S9" selection="">
+        <text xml:space="preserve">Interventions Trimethoprim-sulfamethoxazole 320 mg/1600 mg twice daily versus vancomycin 1 g twice daily for a minimum of seven days and then by indication.</text>
+    </sentence>
+    <sentence charOffset="899-1156" id="S10" selection="">
+        <text xml:space="preserve">Main outcome measures The primary efficacy outcome was treatment failure assessed at day 7, consisting of death, persistence of haemodynamic instability or fever, stable or worsening Sequential Organ Failure Assessment score, and persistence of bacteraemia.</text>
+    </sentence>
+    <sentence charOffset="1157-1218" id="S11" selection="">
+        <text xml:space="preserve">The primary safety outcome was all cause mortality at day 30.</text>
+    </sentence>
+    <sentence charOffset="1219-1302" id="S12" selection="">
+        <text xml:space="preserve">Non-inferiority was defined by a difference of less than 15% for treatment failure.</text>
+    </sentence>
+    <sentence charOffset="1311-1393" id="S13" selection="">
+        <text xml:space="preserve">Results 252 patients were included in the trial, of whom 91 (36%) had bacteraemia.</text>
+    </sentence>
+    <sentence charOffset="1394-1585" id="S14" selection="">
+        <text xml:space="preserve">No significant difference in treatment failure was seen for trimethoprim-sulfamethoxazole (51/135, 38%) versus vancomycin (32/117, 27%)—risk ratio 1.38 (95% confidence interval 0.96 to 1.99).</text>
+    </sentence>
+    <sentence charOffset="1586-1735" id="S15" selection="">
+        <text xml:space="preserve">However, trimethoprim-sulfamethoxazole did not meet the non-inferiority criterion—absolute difference 10.4% (95% confidence interval −1.2% to 21.5%).</text>
+    </sentence>
+    <sentence charOffset="1736-1806" id="S16" selection="">
+        <text xml:space="preserve">For patients with bacteraemia, the risk ratio was 1.40 (0.91 to 2.16).</text>
+    </sentence>
+    <sentence charOffset="1807-1979" id="S17" selection="">
+        <text xml:space="preserve">In a multivariable logistic regression analysis, trimethoprim-sulfamethoxazole was significantly associated with treatment failure (adjusted odds ratio 2.00, 1.09 to 3.65).</text>
+    </sentence>
+    <sentence charOffset="1980-2068" id="S18" selection="">
+        <text xml:space="preserve">The 30 day mortality rate was 32/252 (13%), with no significant difference between arms.</text>
+    </sentence>
+    <sentence charOffset="2069-2225" id="S19" selection="">
+        <text xml:space="preserve">Among patients with bacteraemia, 14/41 (34%) treated with trimethoprim-sulfamethoxazole and 9/50 (18%) with vancomycin died (risk ratio 1.90, 0.92 to 3.93).</text>
+    </sentence>
+    <sentence charOffset="2234-2375" id="S20" selection="">
+        <text xml:space="preserve">Conclusions High dose trimethoprim-sulfamethoxazole did not achieve non-inferiority to vancomycin in the treatment of severe MRSA infections.</text>
+    </sentence>
+    <sentence charOffset="2376-2445" id="S21" selection="">
+        <text xml:space="preserve">The difference was particularly marked for patients with bacteraemia.</text>
+    </sentence>
+    <sentence charOffset="2454-2501" id="S22" selection="23">
+        <text xml:space="preserve">Trial registration Clinical trials NCT00427076.</text>
+    </sentence>
+    <sentence charOffset="2522-2534" id="S23">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2541-2629" id="S24" selection="">
+        <text xml:space="preserve">Trimethoprim-sulfamethoxazole is an old antibiotic active against Staphylococcus aureus.</text>
+    </sentence>
+    <sentence charOffset="2630-2743" id="S25" selection="">
+        <text xml:space="preserve">Trimethoprim is the main active component and bactericidal in itself, but the combination is highly synergistic.1</text>
+    </sentence>
+    <sentence charOffset="2744-2962" id="S26" selection="2a">
+        <text xml:space="preserve">With increasing rates of meticillin resistant Staphylococcus aureus (MRSA) infections in healthcare settings and in the community, trimethoprim-sulfamethoxazole has been suggested as a convenient treatment option.2 3 4</text>
+    </sentence>
+    <sentence charOffset="2969-3127" id="S27" selection="">
+        <text xml:space="preserve">MRSA isolates have retained susceptibility to trimethoprim-sulfamethoxazole in many locations worldwide despite several decades of exposure to the antibiotic.</text>
+    </sentence>
+    <sentence charOffset="3128-3334" id="S28" selection="">
+        <text xml:space="preserve">Coverage rates above 90% are described in contemporary reports for community associated MRSA and nosocomial isolates in the United States,5 6 7 8 Canada,9 10 11 Japan,12, Europe, Israel, and Turkey.13 14 15</text>
+    </sentence>
+    <sentence charOffset="3335-3604" id="S29" selection="">
+        <text xml:space="preserve">Resistance is described in Australia, where 30% of nosocomial and 10% of community associated MRSA isolates were resistant to trimethoprim-sulfamethoxazole in 2012, but a significant trend for decreasing resistance from 2005 was observed, unlike other antibiotics.16 17</text>
+    </sentence>
+    <sentence charOffset="3605-3722" id="S30" selection="">
+        <text xml:space="preserve">In sub-Saharan Africa, 19% resistance has been recently documented, owing to high rates of trimethoprim resistance.18</text>
+    </sentence>
+    <sentence charOffset="3723-3839" id="S31" selection="">
+        <text xml:space="preserve">In India, more than 85% of MRSA isolates were resistant to trimethoprim-sulfamethoxazole between 2009 and 2011.19 20</text>
+    </sentence>
+    <sentence charOffset="3846-4002" id="S32" selection="">
+        <text xml:space="preserve">Trimethoprim-sulfamethoxazole is recommended for the treatment of uncomplicated skin and soft tissue infections but not for MRSA bacteraemia or pneumonia.21</text>
+    </sentence>
+    <sentence charOffset="4003-4075" id="S33" selection="">
+        <text xml:space="preserve">Vancomycin is the primary treatment recommendation for these infections.</text>
+    </sentence>
+    <sentence charOffset="4076-4303" id="S34" selection="2a">
+        <text xml:space="preserve">Alternatives to vancomycin are sought as vancomycin is inferior to β lactams in meticillin susceptible S aureus infections,22 23 and it may be less effective against MRSA at the higher end of the vancomycin susceptible range.24</text>
+    </sentence>
+    <sentence charOffset="4304-4453" id="S35" selection="">
+        <text xml:space="preserve">In a small observational study, we reported similar outcomes for trimethoprim-sulfamethoxazole and vancomycin in the treatment of MRSA bacteraemia.25</text>
+    </sentence>
+    <sentence charOffset="4454-4677" id="S36" selection="">
+        <text xml:space="preserve">Favourable outcomes for trimethoprim-sulfamethoxazole compared with vancomycin were reported in an observational study focusing on infections caused by MRSA with a minimal inhibitory concentration of 2 μg/mL to vancomycin.8</text>
+    </sentence>
+    <sentence charOffset="4678-4785" id="S37" selection="">
+        <text xml:space="preserve">In both studies, treatment with trimethoprim-sulfamethoxazole was given to significantly less ill patients.</text>
+    </sentence>
+    <sentence charOffset="4792-4990" id="S38" selection="2b">
+        <text xml:space="preserve">We did a randomised controlled trial to assess whether trimethoprim-sulfamethoxazole is non-inferior to vancomycin for the treatment of inpatients with severe MRSA infections, including bacteraemia.</text>
+    </sentence>
+    <sentence charOffset="5007-5014" id="S39">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="5021-5351" id="S40" selection="3a,4b,14a">
+        <text xml:space="preserve">This was an open label, parallel, one to one randomised controlled trial, conducted in four acute care hospitals (Rabin Medical Center, Petah-Tikva (192 patients); Rambam Health Care Campus (38 patients); Holy Family Hospital Nazareth (7 patients); Wolfson Medical Center (6 patients)) in Israel, between July 2007 and April 2014.</text>
+    </sentence>
+    <sentence charOffset="5352-5424" id="S41" selection="">
+        <text xml:space="preserve">Informed consent was obtained from all patients or their legal guardian.</text>
+    </sentence>
+    <sentence charOffset="5440-5471" id="S42" selection="">
+        <text xml:space="preserve">Study population and procedures</text>
+    </sentence>
+    <sentence charOffset="5480-5621" id="S43" selection="4a">
+        <text xml:space="preserve">We included adult inpatients with severe infections caused by MRSA, including bacteraemia, and patients with highly probable MRSA infections.</text>
+    </sentence>
+    <sentence charOffset="5622-5826" id="S44" selection="">
+        <text xml:space="preserve">We defined bacteraemia as the isolation of MRSA in more than one blood culture bottle or isolated in a single bottle and accompanied by fever above 38°C, chills, or systolic blood pressure under 90 mm Hg.</text>
+    </sentence>
+    <sentence charOffset="5827-6069" id="S45" selection="">
+        <text xml:space="preserve">We defined other microbiologically documented MRSA infections by using predefined criteria adapted from surveillance definitions of healthcare associated infections,26 plus isolation of MRSA from a sterile sample from the source of infection.</text>
+    </sentence>
+    <sentence charOffset="6070-6210" id="S46" selection="4a">
+        <text xml:space="preserve">Patients with skin and soft tissue infections could be included only if they fulfilled the sepsis inflammatory response syndrome criteria.27</text>
+    </sentence>
+    <sentence charOffset="6211-6396" id="S47" selection="4a">
+        <text xml:space="preserve">Patients with polymicrobial infections could be included, except those involving meticillin susceptible S aureus or mandating treatment with vancomycin or trimethoprim-sulfamethoxazole.</text>
+    </sentence>
+    <sentence charOffset="6397-6655" id="S48" selection="4a">
+        <text xml:space="preserve">The highly probable group included patients with ventilator associated pneumonia and prior antibiotic treatment, central catheter related infections, and surgical site infections in the presence of a foreign body, all without microbiological documentation.28</text>
+    </sentence>
+    <sentence charOffset="6656-7366" id="S49" selection="4a">
+        <text xml:space="preserve">We excluded patients who had received trimethoprim-sulfamethoxazole or vancomycin for more than 48 hours; patients with MRSA resistant to trimethoprim-sulfamethoxazole or vancomycin; those with highly suspected or confirmed left sided endocarditis or meningitis; patients with chronic renal failure (creatinine clearance &lt;15 mL/min) and chronic haemodialysis (those with severe acute renal failure, including acute haemodialysis, could be included); neutropenic patients with acute leukaemia or bone marrow transplantation; and patients with known allergy to either study drug, treatment with methotrexate, pregnancy or lactation, previous enrolment in this study, or concurrent participation in another trial.</text>
+    </sentence>
+    <sentence charOffset="7375-7515" id="S50" selection="8a,15">
+        <text xml:space="preserve">We used a central computer generated random number list to randomise patients to treatment with trimethoprim-sulfamethoxazole or vancomycin.</text>
+    </sentence>
+    <sentence charOffset="7516-7645" id="S51" selection="9">
+        <text xml:space="preserve">Allocation was concealed in sealed, opaque numbered envelopes that were opened consecutively after informed consent was obtained.</text>
+    </sentence>
+    <sentence charOffset="7646-7876" id="S52" selection="5">
+        <text xml:space="preserve">Trimethoprim-sulfamethoxazole was started intravenously at a dose of 320 mg trimethoprim/1600 mg sulfamethoxazole twice daily and could be switched to oral treatment using the same dose at the discretion of the treating physician.</text>
+    </sentence>
+    <sentence charOffset="7877-8044" id="S53" selection="">
+        <text xml:space="preserve">Dosing was based on a pharmacokinetic study showing that a lower dose resulted in inhibition but not killing of S aureus and on the dose used in a previous trial.23 29</text>
+    </sentence>
+    <sentence charOffset="8045-8094" id="S54" selection="5">
+        <text xml:space="preserve">The vancomycin starting dose was 1 g twice daily.</text>
+    </sentence>
+    <sentence charOffset="8095-8275" id="S55" selection="5">
+        <text xml:space="preserve">In both arms, treatment was adjusted to renal function; in the vancomycin arm, it was directed by serum concentrations to obtain drug trough concentrations between 10 and 20 mg/dL.</text>
+    </sentence>
+    <sentence charOffset="8276-8328" id="S56" selection="24">
+        <text xml:space="preserve">The complete study protocol is available on request.</text>
+    </sentence>
+    <sentence charOffset="8329-8447" id="S57" selection="5">
+        <text xml:space="preserve">Treatment had to be administered for a minimum of seven days, following which the duration depended on the indication.</text>
+    </sentence>
+    <sentence charOffset="8448-8556" id="S58" selection="5">
+        <text xml:space="preserve">Concomitant antibiotics, other than the combination of vancomycin and co-trimoxazole, could be administered.</text>
+    </sentence>
+    <sentence charOffset="8557-8657" id="S59" selection="11a">
+        <text xml:space="preserve">After randomisation, no blinding was performed, but outcomes were adjudicated blinded to allocation.</text>
+    </sentence>
+    <sentence charOffset="8680-8688" id="S60" selection="">
+        <text xml:space="preserve">Outcomes</text>
+    </sentence>
+    <sentence charOffset="8697-9273" id="S61" selection="6a">
+        <text xml:space="preserve">The primary efficacy outcome was clinical treatment failure at seven days and was a composite of death, persistence of fever (&lt;38°C for two consecutive days and no increase above 38° after resolution was required to rule out persistence), persistence of hypotension (&lt;90 mm Hg systolic or need for vasopressor support), non-improving Sequential Organ Failure Assessment (SOFA) score (for baseline SOFA ≥3, a decrease of at least 30% was required; and for baseline SOFA &lt;3, a stable or decreased SOFA score was required to rule out failure), or persistent bacteraemia on day 7.</text>
+    </sentence>
+    <sentence charOffset="9274-9455" id="S62" selection="6a">
+        <text xml:space="preserve">Blood cultures were repeated on day 2 for all patients with bacteraemia and daily thereafter for patients with persistent fever, persistent bacteraemia, or other signs of infection.</text>
+    </sentence>
+    <sentence charOffset="9456-9531" id="S63" selection="6a">
+        <text xml:space="preserve">We also defined a primary safety outcome of all cause mortality at 30 days.</text>
+    </sentence>
+    <sentence charOffset="9540-10090" id="S64" selection="6a">
+        <text xml:space="preserve">Secondary outcomes included failure or modification of treatment, comprising treatment failure (as defined) or antibiotic treatment modification; bacteriological failure, defined as growth of MRSA on day 7 cultures; persistence of bacteraemia at 48 hours; length of hospital admission; duration of fever, summing all days with at least one measurement of temperature 38°C or above until day 30; and development of resistance defined as acquisition of trimethoprim-sulfamethoxazole or vancomycin resistant S aureus or vancomycin resistant Enterococci.</text>
+    </sentence>
+    <sentence charOffset="10091-10267" id="S65" selection="6a">
+        <text xml:space="preserve">Adverse events included renal failure defined using RIFLE criteria,30 rash, leucopoenia, any diarrhoea and Clostridium difficile associated diarrhoea, and other adverse events.</text>
+    </sentence>
+    <sentence charOffset="10290-10314" id="S66" selection="">
+        <text xml:space="preserve">Sample size and analysis</text>
+    </sentence>
+    <sentence charOffset="10323-10413" id="S67" selection="7a">
+        <text xml:space="preserve">To establish non-inferiority, we allowed a difference of up to 15% in the primary outcome.</text>
+    </sentence>
+    <sentence charOffset="10414-10705" id="S68" selection="7a">
+        <text xml:space="preserve">Assuming a 30% treatment failure rate for both treatment groups, we needed a sample of 128 patients per arm for a one sided test to rule out the pre-specified difference in the 95% confidence interval of the difference between groups, allowing for 10% non-evaluable patients (α=0.05, β=0.8).</text>
+    </sentence>
+    <sentence charOffset="10706-10872" id="S69" selection="7b">
+        <text xml:space="preserve">We did interim analyses of the primary safety outcome after recruitment of one third and two thirds of patients, with stopping boundaries (two sided α level, P&lt;0.01).</text>
+    </sentence>
+    <sentence charOffset="10881-10931" id="S70" selection="">
+        <text xml:space="preserve">We did the primary analysis by intention to treat.</text>
+    </sentence>
+    <sentence charOffset="10932-11082" id="S71" selection="12b">
+        <text xml:space="preserve">We did per protocol analysis for patients without exclusion criteria after randomisation who received allocated treatment for a minimum of seven days.</text>
+    </sentence>
+    <sentence charOffset="11083-11143" id="S72" selection="12b">
+        <text xml:space="preserve">We did subgroup analysis for patients with MRSA bacteraemia.</text>
+    </sentence>
+    <sentence charOffset="11144-11211" id="S73" selection="12a">
+        <text xml:space="preserve">We used χ2 or Fisher’s exact tests to compare categorical outcomes.</text>
+    </sentence>
+    <sentence charOffset="11212-11361" id="S74" selection="12a">
+        <text xml:space="preserve">Continuous outcomes were skewed, so we described them as medians and compared them by using a median difference, all with 95% confidence intervals.31</text>
+    </sentence>
+    <sentence charOffset="11362-11481" id="S75" selection="12a">
+        <text xml:space="preserve">We did multivariable analyses for the primary efficacy outcome, including the treatment arm as an independent variable.</text>
+    </sentence>
+    <sentence charOffset="11482-11664" id="S76" selection="12b">
+        <text xml:space="preserve">We entered all variables significantly associated with the outcome on univariate analysis (P&lt;0.05) and not correlated (Spearman correlation &gt;0.5) into a logistic regression analysis.</text>
+    </sentence>
+    <sentence charOffset="11665-11733" id="S77" selection="12a">
+        <text xml:space="preserve">We present risk ratios or odds ratios with 95% confidence intervals.</text>
+    </sentence>
+    <sentence charOffset="11757-11764" id="S78">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="11771-11866" id="S79" selection="13a">
+        <text xml:space="preserve">We evaluated 782 patients with clinically significant MRSA isolates, of whom 252 were included.</text>
+    </sentence>
+    <sentence charOffset="11867-12082" id="S80" selection="">
+        <text xml:space="preserve">The main reasons for exclusion were previous treatment with trimethoprim-sulfamethoxazole or vancomycin for more than 48 hours or inability to provide informed consent, related mostly to severity of sepsis (figure).</text>
+    </sentence>
+    <sentence charOffset="12083-12264" id="S81" selection="13a">
+        <text xml:space="preserve">Inclusion was based on microbiologically documented inclusion criteria in 245 (97%) patients: 91 (36%) with bacteraemia and 154 (61%) with MRSA isolated from other clinical samples.</text>
+    </sentence>
+    <sentence charOffset="12265-12384" id="S82" selection="15">
+        <text xml:space="preserve">Patients’ mean age was 65.8 (SD 17) years, and all infections were healthcare associated (218 (87%) hospital acquired).</text>
+    </sentence>
+    <sentence charOffset="12385-12552" id="S83" selection="15">
+        <text xml:space="preserve">Characteristics of patients and infections were mostly balanced between groups; the exception was bacteraemia, which was more common in the vancomycin group (table 1).</text>
+    </sentence>
+    <sentence charOffset="12553-12611" id="S84" selection="15">
+        <text xml:space="preserve">Appropriate empirical antibiotic treatment was infrequent.</text>
+    </sentence>
+    <sentence charOffset="12612-12738" id="S85" selection="15">
+        <text xml:space="preserve">Surgical interventions and catheter extraction, when indicated, were performed in similar proportions in the two study groups.</text>
+    </sentence>
+    <sentence charOffset="12739-12905" id="S86" selection="">
+        <text xml:space="preserve">Vancomycin trough concentrations were available for 97/117 (82.9%) patients in the vancomycin arm (≥10 µg/mL in 80 (83%) patients and ≥15 µg/mL in 65 (67%) patients).</text>
+    </sentence>
+    <sentence charOffset="12906-13060" id="S87" selection="">
+        <text xml:space="preserve">Isolates’ minimum inhibitory concentration to vancomycin was 2 µg/mL in 12/77 (16%) of patients in the vancomycin arm and lower in the remaining patients.</text>
+    </sentence>
+    <sentence charOffset="13061-13143" id="S88" selection="">
+        <text xml:space="preserve">All isolates were susceptible to trimethoprim-sulfamethoxazole (disk zone ≤10 mm).</text>
+    </sentence>
+    <sentence charOffset="13144-13370" id="S89" selection="">
+        <text xml:space="preserve">The median duration of treatment with assigned antibiotics in the per protocol population was 17 (95% confidence interval 12 to 22) days with trimethoprim-sulfamethoxazole (n=110) and 14 (13 to 15) days with vancomycin (n=96).</text>
+    </sentence>
+    <sentence charOffset="13371-13601" id="S90" selection="">
+        <text xml:space="preserve">Potentially effective antibiotics against MRSA (mainly rifampin) were added throughout the treatment course for 14/135 (10%) patients in the trimethoprim-sulfamethoxazole arm and 8/117 (7%) patients in the vancomycin arm (P=0.32).</text>
+    </sentence>
+    <sentence charOffset="13609-13640" id="S91" selection="13a,13b,16">
+        <text xml:space="preserve">Flow of patients through study.</text>
+    </sentence>
+    <sentence charOffset="13641-13716" id="S92" selection="">
+        <text xml:space="preserve">BMT=bone marrow transplant; MRSA=meticillin resistant Staphylococcus aureus</text>
+    </sentence>
+    <sentence charOffset="13723-13758" id="S93" selection="15">
+        <text xml:space="preserve">Table 1  Patients’ characteristics.</text>
+    </sentence>
+    <sentence charOffset="13759-13815" id="S94" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="13822-14005" id="S95" selection="17b">
+        <text xml:space="preserve">We found no significant difference in treatment failure at day 7 between trimethoprim-sulfamethoxazole and vancomycin (risk ratio 1.38, 95% confidence interval 0.96 to 1.99) (table 2.</text>
+    </sentence>
+    <sentence charOffset="14006-14258" id="S96" selection="17b">
+        <text xml:space="preserve">The failure rate with trimethoprim-sulfamethoxazole was 51/135 (38%) compared with 32/117 (27%) with vancomycin, and the 95% confidence interval for the difference fell outside the lower limit of the 15% predefined for non-inferiority (−1.2% to 21.5%).</text>
+    </sentence>
+    <sentence charOffset="14259-14474" id="S97" selection="">
+        <text xml:space="preserve">Of the components comprising the composite outcome, the advantage to vancomycin emerged from higher bacteraemia persistence at day 7 and lack of improvement in SOFA score at day 7 with trimethoprim-sulfamethoxazole.</text>
+    </sentence>
+    <sentence charOffset="14475-14719" id="S98" selection="18">
+        <text xml:space="preserve">We observed similar results in the per protocol population of patients completing seven days’ treatment (risk ratio 1.24, 0.82 to 1.89; absolute difference 9.9%, −3.1% to 22.5%) and for patients with bacteraemia (risk ratio 1.40, 0.91 to 2.16).</text>
+    </sentence>
+    <sentence charOffset="14720-14927" id="S99" selection="18">
+        <text xml:space="preserve">Restricting the analysis to patients in the vancomycin group whose isolates’ minimum inhibitory concentrations were below 2 µg/mL resulted in a larger risk ratio in favour of vancomycin (1.64, 0.99 to 2.68).</text>
+    </sentence>
+    <sentence charOffset="14934-14958" id="S100" selection="17a,17b,18">
+        <text xml:space="preserve">Table 2  Study outcomes.</text>
+    </sentence>
+    <sentence charOffset="14959-15015" id="S101" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="15022-15093" id="S102" selection="17b">
+        <text xml:space="preserve">All cause 30 day mortality did not differ significantly between groups.</text>
+    </sentence>
+    <sentence charOffset="15094-15284" id="S103" selection="18">
+        <text xml:space="preserve">However, among patients with bacteraemia, mortality was nearly twice as high with trimethoprim-sulfamethoxazole—14/41 (34%) versus 9/50 (18%) with vancomycin (risk ratio 1.90, 0.92 to 3.93).</text>
+    </sentence>
+    <sentence charOffset="15285-15429" id="S104" selection="18">
+        <text xml:space="preserve">Among non-bacteraemic patients, mortality rates were low (5/94 (5%) v 4/67 (6%)) and not significantly different (risk ratio 0.89, 0.25 to 3.2).</text>
+    </sentence>
+    <sentence charOffset="15436-15532" id="S105" selection="17a">
+        <text xml:space="preserve">We found no significant differences with regard to the pre-defined secondary outcomes (table 2).</text>
+    </sentence>
+    <sentence charOffset="15533-15666" id="S106" selection="17b">
+        <text xml:space="preserve">Persistence of bacteraemia was slightly more common with vancomycin at 48 hours and with trimethoprim-sulfamethoxazole at seven days.</text>
+    </sentence>
+    <sentence charOffset="15667-15765" id="S107" selection="17a">
+        <text xml:space="preserve">There was no significant difference in length of hospital admission for patients discharged alive.</text>
+    </sentence>
+    <sentence charOffset="15766-15818" id="S108" selection="">
+        <text xml:space="preserve">Adverse events were reported with similar frequency.</text>
+    </sentence>
+    <sentence charOffset="15819-15948" id="S109" selection="19">
+        <text xml:space="preserve">Renal failure at day 7 and day 30 was slightly more common with vancomycin, but this was not statistically significant (table 3).</text>
+    </sentence>
+    <sentence charOffset="15955-15979" id="S110" selection="19">
+        <text xml:space="preserve">Table 3  Adverse events.</text>
+    </sentence>
+    <sentence charOffset="15980-16036" id="S111" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="16043-16170" id="S112" selection="">
+        <text xml:space="preserve">Variables significantly associated with the primary outcome on univariate analysis were included in the multivariable analysis.</text>
+    </sentence>
+    <sentence charOffset="16171-16435" id="S113" selection="18">
+        <text xml:space="preserve">McCabe score, presence of nasogastric tube or urine catheter at onset of infection, white blood count, and albumin concentrations were associated with treatment failure but correlated with other included variables and were not entered into the regression analysis.</text>
+    </sentence>
+    <sentence charOffset="16436-16485" id="S114" selection="18">
+        <text xml:space="preserve">Other significant variables are shown in table 4.</text>
+    </sentence>
+    <sentence charOffset="16486-16650" id="S115" selection="18">
+        <text xml:space="preserve">On multivariable analysis, allocation to trimethoprim-sulfamethoxazole was significantly associated with treatment failure (adjusted odds ratio 2.00, 1.09 to 3.65).</text>
+    </sentence>
+    <sentence charOffset="16651-16834" id="S116" selection="18">
+        <text xml:space="preserve">Other independent risk factors were bacteraemia and mechanical ventilation at infection onset; surgery in the 30 days before infection was inversely associated with treatment failure.</text>
+    </sentence>
+    <sentence charOffset="16841-16893" id="S117" selection="18">
+        <text xml:space="preserve">Table 4  Multivariate analysis for treatment failure</text>
+    </sentence>
+    <sentence charOffset="16910-16920" id="S118">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="16927-17100" id="S119" selection="22">
+        <text xml:space="preserve">In a randomised controlled trial including 252 patients with severe MRSA infections, trimethoprim-sulfamethoxazole did not fulfil criteria for non-inferiority to vancomycin.</text>
+    </sentence>
+    <sentence charOffset="17101-17368" id="S120" selection="">
+        <text xml:space="preserve">The absolute difference in treatment failure rates at day 7—comprising death, clinical/haemodynamic instability, and persistence of bacteraemia—was 10.4% (−1.2% to 21.5%) in favour of vancomycin, crossing the upper limit of 15% difference defined for non-inferiority.</text>
+    </sentence>
+    <sentence charOffset="17369-17547" id="S121" selection="">
+        <text xml:space="preserve">After adjustment for differences between groups, treatment with trimethoprim-sulfamethoxazole was significantly associated with treatment failure (odds ratio 2.00, 1.09 to 3.65).</text>
+    </sentence>
+    <sentence charOffset="17548-17772" id="S122" selection="">
+        <text xml:space="preserve">Thirty day mortality did not differ significantly between groups (risk ratio 1.27, 0.65 to 2.45); however, among patients with bacteraemia (n=91), death rates were non-significantly higher with trimethoprim-sulfamethoxazole.</text>
+    </sentence>
+    <sentence charOffset="17773-17821" id="S123" selection="">
+        <text xml:space="preserve">Results were similar in a per protocol analysis.</text>
+    </sentence>
+    <sentence charOffset="17822-17911" id="S124" selection="">
+        <text xml:space="preserve">Bacteriological cure and adverse event rates did not differ significantly between groups.</text>
+    </sentence>
+    <sentence charOffset="17918-18011" id="S125" selection="20">
+        <text xml:space="preserve">Our trial was pragmatic, targeting all patients treated with vancomycin in clinical practice.</text>
+    </sentence>
+    <sentence charOffset="18012-18097" id="S126" selection="20">
+        <text xml:space="preserve">We defined no exclusion criteria related to severity of background illness or sepsis.</text>
+    </sentence>
+    <sentence charOffset="18098-18289" id="S127" selection="20">
+        <text xml:space="preserve">Exclusions were based only on contraindications for trimethoprim-sulfamethoxazole (such as chronic haemodialysis) or previous evidence suggesting inferiority of trimethoprim-sulfamethoxazole.</text>
+    </sentence>
+    <sentence charOffset="18290-18561" id="S128" selection="">
+        <text xml:space="preserve">We thus excluded left sided endocarditis owing to an in vivo study of endocarditis in rabbits showing lower survival and vegetation sterilisation and higher bacterial load on vegetations with trimethoprim-sulfamethoxazole compared with vancomycin and other antibiotics.32</text>
+    </sentence>
+    <sentence charOffset="18562-18848" id="S129" selection="">
+        <text xml:space="preserve">We excluded patients with MRSA meningitis owing to inferiority of trimethoprim-sulfamethoxazole to nafcillin in an experimental model of meticillin susceptible S aureus meningitis and lack of evidence in MRSA, despite good penetration of trimethoprim-sulfamethoxazole to the brain.33 34</text>
+    </sentence>
+    <sentence charOffset="18849-18963" id="S130" selection="20">
+        <text xml:space="preserve">We originally intended to recruit patients with non-microbiologically documented, highly probable MRSA infections.</text>
+    </sentence>
+    <sentence charOffset="18964-19143" id="S131" selection="20">
+        <text xml:space="preserve">However, in practice, we found identifying such patients prospectively difficult and practically the trial included only patients with microbiologically confirmed MRSA infections.</text>
+    </sentence>
+    <sentence charOffset="19144-19262" id="S132" selection="20">
+        <text xml:space="preserve">The main reason precluding inclusion of patients was inability to obtain informed consent at the time of acute sepsis.</text>
+    </sentence>
+    <sentence charOffset="19263-19482" id="S133" selection="">
+        <text xml:space="preserve">In Israel, regulations allow only legal guardians to replace patients’ informed consent (informed consent from relatives is not allowed), and with acute conditions most patients did not have an appointed legal guardian.</text>
+    </sentence>
+    <sentence charOffset="19498-19527" id="S134" selection="">
+        <text xml:space="preserve">Comparison with other studies</text>
+    </sentence>
+    <sentence charOffset="19536-19681" id="S135" selection="">
+        <text xml:space="preserve">Few randomised controlled trials have assessed the effectiveness of trimethoprim-sulfamethoxazole for the treatment of staphylococcal infections.</text>
+    </sentence>
+    <sentence charOffset="19682-19809" id="S136" selection="">
+        <text xml:space="preserve">A single randomised controlled trial compared trimethoprim-sulfamethoxazole against vancomycin for staphylococcal infections.23</text>
+    </sentence>
+    <sentence charOffset="19810-19998" id="S137" selection="">
+        <text xml:space="preserve">The trial randomised 228 intravenous drug users with suspected staphylococcal infections and analysed 101 with proven infections (54 with meticillin susceptible S aureus and 47 with MRSA).</text>
+    </sentence>
+    <sentence charOffset="19999-20176" id="S138" selection="">
+        <text xml:space="preserve">Vancomycin was superior to trimethoprim-sulfamethoxazole among patients with meticillin susceptible S aureus infections, but no differences were observed for patients with MRSA.</text>
+    </sentence>
+    <sentence charOffset="20177-20387" id="S139" selection="">
+        <text xml:space="preserve">Specifically, bacteraemia duration (total 57 patients) was longer with trimethoprim-sulfamethoxazole treatment for meticillin susceptible S aureus (7.8 v 3.5 days; P=0.05) and similar for MRSA (5.2 v 5.6 days).</text>
+    </sentence>
+    <sentence charOffset="20388-20545" id="S140" selection="22">
+        <text xml:space="preserve">The authors concluded that trimethoprim-sulfamethoxazole is a valuable alternative for the treatment of MRSA infections, unlike the conclusions of our study.</text>
+    </sentence>
+    <sentence charOffset="20546-20689" id="S141" selection="22">
+        <text xml:space="preserve">However, the study included significantly younger and less ill patients, with a single death compared with the 13% mortality rate in our study.</text>
+    </sentence>
+    <sentence charOffset="20690-20971" id="S142" selection="">
+        <text xml:space="preserve">In a recent randomised controlled trial, trimethoprim-sulfamethoxazole combined with rifampin was compared with linezolid in the treatment of MRSA infections (bacteraemia in 18/150 (12%) and mortality in 14/150 (9%)), showing no differences in failure/relapse rates or mortality.15</text>
+    </sentence>
+    <sentence charOffset="20972-21283" id="S143" selection="">
+        <text xml:space="preserve">Among 50 patients with chronic meticillin susceptible S aureus osteomyelitis randomised to trimethoprim-sulfamethoxazole-rifampin versus oxacillin, long term outcomes were similar and patients allocated to trimethoprim-sulfamethoxazole-rifampin had a significantly shorter hospital stay (median 51 v 31 days).35</text>
+    </sentence>
+    <sentence charOffset="21284-21495" id="S144" selection="">
+        <text xml:space="preserve">Finally, trimethoprim-sulfamethoxazole was not significantly different from doxycycline for uncomplicated skin and soft tissue infections in a small randomised controlled trial assessing 22 patients with MRSA.36</text>
+    </sentence>
+    <sentence charOffset="21504-21735" id="S145" selection="">
+        <text xml:space="preserve">The main treatment options for MRSA infections other than vancomycin (or teicoplanin) and trimethoprim-sulfamethoxazole include linezolid, tedizolid, telavancin, dalbavancin, oritavancin, daptomycin, tigecycline, and ceftaroline.37</text>
+    </sentence>
+    <sentence charOffset="21736-21864" id="S146" selection="">
+        <text xml:space="preserve">Most of the new antibiotics were evaluated for the treatment of skin and soft tissue infections in randomised controlled trials.</text>
+    </sentence>
+    <sentence charOffset="21865-21956" id="S147" selection="">
+        <text xml:space="preserve">Mortality was rarely assessed in these trials and when reported was very low (usually &lt;1%).</text>
+    </sentence>
+    <sentence charOffset="21957-22089" id="S148" selection="">
+        <text xml:space="preserve">Few randomised controlled trials targeted infections other than skin and soft tissue infections, and most did not include only MRSA.</text>
+    </sentence>
+    <sentence charOffset="22090-22302" id="S149" selection="">
+        <text xml:space="preserve">Daptomycin was non-inferior to standard therapy in a randomised controlled trial including 245 patients with S aureus bacteraemia, of whom 89 had MRSA bacteraemia and were treated with daptomycin or vancomycin.38</text>
+    </sentence>
+    <sentence charOffset="22303-22333" id="S150" selection="">
+        <text xml:space="preserve">The overall mortality was 11%.</text>
+    </sentence>
+    <sentence charOffset="22334-22479" id="S151" selection="">
+        <text xml:space="preserve">Similar efficacy and safety for was shown for linezolid and vancomycin in nosocomial pneumonia, and the mortality rate in these trials was 14%.39</text>
+    </sentence>
+    <sentence charOffset="22480-22678" id="S152" selection="">
+        <text xml:space="preserve">Tigecycline was non-inferior to vancomycin in a randomised controlled trial including 156 patients with invasive MRSA infections, but most were skin and soft tissue infections (mortality rate 5%).40</text>
+    </sentence>
+    <sentence charOffset="22679-22815" id="S153" selection="">
+        <text xml:space="preserve">Telavancin was non-inferior to vancomycin in hospital acquired pneumonia (293 patients with MRSA, overall mortality in the study 19%).41</text>
+    </sentence>
+    <sentence charOffset="22816-23056" id="S154" selection="22,21">
+        <text xml:space="preserve">Compared with these trials, ours included a larger group of patients with MRSA bacteraemia and a sicker cohort overall, as evidenced by the mortality rates, more closely reflecting patients treated with MRSA infections in clinical practice.</text>
+    </sentence>
+    <sentence charOffset="23079-23099" id="S155" selection="">
+        <text xml:space="preserve">Limitations of study</text>
+    </sentence>
+    <sentence charOffset="23108-23258" id="S156" selection="20">
+        <text xml:space="preserve">The main limitation of our trial is the small sample size of patients with bacteraemia, in whom results suggest an important advantage for vancomycin.</text>
+    </sentence>
+    <sentence charOffset="23259-23366" id="S157" selection="">
+        <text xml:space="preserve">No statistically significant differences were observed between groups at baseline for nearly all variables.</text>
+    </sentence>
+    <sentence charOffset="23367-23499" id="S158" selection="20">
+        <text xml:space="preserve">However, a subtle difference existed for important prognostic variables, and more patients allocated to vancomycin were bacteraemic.</text>
+    </sentence>
+    <sentence charOffset="23500-23658" id="S159" selection="">
+        <text xml:space="preserve">Multivariable analysis of the entire study cohort showed a larger advantage of vancomycin with regard to treatment failure, reaching statistical significance.</text>
+    </sentence>
+    <sentence charOffset="23659-23795" id="S160" selection="20">
+        <text xml:space="preserve">Patients with polymicrobial infections and receiving additional antibiotics were included in the study, reflecting its pragmatic nature.</text>
+    </sentence>
+    <sentence charOffset="23796-23921" id="S161" selection="">
+        <text xml:space="preserve">However, these were mostly inactive against MRSA and concomitant antibiotics covering MRSA were not allowed at randomisation.</text>
+    </sentence>
+    <sentence charOffset="23922-24086" id="S162" selection="21,20">
+        <text xml:space="preserve">Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included, affecting the trial’s external validity.</text>
+    </sentence>
+    <sentence charOffset="24087-24331" id="S163" selection="20">
+        <text xml:space="preserve">Finally, the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended,20 potentially resulting in an underestimation of the efficacy of vancomycin and the difference between arms.</text>
+    </sentence>
+    <sentence charOffset="24354-24364" id="S164" selection="">
+        <text xml:space="preserve">Conclusion</text>
+    </sentence>
+    <sentence charOffset="24373-24505" id="S165" selection="22">
+        <text xml:space="preserve">Trimethoprim-sulfamethoxazole did not achieve non-inferiority compared with vancomycin among patients with invasive MRSA infections.</text>
+    </sentence>
+    <sentence charOffset="24506-24642" id="S166" selection="22">
+        <text xml:space="preserve">In the subgroup of patients with bacteraemia, the difference in treatment failure and all cause mortality might be clinically important.</text>
+    </sentence>
+    <sentence charOffset="24643-24736" id="S167" selection="22">
+        <text xml:space="preserve">Trimethoprim-sulfamethoxazole should not be used for the treatment of severe MRSA infections.</text>
+    </sentence>
+    <sentence charOffset="24737-24947" id="S168" selection="">
+        <text xml:space="preserve">We propose a further randomised controlled trial to examine the feasibility of step-down from vancomycin to trimethoprim-sulfamethoxazole, allowing early discharge of patients with MRSA responding to treatment.</text>
+    </sentence>
+    <sentence charOffset="24980-25015" id="S169" selection="">
+        <text xml:space="preserve">What is already known on this topic</text>
+    </sentence>
+    <sentence charOffset="25060-25206" id="S170" selection="">
+        <text xml:space="preserve">Trimethoprim-sulfamethoxazole has excellent coverage against meticillin resistant Staphylococcus aureus (MRSA) strains in most locations worldwide</text>
+    </sentence>
+    <sentence charOffset="25253-25421" id="S171" selection="">
+        <text xml:space="preserve">Vancomycin is inferior to β lactams for meticillin susceptible S aureus and might be losing effectiveness against MRSA owing to minimum inhibitory concentration “creep”</text>
+    </sentence>
+    <sentence charOffset="25468-25615" id="S172" selection="">
+        <text xml:space="preserve">No contemporary randomised controlled trials have compared trimethoprim-sulfamethoxazole with vancomycin in the treatment of severe MRSA infections</text>
+    </sentence>
+    <sentence charOffset="25678-25698" id="S173" selection="">
+        <text xml:space="preserve">What this study adds</text>
+    </sentence>
+    <sentence charOffset="25743-25920" id="S174" selection="">
+        <text xml:space="preserve">In a randomised controlled trial including 252 inpatients, trimethoprim-sulfamethoxazole did not achieve non-inferiority to vancomycin in the treatment of severe MRSA infections</text>
+    </sentence>
+    <sentence charOffset="25967-26035" id="S175" selection="">
+        <text xml:space="preserve">The difference was particularly marked for patients with bacteraemia</text>
+    </sentence>
+    <sentence charOffset="26082-26164" id="S176" selection="">
+        <text xml:space="preserve">Adverse events rates were similar for trimethoprim-sulfamethoxazole and vancomycin</text>
+    </sentence>
+    <sentence charOffset="26229-26240" id="S177">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="26268-26312" id="S178" selection="">
+        <text xml:space="preserve">Contributors: MP and JB contributed equally.</text>
+    </sentence>
+    <sentence charOffset="26313-26393" id="S179" selection="">
+        <text xml:space="preserve">MP, JB, and LL contributed to study conception and design and analysed the data.</text>
+    </sentence>
+    <sentence charOffset="26394-26687" id="S180" selection="">
+        <text xml:space="preserve">All authors were involved in data collection, as were Maria Raskin, Ynon Lischinski, Morad Wattad, Olga Talker, Rawi Hazan, Laura Farbman, Vered Shani, and Vered Zaretsky (Rabin Medical Center); and Roni Bitterman, Anat Stern, Yael Dishon-Benattar, and Fidi Koppel (Rambam Health Care Campus).</text>
+    </sentence>
+    <sentence charOffset="26688-26714" id="S181" selection="">
+        <text xml:space="preserve">MP drafted the manuscript.</text>
+    </sentence>
+    <sentence charOffset="26715-26801" id="S182" selection="">
+        <text xml:space="preserve">All authors were involved in data interpretation and approval of the final manuscript.</text>
+    </sentence>
+    <sentence charOffset="26802-26831" id="S183" selection="">
+        <text xml:space="preserve">MP and LL are the guarantors.</text>
+    </sentence>
+    <sentence charOffset="26860-27005" id="S184" selection="25">
+        <text xml:space="preserve">Funding: The study was partially funded by the Sima Lior scholarship 2008 (MP) and Rabin Medical Center Young Investigator scholarship 2009 (DY).</text>
+    </sentence>
+    <sentence charOffset="27006-27119" id="S185" selection="25">
+        <text xml:space="preserve">The funders had no role in trial design; data collection, analysis, or interpretation; or manuscript preparation.</text>
+    </sentence>
+    <sentence charOffset="27148-27642" id="S186" selection="">
+        <text xml:space="preserve">Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare: no support from any organisation for the submitted work other than that detailed above; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work.</text>
+    </sentence>
+    <sentence charOffset="27671-27835" id="S187" selection="">
+        <text xml:space="preserve">Ethical approval: The trial was approved by the ethics committees in each study centre, and informed consent was obtained from all patients or their legal guardian.</text>
+    </sentence>
+    <sentence charOffset="27864-28172" id="S188" selection="">
+        <text xml:space="preserve">Transparency declaration: The lead authors (the manuscript’s guarantors) affirm that the manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned have been explained.</text>
+    </sentence>
+    <sentence charOffset="28201-28308" id="S189" selection="">
+        <text xml:space="preserve">Data sharing: Case report forms, dataset, and statistical code are available from the corresponding author.</text>
+    </sentence>
+    <sentence charOffset="28337-28369" id="S190" selection="">
+        <text xml:space="preserve">Cite this as: BMJ 2015;350:h2219</text>
+    </sentence>
+    <section textSpan="0-157" title="Title" titleSpan="0-5"/>
+    <section textSpan="158-2509" title="Abstract" titleSpan="158-166"/>
+    <section textSpan="2515-4995" title="Introduction" titleSpan="2522-2534"/>
+    <section textSpan="5000-11745" title="Methods" titleSpan="5007-5014">
+        <section textSpan="5431-8664" title="Study population and procedures" titleSpan="5440-5471"/>
+        <section textSpan="8671-10274" title="Outcomes" titleSpan="8680-8688"/>
+        <section textSpan="10281-11740" title="Sample size and analysis" titleSpan="10290-10314"/>
+    </section>
+    <section textSpan="11750-16898" title="Results" titleSpan="11757-11764"/>
+    <section textSpan="16903-26224" title="Discussion" titleSpan="16910-16920">
+        <section textSpan="19489-23063" title="Comparison with other studies" titleSpan="19498-19527"/>
+        <section textSpan="23070-24338" title="Limitations of study" titleSpan="23079-23099"/>
+        <section textSpan="24345-26219" title="Conclusion" titleSpan="24354-24364">
+            <section textSpan="24967-25654" title="What is already known on this topic" titleSpan="24980-25015"/>
+            <section textSpan="25665-26203" title="What this study adds" titleSpan="25678-25698"/>
+        </section>
+    </section>
+    <section textSpan="26229-28375" title="Back matter" titleSpan="26229-26240"/>
+</document>

@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC4797126" note="">
+    <text xml:space="preserve">Title
+A randomized trial of the efficacy and safety of quilizumab in adults with inadequately controlled allergic asthma
+Abstract
+
+        
+          Background
+          Quilizumab, a humanized IgG1 monoclonal antibody, targets the M1-prime segment of membrane-expressed IgE, leading to depletion of IgE-switched and memory B cells. In patients with mild asthma, quilizumab reduced serum IgE and attenuated the early and late asthmatic reaction following whole lung allergen challenge. This study evaluated the efficacy and safety of quilizumab in adults with allergic asthma, inadequately controlled despite high-dose inhaled corticosteroids (ICS) and a second controller.
+        
+        
+          Methods
+          Five hundred seventy-eight patients were randomized to monthly or quarterly dosing regimens of subcutaneous quilizumab or placebo for 36 weeks, with a 48-week safety follow-up. Quilizumab was evaluated for effects on the rate of asthma exacerbations, lung function, patient symptoms, serum IgE, and pharmacokinetics. Exploratory analyses were conducted on biomarker subgroups (periostin, blood eosinophils, serum IgE, and exhaled nitric oxide).
+        
+        
+          Results
+          Quilizumab was well tolerated and reduced serum total and allergen-specific IgE by 30–40 %, but had no impact on asthma exacerbations, lung function, or patient-reported symptom measures. At Week 36, the 300 mg monthly quilizumab group showed a 19.6 % reduction (p = 0.38) in the asthma exacerbation rate relative to placebo, but this was neither statistically nor clinically significant. Biomarker subgroups did not reveal meaningful efficacy benefits following quilizumab treatment.
+        
+        
+          Conclusions
+          Quilizumab had an acceptable safety profile and reduced serum IgE. However, targeting the IgE pathway via depletion of IgE-switched and memory B cells was not sufficient for a clinically meaningful benefit for adults with allergic asthma uncontrolled by standard therapy.
+        
+        
+          Trial registration
+          ClinicalTrials.gov NCT01582503
+        
+        
+          Electronic supplementary material
+          The online version of this article (doi:10.1186/s12931-016-0347-2) contains supplementary material, which is available to authorized users.
+        
+      
+
+
+    
+      Background
+      Asthma, a chronic inflammatory disorder of the airways, affects over 300 million people worldwide [1]. Some patients have persistent symptoms despite the use of steroids and other therapies. These patients are at the highest risk for future exacerbations and unscheduled use of healthcare resources [2].
+      Asthma is a heterogeneous disorder with distinct endotypes, the pathogenic cellular and molecular mechanisms that drive disease in different patient subgroups [3–6]. Allergic asthma is a hypersensitivity driven by the complex interaction of epithelial, dendritic, and type 2 innate lymphoid cells, leading to activation of CD4+ T helper 2 (Th2) cells in response to allergen exposure [7]. Th2 cells produce interleukin (IL)-4, IL-5, IL-13, and other cytokines that promote immunoglobulin E (IgE) class switching of B cells, increased IgE synthesis by plasma B cells, and recruitment and activation of eosinophils and other inflammatory cells. When allergen cross-links IgE bound to IgE receptors on mast cells and basophils, cell activation and allergic mediator release occur, which may lead to mucus production and airway hyperreactivity [8]. Biomarkers in sputum, bronchoalveolar lavage, blood, and bronchial biopsies may indicate a particular endotype and potentially identify patients with increased responsiveness to endotype-specific treatments [5, 9]. For example, elevated levels of serum periostin, an extracellular matrix protein induced by IL-4 and IL-13 in airway epithelium, identified a subset of asthma patients who responded better to lebrikizumab, an anti-IL-13 monoclonal antibody [10]. Similarly, patients with high levels of exhaled nitric oxide (NO), blood eosinophils, or serum periostin, had fewer asthma exacerbations following treatment with omalizumab, a neutralizing anti-IgE antibody, than patients with low biomarker levels [11]. These data suggest that IgE may drive allergic asthma in a subset of patients.
+      Quilizumab is a humanized, monoclonal IgG1 that binds to the M1-prime segment present only on membrane IgE [12], but not on soluble IgE in serum [13–15]. Membrane IgE is expressed on IgE-switched B cells, IgE memory B cells, and IgE plasmablasts, but not on IgE plasma cells [16]. In animal studies, anti-M1 prime bound membrane IgE on IgE-switched B cells and plasmablasts and depleted them through apoptosis and antibody-dependent cell-mediated cytotoxicity, leading to fewer IgE plasma cells and less production of soluble IgE [17].
+      We previously evaluated the safety, tolerability, and activity of quilizumab in Phase Ia (31 healthy volunteers) [18], Phase Ib (24 allergic rhinitis patients) [19] and Phase IIa (15 mild asthma patients) [19] studies. In these studies, quilizumab reduced serum total IgE by approximately 25 %. These decreases were sustained for at least 6 months after the last dose, in contrast to omalizumab, which must be administered every 2–4 weeks to maintain reduced IgE levels [20]. Quilizumab also abrogated the increase in challenge-specific IgE in patients with mild asthma following a whole-lung allergen challenge, and reduced the early and late asthmatic reactions [19]. Quilizumab may reset the IgE repertoire by targeting IgE production and provide a more sustained effect with a lower dose frequency then omalizumab. The primary purpose of this study was to evaluate the efficacy, safety, and pharmacokinetics of quilizumab after 36 weeks of treatment in adults with allergic asthma inadequately controlled despite high-dose inhaled corticosteroids (ICS) and a second controller.
+    
+    
+      Methods
+      
+        Trial design
+        The COSTA trial of quilizumab was a Phase II, randomized, double-blind, placebo-controlled study (including recruiting sites from 14 countries: Argentina, Belgium, Bulgaria, Canada, Germany, Hungary, Mexico, New Zealand, Peru, Poland, Romania, Russia, Ukraine, and the United States) that enrolled 578 adults with uncontrolled allergic asthma.
+        Patients were randomly assigned (1:1:1:1) to one of three dosing regimens of quilizumab or placebo using an interactive web response system. Randomization was stratified based on serum periostin level (&lt;50 ng/mL, ≥50 ng/mL), exacerbation history (number of exacerbations (1, &gt;1) requiring use of systemic corticosteroids in the prior 18 months), IgE level (≤75 IU/mL, 75–200 IU/mL, &gt;200 IU/mL), and country. Patients and study site personnel were blinded to treatment assignments until all follow-up data through Week 84 were collected and verified.
+        Quilizumab (Genentech, Inc., South San Francisco, CA) was delivered subcutaneously at nine monthly intervals at 300 mg per dose (300 mg M), or at three quarterly intervals and at Week 4 at 150 or 450 mg per dose (150 or 450 mg Q). The treatment period ended 36 weeks after randomization and was followed by a 48-week period to assess the sustained efficacy and safety of quilizumab (see Additional file 1: Figure S1).
+        
+          Ethics, consent, and permissions
+          Quorum Review based in Seattle, WA was the primary central IRB used by sites in North America, however multiple other site-specific institutional review boards at other global sites approved the protocol and patients gave written, informed consent. The trial was conducted in full conformance with the International Conference on Harmonisation E6 guidelines and the Declaration of Helsinki, or laws and regulations of the country where the research was conducted, whichever afforded greater protection to the individual.
+        
+      
+      
+        Participants
+        
+          Inclusion criteria
+          Adult asthma patients, aged 18–75 years, were required to have: bronchodilator reversibility of either ≥12 % β-agonist reversibility using 4 puffs of a short-acting β − agonist (SABA) or a PC20 FEV1 methacholine (provocative concentration of methacholine producing a 20 % fall in FEV1 (forced expiratory volume in 1 s)) of 8 mg/mL or less, within the last 2 years; a pre-bronchodilator FEV1 at screening of 40–80 % predicted; daily use of ICS (≥400 μg/day total daily dose of fluticasone propionate or equivalent) and a second controller for a minimum of 3 consecutive months; inadequately-controlled asthma as documented by a 5-item Asthma Control Questionnaire (ACQ-5) [21] score ≥1.50 at screening and randomization, despite compliance with asthma controller therapy; at least one positive aeroallergen-specific IgE (≥0.35 kU(A)/L), or a total serum IgE ≥75 IU/mL; and a history of at least one protocol-defined asthma exacerbation in the 18 months prior to screening. Asthma exacerbations were defined as new or increased asthma symptoms (wheezing, cough, chest tightness, shortness of breath, or nighttime awakening due to symptoms) that led to treatment with systemic corticosteroids for at least 3 days or to hospitalization.
+        
+        
+          Exclusion criteria
+          Patients were excluded from the study if they had an asthma exacerbation requiring systemic steroids in the 30 days prior to screening, or between screening and randomization, a &gt;20 % relative change in FEV1 between screening and randomization, any pre-existing active lung disease other than asthma, any infections, elevated IgE levels for reasons other than allergy, or were former or current smokers.
+        
+      
+      
+        Outcome measures
+        The primary efficacy outcome was the annualized rate of protocol-defined asthma exacerbations from baseline to Week 36.
+        Secondary efficacy outcomes included assessments of lung function using the relative change in pre-bronchodilator FEV1 from baseline to Weeks 12 and 36 and the change in asthma symptoms from baseline to Week 36, using total and daytime symptom severity scores derived from a daily patient diary. The diary was also used to determine the proportion of patients who had no nighttime awakenings due to asthma symptoms and the proportion of patients with fewer than 2 days of SABA use per week by Week 36.
+        Exploratory outcome measures included the change in asthma control from baseline to Week 36, as measured by the ACQ-5. To assess the change in allergy-related quality-of-life measures from baseline to Week 36, the Standardized Asthma Quality of Life Questionnaire (AQLQ(S)) [22] and the Standardized Rhinoconjunctivitis Quality of Life Questionnaire (RQLQ(S)) [23] were administered at patient visits throughout the treatment and follow-up periods. We also evaluated the ability of biomarkers (serum periostin, blood eosinophils, exhaled NO, and serum IgE) to predict benefit from quilizumab.
+        Safety outcomes were assessed throughout the 36-week treatment and 48-week follow-up periods.
+      
+      
+        Assessments
+        The patient daily diary included two sections in addition to peak flow measurements: 1) a morning section capturing awakenings and rescue medication use at night, and symptoms on awakening; and 2) an evening section capturing daytime symptom severity, rescue medication use, preventive inhaler use, activity impairment during the day, and nasal symptoms. The modified total asthma symptom score (mTASS) was generated from a subset of diary questions adapted from a previous questionnaire [24], scoring nighttime awakenings (0–3), symptoms on awakening (0–1), and daytime symptom severity (0–4), for a total score range of 0–8. For the analyses of symptom scores, rescue medication use, and nighttime awakenings, daily scores were averaged over the previous 7 days prior to the time point of interest. Baseline values were derived from a minimum of 10 days of patient diary entries during the 14 days prior to the first treatment.
+      
+      
+        Pharmacokinetics and immunogenicity
+        Serum levels of quilizumab for pharmacokinetic assessments were measured using a validated enzyme-linked immunosorbent assay (ELISA; Genentech, Inc., South San Francisco, CA). The pharmacokinetic outcomes included: serum concentrations prior to dosing at Weeks 0, 4, 12, 24, and 32; serum concentrations at Week 5 and Week 25; maximum observed serum concentrations (Cmax,obs); time of maximum observed serum concentration (Tmax, obs); and terminal elimination half-life (t1/2). Serum anti-therapeutic antibodies (ATAs) were assessed in samples at Weeks 0, 4, 12, 24, 36, 48, 60, and 84 using a validated bridging ELISA (Genentech, Inc., South San Francisco, CA).
+      
+      
+        Biomarkers
+        Samples for biomarker assessments were collected throughout the study. Allergen-specific and total IgE were measured in serum by ImmunoCAP® Specific IgE blood tests (ViraCor-IBT Laboratories, Lee’s Summit, MO). Specific IgE was measured for the following allergens: cat, house dust mite (HDM) Dermatophagoides farinae, HDM Dermatophagoides pteronyssinus, ragweed, aspergillus, timothy grass, bermuda grass, oak, birch, plantain, and orchard grass. The maximum specific IgE was defined as the specific IgE with the highest titer of specific IgEs pre-dose in each patient. Only observed values of IgE levels were analyzed, with no imputation performed for missing IgE data. Peripheral blood eosinophil counts were obtained from standard complete blood counts. Serum periostin was measured by immunoassay using the Roche Elecsys platform (Roche Diagnostics Ltd., Rotkreuz, Switzerland). Fractional exhaled nitric oxide (FeNO) was measured using a hand-held portable device, NIOX MINO® (Niox; Morrisville, NC), according to American Thoracic Society/European Respiratory Society 2009 guidelines [25].
+      
+      
+        Statistical methods
+        All patients received at least one dose of study drug (intention-to-treat, ITT population) and were included in all safety and efficacy analyses. Demographic and baseline characteristics were summarized using descriptive statistics. The primary endpoint, the annualized exacerbation rate, was calculated by the total number of protocol-defined exacerbations observed in the group over the treatment period divided by total patient-weeks at risk (number of weeks from first study drug administration to the earliest of Week 36 or study discontinuation) for the group and multiplied by 52. For patients who discontinued the study prematurely, there was no imputation of additional exacerbations. The rates of asthma exacerbations were compared between study groups using a Poisson regression with overdispersion model, including terms for periostin status (&lt;50, ≥50 ng/mL), number of prior exacerbations (1, &gt;1), and IgE level (&lt;200, ≥200 IU/mL). For biomarker subgroup analyses, unadjusted asthma exacerbation rates were calculated. Corresponding two-sided p-values and 90 % confidence intervals (CI) were reported.
+        The relative change in pre-bronchodilator FEV1 from baseline was calculated as the absolute change in FEV1 (volume in liters) from baseline divided by the FEV1 at baseline. For secondary and exploratory end points, the means and standard deviations of all values for relative change were calculated according to study group at Weeks 12 and 36. The mean relative changes from baseline were compared between the study groups using the differences between the means for each group, with the associated two-sided 90 % CIs. Missing values were imputed using the last-observation-carried-forward (LOCF) approach, as prespecified in the statistical analysis plan. An analysis of covariance (ANCOVA) model with factors for baseline level, periostin status (&lt;50 ng/mL, ≥50 ng/mL), number of prior exacerbations (1, &gt;1), and IgE level (&lt;200 IU/mL, ≥200 IU/mL) was fit to assess the treatment effect.
+        
+          Sample size determination
+          We planned to randomize 560 patients to one of three dose regimens of quilizumab or placebo in a 1:1:1:1 ratio (140 patients per group). This sample size provided approximately 84 % power to detect a 50 % reduction in average exacerbation rates due to quilizumab, assuming 0.63 exacerbations per patient in the placebo group over a 36-week treatment period, and a significance level of α = 0.10. This sample size also provided approximately 70 % power to detect a 50 % reduction in average exacerbation rates in the subgroup of periostin-high patients, assuming 0.69 exacerbations per patient in the placebo group over the 36-week period, a significance level of 0.15, and 50 % of patients in each treatment arm to be periostin high.
+        
+      
+    
+    
+      Results
+      
+        Patient demographics and study flow
+        1212 patients were screened for eligibility and 578 adult asthma patients (18–75 years old) were enrolled (Fig. 1) from April 2012 to September 2013; the study was completed in November 2014. There were no major imbalances between treatment groups, but the 300 mg monthly quilizumab group had a lower mean age (45 versus 47–48 years) and a lower median IgE level (190 versus 234–254 IU/mL) compared to the other treatment arms (Table 1). 89 % (384/433) of patients who received quilizumab and 91 % (132/145) of patients who received placebo completed the study treatment. The sponsor terminated the trial early because of the lack of efficacy for the primary end-point (asthma exacerbations) at Week 36, with the median time in the study at 72 weeks.Fig. 1 Study flow chart. I/E, inclusion/exclusion; M, monthly; Q, quarterlyTable 1 Patient demographics/baseline characteristics
+      
+      
+        Safety
+        Quilizumab was well tolerated, and the number of patients experiencing at least one adverse event (AE) was comparable between all treatment groups (Table 2). Through Week 36, the most frequent AEs across all quilizumab dose groups were worsening of asthma (27 %), nasopharyngitis (15 %), upper respiratory tract infection (7 %), bronchitis (5 %), sinusitis (5 %), and injection site pain (5 %).Table 2 Safety, from first dose of study drug through end of study (Week 84)
+        The treatment-emergent ATA rate was 1.4 % in both the 150 mg Q and 300 mg M groups, and 2.1 % in the 450 mg Q group. ATA incidence for all dosing groups was 1.6 % (7 of 427 quilizumab-dosed patients). There was no apparent impact of positive ATA results on either pharmacokinetic profiles or safety.
+      
+      
+        Pharmacokinetics
+        Quilizumab displayed linear pharmacokinetics with a dose-proportional increase in exposure as shown by increases in Cmax values between the 150 and 450 mg Q doses at Weeks 5 and 25. (see Additional file 1: Figure S2). At treatment Weeks 4, 12, and 24, the mean trough serum concentrations of quilizumab were: (150 mg Q) 5.7 ± 2.3 μg/mL, 2.6 ± 2.0 μg/mL, and 1.3 ± 4.6 μg/mL, respectively; (450 mg Q) 17.1 ± 7.0 μg/mL, 7.2 ± 3.8 μg/mL, and 2.3 ± 2.2 μg/mL, respectively; and (300 mg M) 11.6 ± 4.5 μg/mL, 16.7 ± 6.7 μg/mL, and 16.8 ± 7.7 μg/mL, respectively. For the 150 mg Q, 450 mg Q, and 300 mg M doses, the mean Cmax,obs values were 18 ± 7.8 μg/mL, 51.6 ± 19.5 μg/mL, and 34 ± 12.6 μg/mL, which occurred at Tmax,obs of 36.4 ± 4.3 days, 36.2 ± 3.0 days, and 36.2 ± 3.5 days, respectively, approximately 7 days following the second doses. Based on non-compartmental analysis, the mean t1/2 values of quilizumab across the dose groups ranged from 16.4 to 18.7 days, which suggests that steady-state was attained by the time the final doses were administered for both monthly and quarterly regimens.
+      
+      
+        Pharmacodynamic biomarkers
+        Quilizumab gradually reduced mean serum total and allergen-specific IgE, reaching a 30–40 % reduction at Week 36 in all three quilizumab cohorts (p &lt; 0.01 compared to placebo; Fig. 2). The largest decreases in total and allergen-specific IgE were observed at Week 42 in the 300 mg M treatment cohort. Serum total and allergen-specific IgE in quilizumab-treated patients gradually increased throughout the safety follow-up period, but did not return to pre-dose levels by the end of the study period (Week 84).Fig. 2 Effect of quilizumab on serum total (a-c) and allergen-specific IgE (d-f) from baseline to Week 84. IgE levels were represented as the mean ± standard error (SE) of the natural logarithm (a, d), the mean ± SE percent change from baseline (b, e), and median percent change from baseline (c, f). All IgE data analysis was based on observed values. M, monthly; Q, quarterly
+        Peripheral blood eosinophils and FeNO levels were not modified following quilizumab treatment (see Additional file 1: Figure S3).
+      
+      
+        Asthma exacerbation rates
+        Quilizumab treatment did not produce a clinically meaningful reduction of the rate of asthma exacerbations over the 36-week treatment period. In the ITT population, the reduction in the asthma exacerbation rate relative to placebo was 19.6 % (90 % CI: −21 to 47; p = 0.38), −11.2 % (90 % CI: −63 to 24; p = 0.65), and −5.7 % (90%CI: −55 to 28; p = 0.81) in the 300 mg M, 450 mg Q, and 150 mg Q quilizumab treatment arms, respectively (Fig. 3).Fig. 3 Rate of protocol-defined asthma exacerbations through Week 36 for all patients. M, monthly; Q, quarterly
+        Subgroup analysis by baseline serum periostin (≥50 ng/ml, &lt;50 ng/ml), blood eosinophils (≥300 cells/μl, &lt;300 cells/μl), FeNO (≥20 ppb, &lt;20 ppb) and serum total IgE (≥200 IU/mL, &lt;200 IU/mL) demonstrated no consistent effect of quilizumab on the exacerbation rate across all doses when compared to the ITT population (Fig. 4).Fig. 4 Rate of protocol-defined asthma exacerbations through Week 36 for patients stratified by biomarkers (a: periostin; b: blood eosinophils; c: FeNO; d: serum IgE). Exac, exacerbation; M, monthly; Q, quarterly
+      
+      
+        Lung function
+        No significant evidence of improved FEV1 at Weeks 12 and 36 was observed in quilizumab-treated patients compared to placebo (Fig. 5). The highest relative improvement compared to placebo occurred in the lowest dose arm (150 mg Q), but no meaningful improvements were observed in the higher dose arms (450 mg Q and 300 mg M). Relative changes from baseline in FEV1 compared to placebo were 3.8 % (90 % CI: −1.2 to 8.9, p = 0.21) at Week 12 and 5.6 % (90 % CI: 0.6 to 10.6, p = 0.07) at Week 36 in the 150 mg Q treatment arm; 2.2 % (90 % CI: −2.8 to 7.2, p = 0.48) at Week 12 and 0.1 % (90 % CI: −5.0 to 5.1, p = 0.98) at Week 36 in the 450 mg Q arm; and 1.1 % (90 % CI: −3.9 to 6.1, p = 0.72) at Week 12 and 0.1 % (90 % CI: −4.9 to 5.2, p = 0.96) at Week 36 in the 300 mg M arm (Fig. 5; see Additional file 2: Table S1 and Additional file 3: Table S2).Fig. 5 Mean percent change in pre-bronchodilator FEV1 from baseline. FEV1 for each treatment arm was measured through Week 36. Error bars represent the standard error of the mean. M, monthly; Q, quarterly
+        Analysis of FEV1 in the biomarker subgroups demonstrated no consistent or meaningful improvements of FEV1 in the quilizumab-treated arms over placebo (see Additional file 2: Table S1 and Additional file 3: Table S2).
+      
+      
+        Patient-reported outcomes
+        During the 36-week treatment period, no meaningful differences were observed between the quilizumab dose groups compared with the placebo group for the total mTASS, daytime mTASS, ACQ-5, AQLQ(S), or RQLQ(S) scores (Table 3).Table 3 Change over 36 weeks in patient-reported outcomes (ITT population)
+        Treatment with quilizumab failed to increase either the proportion of patients who used a SABA for fewer than 2 days in the prior week or the proportion of patients who did not awaken at night due to asthma symptoms for all dosing levels relative to the placebo group at Week 36 (Table 3).
+      
+    
+    
+      Discussion
+      In this study, we evaluated the efficacy and safety of quilizumab, a monoclonal antibody that targets the M1-prime segment of membrane IgE, in adult patients with allergic asthma that was inadequately controlled with standard therapy. After 36 weeks of treatment, quilizumab was well tolerated, with a safety profile consistent with previous clinical studies [18, 19].
+      Quilizumab demonstrated clear pharmacological activity by reducing both serum total and allergen-specific IgE an average of 30–40 % from baseline in all three treatment arms, in agreement with our previous work [18, 19]. However, quilizumab treatment did not show consistent and clinically meaningful benefits in reducing asthma exacerbations or improving lung function, symptoms, or quality of life. Subgroup analysis in patients with elevated serum periostin, blood eosinophils, FeNO, or serum IgE did not demonstrate a consistent treatment effect for quilizumab.
+      It is important to understand that reducing serum IgE levels is not quilizumab’s proposed mechanism of action. Quilizumab did not reduce serum IgE as effectively as omalizumab (89–98 % reduction of median free IgE) [26], but these two antibodies target the IgE pathway in distinctly different ways. Quilizumab targets both B-cell switching to IgE and the new stimulation of IgE memory B cells and plasmablasts that lead to enhanced IgE production, processes that occur locally in the airways of allergic patients [16]. Quilizumab’s ability to suppress the challenge-specific increase in serum IgE in our whole lung allergen challenge study in mild asthmatics supports this mechanism [19]. We therefore hypothesize that quilizumab prevents the formation of short-lived IgE plasma cells in the airway. Long-lived IgE plasma cells, which lack IgE on the surface, are not targeted by quilizumab and may be responsible for the remaining serum IgE detected in our studies [16]. Another source of IgE not eliminated by quilizumab may be a subpopulation of IgG1 memory B cells that undergo a secondary switch to IgE when reactivated, and thereby become IgE memory cells [27].
+      The current study assessed the relevance of this mechanism on exacerbations in patients with inadequately controlled allergic asthma. In the EXTRA study that examined a similar patient population, omalizumab significantly reduced asthma exacerbations by 25 % in the all-patients group [24], by 53 % in the FeNO-high subgroup, and by 32 % in the eosinophil-high subgroup, relative to placebo. In addition, asthma exacerbations were substantially reduced in the periostin-high subgroup (30 %) relative to placebo [11]. In contrast, in our study, quilizumab did not show significant clinical benefit in this population (Fig. 3) or in any subgroup (Fig. 4), possibly because local IgE production by short-lived IgE plasma cells is not critical for exacerbations and other clinical endpoints. For this to be true, we must assume that: 1) quilizumab depleted all M1-prime-positive B cells, and 2) the doses in this study were sufficient to deplete all M1-prime-positive cells. Despite our extensive efforts, we have not been able to accurately detect M1-prime-positive cells in patients with asthma [19], so we have no direct evidence of depletion. However, all three quilizumab dose regimens led to a similar reduction in serum IgE levels, suggesting that quilizumab depleted all target cells, and indicating that higher doses would not have provided additional activity. Interestingly, after stopping quilizumab dosing, serum IgE levels gradually increased, indicating that IgE-switching and formation of short-lived IgE plasma cells may occur continuously in this patient population, a finding not previously reported.
+      The allergen-challenge model used in our previous studies where quilizumab was shown to be effective [19] may not represent the asthma processes occurring in the patient population in this study, especially given that alternate sources of IgE appear to play a more dominant role. However, the model was key in first demonstrating the effectiveness of omalizumab in patients with mild asthma, where omalizumab significantly reduced both the early and late asthmatic responses following allergen challenge and reduced serum IgE almost completely [28, 29]. Although less effective than omalizumab in a similar population, quilizumab showed reductions of 26 and 36 % in the early and late asthmatic responses, respectively, and a 25 % reduction in serum IgE [19]. Allergen-challenge studies are generally exploratory and are designed to follow biomarkers that trend with early and late asthmatic responses. They are usually conducted in patients with mild asthma, which is not the typical target population for new biologic therapies. At least one therapy, mepolizumab (anti-IL-5), is effective for reducing asthma exacerbations in patients with eosinophilic asthma, yet does not appear to affect early/late asthmatic responses during allergen challenge [30, 31]. It is therefore crucial that appropriate patient populations and outcome measures are selected for future trials.
+      Whether quilizumab could have a clinically meaningful effect in another subgroup of allergic asthma patients or whether a treatment period beyond 36 weeks would show efficacy, are questions we are unable to address with the current study. The type 2 biomarkers, serum periostin, blood eosinophils, and FeNO, which identified patients with increased clinical benefit from lebrikizumab and omalizumab [10, 11], did not consistently enrich for increased benefit from quilizumab in this study. Similarly, patients with elevated serum IgE levels at baseline did not respond better to quilizumab nor was there a correlation between serum IgE reduction and exacerbation reduction or FEV1 improvement (data not shown).
+    
+    
+      Conclusions
+      In adults with uncontrolled allergic asthma, a 36-week treatment with quilizumab, an anti-M1-prime monoclonal antibody that targets IgE-switched and IgE memory B cells, did not result in a clinically significant impact on exacerbation rate, lung function, or quality of life. Our data on quilizumab activity indicate that there are major pathological mechanisms that extend beyond the new, local production of IgE in patients with inadequately controlled allergic asthma.
+    
+  
+
+Back matter
+
+      
+        
+          Additional files
+                          Additional file 1:                   Figure S1. Study design. Figure S2. Pharmacokinetics of quilizumab in asthma patients. Figure S3. Effect of quilizumab on blood eosinophils (A, B) and FeNO (C, D) from baseline to Week 36. (PDF 422 kb)                  Additional file 2: Table S1.                  FEV1 at Week 12 (all patients and biomarker subgroups). (XLSX 12 kb)                  Additional file 3: Table S2.                  FEV1 at Week 36 (all patients and biomarker subgroups). (XLSX 48 kb)             
+        
+      
+    
+
+      Abbreviations
+      
+        
+          ACQ-5
+          
+            5-item asthma control questionnaire
+          
+        
+        
+          AE
+          
+            adverse event
+          
+        
+        
+          ANCOVA
+          
+            analysis of covariance
+          
+        
+        
+          AQLQ(S)
+          
+            standardized asthma quality-of-life questionnaire
+          
+        
+        
+          ATA
+          
+            anti-therapeutic antibody
+          
+        
+        
+          
+            C
+            
+              max:obs
+            
+          
+          
+            maximum observed serum concentration
+          
+        
+        
+          ELISA
+          
+            enzyme-linked immunosorbent assay
+          
+        
+        
+          FeNO
+          
+            fractional exhaled nitric oxide
+          
+        
+        
+          FEV1
+          
+            forced expiratory volume in 1 s
+          
+        
+        
+          HDM
+          
+            house dust mite
+          
+        
+        
+          ICS
+          
+            inhaled corticosteroid
+          
+        
+        
+          Ig
+          
+            immunoglobulin
+          
+        
+        
+          IL
+          
+            interleukin
+          
+        
+        
+          ITT
+          
+            intention-to-treat
+          
+        
+        
+          LOCF
+          
+            last observation carried forward
+          
+        
+        
+          LSM
+          
+            least squares mean
+          
+        
+        
+          mTASS
+          
+            modified total asthma symptom score
+          
+        
+        
+          RQLQ(S)
+          
+            standardized rhinitis quality-of-life questionnaire
+          
+        
+        
+          SABA
+          
+            short-acting β-agonist
+          
+        
+        
+          
+            t
+            
+              1/2
+            
+          
+          
+            terminal elimination half-life
+          
+        
+        
+          Th2
+          
+            T helper 2
+          
+        
+        
+          
+            T
+            max:obs
+          
+          
+            time of maximum observed serum concentration
+          
+        
+      
+    
+
+      
+                   Competing interests         
+        JMH, RM, MSB, CRC, HS, JL, FC, MK, XCL, DS, RZ, and CC are employed at Genentech, Inc., a member of the Roche Group, and own Roche stock. WS has received research support from Genentech, Inc., Astra-Zeneca, Teva, Merck, Novartis, Sanofi, Stallergens, Circassia, Regeneron, Pfizer, Symbio, and Amgen; has received speaking fees from Genentech, Inc., Teva, and Meda; and has received consulting fees from Regeneron and Teva. PP has received research support from Genentech, Inc., Astra-Zeneca, and Merck. JDD, DD, IA, MT, and SK declare that they have no competing interests.
+      
+      
+                   Authors’ contributions         
+        JMH, RM, HS, XCL, and MK contributed to the conception and design of the study. CC, WS, JDD, PP, MT, DD, IA, and SK contributed to the acquisition of data. JMH, RM, MSB, CRC, HS, JL, FC, MK, XCL, DS, and RZ analyzed and interpreted the data. All authors contributed to the drafting and critical revision of the manuscript, and approved the final version to be published.
+      
+    
+
+      Acknowledgements
+      The authors thank all of the patients and the investigators who participated in this study. Editing and writing support was provided by Deborah Solymar (Genentech, Inc., South San Francisco, CA, USA) and was funded by Genentech, Inc.
+      
+        Funding
+        This work was supported by Genentech, Inc. Genentech, Inc. was involved in the study design, data interpretation, and the decision to submit for publication in conjunction with the authors.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-120" id="S2" selection="1a">
+        <text xml:space="preserve">A randomized trial of the efficacy and safety of quilizumab in adults with inadequately controlled allergic asthma</text>
+    </sentence>
+    <sentence charOffset="121-129" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="150-160" id="S4" selection="">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="171-333" id="S5" selection="1b">
+        <text xml:space="preserve">Quilizumab, a humanized IgG1 monoclonal antibody, targets the M1-prime segment of membrane-expressed IgE, leading to depletion of IgE-switched and memory B cells.</text>
+    </sentence>
+    <sentence charOffset="334-486" id="S6" selection="">
+        <text xml:space="preserve">In patients with mild asthma, quilizumab reduced serum IgE and attenuated the early and late asthmatic reaction following whole lung allergen challenge.</text>
+    </sentence>
+    <sentence charOffset="487-674" id="S7" selection="">
+        <text xml:space="preserve">This study evaluated the efficacy and safety of quilizumab in adults with allergic asthma, inadequately controlled despite high-dose inhaled corticosteroids (ICS) and a second controller.</text>
+    </sentence>
+    <sentence charOffset="703-710" id="S8" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="721-897" id="S9" selection="">
+        <text xml:space="preserve">Five hundred seventy-eight patients were randomized to monthly or quarterly dosing regimens of subcutaneous quilizumab or placebo for 36 weeks, with a 48-week safety follow-up.</text>
+    </sentence>
+    <sentence charOffset="898-1037" id="S10" selection="">
+        <text xml:space="preserve">Quilizumab was evaluated for effects on the rate of asthma exacerbations, lung function, patient symptoms, serum IgE, and pharmacokinetics.</text>
+    </sentence>
+    <sentence charOffset="1038-1165" id="S11" selection="">
+        <text xml:space="preserve">Exploratory analyses were conducted on biomarker subgroups (periostin, blood eosinophils, serum IgE, and exhaled nitric oxide).</text>
+    </sentence>
+    <sentence charOffset="1194-1201" id="S12" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="1212-1399" id="S13" selection="">
+        <text xml:space="preserve">Quilizumab was well tolerated and reduced serum total and allergen-specific IgE by 30–40 %, but had no impact on asthma exacerbations, lung function, or patient-reported symptom measures.</text>
+    </sentence>
+    <sentence charOffset="1400-1600" id="S14" selection="">
+        <text xml:space="preserve">At Week 36, the 300 mg monthly quilizumab group showed a 19.6 % reduction (p = 0.38) in the asthma exacerbation rate relative to placebo, but this was neither statistically nor clinically significant.</text>
+    </sentence>
+    <sentence charOffset="1601-1696" id="S15" selection="">
+        <text xml:space="preserve">Biomarker subgroups did not reveal meaningful efficacy benefits following quilizumab treatment.</text>
+    </sentence>
+    <sentence charOffset="1725-1736" id="S16" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="1747-1813" id="S17" selection="">
+        <text xml:space="preserve">Quilizumab had an acceptable safety profile and reduced serum IgE.</text>
+    </sentence>
+    <sentence charOffset="1814-2018" id="S18" selection="">
+        <text xml:space="preserve">However, targeting the IgE pathway via depletion of IgE-switched and memory B cells was not sufficient for a clinically meaningful benefit for adults with allergic asthma uncontrolled by standard therapy.</text>
+    </sentence>
+    <sentence charOffset="2047-2065" id="S19" selection="">
+        <text xml:space="preserve">Trial registration</text>
+    </sentence>
+    <sentence charOffset="2076-2106" id="S20" selection="23">
+        <text xml:space="preserve">ClinicalTrials.gov NCT01582503</text>
+    </sentence>
+    <sentence charOffset="2135-2168" id="S21" selection="">
+        <text xml:space="preserve">Electronic supplementary material</text>
+    </sentence>
+    <sentence charOffset="2179-2318" id="S22" selection="">
+        <text xml:space="preserve">The online version of this article (doi:10.1186/s12931-016-0347-2) contains supplementary material, which is available to authorized users.</text>
+    </sentence>
+    <sentence charOffset="2348-2358" id="S23">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="2365-2467" id="S24" selection="">
+        <text xml:space="preserve">Asthma, a chronic inflammatory disorder of the airways, affects over 300 million people worldwide [1].</text>
+    </sentence>
+    <sentence charOffset="2468-2555" id="S25" selection="">
+        <text xml:space="preserve">Some patients have persistent symptoms despite the use of steroids and other therapies.</text>
+    </sentence>
+    <sentence charOffset="2556-2668" id="S26" selection="">
+        <text xml:space="preserve">These patients are at the highest risk for future exacerbations and unscheduled use of healthcare resources [2].</text>
+    </sentence>
+    <sentence charOffset="2675-2840" id="S27" selection="">
+        <text xml:space="preserve">Asthma is a heterogeneous disorder with distinct endotypes, the pathogenic cellular and molecular mechanisms that drive disease in different patient subgroups [3–6].</text>
+    </sentence>
+    <sentence charOffset="2841-3063" id="S28" selection="">
+        <text xml:space="preserve">Allergic asthma is a hypersensitivity driven by the complex interaction of epithelial, dendritic, and type 2 innate lymphoid cells, leading to activation of CD4+ T helper 2 (Th2) cells in response to allergen exposure [7].</text>
+    </sentence>
+    <sentence charOffset="3064-3317" id="S29" selection="">
+        <text xml:space="preserve">Th2 cells produce interleukin (IL)-4, IL-5, IL-13, and other cytokines that promote immunoglobulin E (IgE) class switching of B cells, increased IgE synthesis by plasma B cells, and recruitment and activation of eosinophils and other inflammatory cells.</text>
+    </sentence>
+    <sentence charOffset="3318-3519" id="S30" selection="">
+        <text xml:space="preserve">When allergen cross-links IgE bound to IgE receptors on mast cells and basophils, cell activation and allergic mediator release occur, which may lead to mucus production and airway hyperreactivity [8].</text>
+    </sentence>
+    <sentence charOffset="3520-3734" id="S31" selection="">
+        <text xml:space="preserve">Biomarkers in sputum, bronchoalveolar lavage, blood, and bronchial biopsies may indicate a particular endotype and potentially identify patients with increased responsiveness to endotype-specific treatments [5, 9].</text>
+    </sentence>
+    <sentence charOffset="3735-3980" id="S32" selection="">
+        <text xml:space="preserve">For example, elevated levels of serum periostin, an extracellular matrix protein induced by IL-4 and IL-13 in airway epithelium, identified a subset of asthma patients who responded better to lebrikizumab, an anti-IL-13 monoclonal antibody [10].</text>
+    </sentence>
+    <sentence charOffset="3981-4234" id="S33" selection="">
+        <text xml:space="preserve">Similarly, patients with high levels of exhaled nitric oxide (NO), blood eosinophils, or serum periostin, had fewer asthma exacerbations following treatment with omalizumab, a neutralizing anti-IgE antibody, than patients with low biomarker levels [11].</text>
+    </sentence>
+    <sentence charOffset="4235-4313" id="S34" selection="">
+        <text xml:space="preserve">These data suggest that IgE may drive allergic asthma in a subset of patients.</text>
+    </sentence>
+    <sentence charOffset="4320-4473" id="S35" selection="">
+        <text xml:space="preserve">Quilizumab is a humanized, monoclonal IgG1 that binds to the M1-prime segment present only on membrane IgE [12], but not on soluble IgE in serum [13–15].</text>
+    </sentence>
+    <sentence charOffset="4474-4600" id="S36" selection="">
+        <text xml:space="preserve">Membrane IgE is expressed on IgE-switched B cells, IgE memory B cells, and IgE plasmablasts, but not on IgE plasma cells [16].</text>
+    </sentence>
+    <sentence charOffset="4601-4855" id="S37" selection="">
+        <text xml:space="preserve">In animal studies, anti-M1 prime bound membrane IgE on IgE-switched B cells and plasmablasts and depleted them through apoptosis and antibody-dependent cell-mediated cytotoxicity, leading to fewer IgE plasma cells and less production of soluble IgE [17].</text>
+    </sentence>
+    <sentence charOffset="4862-5080" id="S38" selection="2a">
+        <text xml:space="preserve">We previously evaluated the safety, tolerability, and activity of quilizumab in Phase Ia (31 healthy volunteers) [18], Phase Ib (24 allergic rhinitis patients) [19] and Phase IIa (15 mild asthma patients) [19] studies.</text>
+    </sentence>
+    <sentence charOffset="5081-5156" id="S39" selection="">
+        <text xml:space="preserve">In these studies, quilizumab reduced serum total IgE by approximately 25 %.</text>
+    </sentence>
+    <sentence charOffset="5157-5337" id="S40" selection="">
+        <text xml:space="preserve">These decreases were sustained for at least 6 months after the last dose, in contrast to omalizumab, which must be administered every 2–4 weeks to maintain reduced IgE levels [20].</text>
+    </sentence>
+    <sentence charOffset="5338-5531" id="S41" selection="2a">
+        <text xml:space="preserve">Quilizumab also abrogated the increase in challenge-specific IgE in patients with mild asthma following a whole-lung allergen challenge, and reduced the early and late asthmatic reactions [19].</text>
+    </sentence>
+    <sentence charOffset="5532-5680" id="S42" selection="">
+        <text xml:space="preserve">Quilizumab may reset the IgE repertoire by targeting IgE production and provide a more sustained effect with a lower dose frequency then omalizumab.</text>
+    </sentence>
+    <sentence charOffset="5681-5943" id="S43" selection="2b">
+        <text xml:space="preserve">The primary purpose of this study was to evaluate the efficacy, safety, and pharmacokinetics of quilizumab after 36 weeks of treatment in adults with allergic asthma inadequately controlled despite high-dose inhaled corticosteroids (ICS) and a second controller.</text>
+    </sentence>
+    <sentence charOffset="5960-5967" id="S44">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="5983-5995" id="S45" selection="">
+        <text xml:space="preserve">Trial design</text>
+    </sentence>
+    <sentence charOffset="6004-6347" id="S46" selection="3a,4b,4a">
+        <text xml:space="preserve">The COSTA trial of quilizumab was a Phase II, randomized, double-blind, placebo-controlled study (including recruiting sites from 14 countries: Argentina, Belgium, Bulgaria, Canada, Germany, Hungary, Mexico, New Zealand, Peru, Poland, Romania, Russia, Ukraine, and the United States) that enrolled 578 adults with uncontrolled allergic asthma.</text>
+    </sentence>
+    <sentence charOffset="6356-6496" id="S47" selection="3a,8a,5">
+        <text xml:space="preserve">Patients were randomly assigned (1:1:1:1) to one of three dosing regimens of quilizumab or placebo using an interactive web response system.</text>
+    </sentence>
+    <sentence charOffset="6497-6763" id="S48" selection="8b">
+        <text xml:space="preserve">Randomization was stratified based on serum periostin level (&lt;50 ng/mL, ≥50 ng/mL), exacerbation history (number of exacerbations (1, &gt;1) requiring use of systemic corticosteroids in the prior 18 months), IgE level (≤75 IU/mL, 75–200 IU/mL, &gt;200 IU/mL), and country.</text>
+    </sentence>
+    <sentence charOffset="6764-6905" id="S49" selection="11a">
+        <text xml:space="preserve">Patients and study site personnel were blinded to treatment assignments until all follow-up data through Week 84 were collected and verified.</text>
+    </sentence>
+    <sentence charOffset="6914-7144" id="S50" selection="5">
+        <text xml:space="preserve">Quilizumab (Genentech, Inc., South San Francisco, CA) was delivered subcutaneously at nine monthly intervals at 300 mg per dose (300 mg M), or at three quarterly intervals and at Week 4 at 150 or 450 mg per dose (150 or 450 mg Q).</text>
+    </sentence>
+    <sentence charOffset="7145-7331" id="S51" selection="5">
+        <text xml:space="preserve">The treatment period ended 36 weeks after randomization and was followed by a 48-week period to assess the sustained efficacy and safety of quilizumab (see Additional file 1: Figure S1).</text>
+    </sentence>
+    <sentence charOffset="7351-7383" id="S52" selection="">
+        <text xml:space="preserve">Ethics, consent, and permissions</text>
+    </sentence>
+    <sentence charOffset="7394-7642" id="S53" selection="">
+        <text xml:space="preserve">Quorum Review based in Seattle, WA was the primary central IRB used by sites in North America, however multiple other site-specific institutional review boards at other global sites approved the protocol and patients gave written, informed consent.</text>
+    </sentence>
+    <sentence charOffset="7643-7914" id="S54" selection="">
+        <text xml:space="preserve">The trial was conducted in full conformance with the International Conference on Harmonisation E6 guidelines and the Declaration of Helsinki, or laws and regulations of the country where the research was conducted, whichever afforded greater protection to the individual.</text>
+    </sentence>
+    <sentence charOffset="7946-7958" id="S55" selection="">
+        <text xml:space="preserve">Participants</text>
+    </sentence>
+    <sentence charOffset="7978-7996" id="S56" selection="">
+        <text xml:space="preserve">Inclusion criteria</text>
+    </sentence>
+    <sentence charOffset="8007-8978" id="S57" selection="4a">
+        <text xml:space="preserve">Adult asthma patients, aged 18–75 years, were required to have: bronchodilator reversibility of either ≥12 % β-agonist reversibility using 4 puffs of a short-acting β − agonist (SABA) or a PC20 FEV1 methacholine (provocative concentration of methacholine producing a 20 % fall in FEV1 (forced expiratory volume in 1 s)) of 8 mg/mL or less, within the last 2 years; a pre-bronchodilator FEV1 at screening of 40–80 % predicted; daily use of ICS (≥400 μg/day total daily dose of fluticasone propionate or equivalent) and a second controller for a minimum of 3 consecutive months; inadequately-controlled asthma as documented by a 5-item Asthma Control Questionnaire (ACQ-5) [21] score ≥1.50 at screening and randomization, despite compliance with asthma controller therapy; at least one positive aeroallergen-specific IgE (≥0.35 kU(A)/L), or a total serum IgE ≥75 IU/mL; and a history of at least one protocol-defined asthma exacerbation in the 18 months prior to screening.</text>
+    </sentence>
+    <sentence charOffset="8979-9239" id="S58" selection="6a">
+        <text xml:space="preserve">Asthma exacerbations were defined as new or increased asthma symptoms (wheezing, cough, chest tightness, shortness of breath, or nighttime awakening due to symptoms) that led to treatment with systemic corticosteroids for at least 3 days or to hospitalization.</text>
+    </sentence>
+    <sentence charOffset="9268-9286" id="S59" selection="">
+        <text xml:space="preserve">Exclusion criteria</text>
+    </sentence>
+    <sentence charOffset="9297-9700" id="S60" selection="4a">
+        <text xml:space="preserve">Patients were excluded from the study if they had an asthma exacerbation requiring systemic steroids in the 30 days prior to screening, or between screening and randomization, a &gt;20 % relative change in FEV1 between screening and randomization, any pre-existing active lung disease other than asthma, any infections, elevated IgE levels for reasons other than allergy, or were former or current smokers.</text>
+    </sentence>
+    <sentence charOffset="9732-9748" id="S61" selection="">
+        <text xml:space="preserve">Outcome measures</text>
+    </sentence>
+    <sentence charOffset="9757-9876" id="S62" selection="6a">
+        <text xml:space="preserve">The primary efficacy outcome was the annualized rate of protocol-defined asthma exacerbations from baseline to Week 36.</text>
+    </sentence>
+    <sentence charOffset="9885-10180" id="S63" selection="6a">
+        <text xml:space="preserve">Secondary efficacy outcomes included assessments of lung function using the relative change in pre-bronchodilator FEV1 from baseline to Weeks 12 and 36 and the change in asthma symptoms from baseline to Week 36, using total and daytime symptom severity scores derived from a daily patient diary.</text>
+    </sentence>
+    <sentence charOffset="10181-10386" id="S64" selection="6a">
+        <text xml:space="preserve">The diary was also used to determine the proportion of patients who had no nighttime awakenings due to asthma symptoms and the proportion of patients with fewer than 2 days of SABA use per week by Week 36.</text>
+    </sentence>
+    <sentence charOffset="10395-10513" id="S65" selection="6a">
+        <text xml:space="preserve">Exploratory outcome measures included the change in asthma control from baseline to Week 36, as measured by the ACQ-5.</text>
+    </sentence>
+    <sentence charOffset="10514-10843" id="S66" selection="6a">
+        <text xml:space="preserve">To assess the change in allergy-related quality-of-life measures from baseline to Week 36, the Standardized Asthma Quality of Life Questionnaire (AQLQ(S)) [22] and the Standardized Rhinoconjunctivitis Quality of Life Questionnaire (RQLQ(S)) [23] were administered at patient visits throughout the treatment and follow-up periods.</text>
+    </sentence>
+    <sentence charOffset="10844-10987" id="S67" selection="6a">
+        <text xml:space="preserve">We also evaluated the ability of biomarkers (serum periostin, blood eosinophils, exhaled NO, and serum IgE) to predict benefit from quilizumab.</text>
+    </sentence>
+    <sentence charOffset="10996-11089" id="S68" selection="6a">
+        <text xml:space="preserve">Safety outcomes were assessed throughout the 36-week treatment and 48-week follow-up periods.</text>
+    </sentence>
+    <sentence charOffset="11112-11123" id="S69" selection="">
+        <text xml:space="preserve">Assessments</text>
+    </sentence>
+    <sentence charOffset="11132-11486" id="S70" selection="6a">
+        <text xml:space="preserve">The patient daily diary included two sections in addition to peak flow measurements: 1) a morning section capturing awakenings and rescue medication use at night, and symptoms on awakening; and 2) an evening section capturing daytime symptom severity, rescue medication use, preventive inhaler use, activity impairment during the day, and nasal symptoms.</text>
+    </sentence>
+    <sentence charOffset="11487-11758" id="S71" selection="6a">
+        <text xml:space="preserve">The modified total asthma symptom score (mTASS) was generated from a subset of diary questions adapted from a previous questionnaire [24], scoring nighttime awakenings (0–3), symptoms on awakening (0–1), and daytime symptom severity (0–4), for a total score range of 0–8.</text>
+    </sentence>
+    <sentence charOffset="11759-11932" id="S72" selection="6a">
+        <text xml:space="preserve">For the analyses of symptom scores, rescue medication use, and nighttime awakenings, daily scores were averaged over the previous 7 days prior to the time point of interest.</text>
+    </sentence>
+    <sentence charOffset="11933-12061" id="S73" selection="6a">
+        <text xml:space="preserve">Baseline values were derived from a minimum of 10 days of patient diary entries during the 14 days prior to the first treatment.</text>
+    </sentence>
+    <sentence charOffset="12084-12119" id="S74" selection="">
+        <text xml:space="preserve">Pharmacokinetics and immunogenicity</text>
+    </sentence>
+    <sentence charOffset="12128-12303" id="S75" selection="6a">
+        <text xml:space="preserve">Serum levels of quilizumab for pharmacokinetic assessments were measured using a validated enzyme-linked immunosorbent assay (ELISA; Genentech, Inc., South San Francisco, CA).</text>
+    </sentence>
+    <sentence charOffset="12304-12605" id="S76" selection="6a">
+        <text xml:space="preserve">The pharmacokinetic outcomes included: serum concentrations prior to dosing at Weeks 0, 4, 12, 24, and 32; serum concentrations at Week 5 and Week 25; maximum observed serum concentrations (Cmax,obs); time of maximum observed serum concentration (Tmax, obs); and terminal elimination half-life (t1/2).</text>
+    </sentence>
+    <sentence charOffset="12606-12790" id="S77" selection="6a">
+        <text xml:space="preserve">Serum anti-therapeutic antibodies (ATAs) were assessed in samples at Weeks 0, 4, 12, 24, 36, 48, 60, and 84 using a validated bridging ELISA (Genentech, Inc., South San Francisco, CA).</text>
+    </sentence>
+    <sentence charOffset="12813-12823" id="S78" selection="">
+        <text xml:space="preserve">Biomarkers</text>
+    </sentence>
+    <sentence charOffset="12832-12902" id="S79" selection="">
+        <text xml:space="preserve">Samples for biomarker assessments were collected throughout the study.</text>
+    </sentence>
+    <sentence charOffset="12903-13042" id="S80" selection="6a">
+        <text xml:space="preserve">Allergen-specific and total IgE were measured in serum by ImmunoCAP® Specific IgE blood tests (ViraCor-IBT Laboratories, Lee’s Summit, MO).</text>
+    </sentence>
+    <sentence charOffset="13043-13279" id="S81" selection="6a">
+        <text xml:space="preserve">Specific IgE was measured for the following allergens: cat, house dust mite (HDM) Dermatophagoides farinae, HDM Dermatophagoides pteronyssinus, ragweed, aspergillus, timothy grass, bermuda grass, oak, birch, plantain, and orchard grass.</text>
+    </sentence>
+    <sentence charOffset="13280-13402" id="S82" selection="6a">
+        <text xml:space="preserve">The maximum specific IgE was defined as the specific IgE with the highest titer of specific IgEs pre-dose in each patient.</text>
+    </sentence>
+    <sentence charOffset="13403-13503" id="S83" selection="">
+        <text xml:space="preserve">Only observed values of IgE levels were analyzed, with no imputation performed for missing IgE data.</text>
+    </sentence>
+    <sentence charOffset="13504-13589" id="S84" selection="6a">
+        <text xml:space="preserve">Peripheral blood eosinophil counts were obtained from standard complete blood counts.</text>
+    </sentence>
+    <sentence charOffset="13590-13715" id="S85" selection="6a">
+        <text xml:space="preserve">Serum periostin was measured by immunoassay using the Roche Elecsys platform (Roche Diagnostics Ltd., Rotkreuz, Switzerland).</text>
+    </sentence>
+    <sentence charOffset="13716-13928" id="S86" selection="6a">
+        <text xml:space="preserve">Fractional exhaled nitric oxide (FeNO) was measured using a hand-held portable device, NIOX MINO® (Niox; Morrisville, NC), according to American Thoracic Society/European Respiratory Society 2009 guidelines [25].</text>
+    </sentence>
+    <sentence charOffset="13951-13970" id="S87" selection="">
+        <text xml:space="preserve">Statistical methods</text>
+    </sentence>
+    <sentence charOffset="13979-14124" id="S88" selection="">
+        <text xml:space="preserve">All patients received at least one dose of study drug (intention-to-treat, ITT population) and were included in all safety and efficacy analyses.</text>
+    </sentence>
+    <sentence charOffset="14125-14211" id="S89" selection="">
+        <text xml:space="preserve">Demographic and baseline characteristics were summarized using descriptive statistics.</text>
+    </sentence>
+    <sentence charOffset="14212-14566" id="S90" selection="6a">
+        <text xml:space="preserve">The primary endpoint, the annualized exacerbation rate, was calculated by the total number of protocol-defined exacerbations observed in the group over the treatment period divided by total patient-weeks at risk (number of weeks from first study drug administration to the earliest of Week 36 or study discontinuation) for the group and multiplied by 52.</text>
+    </sentence>
+    <sentence charOffset="14567-14672" id="S91" selection="">
+        <text xml:space="preserve">For patients who discontinued the study prematurely, there was no imputation of additional exacerbations.</text>
+    </sentence>
+    <sentence charOffset="14673-14923" id="S92" selection="12a,12b">
+        <text xml:space="preserve">The rates of asthma exacerbations were compared between study groups using a Poisson regression with overdispersion model, including terms for periostin status (&lt;50, ≥50 ng/mL), number of prior exacerbations (1, &gt;1), and IgE level (&lt;200, ≥200 IU/mL).</text>
+    </sentence>
+    <sentence charOffset="14924-15010" id="S93" selection="12b">
+        <text xml:space="preserve">For biomarker subgroup analyses, unadjusted asthma exacerbation rates were calculated.</text>
+    </sentence>
+    <sentence charOffset="15011-15093" id="S94" selection="12a">
+        <text xml:space="preserve">Corresponding two-sided p-values and 90 % confidence intervals (CI) were reported.</text>
+    </sentence>
+    <sentence charOffset="15102-15274" id="S95" selection="12a">
+        <text xml:space="preserve">The relative change in pre-bronchodilator FEV1 from baseline was calculated as the absolute change in FEV1 (volume in liters) from baseline divided by the FEV1 at baseline.</text>
+    </sentence>
+    <sentence charOffset="15275-15445" id="S96" selection="12a">
+        <text xml:space="preserve">For secondary and exploratory end points, the means and standard deviations of all values for relative change were calculated according to study group at Weeks 12 and 36.</text>
+    </sentence>
+    <sentence charOffset="15446-15620" id="S97" selection="12a">
+        <text xml:space="preserve">The mean relative changes from baseline were compared between the study groups using the differences between the means for each group, with the associated two-sided 90 % CIs.</text>
+    </sentence>
+    <sentence charOffset="15621-15758" id="S98" selection="12a">
+        <text xml:space="preserve">Missing values were imputed using the last-observation-carried-forward (LOCF) approach, as prespecified in the statistical analysis plan.</text>
+    </sentence>
+    <sentence charOffset="15759-15991" id="S99" selection="12a,12b">
+        <text xml:space="preserve">An analysis of covariance (ANCOVA) model with factors for baseline level, periostin status (&lt;50 ng/mL, ≥50 ng/mL), number of prior exacerbations (1, &gt;1), and IgE level (&lt;200 IU/mL, ≥200 IU/mL) was fit to assess the treatment effect.</text>
+    </sentence>
+    <sentence charOffset="16011-16036" id="S100" selection="">
+        <text xml:space="preserve">Sample size determination</text>
+    </sentence>
+    <sentence charOffset="16047-16183" id="S101" selection="3a,7a">
+        <text xml:space="preserve">We planned to randomize 560 patients to one of three dose regimens of quilizumab or placebo in a 1:1:1:1 ratio (140 patients per group).</text>
+    </sentence>
+    <sentence charOffset="16184-16442" id="S102" selection="7a">
+        <text xml:space="preserve">This sample size provided approximately 84 % power to detect a 50 % reduction in average exacerbation rates due to quilizumab, assuming 0.63 exacerbations per patient in the placebo group over a 36-week treatment period, and a significance level of α = 0.10.</text>
+    </sentence>
+    <sentence charOffset="16443-16780" id="S103" selection="7a">
+        <text xml:space="preserve">This sample size also provided approximately 70 % power to detect a 50 % reduction in average exacerbation rates in the subgroup of periostin-high patients, assuming 0.69 exacerbations per patient in the placebo group over the 36-week period, a significance level of 0.15, and 50 % of patients in each treatment arm to be periostin high.</text>
+    </sentence>
+    <sentence charOffset="16813-16820" id="S104">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="16836-16871" id="S105" selection="">
+        <text xml:space="preserve">Patient demographics and study flow</text>
+    </sentence>
+    <sentence charOffset="16880-17071" id="S106" selection="14a,13a,13b">
+        <text xml:space="preserve">1212 patients were screened for eligibility and 578 adult asthma patients (18–75 years old) were enrolled (Fig. 1) from April 2012 to September 2013; the study was completed in November 2014.</text>
+    </sentence>
+    <sentence charOffset="17072-17317" id="S107" selection="15">
+        <text xml:space="preserve">There were no major imbalances between treatment groups, but the 300 mg monthly quilizumab group had a lower mean age (45 versus 47–48 years) and a lower median IgE level (190 versus 234–254 IU/mL) compared to the other treatment arms (Table 1).</text>
+    </sentence>
+    <sentence charOffset="17318-17451" id="S108" selection="13b,13a">
+        <text xml:space="preserve">89 % (384/433) of patients who received quilizumab and 91 % (132/145) of patients who received placebo completed the study treatment.</text>
+    </sentence>
+    <sentence charOffset="17452-17654" id="S109" selection="14b,13a,13b,16">
+        <text xml:space="preserve">The sponsor terminated the trial early because of the lack of efficacy for the primary end-point (asthma exacerbations) at Week 36, with the median time in the study at 72 weeks.Fig. 1 Study flow chart.</text>
+    </sentence>
+    <sentence charOffset="17655-17758" id="S110" selection="15">
+        <text xml:space="preserve">I/E, inclusion/exclusion; M, monthly; Q, quarterlyTable 1 Patient demographics/baseline characteristics</text>
+    </sentence>
+    <sentence charOffset="17781-17787" id="S111" selection="">
+        <text xml:space="preserve">Safety</text>
+    </sentence>
+    <sentence charOffset="17796-17953" id="S112" selection="19,17b">
+        <text xml:space="preserve">Quilizumab was well tolerated, and the number of patients experiencing at least one adverse event (AE) was comparable between all treatment groups (Table 2).</text>
+    </sentence>
+    <sentence charOffset="17954-18266" id="S113" selection="19">
+        <text xml:space="preserve">Through Week 36, the most frequent AEs across all quilizumab dose groups were worsening of asthma (27 %), nasopharyngitis (15 %), upper respiratory tract infection (7 %), bronchitis (5 %), sinusitis (5 %), and injection site pain (5 %).Table 2 Safety, from first dose of study drug through end of study (Week 84)</text>
+    </sentence>
+    <sentence charOffset="18275-18391" id="S114" selection="">
+        <text xml:space="preserve">The treatment-emergent ATA rate was 1.4 % in both the 150 mg Q and 300 mg M groups, and 2.1 % in the 450 mg Q group.</text>
+    </sentence>
+    <sentence charOffset="18392-18475" id="S115" selection="">
+        <text xml:space="preserve">ATA incidence for all dosing groups was 1.6 % (7 of 427 quilizumab-dosed patients).</text>
+    </sentence>
+    <sentence charOffset="18476-18574" id="S116" selection="">
+        <text xml:space="preserve">There was no apparent impact of positive ATA results on either pharmacokinetic profiles or safety.</text>
+    </sentence>
+    <sentence charOffset="18597-18613" id="S117" selection="">
+        <text xml:space="preserve">Pharmacokinetics</text>
+    </sentence>
+    <sentence charOffset="18622-18803" id="S118" selection="18">
+        <text xml:space="preserve">Quilizumab displayed linear pharmacokinetics with a dose-proportional increase in exposure as shown by increases in Cmax values between the 150 and 450 mg Q doses at Weeks 5 and 25.</text>
+    </sentence>
+    <sentence charOffset="18804-18839" id="S119" selection="">
+        <text xml:space="preserve">(see Additional file 1: Figure S2).</text>
+    </sentence>
+    <sentence charOffset="18840-19178" id="S120" selection="18">
+        <text xml:space="preserve">At treatment Weeks 4, 12, and 24, the mean trough serum concentrations of quilizumab were: (150 mg Q) 5.7 ± 2.3 μg/mL, 2.6 ± 2.0 μg/mL, and 1.3 ± 4.6 μg/mL, respectively; (450 mg Q) 17.1 ± 7.0 μg/mL, 7.2 ± 3.8 μg/mL, and 2.3 ± 2.2 μg/mL, respectively; and (300 mg M) 11.6 ± 4.5 μg/mL, 16.7 ± 6.7 μg/mL, and 16.8 ± 7.7 μg/mL, respectively.</text>
+    </sentence>
+    <sentence charOffset="19179-19460" id="S121" selection="18">
+        <text xml:space="preserve">For the 150 mg Q, 450 mg Q, and 300 mg M doses, the mean Cmax,obs values were 18 ± 7.8 μg/mL, 51.6 ± 19.5 μg/mL, and 34 ± 12.6 μg/mL, which occurred at Tmax,obs of 36.4 ± 4.3 days, 36.2 ± 3.0 days, and 36.2 ± 3.5 days, respectively, approximately 7 days following the second doses.</text>
+    </sentence>
+    <sentence charOffset="19461-19719" id="S122" selection="18,22">
+        <text xml:space="preserve">Based on non-compartmental analysis, the mean t1/2 values of quilizumab across the dose groups ranged from 16.4 to 18.7 days, which suggests that steady-state was attained by the time the final doses were administered for both monthly and quarterly regimens.</text>
+    </sentence>
+    <sentence charOffset="19742-19768" id="S123" selection="">
+        <text xml:space="preserve">Pharmacodynamic biomarkers</text>
+    </sentence>
+    <sentence charOffset="19777-19961" id="S124" selection="18">
+        <text xml:space="preserve">Quilizumab gradually reduced mean serum total and allergen-specific IgE, reaching a 30–40 % reduction at Week 36 in all three quilizumab cohorts (p &lt; 0.01 compared to placebo; Fig. 2).</text>
+    </sentence>
+    <sentence charOffset="19962-20077" id="S125" selection="18">
+        <text xml:space="preserve">The largest decreases in total and allergen-specific IgE were observed at Week 42 in the 300 mg M treatment cohort.</text>
+    </sentence>
+    <sentence charOffset="20078-20392" id="S126" selection="18">
+        <text xml:space="preserve">Serum total and allergen-specific IgE in quilizumab-treated patients gradually increased throughout the safety follow-up period, but did not return to pre-dose levels by the end of the study period (Week 84).Fig. 2 Effect of quilizumab on serum total (a-c) and allergen-specific IgE (d-f) from baseline to Week 84.</text>
+    </sentence>
+    <sentence charOffset="20393-20586" id="S127" selection="">
+        <text xml:space="preserve">IgE levels were represented as the mean ± standard error (SE) of the natural logarithm (a, d), the mean ± SE percent change from baseline (b, e), and median percent change from baseline (c, f).</text>
+    </sentence>
+    <sentence charOffset="20587-20638" id="S128" selection="">
+        <text xml:space="preserve">All IgE data analysis was based on observed values.</text>
+    </sentence>
+    <sentence charOffset="20639-20663" id="S129" selection="">
+        <text xml:space="preserve">M, monthly; Q, quarterly</text>
+    </sentence>
+    <sentence charOffset="20672-20801" id="S130" selection="18">
+        <text xml:space="preserve">Peripheral blood eosinophils and FeNO levels were not modified following quilizumab treatment (see Additional file 1: Figure S3).</text>
+    </sentence>
+    <sentence charOffset="20824-20849" id="S131" selection="">
+        <text xml:space="preserve">Asthma exacerbation rates</text>
+    </sentence>
+    <sentence charOffset="20858-20999" id="S132" selection="17a">
+        <text xml:space="preserve">Quilizumab treatment did not produce a clinically meaningful reduction of the rate of asthma exacerbations over the 36-week treatment period.</text>
+    </sentence>
+    <sentence charOffset="21000-21387" id="S133" selection="17a">
+        <text xml:space="preserve">In the ITT population, the reduction in the asthma exacerbation rate relative to placebo was 19.6 % (90 % CI: −21 to 47; p = 0.38), −11.2 % (90 % CI: −63 to 24; p = 0.65), and −5.7 % (90%CI: −55 to 28; p = 0.81) in the 300 mg M, 450 mg Q, and 150 mg Q quilizumab treatment arms, respectively (Fig. 3).Fig. 3 Rate of protocol-defined asthma exacerbations through Week 36 for all patients.</text>
+    </sentence>
+    <sentence charOffset="21388-21412" id="S134" selection="">
+        <text xml:space="preserve">M, monthly; Q, quarterly</text>
+    </sentence>
+    <sentence charOffset="21421-21912" id="S135" selection="18">
+        <text xml:space="preserve">Subgroup analysis by baseline serum periostin (≥50 ng/ml, &lt;50 ng/ml), blood eosinophils (≥300 cells/μl, &lt;300 cells/μl), FeNO (≥20 ppb, &lt;20 ppb) and serum total IgE (≥200 IU/mL, &lt;200 IU/mL) demonstrated no consistent effect of quilizumab on the exacerbation rate across all doses when compared to the ITT population (Fig. 4).Fig. 4 Rate of protocol-defined asthma exacerbations through Week 36 for patients stratified by biomarkers (a: periostin; b: blood eosinophils; c: FeNO; d: serum IgE).</text>
+    </sentence>
+    <sentence charOffset="21913-21957" id="S136" selection="">
+        <text xml:space="preserve">Exac, exacerbation; M, monthly; Q, quarterly</text>
+    </sentence>
+    <sentence charOffset="21980-21993" id="S137" selection="">
+        <text xml:space="preserve">Lung function</text>
+    </sentence>
+    <sentence charOffset="22002-22135" id="S138" selection="17a">
+        <text xml:space="preserve">No significant evidence of improved FEV1 at Weeks 12 and 36 was observed in quilizumab-treated patients compared to placebo (Fig. 5).</text>
+    </sentence>
+    <sentence charOffset="22136-22326" id="S139" selection="17a">
+        <text xml:space="preserve">The highest relative improvement compared to placebo occurred in the lowest dose arm (150 mg Q), but no meaningful improvements were observed in the higher dose arms (450 mg Q and 300 mg M).</text>
+    </sentence>
+    <sentence charOffset="22327-22921" id="S140" selection="17a">
+        <text xml:space="preserve">Relative changes from baseline in FEV1 compared to placebo were 3.8 % (90 % CI: −1.2 to 8.9, p = 0.21) at Week 12 and 5.6 % (90 % CI: 0.6 to 10.6, p = 0.07) at Week 36 in the 150 mg Q treatment arm; 2.2 % (90 % CI: −2.8 to 7.2, p = 0.48) at Week 12 and 0.1 % (90 % CI: −5.0 to 5.1, p = 0.98) at Week 36 in the 450 mg Q arm; and 1.1 % (90 % CI: −3.9 to 6.1, p = 0.72) at Week 12 and 0.1 % (90 % CI: −4.9 to 5.2, p = 0.96) at Week 36 in the 300 mg M arm (Fig. 5; see Additional file 2: Table S1 and Additional file 3: Table S2).Fig. 5 Mean percent change in pre-bronchodilator FEV1 from baseline.</text>
+    </sentence>
+    <sentence charOffset="22922-22979" id="S141" selection="">
+        <text xml:space="preserve">FEV1 for each treatment arm was measured through Week 36.</text>
+    </sentence>
+    <sentence charOffset="22980-23032" id="S142" selection="">
+        <text xml:space="preserve">Error bars represent the standard error of the mean.</text>
+    </sentence>
+    <sentence charOffset="23033-23057" id="S143" selection="">
+        <text xml:space="preserve">M, monthly; Q, quarterly</text>
+    </sentence>
+    <sentence charOffset="23066-23282" id="S144" selection="18">
+        <text xml:space="preserve">Analysis of FEV1 in the biomarker subgroups demonstrated no consistent or meaningful improvements of FEV1 in the quilizumab-treated arms over placebo (see Additional file 2: Table S1 and Additional file 3: Table S2).</text>
+    </sentence>
+    <sentence charOffset="23305-23330" id="S145" selection="">
+        <text xml:space="preserve">Patient-reported outcomes</text>
+    </sentence>
+    <sentence charOffset="23339-23637" id="S146" selection="17a">
+        <text xml:space="preserve">During the 36-week treatment period, no meaningful differences were observed between the quilizumab dose groups compared with the placebo group for the total mTASS, daytime mTASS, ACQ-5, AQLQ(S), or RQLQ(S) scores (Table 3).Table 3 Change over 36 weeks in patient-reported outcomes (ITT population)</text>
+    </sentence>
+    <sentence charOffset="23646-23935" id="S147" selection="17b">
+        <text xml:space="preserve">Treatment with quilizumab failed to increase either the proportion of patients who used a SABA for fewer than 2 days in the prior week or the proportion of patients who did not awaken at night due to asthma symptoms for all dosing levels relative to the placebo group at Week 36 (Table 3).</text>
+    </sentence>
+    <sentence charOffset="23959-23969" id="S148">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="23976-24210" id="S149" selection="">
+        <text xml:space="preserve">In this study, we evaluated the efficacy and safety of quilizumab, a monoclonal antibody that targets the M1-prime segment of membrane IgE, in adult patients with allergic asthma that was inadequately controlled with standard therapy.</text>
+    </sentence>
+    <sentence charOffset="24211-24344" id="S150" selection="22">
+        <text xml:space="preserve">After 36 weeks of treatment, quilizumab was well tolerated, with a safety profile consistent with previous clinical studies [18, 19].</text>
+    </sentence>
+    <sentence charOffset="24351-24571" id="S151" selection="22">
+        <text xml:space="preserve">Quilizumab demonstrated clear pharmacological activity by reducing both serum total and allergen-specific IgE an average of 30–40 % from baseline in all three treatment arms, in agreement with our previous work [18, 19].</text>
+    </sentence>
+    <sentence charOffset="24572-24751" id="S152" selection="22">
+        <text xml:space="preserve">However, quilizumab treatment did not show consistent and clinically meaningful benefits in reducing asthma exacerbations or improving lung function, symptoms, or quality of life.</text>
+    </sentence>
+    <sentence charOffset="24752-24916" id="S153" selection="22">
+        <text xml:space="preserve">Subgroup analysis in patients with elevated serum periostin, blood eosinophils, FeNO, or serum IgE did not demonstrate a consistent treatment effect for quilizumab.</text>
+    </sentence>
+    <sentence charOffset="24923-25033" id="S154" selection="">
+        <text xml:space="preserve">It is important to understand that reducing serum IgE levels is not quilizumab’s proposed mechanism of action.</text>
+    </sentence>
+    <sentence charOffset="25034-25221" id="S155" selection="">
+        <text xml:space="preserve">Quilizumab did not reduce serum IgE as effectively as omalizumab (89–98 % reduction of median free IgE) [26], but these two antibodies target the IgE pathway in distinctly different ways.</text>
+    </sentence>
+    <sentence charOffset="25222-25441" id="S156" selection="">
+        <text xml:space="preserve">Quilizumab targets both B-cell switching to IgE and the new stimulation of IgE memory B cells and plasmablasts that lead to enhanced IgE production, processes that occur locally in the airways of allergic patients [16].</text>
+    </sentence>
+    <sentence charOffset="25442-25611" id="S157" selection="">
+        <text xml:space="preserve">Quilizumab’s ability to suppress the challenge-specific increase in serum IgE in our whole lung allergen challenge study in mild asthmatics supports this mechanism [19].</text>
+    </sentence>
+    <sentence charOffset="25612-25722" id="S158" selection="">
+        <text xml:space="preserve">We therefore hypothesize that quilizumab prevents the formation of short-lived IgE plasma cells in the airway.</text>
+    </sentence>
+    <sentence charOffset="25723-25894" id="S159" selection="">
+        <text xml:space="preserve">Long-lived IgE plasma cells, which lack IgE on the surface, are not targeted by quilizumab and may be responsible for the remaining serum IgE detected in our studies [16].</text>
+    </sentence>
+    <sentence charOffset="25895-26090" id="S160" selection="">
+        <text xml:space="preserve">Another source of IgE not eliminated by quilizumab may be a subpopulation of IgG1 memory B cells that undergo a secondary switch to IgE when reactivated, and thereby become IgE memory cells [27].</text>
+    </sentence>
+    <sentence charOffset="26097-26230" id="S161" selection="">
+        <text xml:space="preserve">The current study assessed the relevance of this mechanism on exacerbations in patients with inadequately controlled allergic asthma.</text>
+    </sentence>
+    <sentence charOffset="26231-26488" id="S162" selection="">
+        <text xml:space="preserve">In the EXTRA study that examined a similar patient population, omalizumab significantly reduced asthma exacerbations by 25 % in the all-patients group [24], by 53 % in the FeNO-high subgroup, and by 32 % in the eosinophil-high subgroup, relative to placebo.</text>
+    </sentence>
+    <sentence charOffset="26489-26613" id="S163" selection="">
+        <text xml:space="preserve">In addition, asthma exacerbations were substantially reduced in the periostin-high subgroup (30 %) relative to placebo [11].</text>
+    </sentence>
+    <sentence charOffset="26614-26884" id="S164" selection="22">
+        <text xml:space="preserve">In contrast, in our study, quilizumab did not show significant clinical benefit in this population (Fig. 3) or in any subgroup (Fig. 4), possibly because local IgE production by short-lived IgE plasma cells is not critical for exacerbations and other clinical endpoints.</text>
+    </sentence>
+    <sentence charOffset="26885-27067" id="S165" selection="22">
+        <text xml:space="preserve">For this to be true, we must assume that: 1) quilizumab depleted all M1-prime-positive B cells, and 2) the doses in this study were sufficient to deplete all M1-prime-positive cells.</text>
+    </sentence>
+    <sentence charOffset="27068-27239" id="S166" selection="">
+        <text xml:space="preserve">Despite our extensive efforts, we have not been able to accurately detect M1-prime-positive cells in patients with asthma [19], so we have no direct evidence of depletion.</text>
+    </sentence>
+    <sentence charOffset="27240-27463" id="S167" selection="22">
+        <text xml:space="preserve">However, all three quilizumab dose regimens led to a similar reduction in serum IgE levels, suggesting that quilizumab depleted all target cells, and indicating that higher doses would not have provided additional activity.</text>
+    </sentence>
+    <sentence charOffset="27464-27712" id="S168" selection="22">
+        <text xml:space="preserve">Interestingly, after stopping quilizumab dosing, serum IgE levels gradually increased, indicating that IgE-switching and formation of short-lived IgE plasma cells may occur continuously in this patient population, a finding not previously reported.</text>
+    </sentence>
+    <sentence charOffset="27719-27998" id="S169" selection="">
+        <text xml:space="preserve">The allergen-challenge model used in our previous studies where quilizumab was shown to be effective [19] may not represent the asthma processes occurring in the patient population in this study, especially given that alternate sources of IgE appear to play a more dominant role.</text>
+    </sentence>
+    <sentence charOffset="27999-28272" id="S170" selection="">
+        <text xml:space="preserve">However, the model was key in first demonstrating the effectiveness of omalizumab in patients with mild asthma, where omalizumab significantly reduced both the early and late asthmatic responses following allergen challenge and reduced serum IgE almost completely [28, 29].</text>
+    </sentence>
+    <sentence charOffset="28273-28478" id="S171" selection="">
+        <text xml:space="preserve">Although less effective than omalizumab in a similar population, quilizumab showed reductions of 26 and 36 % in the early and late asthmatic responses, respectively, and a 25 % reduction in serum IgE [19].</text>
+    </sentence>
+    <sentence charOffset="28479-28621" id="S172" selection="">
+        <text xml:space="preserve">Allergen-challenge studies are generally exploratory and are designed to follow biomarkers that trend with early and late asthmatic responses.</text>
+    </sentence>
+    <sentence charOffset="28622-28749" id="S173" selection="">
+        <text xml:space="preserve">They are usually conducted in patients with mild asthma, which is not the typical target population for new biologic therapies.</text>
+    </sentence>
+    <sentence charOffset="28750-28978" id="S174" selection="">
+        <text xml:space="preserve">At least one therapy, mepolizumab (anti-IL-5), is effective for reducing asthma exacerbations in patients with eosinophilic asthma, yet does not appear to affect early/late asthmatic responses during allergen challenge [30, 31].</text>
+    </sentence>
+    <sentence charOffset="28979-29092" id="S175" selection="">
+        <text xml:space="preserve">It is therefore crucial that appropriate patient populations and outcome measures are selected for future trials.</text>
+    </sentence>
+    <sentence charOffset="29099-29337" id="S176" selection="21,20">
+        <text xml:space="preserve">Whether quilizumab could have a clinically meaningful effect in another subgroup of allergic asthma patients or whether a treatment period beyond 36 weeks would show efficacy, are questions we are unable to address with the current study.</text>
+    </sentence>
+    <sentence charOffset="29338-29588" id="S177" selection="22">
+        <text xml:space="preserve">The type 2 biomarkers, serum periostin, blood eosinophils, and FeNO, which identified patients with increased clinical benefit from lebrikizumab and omalizumab [10, 11], did not consistently enrich for increased benefit from quilizumab in this study.</text>
+    </sentence>
+    <sentence charOffset="29589-29809" id="S178" selection="22">
+        <text xml:space="preserve">Similarly, patients with elevated serum IgE levels at baseline did not respond better to quilizumab nor was there a correlation between serum IgE reduction and exacerbation reduction or FEV1 improvement (data not shown).</text>
+    </sentence>
+    <sentence charOffset="29826-29837" id="S179">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="29844-30119" id="S180" selection="22">
+        <text xml:space="preserve">In adults with uncontrolled allergic asthma, a 36-week treatment with quilizumab, an anti-M1-prime monoclonal antibody that targets IgE-switched and IgE memory B cells, did not result in a clinically significant impact on exacerbation rate, lung function, or quality of life.</text>
+    </sentence>
+    <sentence charOffset="30120-30315" id="S181" selection="22">
+        <text xml:space="preserve">Our data on quilizumab activity indicate that there are major pathological mechanisms that extend beyond the new, local production of IgE in patients with inadequately controlled allergic asthma.</text>
+    </sentence>
+    <sentence charOffset="30325-30336" id="S182">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="30364-30380" id="S183" selection="">
+        <text xml:space="preserve">Additional files</text>
+    </sentence>
+    <sentence charOffset="30407-30454" id="S184" selection="">
+        <text xml:space="preserve">Additional file 1:                   Figure S1.</text>
+    </sentence>
+    <sentence charOffset="30455-30468" id="S185" selection="3a">
+        <text xml:space="preserve">Study design.</text>
+    </sentence>
+    <sentence charOffset="30469-30479" id="S186" selection="">
+        <text xml:space="preserve">Figure S2.</text>
+    </sentence>
+    <sentence charOffset="30480-30530" id="S187" selection="">
+        <text xml:space="preserve">Pharmacokinetics of quilizumab in asthma patients.</text>
+    </sentence>
+    <sentence charOffset="30531-30541" id="S188" selection="">
+        <text xml:space="preserve">Figure S3.</text>
+    </sentence>
+    <sentence charOffset="30542-30632" id="S189" selection="">
+        <text xml:space="preserve">Effect of quilizumab on blood eosinophils (A, B) and FeNO (C, D) from baseline to Week 36.</text>
+    </sentence>
+    <sentence charOffset="30633-30691" id="S190" selection="">
+        <text xml:space="preserve">(PDF 422 kb)                  Additional file 2: Table S1.</text>
+    </sentence>
+    <sentence charOffset="30709-30764" id="S191" selection="">
+        <text xml:space="preserve">FEV1 at Week 12 (all patients and biomarker subgroups).</text>
+    </sentence>
+    <sentence charOffset="30765-30823" id="S192" selection="">
+        <text xml:space="preserve">(XLSX 12 kb)                  Additional file 3: Table S2.</text>
+    </sentence>
+    <sentence charOffset="30841-30896" id="S193" selection="">
+        <text xml:space="preserve">FEV1 at Week 36 (all patients and biomarker subgroups).</text>
+    </sentence>
+    <sentence charOffset="30897-30909" id="S194" selection="">
+        <text xml:space="preserve">(XLSX 48 kb)</text>
+    </sentence>
+    <sentence charOffset="30951-30964" id="S195" selection="">
+        <text xml:space="preserve">Abbreviations</text>
+    </sentence>
+    <sentence charOffset="30991-30996" id="S196" selection="">
+        <text xml:space="preserve">ACQ-5</text>
+    </sentence>
+    <sentence charOffset="31020-31055" id="S197" selection="">
+        <text xml:space="preserve">5-item asthma control questionnaire</text>
+    </sentence>
+    <sentence charOffset="31095-31097" id="S198" selection="">
+        <text xml:space="preserve">AE</text>
+    </sentence>
+    <sentence charOffset="31121-31134" id="S199" selection="">
+        <text xml:space="preserve">adverse event</text>
+    </sentence>
+    <sentence charOffset="31174-31180" id="S200" selection="">
+        <text xml:space="preserve">ANCOVA</text>
+    </sentence>
+    <sentence charOffset="31204-31226" id="S201" selection="">
+        <text xml:space="preserve">analysis of covariance</text>
+    </sentence>
+    <sentence charOffset="31266-31273" id="S202" selection="">
+        <text xml:space="preserve">AQLQ(S)</text>
+    </sentence>
+    <sentence charOffset="31297-31346" id="S203" selection="">
+        <text xml:space="preserve">standardized asthma quality-of-life questionnaire</text>
+    </sentence>
+    <sentence charOffset="31386-31389" id="S204" selection="">
+        <text xml:space="preserve">ATA</text>
+    </sentence>
+    <sentence charOffset="31413-31438" id="S205" selection="">
+        <text xml:space="preserve">anti-therapeutic antibody</text>
+    </sentence>
+    <sentence charOffset="31491-31492" id="S206" selection="">
+        <text xml:space="preserve">C</text>
+    </sentence>
+    <sentence charOffset="31520-31527" id="S207" selection="">
+        <text xml:space="preserve">max:obs</text>
+    </sentence>
+    <sentence charOffset="31575-31611" id="S208" selection="">
+        <text xml:space="preserve">maximum observed serum concentration</text>
+    </sentence>
+    <sentence charOffset="31651-31656" id="S209" selection="">
+        <text xml:space="preserve">ELISA</text>
+    </sentence>
+    <sentence charOffset="31680-31713" id="S210" selection="">
+        <text xml:space="preserve">enzyme-linked immunosorbent assay</text>
+    </sentence>
+    <sentence charOffset="31753-31757" id="S211" selection="">
+        <text xml:space="preserve">FeNO</text>
+    </sentence>
+    <sentence charOffset="31781-31812" id="S212" selection="">
+        <text xml:space="preserve">fractional exhaled nitric oxide</text>
+    </sentence>
+    <sentence charOffset="31852-31856" id="S213" selection="">
+        <text xml:space="preserve">FEV1</text>
+    </sentence>
+    <sentence charOffset="31880-31911" id="S214" selection="">
+        <text xml:space="preserve">forced expiratory volume in 1 s</text>
+    </sentence>
+    <sentence charOffset="31951-31954" id="S215" selection="">
+        <text xml:space="preserve">HDM</text>
+    </sentence>
+    <sentence charOffset="31978-31993" id="S216" selection="">
+        <text xml:space="preserve">house dust mite</text>
+    </sentence>
+    <sentence charOffset="32033-32036" id="S217" selection="">
+        <text xml:space="preserve">ICS</text>
+    </sentence>
+    <sentence charOffset="32060-32082" id="S218" selection="">
+        <text xml:space="preserve">inhaled corticosteroid</text>
+    </sentence>
+    <sentence charOffset="32122-32124" id="S219" selection="">
+        <text xml:space="preserve">Ig</text>
+    </sentence>
+    <sentence charOffset="32148-32162" id="S220" selection="">
+        <text xml:space="preserve">immunoglobulin</text>
+    </sentence>
+    <sentence charOffset="32202-32204" id="S221" selection="">
+        <text xml:space="preserve">IL</text>
+    </sentence>
+    <sentence charOffset="32228-32239" id="S222" selection="">
+        <text xml:space="preserve">interleukin</text>
+    </sentence>
+    <sentence charOffset="32279-32282" id="S223" selection="">
+        <text xml:space="preserve">ITT</text>
+    </sentence>
+    <sentence charOffset="32306-32324" id="S224" selection="">
+        <text xml:space="preserve">intention-to-treat</text>
+    </sentence>
+    <sentence charOffset="32364-32368" id="S225" selection="">
+        <text xml:space="preserve">LOCF</text>
+    </sentence>
+    <sentence charOffset="32392-32424" id="S226" selection="">
+        <text xml:space="preserve">last observation carried forward</text>
+    </sentence>
+    <sentence charOffset="32464-32467" id="S227" selection="">
+        <text xml:space="preserve">LSM</text>
+    </sentence>
+    <sentence charOffset="32491-32509" id="S228" selection="">
+        <text xml:space="preserve">least squares mean</text>
+    </sentence>
+    <sentence charOffset="32549-32554" id="S229" selection="">
+        <text xml:space="preserve">mTASS</text>
+    </sentence>
+    <sentence charOffset="32578-32613" id="S230" selection="">
+        <text xml:space="preserve">modified total asthma symptom score</text>
+    </sentence>
+    <sentence charOffset="32653-32660" id="S231" selection="">
+        <text xml:space="preserve">RQLQ(S)</text>
+    </sentence>
+    <sentence charOffset="32684-32735" id="S232" selection="">
+        <text xml:space="preserve">standardized rhinitis quality-of-life questionnaire</text>
+    </sentence>
+    <sentence charOffset="32775-32779" id="S233" selection="">
+        <text xml:space="preserve">SABA</text>
+    </sentence>
+    <sentence charOffset="32803-32825" id="S234" selection="">
+        <text xml:space="preserve">short-acting β-agonist</text>
+    </sentence>
+    <sentence charOffset="32865-32884" id="S235" selection="">
+        <text xml:space="preserve">t
+              1/2</text>
+    </sentence>
+    <sentence charOffset="32924-32954" id="S236" selection="">
+        <text xml:space="preserve">terminal elimination half-life</text>
+    </sentence>
+    <sentence charOffset="33028-33031" id="S237" selection="">
+        <text xml:space="preserve">Th2</text>
+    </sentence>
+    <sentence charOffset="33055-33065" id="S238" selection="">
+        <text xml:space="preserve">T helper 2</text>
+    </sentence>
+    <sentence charOffset="33118-33119" id="S239" selection="">
+        <text xml:space="preserve">T</text>
+    </sentence>
+    <sentence charOffset="33132-33139" id="S240" selection="">
+        <text xml:space="preserve">max:obs</text>
+    </sentence>
+    <sentence charOffset="33174-33218" id="S241" selection="">
+        <text xml:space="preserve">time of maximum observed serum concentration</text>
+    </sentence>
+    <sentence charOffset="33278-33297" id="S242" selection="">
+        <text xml:space="preserve">Competing interests</text>
+    </sentence>
+    <sentence charOffset="33315-33452" id="S243" selection="">
+        <text xml:space="preserve">JMH, RM, MSB, CRC, HS, JL, FC, MK, XCL, DS, RZ, and CC are employed at Genentech, Inc., a member of the Roche Group, and own Roche stock.</text>
+    </sentence>
+    <sentence charOffset="33453-33737" id="S244" selection="25">
+        <text xml:space="preserve">WS has received research support from Genentech, Inc., Astra-Zeneca, Teva, Merck, Novartis, Sanofi, Stallergens, Circassia, Regeneron, Pfizer, Symbio, and Amgen; has received speaking fees from Genentech, Inc., Teva, and Meda; and has received consulting fees from Regeneron and Teva.</text>
+    </sentence>
+    <sentence charOffset="33738-33817" id="S245" selection="25">
+        <text xml:space="preserve">PP has received research support from Genentech, Inc., Astra-Zeneca, and Merck.</text>
+    </sentence>
+    <sentence charOffset="33818-33888" id="S246" selection="">
+        <text xml:space="preserve">JDD, DD, IA, MT, and SK declare that they have no competing interests.</text>
+    </sentence>
+    <sentence charOffset="33922-33944" id="S247" selection="">
+        <text xml:space="preserve">Authors’ contributions</text>
+    </sentence>
+    <sentence charOffset="33962-34041" id="S248" selection="">
+        <text xml:space="preserve">JMH, RM, HS, XCL, and MK contributed to the conception and design of the study.</text>
+    </sentence>
+    <sentence charOffset="34042-34117" id="S249" selection="">
+        <text xml:space="preserve">CC, WS, JDD, PP, MT, DD, IA, and SK contributed to the acquisition of data.</text>
+    </sentence>
+    <sentence charOffset="34118-34203" id="S250" selection="">
+        <text xml:space="preserve">JMH, RM, MSB, CRC, HS, JL, FC, MK, XCL, DS, and RZ analyzed and interpreted the data.</text>
+    </sentence>
+    <sentence charOffset="34204-34332" id="S251" selection="">
+        <text xml:space="preserve">All authors contributed to the drafting and critical revision of the manuscript, and approved the final version to be published.</text>
+    </sentence>
+    <sentence charOffset="34352-34368" id="S252" selection="">
+        <text xml:space="preserve">Acknowledgements</text>
+    </sentence>
+    <sentence charOffset="34375-34466" id="S253" selection="">
+        <text xml:space="preserve">The authors thank all of the patients and the investigators who participated in this study.</text>
+    </sentence>
+    <sentence charOffset="34467-34608" id="S254" selection="">
+        <text xml:space="preserve">Editing and writing support was provided by Deborah Solymar (Genentech, Inc., South San Francisco, CA, USA) and was funded by Genentech, Inc.</text>
+    </sentence>
+    <sentence charOffset="34624-34631" id="S255" selection="">
+        <text xml:space="preserve">Funding</text>
+    </sentence>
+    <sentence charOffset="34640-34829" id="S256" selection="25">
+        <text xml:space="preserve">This work was supported by Genentech, Inc. Genentech, Inc. was involved in the study design, data interpretation, and the decision to submit for publication in conjunction with the authors.</text>
+    </sentence>
+    <section textSpan="0-120" title="Title" titleSpan="0-5"/>
+    <section textSpan="121-2335" title="Abstract" titleSpan="121-129">
+        <section textSpan="139-683" title="Background" titleSpan="150-160"/>
+        <section textSpan="692-1174" title="Methods" titleSpan="703-710"/>
+        <section textSpan="1183-1705" title="Results" titleSpan="1194-1201"/>
+        <section textSpan="1714-2027" title="Conclusions" titleSpan="1725-1736"/>
+        <section textSpan="2036-2115" title="Trial registration" titleSpan="2047-2065"/>
+        <section textSpan="2124-2327" title="Electronic supplementary material" titleSpan="2135-2168"/>
+    </section>
+    <section textSpan="2341-5948" title="Background" titleSpan="2348-2358"/>
+    <section textSpan="5953-16801" title="Methods" titleSpan="5960-5967">
+        <section textSpan="5974-7930" title="Trial design" titleSpan="5983-5995">
+            <section textSpan="7340-7923" title="Ethics, consent, and permissions" titleSpan="7351-7383"/>
+        </section>
+        <section textSpan="7937-9716" title="Participants" titleSpan="7946-7958">
+            <section textSpan="7967-9248" title="Inclusion criteria" titleSpan="7978-7996"/>
+            <section textSpan="9257-9709" title="Exclusion criteria" titleSpan="9268-9286"/>
+        </section>
+        <section textSpan="9723-11096" title="Outcome measures" titleSpan="9732-9748"/>
+        <section textSpan="11103-12068" title="Assessments" titleSpan="11112-11123"/>
+        <section textSpan="12075-12797" title="Pharmacokinetics and immunogenicity" titleSpan="12084-12119"/>
+        <section textSpan="12804-13935" title="Biomarkers" titleSpan="12813-12823"/>
+        <section textSpan="13942-16796" title="Statistical methods" titleSpan="13951-13970">
+            <section textSpan="16000-16789" title="Sample size determination" titleSpan="16011-16036"/>
+        </section>
+    </section>
+    <section textSpan="16806-23947" title="Results" titleSpan="16813-16820">
+        <section textSpan="16827-17765" title="Patient demographics and study flow" titleSpan="16836-16871"/>
+        <section textSpan="17772-18581" title="Safety" titleSpan="17781-17787"/>
+        <section textSpan="18588-19726" title="Pharmacokinetics" titleSpan="18597-18613"/>
+        <section textSpan="19733-20808" title="Pharmacodynamic biomarkers" titleSpan="19742-19768"/>
+        <section textSpan="20815-21964" title="Asthma exacerbation rates" titleSpan="20824-20849"/>
+        <section textSpan="21971-23289" title="Lung function" titleSpan="21980-21993"/>
+        <section textSpan="23296-23942" title="Patient-reported outcomes" titleSpan="23305-23330"/>
+    </section>
+    <section textSpan="23952-29814" title="Discussion" titleSpan="23959-23969"/>
+    <section textSpan="29819-30320" title="Conclusions" titleSpan="29826-29837"/>
+    <section textSpan="30325-34842" title="Back matter" titleSpan="30325-30336"/>
+</document>

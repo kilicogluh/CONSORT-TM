@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3018567" note="">
+    <text xml:space="preserve">Title
+Effect of single-dose anthelmintic treatment during pregnancy on an infant's response to immunisation and on susceptibility to infectious diseases in infancy: a randomised, double-blind, placebo-controlled trial
+
+        Summary
+        
+          Background
+          Helminth infections affect the human immune response. We investigated whether prenatal exposure to and treatment of maternal helminth infections affects development of an infant's immune response to immunisations and unrelated infections.
+        
+        
+          Methods
+          In this randomised, double-blind, placebo-controlled trial, we enrolled 2507 women in the second or third trimester of pregnancy who were planning to deliver in Entebbe General Hospital, Entebbe, Uganda. With a computer-generated random number sequence in blocks of 100, we assigned patients to 440 mg albendazole and 40 mg/kg praziquantel (n=628), 440 mg albendazole and a praziquantel-matching placebo (n=625), 40 mg/kg praziquantel and an albendazole-matching placebo (n=626), or an albendazole-matching placebo and praziquantel-matching placebo (n=628). All participants and hospital staff were masked to allocation. Primary outcomes were immune response at age 1 year to BCG, tetanus, and measles immunisation; incidence of infectious diseases during infancy; and vertical HIV transmission. Analysis was by intention-to-treat. This trial is registered, number ISRCTN32849447.
+        
+        
+          Findings
+          Data were available at delivery for 2356 women, with 2345 livebirths; 2115 (90%) of liveborn infants remained in follow-up at 1 year of age. Neither albendazole nor praziquantel treatments affected infant response to BCG, tetanus, or measles immunisation. However, in infants of mothers with hookworm infection, albendazole treatment reduced interleukin-5 (geometric mean ratio 0·50, 95% CI 0·30–0·81, interaction p=0·02) and interleukin-13 (0·52, 0·34–0·82, 0·0005) response to tetanus toxoid. The rate per 100 person-years of malaria was 40·9 (95% CI 38·3–43·7), of diarrhoea was 134·1 (129·2–139·2), and of pneumonia was 22·3 (20·4–24·4). We noted no effect on infectious disease incidence for albendazole treatment (malaria [hazard ratio 0·95, 95% CI 0·79–1.14], diarrhoea [1·06, 0·96–1·16], pneumonia [1·11, 0·90–1·38]) or praziquantel treatment (malaria [1·00, 0·84–1·20], diarrhoea [1·07, 0·98–1·18], pneumonia [1·00, 0·80–1·24]). In HIV-exposed infants, 39 (18%) were infected at 6 weeks; vertical transmission was not associated with albendazole (odds ratio 0·70, 95% CI 0·35–1·42) or praziquantel (0·60, 0·29–1·23) treatment.
+        
+        
+          Interpretation
+          These results do not accord with the recently advocated policy of routine antenatal anthelmintic treatment, and the value of such a policy may need to be reviewed.
+        
+        
+          Funding
+          Wellcome Trust.
+        
+      
+
+
+    
+      Introduction
+      Worldwide, infectious diseases account for more than 50% of deaths of children younger than 5 years; pneumonia, diarrhoeal disease, and malaria are the three most common causes.1 More than half of these deaths occur in sub-Saharan Africa, where roughly 2·5 million children younger than 5 years are estimated to die every year from one of these three diseases. Immunisation is a key strategy to combat infectious diseases, but immunisation programmes in developing countries vary in effectiveness.2 For example, increases in measles immunisation coverage have led to substantial falls in the incidence of measles;3 by contrast, despite high immunisation coverage, the prevalence of tuberculosis is high in sub-Saharan Africa, and is one of the leading causes of deaths in adults.4 BCG is the only available vaccine against tuberculosis and its effectiveness is lowest in countries closest to the equator.5,6 Soil-transmitted helminth infections and schistosomiasis are also prevalent in developing countries,7 and their geographical distribution has extensive overlap with areas in which rates of infectious diseases are highest and the effectiveness of BCG immunisation is lowest.8,9 Such overlap in disease distributions has led to the suggestion that chronic helminth infections could affect the epidemiological patterns of other diseases,10 through impairment of immune responses to immunisations and unrelated infections.
+      This hypothesis was supported by the finding that T-helper-1 (Th1) cell responses (characterised by interferon-γ production, induced by viral and bacterial antigens, and required for protection against mycobacteria and other intracellular pathogens) and T-helper-2 (Th2) cell responses (characterised by production of interleukins 4, 5, and 13 and induced by allergens such as helminth antigens) are mutually inhibitory.11–13 However, helminth infections induce immunoregulation by various other mechanisms, such as interleukin-10 production, and affect responses to non-helminth antigens.14 Thus helminth infections could inhibit protective Th1 responses to unrelated organisms, such as viruses, bacteria, and vaccines, by inducing a Th1 to Th2 switch and through immunoregulatory mechanisms. Several studies of animals and human beings lend support to this hypothesis.14 Although helminth infections are generally thought to have detrimental effects on host responses to infectious pathogens, a beneficial effect against other diseases is also possible through suppression of pathological inflammatory responses; some researchers have suggested an inverse association between helminth infections and incidence of severe malaria.15
+      Helminth infections are rare in infancy, when immunisations are given and many infectious disease-related deaths occur. However, evidence exists that prenatal exposure to maternal helminth infection could have important effects on an infant's immune response. Prenatal sensitisation to Wuchereria bancrofti, a filarial worm, is associated with increased susceptibility to W bancrofti infection in childhood,16 and prenatal sensitisation to filarial or schistosome antigens with reduced Th1 and increased Th2 cytokine responses to mycobacterial antigens after BCG immunisation at birth.2,17 Such findings suggest that prenatal exposure to maternal helminth infection modulates an infant's immune response to vaccination and infectious pathogens, and that anthelmintic treatment during pregnancy can prevent these effects. We designed this trial of anthelmintic treatment during pregnancy to address this hypothesis. We also examined effects of anthelmintic treatment during pregnancy on infant mortality, and on anaemia and growth at age 1 year, to assess the overall risks and benefits of anthelmintic treatment during pregnancy.
+    
+    
+      Methods
+      
+        Study design and patients
+        The study is described in detail elsewhere.18 Briefly, the study area was Entebbe Municipality and Katabi subcounty, beside Lake Victoria, Uganda. The area is occupied by urban, rural, and fishing communities. Helminth infection is highly prevalent in the area,19 and malaria, diarrhoea, and pneumonia are common in young children.20 The study population consisted of pregnant women who presented at the government-funded antenatal clinic at Entebbe General Hospital between April 9, 2003, and Nov 24, 2005, where roughly 70% of pregnant women from the study area received antenatal care.21 Women were included if resident in the study area, planning to deliver in the hospital, willing to know their HIV status, and in the second or third trimester of pregnancy. They were excluded if they had possible helminth-induced pathological changes (haemoglobin &lt;80 g/L, clinically apparent severe liver disease, or diarrhoea with blood in stool), a history of an adverse reaction to anthelmintics, already been enrolled in the trial during an earlier pregnancy, or if the pregnancy was deemed abnormal by a midwife.
+        All participants gave written, informed consent. Ethics approval was given by the Uganda Virus Research Institute, Uganda National Council for Science and Technology, and London School of Hygiene and Tropical Medicine.
+      
+      
+        Randomisation and masking
+        We used a two-by-two factorial design to randomly assign patients in a 1:1:1:1 ratio to receive simultaneously either single-dose albendazole (440 mg) and single-dose praziquantel (40 mg/kg), albendazole and a praziquantel-matching placebo, an albendazole-matching placebo and praziquantel, or an albendazole-matching placebo and a praziquantel-matching placebo (albendazole and matching placebo, Glaxosmithkline, Brentford, UK; praziquantel and matching placebo, Medochemie Ltd, Limassal, Cyprus). The randomisation code was generated by the trial statistician with a computer-generated random number sequence, with block size 100. Treatments were packed in sealed envelopes and labelled with an allocation number by colleagues at the Medical Research Council Unit in Entebbe who did not otherwise contribute to the trial. Treatments were allocated in numerical order by trained interviewer-counsellors who observed the patients taking the treatment correctly on enrolment to the study. Treatment allocation was masked from all participants and staff during the study.
+      
+      
+        Procedures
+        Demographic and clinical details, and blood samples were obtained at screening; stool samples were obtained before enrolment. After enrolment, women continued to receive standard antenatal care, including haematinics, tetanus immunisation, and intermittent presumptive treatment for malaria twice after their first trimester of pregnancy; women with HIV were offered intrapartum and neonatal single-dose nevirapine for prevention of mother-to-child (vertical) HIV transmission.22 Stool samples were obtained after delivery to assess effectiveness of anthelmintic treatment; thereafter, all mothers received praziquantel and albendazole. Infants received BCG and polio immunisation at birth; diphtheria, pertussis, tetanus, Haemophilus influenzae, hepatitis B, and polio immunisation at 6, 10, and 14 weeks; and measles immunisation at 9 months. Children also attended the study clinic when unwell; doctors diagnosed, treated, and recorded their illnesses. Community fieldworkers visited each participant's home twice a month, measured the child's temperature, and recorded symptoms reported by the child's carer. At age 12 months, blood and stool samples were obtained from the children and growth outcomes were measured. Children who were unwell at their 12-month visit were given appropriate treatment and asked to return to complete the visit procedures when well.
+        The primary outcomes were immune response at age 1 year to BCG, tetanus, and measles immunisation; incidence of malaria, diarrhoea, pneumonia, measles, and tuberculosis during infancy as diagnosed by doctors at the study clinic; and vertical HIV transmission.18 Planned secondary outcomes were growth and anaemia at age 1 year. Community-reported data for illness events were included as a secondary outcome for comparison with doctor-diagnosed illness events from clinic visits. We also considered two additional unplanned secondary outcomes: infant mortality and asymptomatic malaria (presence of malaria parasitaemia) at 1 year of age.
+        Cytokine responses at 1 year of age to crude culture filtrate proteins of Mycobacterium tuberculosis (cCFP) were measured as an indicator of response to BCG immunisation. Cytokine responses at age 1 year to tetanus toxoid were measured as an indicator of response to tetanus immunisation. We examined stimulated interferon-γ (type 1), interleukin-5 (type 2), interleukin-13 (type 2), and interleukin-10 (regulatory) responses in a whole-blood assay, as previously described.23 Total serum IgG, IgG4, and IgE responses to tetanus toxoid were measured by ELISA (webappendix p 1).
+        Total serum measles-specific IgG was measured by ELISA (Dade Behring/Siemens, Eschborn, Germany) according to the manufacturer's protocol. Immunological assays were done after all samples had been obtained, in a randomised sequence (by use of a computer-generated random number sequence), to avoid confounding of secular trends with variations in assay performance.
+        For the primary outcome, doctor-diagnosed illness events, clinical malaria was fever (temperature ≥37·5°C) with parasitaemia; diarrhoea was an infant's carer's definition, with stool frequency recorded;24 pneumonia was cough with difficulty in breathing, and age-specific fast breathing;25 measles was defined by standard clinical criteria and confirmed by measurement of specific antibody;26 and children with suspected tuberculosis were investigated as clinically indicated.27 For the secondary outcome, community-reported illnesses, febrile illness was defined as measured by fieldworkers (temperature ≥37·5°C) or as reported by the child's carer; diarrhoea as reported by the carer, with stool frequency recorded; presumptive pneumonia was cough with difficulty in breathing, or age-specific fast breathing as measured by fieldworkers.
+        Stool samples were examined for helminth ova with the Kato-Katz method28 and by charcoal culture for Strongyloides sterocoralis infection;29 two Kato-Katz slides were prepared from each sample and examined for hookworm ova within 30 mins of preparation, or examined the next day for other species. Hookworm and Schistosoma mansoni infections were classified into low, medium, and high intensities according to WHO guidelines.30 Blood samples were examined by a modified Knott's method for Mansonella perstans31 and by thick film for malaria parasites. Haemoglobin was estimated by Coulter analyser (Beckman Coulter, Nyon, Switzerland). Quality control for Kato-Katz analyses was provided by the Vector Control Programme of the Ministry of Health, Uganda, and for haematology and malaria parasitology through the UK National External Quality Assessment Schemes.
+        Mothers' HIV serology was done by rapid test algorithm.30 Blood was obtained from cord and at 6 weeks of age from infants of mothers with HIV for assessment of vertical HIV transmission. Plasma and whole blood cell pellet were separated by centrifugation and stored at −80°C until assays were done. For detection of HIV-1 proviral DNA in infants at 6 weeks, DNA was extracted from stored whole blood cell pellets and amplified by nested PCR of three conserved viral regions, tat, gp41, and nef (webappendix p 1). For both cord and 6-week samples, plasma HIV load was measured with Bayer Versant branched DNA assay version 3.0 (Bayer, Leverkusen, Germany) or Roche Amplicor HIV-1 RNA Monitor test version 1.5 (Roche, NJ, USA).
+        Infants were regarded as being HIV positive if the 6-week sample had a positive DNA PCR for any of the viral regions and a viral load of 1000 copies per mL or more; for four infants, only viral load data were available, so they were used to establish HIV status. Viral load and DNA-PCR results were concordant apart from one infant (viral load 6699 copies per mL, PCR negative) who was seronegative by rapid test algorithm at age 18 months and was classified as HIV negative. In infants with HIV infection, transmission was regarded as likely to have been intrauterine if the viral load in cord blood was 1000 copies per mL or more.
+      
+      
+        Statistical analysis
+        Analysis was done after all children were older than 15 months. Data for samples and measurements obtained at routine, 1-year visits were included if the child attended within 2 months after their first birthday. Data for illness events and mortality were censored strictly at 1 year. Results for younger twins were excluded from all analyses.
+        On the basis of our preliminary study,32 the planned cohort size of 2500 was expected to accrue 1860 person-years of follow-up in infancy and 1594 infants were expected to be seen at age 1 year. For either maternal treatment, assuming no interaction between treatments, this number would give 80% power to detect rate ratios of 0·82 for malaria, 0·91 for diarrhoea, and 0·76 for pneumonia, with p values of less than 0·05, assuming frequency of disease in the placebo groups to be 50 per 100 person-years for malaria,33 190 per 100 person-years for diarrhoea,34 and 25 per 100 person-years for pneumonia.35 Incidence of both tuberculosis and measles was expected to be low,18 therefore only very large differences in incidence would be detected. Samples from 1594 infants assessed at 1 year would detect differences in infant cytokine responses of 0·11 log10 between intervention groups.18,32
+        The patients that were included in analysis for each of the primary outcomes differed because data for each outcome was obtained at different times. For immune response at age 1 year, analysis included all children who provided a blood sample at 1 year and who had received full BCG (for cCFP analysis) or tetanus (for tetanus toxoid analysis) immunisation at Entebbe Hospital; second-born twins were excluded. For incidence of infectious diseases during infancy, analysis included all liveborn children, excluding second-born twins. For vertical HIV transmission, analysis included all children whose mothers were not receiving highly-active antiretroviral therapy, and from whom blood samples at age 6 weeks were available; second-born twins were excluded.
+        Cytokine and antibody responses showed skewed distributions, with disproportionate numbers of zero values. Results were transformed to log10(concentration+1) and analysed by linear regression with bootstrapping to estimate bias-corrected accelerated confidence intervals.36 Regression coefficients were back-transformed to give geometric mean ratios. Interactions were examined with Wald tests.
+        For doctor-diagnosed disease incidence, time at risk began at birth and was censored at loss to follow-up, death, or age 1 year. All children with known date of birth were included in the analysis until censoring, irrespective of whether they had made a clinic visit for illness. For each disease, we calculated incidence rates for all events. Disease episodes within 14 days of an initial presentation with the same disease were regarded as part of the same episode and excluded from the analysis; time at risk was adjusted accordingly, excluding these 14-day periods from the total person-time denominator. Hazard ratios (HRs) for effects of treatment were calculated with Cox regression, with robust SEs to allow for within-child clustering. For community-reported illness data, a generalised-estimating-equation approach with exchangeable correlation structure was used to model effects of treatment on repeated binary outcomes. Odds ratios (ORs) for the effects of treatment on vertical HIV transmission were calculated with logistic regression.
+        The prevalence of asymptomatic malaria at 1 year was compared between treatment groups with logistic regression. Infant mortality per 1000 livebirths was estimated from Kaplan-Meier survival probabilities to age 1 year, and effects of maternal anthelmintic treatment were assessed by Cox regression. Weight-for-age, height-for-age, and weight-for-height Z scores at 1 year were derived from WHO growth standard reference scales, with igrowup macros. We examined effects of maternal treatment on Z scores and on haemoglobin at 1 year by linear regression.
+        We did two prespecified subgroup analyses, examining effects of albendazole treatment in children of mothers with a hookworm infection, and effects of praziquantel treatment in children of mothers with schistosomiasis. Differences between subgroups were examined by fitting interaction terms in regression models. All p values were two-sided with no adjustment made for multiple comparisons. Analyses were done with Stata 10.1.
+      
+      
+        Role of the funding source
+        The sponsor of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. AME had full access to all the data in the study and had final responsibility for the decision to submit for publication.
+      
+    
+    
+      Results
+      Figure Trial profile
+Table 1 Baseline characteristics
+The figure shows the trial profile. 2507 women were randomly assigned to treatment groups, 1309 (52%) of whom were in the second trimester of pregnancy and 1195 (48%) of whom were in the third trimester of pregnancy. The median length of time between receiving the study intervention and delivery was 87 days (IQR 54–118). Data were available for 2356 women (94%) at delivery and there were 2345 livebirths; results for 30 liveborn younger twins or triplets were excluded, which left data for follow-up of 2315 liveborn infants. Of these infants, 2092 (90%) remained in follow-up at 1 year of age, of whom 1701 (81%) attended the 1-year visit. Baseline characteristics of mothers were similar between the four groups (table 1).37 Mothers of children who did not contribute to follow-up were, on average, younger, more likely to be pregnant for the first time, have malaria or HIV infection, and have enrolled earlier during pregnancy than mothers of children who contributed to follow up (data not shown). Mothers of children who provided samples at 1 year of age were of higher socioeconomic status and less likely to reside in remote parts of the study area than were mothers of children who did not provide samples at age 1 year (data not shown).
+      At enrolment, 1693 (68%) of women were infected with at least one helminth species. Individual prevalences of each species were: hookworm 45%, M perstans 21%, S mansoni 18%, S stercoralis 12%, Trichuris trichiura 9%, and Ascaris lumbricoides 2%. Infections were generally mild, with 942 (85%) of hookworm infections and 297 (65%) of S mansoni infections classified as light. Subgroups of 648 mothers who received albendazole-matching placebo and 658 mothers who received praziquantel-matching placebo had three stool samples examined before being treated 6 weeks after delivery; in these women, the sensitivity of one stool sample compared with three stool samples was 89% for hookworm infection and 66% for schistosomiasis. 1957 mothers (78%) received at least one documented dose of tetanus immunisation during pregnancy; 1447 (74%) received all documented tetanus immunisations before the anthelmintic treatment intervention (median 4 days [IQR 3–7] before intervention).
+      We noted no evidence of interaction between maternal albendazole and praziquantel treatments for any outcome (all interaction p values&gt;0·1; webappendix pp 3–4); therefore the effects of each treatment were assessed independently. Results for cytokine responses at age 1 year were available for 1542 infants, of whom 1506 had received BCG immunisation at birth at Entebbe Hospital and 1015 had received all three doses of tetanus immunisation at Entebbe Hospital. The proportion of infants for whom positive responses to cCFP and tetanus toxoid were detected varied by cytokine; for cCFP, 1356 (90%) infants had positive responses to interferon-γ, 449 (30%) had positive responses to interleukin 5, 1005 (67%) had positive responses to interleukin 13, and 1316 (87%) had positive responses to interleukin-10. For tetanus toxoid, 655 (65%) infants had positive responses to interferon-γ, 499 (49%) had positive responses to interleukin 5, 766 (75%) had positive responses to interleukin 13, and 498 (49%) had positive responses to interleukin 10.
+      Albendazole treatment of mothers was associated with a small reduction in unstimulated interleukin-10 production by their children (geometric mean ratio 0·83, 95% CI 0·70–0·98). We recorded no other overall effects of maternal treatment on unstimulated cytokine production. Results for effects on responses to stimulation were similar, irrespective of whether background cytokine production was subtracted (data not shown).
+      Table 2 Effects of maternal anthelmintic treatment in pregnancy on infant response to BCG, tetanus, and measles immunisation
+Table 3 Effect of maternal anthelmintic treatment on response to BCG, tetanus, and measles immunisation, by maternal helminth infection status
+We detected no effects of either albendazole or praziquantel treatments on the overall antigen-specific response after immunisation (table 2). However, in infants of mothers with a hookworm infection, maternal albendazole treatment was associated with a small non-significant reduction in the interferon-γ response to cCFP and with reductions in their response to tetanus toxoid for the type 2 cytokines interleukin 5 and interleukin 13 (table 3). We recorded no significant effect of praziquantel treatment in infants of mothers with schistosomiasis (table 3).
+      We recorded no overall effects for either albendazole or praziquantel treatments on antibody concentrations for tetanus or measles (table 2), nor did we detect differential effects for either albendazole or praziquantel treatment according to susceptible worm species (table 3).
+      Of the 2315 liveborn children, 2083 (90%) made at least one illness-related clinic visit during infancy. The number of illness visits by children in all four treatment groups were similar (webappendix p 4). During the study period, the rate of malaria was 41 episodes per 100 person-years (95% CI 38–44), of diarrhoea 134 episodes per 100 person-years (129–139), and of pneumonia 22 episodes per 100 person-years (20–24). Measles and tuberculosis were rare, with two episodes of each, so we could not assess the effect of maternal anthelmintic treatment on their frequency.
+      Table 4 Effects of maternal anthelmintic treatment in pregnancy on incidence of malaria, diarrhoea, and pneumonia in infancy
+Table 5 Effect of maternal anthelmintic treatment in pregnancy on disease incidence, by maternal helminth status
+We noted no evidence for effects of either albendazole or praziquantel treatments on doctor-diagnosed malaria, diarrhoea, or pneumonia incidence (table 4). Subgroup analyses by maternal hookworm and schistosomiasis infection status showed no evidence of a differential effect of either treatment according to susceptible worm species (table 5).
+      299 women tested positive for HIV at enrolment; of these, 16 were lost to follow-up before delivery, five had miscarriages, and nine had stillbirths. Five women were on highly-active antiretroviral therapy; their children, and seven second-born twins were excluded from the analysis, leaving 264 infants suitable for inclusion. 6-week blood samples were available from 211 infants (80%), of whom 39 (18%) were diagnosed with HIV infection. Of infants with HIV infection, 31 had cord samples available, of which 20 (65%) showed an HIV viral load of 1000 copies per mL or more, which is consistent with intrauterine HIV transmission. We recorded no evidence for any effect of either albendazole (OR 0·70, 95% CI 0·35–1·42; p=0·33) or praziquantel (0·60, 0·29–1·23; p=0·17) treatment on vertical HIV transmission, although statistical power was restricted because the study was only powered to detect a large effect for this outcome. No evidence was noted for any differential effect of treatment according to susceptible worm species; ORs for the effect of albendazole treatment on HIV transmission were 0·77 (0·25–2·40) in mothers with hookworm infection and 0·66 (0·27–1·60) in those without hookworm infection (interaction p=0·83). We recorded similar results for praziquantel (OR 0·75, 0·18–3·14, for mothers with schistosomiasis; 0·56, 0·24–1·29 for those without schistosomiasis; interaction p=0·73).
+      For the secondary outcome of community-reported illness data, the overall recorded prevalences of each illness collated every 14 days throughout infancy was 13% for febrile illness, 12% for diarrhoea, and 1% for presumptive pneumonia. These data were consistent with doctor-diagnosed outcomes and showed no effects of treatment with albendazole or praziquantel on febrile illnesses (OR 1·07, 95% CI 0·97–1·18, p=0·18; and 1·03, 0·93–1·13, 0·58), diarrhoea (1·08, 0·98–1·20, 0·13; and 0·93, 0·84–1·03, 0·18), or presumptive pneumonia (0·92, 0·65–1·31, 0·66; and 0·91, 0·64–1·30, 0·62). The prevalence of asymptomatic malaria parasitaemia at 1 year was similar between treatment groups (webappendix p 5).
+      81 infants in the cohort died, 44 of whom were neonates, giving a neonatal mortality rate of 19·0 per 1000 livebirths (95% CI 14·2–25·5) and an infant mortality rate of 35·7 per 1000 livebirths (28·8–44·2). Maternal anthelmintic treatment had no pronounced effect on mortality (webappendix p 5). Height-for-age and weight-for-age Z scores were low compared with the WHO standards; however, the weight-for-height distribution was similar. Mean haemoglobin score at age 1 year was 102 g/L (SD 14 g/L). We noted no evidence for any difference in mean growth indices or mean haemoglobin between children of albendazole-treated and placebo-treated mothers, or between children of praziquantel-treated and placebo-treated mothers (webappendix p 5). Numbers of serious adverse events are reported elsewhere19 and were distributed evenly between treatment groups.
+    
+    
+      Discussion
+      In this randomised, placebo-controlled trial, we have shown that maternal anthelmintic treatment during pregnancy can have a small effect on an infant's response to tetanus immunisation, but has no effects, either beneficial or detrimental, on the occurrence of infectious diseases during infancy, infant mortality, or growth and anaemia outcomes at 1 year of age. One dose of albendazole was effective for the treatment of hookworm and A lumbricoides infections, and praziquantel was effective for the treatment of schistosomiasis. At delivery, the prevalence of hookworm infections had decreased to 5% in the albendazole group, and remained at 45% in the placebo group; the prevalence of S mansoni infection had decreased to 5% in the praziquantel group, and remained at 21% in the placebo group.37 Thus we would have expected to see any noticeable effects of the removal of these maternal helminth infections. A possible source of imprecision is that the Kato-Katz method has suboptimum sensitivity for diagnosis of intestinal helminth infections when one stool sample is used.38,39 In this study, the sensitivity for detecting both hookworm infection and schistosomiasis was greater when three stool samples were taken than when only one was taken. As expected, one dose of albendazole was not effective for treatment of S stercoralis, T trichiura, or M perstans.37
+      Albendazole treatment in pregnancy was associated with reduced interleukin-5 and interleukin-13 responses to tetanus toxoid in infants of mothers with hookworm infection. These results should be interpreted with caution because of the large number of statistical tests done, but they accord with earlier findings40,41 on effects of helminths on type-2 responses to tetanus immunisation in adults; by contrast with these previous studies,40,41 we recorded no reciprocal effect on interferon-γ response. Such responses will probably not change the effectiveness of tetanus immunisation, because this immunisation depends on the production of toxin-neutralising IgG antibodies, which was not affected by maternal treatment. However, the patterns recorded lend support to the hypothesis that maternal helminths promote a type-2 bias in an infant's response to unrelated antigens and that anthelmintic treatment modifies this effect. These findings suggest that the effect of anthelmintic treatment can be transmitted in utero.
+      Neither intervention showed any overall effect on response to BCG immunisation in infants. Our preliminary study32 had suggested an unexpected positive association between maternal hookworm infection and interferon-γ responses to cCFP in infants. In the present, larger study, interferon-γ responses were higher in infants of mothers with hookworm infection, and albendazole treatment was associated with a weak reduction in interferon-γ responses in infants of women with hookworm infection. These findings contrast with our initial hypothesis that maternal hookworm infection would inhibit the Th1 response and that albendazole treatment would reverse this effect. The absence of effect of praziquantel treatment was also unexpected, in view of Malhotra and colleagues' finding17 that infants who are sensitised to schistosome or filarial antigens in utero had reduced interferon-γ and increased interleukin-5 responses to neonatal BCG immunisation. However, all infants in Malhotra and colleagues' study were exposed to maternal helminth infections, and comparisons were made between those not sensitised or sensitised to helminth antigens.17 The idea that single-dose praziquantel treatment completely removes the likelihood of fetal sensitisation to schistosome antigens might be too simplistic, because worm and egg antigens can take some time to be cleared from maternal tissues. Moreover, the killing of adult schistosomes results in release of worm antigen into the circulation and might have complex effects on the fetus, dependent on placental transfer of antigens or antibodies and the stage of development of the fetal immune system.41,42
+      The recorded effects on an infant's response to tetanus immunisation contrasted with the absence of effects seen for measles and BCG. A possible explanation is that tetanus immunisation given to women during pregnancy could have led to the priming of an infant's antitetanus response in utero,42 and the profile of the primed response could have been affected by concomitant exposure to a maternal helminth infection, which depended on whether or not an infant's mother received treatment with albendazole.
+      In keeping with the broad absence of effect of maternal anthelmintic treatment on an infant's response to vaccination, we recorded no effect of either treatment for the co-primary outcome of infectious disease incidence during infancy. A possible source of imprecision is that data for doctor-diagnosed disease incidence were obtained passively, and therefore rates are likely to have been underestimated. However, 90% of infants attended the clinic for illness at least once, and underestimation would be non-differential between treatment groups; therefore this imprecision is unlikely to have affected our findings. Moreover, results from community-reported illness events (which are less likely to be under-reported), and malaria parasitaemia at 1 year of age (which is independent of reporting biases) were both consistent with the recorded absence of treatment effect. We also detected no evidence that anthelmintic treatment affected vertical transmission of HIV, although power to detect an effect was restricted.
+      The only other study43 to investigate the relation between anthelmintic treatment during pregnancy and post-neonatal outcomes, undertaken in Nepal, showed that treatment with albendazole during pregnancy was associated with a pronounced reduction in infant mortality at 6 months. We recorded no such effect, although the number of deaths in the cohort was small so the possibility of a reduction cannot be ruled out. The Nepal study was not randomised and recorded a 41% reduction in 6-month mortality associated with two doses of albendazole but no effect on infant mortality for one dose. The researchers speculated that the greater benefit of two doses might result from prevention of reinfection between treatment and delivery, but this theory would not explain the contrast with our findings, because only 5% of women who received albendazole in our study had hookworm infection at delivery.19
+      Our analyses needed many statistical tests, especially for the measurement of cytokine responses to immunisation, because we aimed to assess overall response profiles rather than concentrations of only one cytokine. Consistency between all cytokine responses was expected, and can be interpreted as compelling evidence of an effect, compared with isolated change in an individual response. Therefore we did not increase confidence limits or use methods that assume independence of tests to formally adjust p values. In the event, very few outcomes showed any evidence of association at a p value less than 0·05 so absence of adjustment for multiplicity is unlikely to have affected the interpretation of our results.
+      A strength of this study was the randomised intervention design; effects of helminth infections reported in observational studies could have been affected by confounding factors. Our findings do not show that exposure to maternal helminth infections in utero has no important effect on the development of the fetal immune system. Some observational studies16,17 do suggest such an effect. Rather, our findings suggest that one effective anthelmintic intervention given in the second or third trimester of pregnancy is insufficient to alter any effect of maternal worms on vaccine and infectious disease outcomes in infancy. This study examined only effects of maternal anthelmintic treatment on vaccine responses and disease incidence in newborn children. Further studies are needed to assess the effects of anthelmintic treatment on these outcomes in the individual who receives the treatment.
+      Our results are generalisable to areas with high prevalence but low intensity of helminth infection in young adults, which is a common pattern in areas that are endemic for helminth infection. Findings might differ in populations with higher infection intensities. These results suggest that, in settings such as Entebbe Municipality and Katabi subcounty, single-dose anthelmintic treatment during pregnancy has no benefit for an infant's response to immunisation, or for their health and development.
+      We have previously reported a similar absence of effect on maternal and perinatal outcomes.37 These results contrast with the expected benefits of routine antenatal anthelmintic treatment recently advocated,44 and the value of such a policy may need to be reviewed. The study cohort is being followed up to establish whether these conclusions are still valid up to when children are aged 5 years, and to relate effects on the cytokine response to BCG immunisation to incidence of M tuberculosis infection and disease.18
+    
+  
+
+Back matter
+
+      Web Extra Material
+                     Supplementary webappendix          
+    
+
+      
+        Acknowledgments
+        The study was funded by Wellcome Trust grant numbers 064693 and 079110; Medical Research Council (MRC) staff were supported by MRC programme grant E743; ELW was supported by the UK MRC; and HM was supported in part by a Wellcome Trust PhD studentship, grant number 074791. Mycobacterial antigens were provided through the National Institutes of Health contract NOI-AI-25147. We thank all staff and participants of the Entebbe Mother and Baby Study, the midwives of the Entebbe Hospital Maternity Department, the community field team in Entebbe and Katabi, and the staff of the Clinical Diagnostic Services Laboratory at the MRC/UVRI Uganda Research Unit on AIDS. We thank Richard Hayes for helpful comments on the manuscript.
+      
+    
+
+      Contributors
+      AME had the idea for, designed, and led the study. PAM and PBN contributed to sample processing; PAM did all the cytokine assays. DK led the work on measles antibodies, and AN led the work on tetanus antibodies, under the supervision of AME and RT. JNd led the clinical component of the study. JK-L led the virological investigations with a PCR assay developed by BN. MN, HM, MA, NL, MKiz, RK, JNa, and CA contributed to recruitment and follow-up of participants and to clinical care. LM, PWW, HA, and JNd contributed to data management and analysis. MKih and JB did parasitological investigations. ELW did the statistical analysis. ELW and AME drafted the report, with contributions to interpretation of the results and preparation of the manuscript from JNd and HM. JNd, PBN, MM, and JAGW contributed to the design and implementation of the study. ELW, PAM, JNd, DK, AN, and JK-L contributed equally to the work. All authors reviewed the final paper.
+    
+
+      Conflicts of interest
+      JAGW is now a member of staff with the Wellcome Trust, the funders of the study. His role in the initial design and implementation of the study preceded his appointment at the Wellcome Trust. He has had no role in the study since his appointment. All other authors declare that they have no conflicts of interest.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-217" id="S2" selection="1a">
+        <text xml:space="preserve">Effect of single-dose anthelmintic treatment during pregnancy on an infant's response to immunisation and on susceptibility to infectious diseases in infancy: a randomised, double-blind, placebo-controlled trial</text>
+    </sentence>
+    <sentence charOffset="227-234" id="S3">
+        <text xml:space="preserve">Summary</text>
+    </sentence>
+    <sentence charOffset="254-264" id="S4" selection="1b">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="275-328" id="S5" selection="">
+        <text xml:space="preserve">Helminth infections affect the human immune response.</text>
+    </sentence>
+    <sentence charOffset="329-513" id="S6" selection="">
+        <text xml:space="preserve">We investigated whether prenatal exposure to and treatment of maternal helminth infections affects development of an infant's immune response to immunisations and unrelated infections.</text>
+    </sentence>
+    <sentence charOffset="542-549" id="S7" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="560-763" id="S8" selection="">
+        <text xml:space="preserve">In this randomised, double-blind, placebo-controlled trial, we enrolled 2507 women in the second or third trimester of pregnancy who were planning to deliver in Entebbe General Hospital, Entebbe, Uganda.</text>
+    </sentence>
+    <sentence charOffset="764-1117" id="S9" selection="">
+        <text xml:space="preserve">With a computer-generated random number sequence in blocks of 100, we assigned patients to 440 mg albendazole and 40 mg/kg praziquantel (n=628), 440 mg albendazole and a praziquantel-matching placebo (n=625), 40 mg/kg praziquantel and an albendazole-matching placebo (n=626), or an albendazole-matching placebo and praziquantel-matching placebo (n=628).</text>
+    </sentence>
+    <sentence charOffset="1118-1180" id="S10" selection="">
+        <text xml:space="preserve">All participants and hospital staff were masked to allocation.</text>
+    </sentence>
+    <sentence charOffset="1181-1355" id="S11" selection="">
+        <text xml:space="preserve">Primary outcomes were immune response at age 1 year to BCG, tetanus, and measles immunisation; incidence of infectious diseases during infancy; and vertical HIV transmission.</text>
+    </sentence>
+    <sentence charOffset="1356-1391" id="S12" selection="">
+        <text xml:space="preserve">Analysis was by intention-to-treat.</text>
+    </sentence>
+    <sentence charOffset="1392-1440" id="S13" selection="23">
+        <text xml:space="preserve">This trial is registered, number ISRCTN32849447.</text>
+    </sentence>
+    <sentence charOffset="1469-1477" id="S14" selection="">
+        <text xml:space="preserve">Findings</text>
+    </sentence>
+    <sentence charOffset="1488-1628" id="S15" selection="">
+        <text xml:space="preserve">Data were available at delivery for 2356 women, with 2345 livebirths; 2115 (90%) of liveborn infants remained in follow-up at 1 year of age.</text>
+    </sentence>
+    <sentence charOffset="1629-1743" id="S16" selection="">
+        <text xml:space="preserve">Neither albendazole nor praziquantel treatments affected infant response to BCG, tetanus, or measles immunisation.</text>
+    </sentence>
+    <sentence charOffset="1744-1982" id="S17" selection="">
+        <text xml:space="preserve">However, in infants of mothers with hookworm infection, albendazole treatment reduced interleukin-5 (geometric mean ratio 0·50, 95% CI 0·30–0·81, interaction p=0·02) and interleukin-13 (0·52, 0·34–0·82, 0·0005) response to tetanus toxoid.</text>
+    </sentence>
+    <sentence charOffset="1983-2129" id="S18" selection="">
+        <text xml:space="preserve">The rate per 100 person-years of malaria was 40·9 (95% CI 38·3–43·7), of diarrhoea was 134·1 (129·2–139·2), and of pneumonia was 22·3 (20·4–24·4).</text>
+    </sentence>
+    <sentence charOffset="2130-2425" id="S19" selection="">
+        <text xml:space="preserve">We noted no effect on infectious disease incidence for albendazole treatment (malaria [hazard ratio 0·95, 95% CI 0·79–1.14], diarrhoea [1·06, 0·96–1·16], pneumonia [1·11, 0·90–1·38]) or praziquantel treatment (malaria [1·00, 0·84–1·20], diarrhoea [1·07, 0·98–1·18], pneumonia [1·00, 0·80–1·24]).</text>
+    </sentence>
+    <sentence charOffset="2426-2623" id="S20" selection="">
+        <text xml:space="preserve">In HIV-exposed infants, 39 (18%) were infected at 6 weeks; vertical transmission was not associated with albendazole (odds ratio 0·70, 95% CI 0·35–1·42) or praziquantel (0·60, 0·29–1·23) treatment.</text>
+    </sentence>
+    <sentence charOffset="2652-2666" id="S21" selection="">
+        <text xml:space="preserve">Interpretation</text>
+    </sentence>
+    <sentence charOffset="2677-2840" id="S22" selection="">
+        <text xml:space="preserve">These results do not accord with the recently advocated policy of routine antenatal anthelmintic treatment, and the value of such a policy may need to be reviewed.</text>
+    </sentence>
+    <sentence charOffset="2869-2876" id="S23" selection="">
+        <text xml:space="preserve">Funding</text>
+    </sentence>
+    <sentence charOffset="2887-2902" id="S24" selection="25">
+        <text xml:space="preserve">Wellcome Trust.</text>
+    </sentence>
+    <sentence charOffset="2932-2944" id="S25">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2951-3129" id="S26" selection="">
+        <text xml:space="preserve">Worldwide, infectious diseases account for more than 50% of deaths of children younger than 5 years; pneumonia, diarrhoeal disease, and malaria are the three most common causes.1</text>
+    </sentence>
+    <sentence charOffset="3130-3311" id="S27" selection="">
+        <text xml:space="preserve">More than half of these deaths occur in sub-Saharan Africa, where roughly 2·5 million children younger than 5 years are estimated to die every year from one of these three diseases.</text>
+    </sentence>
+    <sentence charOffset="3312-3449" id="S28" selection="">
+        <text xml:space="preserve">Immunisation is a key strategy to combat infectious diseases, but immunisation programmes in developing countries vary in effectiveness.2</text>
+    </sentence>
+    <sentence charOffset="3450-3731" id="S29" selection="">
+        <text xml:space="preserve">For example, increases in measles immunisation coverage have led to substantial falls in the incidence of measles;3 by contrast, despite high immunisation coverage, the prevalence of tuberculosis is high in sub-Saharan Africa, and is one of the leading causes of deaths in adults.4</text>
+    </sentence>
+    <sentence charOffset="3732-3858" id="S30" selection="">
+        <text xml:space="preserve">BCG is the only available vaccine against tuberculosis and its effectiveness is lowest in countries closest to the equator.5,6</text>
+    </sentence>
+    <sentence charOffset="3859-4135" id="S31" selection="">
+        <text xml:space="preserve">Soil-transmitted helminth infections and schistosomiasis are also prevalent in developing countries,7 and their geographical distribution has extensive overlap with areas in which rates of infectious diseases are highest and the effectiveness of BCG immunisation is lowest.8,9</text>
+    </sentence>
+    <sentence charOffset="4136-4377" id="S32" selection="2a">
+        <text xml:space="preserve">Such overlap in disease distributions has led to the suggestion that chronic helminth infections could affect the epidemiological patterns of other diseases,10 through impairment of immune responses to immunisations and unrelated infections.</text>
+    </sentence>
+    <sentence charOffset="4384-4809" id="S33" selection="">
+        <text xml:space="preserve">This hypothesis was supported by the finding that T-helper-1 (Th1) cell responses (characterised by interferon-γ production, induced by viral and bacterial antigens, and required for protection against mycobacteria and other intracellular pathogens) and T-helper-2 (Th2) cell responses (characterised by production of interleukins 4, 5, and 13 and induced by allergens such as helminth antigens) are mutually inhibitory.11–13</text>
+    </sentence>
+    <sentence charOffset="4810-4975" id="S34" selection="">
+        <text xml:space="preserve">However, helminth infections induce immunoregulation by various other mechanisms, such as interleukin-10 production, and affect responses to non-helminth antigens.14</text>
+    </sentence>
+    <sentence charOffset="4976-5177" id="S35" selection="">
+        <text xml:space="preserve">Thus helminth infections could inhibit protective Th1 responses to unrelated organisms, such as viruses, bacteria, and vaccines, by inducing a Th1 to Th2 switch and through immunoregulatory mechanisms.</text>
+    </sentence>
+    <sentence charOffset="5178-5256" id="S36" selection="">
+        <text xml:space="preserve">Several studies of animals and human beings lend support to this hypothesis.14</text>
+    </sentence>
+    <sentence charOffset="5257-5616" id="S37" selection="">
+        <text xml:space="preserve">Although helminth infections are generally thought to have detrimental effects on host responses to infectious pathogens, a beneficial effect against other diseases is also possible through suppression of pathological inflammatory responses; some researchers have suggested an inverse association between helminth infections and incidence of severe malaria.15</text>
+    </sentence>
+    <sentence charOffset="5623-5742" id="S38" selection="">
+        <text xml:space="preserve">Helminth infections are rare in infancy, when immunisations are given and many infectious disease-related deaths occur.</text>
+    </sentence>
+    <sentence charOffset="5743-5882" id="S39" selection="2a">
+        <text xml:space="preserve">However, evidence exists that prenatal exposure to maternal helminth infection could have important effects on an infant's immune response.</text>
+    </sentence>
+    <sentence charOffset="5883-6212" id="S40" selection="">
+        <text xml:space="preserve">Prenatal sensitisation to Wuchereria bancrofti, a filarial worm, is associated with increased susceptibility to W bancrofti infection in childhood,16 and prenatal sensitisation to filarial or schistosome antigens with reduced Th1 and increased Th2 cytokine responses to mycobacterial antigens after BCG immunisation at birth.2,17</text>
+    </sentence>
+    <sentence charOffset="6213-6443" id="S41" selection="2a">
+        <text xml:space="preserve">Such findings suggest that prenatal exposure to maternal helminth infection modulates an infant's immune response to vaccination and infectious pathogens, and that anthelmintic treatment during pregnancy can prevent these effects.</text>
+    </sentence>
+    <sentence charOffset="6444-6537" id="S42" selection="2b">
+        <text xml:space="preserve">We designed this trial of anthelmintic treatment during pregnancy to address this hypothesis.</text>
+    </sentence>
+    <sentence charOffset="6538-6752" id="S43" selection="2b">
+        <text xml:space="preserve">We also examined effects of anthelmintic treatment during pregnancy on infant mortality, and on anaemia and growth at age 1 year, to assess the overall risks and benefits of anthelmintic treatment during pregnancy.</text>
+    </sentence>
+    <sentence charOffset="6769-6776" id="S44">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="6792-6817" id="S45" selection="">
+        <text xml:space="preserve">Study design and patients</text>
+    </sentence>
+    <sentence charOffset="6826-6871" id="S46" selection="">
+        <text xml:space="preserve">The study is described in detail elsewhere.18</text>
+    </sentence>
+    <sentence charOffset="6872-6972" id="S47" selection="4b">
+        <text xml:space="preserve">Briefly, the study area was Entebbe Municipality and Katabi subcounty, beside Lake Victoria, Uganda.</text>
+    </sentence>
+    <sentence charOffset="6973-7035" id="S48" selection="">
+        <text xml:space="preserve">The area is occupied by urban, rural, and fishing communities.</text>
+    </sentence>
+    <sentence charOffset="7036-7159" id="S49" selection="">
+        <text xml:space="preserve">Helminth infection is highly prevalent in the area,19 and malaria, diarrhoea, and pneumonia are common in young children.20</text>
+    </sentence>
+    <sentence charOffset="7160-7416" id="S50" selection="4b,14a">
+        <text xml:space="preserve">The study population consisted of pregnant women who presented at the government-funded antenatal clinic at Entebbe General Hospital between April 9, 2003, and Nov 24, 2005, where roughly 70% of pregnant women from the study area received antenatal care.21</text>
+    </sentence>
+    <sentence charOffset="7417-7589" id="S51" selection="4a">
+        <text xml:space="preserve">Women were included if resident in the study area, planning to deliver in the hospital, willing to know their HIV status, and in the second or third trimester of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="7590-7935" id="S52" selection="4a">
+        <text xml:space="preserve">They were excluded if they had possible helminth-induced pathological changes (haemoglobin &lt;80 g/L, clinically apparent severe liver disease, or diarrhoea with blood in stool), a history of an adverse reaction to anthelmintics, already been enrolled in the trial during an earlier pregnancy, or if the pregnancy was deemed abnormal by a midwife.</text>
+    </sentence>
+    <sentence charOffset="7944-7992" id="S53" selection="">
+        <text xml:space="preserve">All participants gave written, informed consent.</text>
+    </sentence>
+    <sentence charOffset="7993-8162" id="S54" selection="">
+        <text xml:space="preserve">Ethics approval was given by the Uganda Virus Research Institute, Uganda National Council for Science and Technology, and London School of Hygiene and Tropical Medicine.</text>
+    </sentence>
+    <sentence charOffset="8185-8210" id="S55" selection="">
+        <text xml:space="preserve">Randomisation and masking</text>
+    </sentence>
+    <sentence charOffset="8219-8717" id="S56" selection="8b,5,3a">
+        <text xml:space="preserve">We used a two-by-two factorial design to randomly assign patients in a 1:1:1:1 ratio to receive simultaneously either single-dose albendazole (440 mg) and single-dose praziquantel (40 mg/kg), albendazole and a praziquantel-matching placebo, an albendazole-matching placebo and praziquantel, or an albendazole-matching placebo and a praziquantel-matching placebo (albendazole and matching placebo, Glaxosmithkline, Brentford, UK; praziquantel and matching placebo, Medochemie Ltd, Limassal, Cyprus).</text>
+    </sentence>
+    <sentence charOffset="8718-8851" id="S57" selection="8a,8b">
+        <text xml:space="preserve">The randomisation code was generated by the trial statistician with a computer-generated random number sequence, with block size 100.</text>
+    </sentence>
+    <sentence charOffset="8852-9042" id="S58" selection="9">
+        <text xml:space="preserve">Treatments were packed in sealed envelopes and labelled with an allocation number by colleagues at the Medical Research Council Unit in Entebbe who did not otherwise contribute to the trial.</text>
+    </sentence>
+    <sentence charOffset="9043-9206" id="S59" selection="10">
+        <text xml:space="preserve">Treatments were allocated in numerical order by trained interviewer-counsellors who observed the patients taking the treatment correctly on enrolment to the study.</text>
+    </sentence>
+    <sentence charOffset="9207-9288" id="S60" selection="11a">
+        <text xml:space="preserve">Treatment allocation was masked from all participants and staff during the study.</text>
+    </sentence>
+    <sentence charOffset="9311-9321" id="S61" selection="">
+        <text xml:space="preserve">Procedures</text>
+    </sentence>
+    <sentence charOffset="9330-9455" id="S62" selection="">
+        <text xml:space="preserve">Demographic and clinical details, and blood samples were obtained at screening; stool samples were obtained before enrolment.</text>
+    </sentence>
+    <sentence charOffset="9456-9809" id="S63" selection="5">
+        <text xml:space="preserve">After enrolment, women continued to receive standard antenatal care, including haematinics, tetanus immunisation, and intermittent presumptive treatment for malaria twice after their first trimester of pregnancy; women with HIV were offered intrapartum and neonatal single-dose nevirapine for prevention of mother-to-child (vertical) HIV transmission.22</text>
+    </sentence>
+    <sentence charOffset="9810-9966" id="S64" selection="5,6a">
+        <text xml:space="preserve">Stool samples were obtained after delivery to assess effectiveness of anthelmintic treatment; thereafter, all mothers received praziquantel and albendazole.</text>
+    </sentence>
+    <sentence charOffset="9967-10174" id="S65" selection="5">
+        <text xml:space="preserve">Infants received BCG and polio immunisation at birth; diphtheria, pertussis, tetanus, Haemophilus influenzae, hepatitis B, and polio immunisation at 6, 10, and 14 weeks; and measles immunisation at 9 months.</text>
+    </sentence>
+    <sentence charOffset="10175-10285" id="S66" selection="">
+        <text xml:space="preserve">Children also attended the study clinic when unwell; doctors diagnosed, treated, and recorded their illnesses.</text>
+    </sentence>
+    <sentence charOffset="10286-10442" id="S67" selection="6a">
+        <text xml:space="preserve">Community fieldworkers visited each participant's home twice a month, measured the child's temperature, and recorded symptoms reported by the child's carer.</text>
+    </sentence>
+    <sentence charOffset="10443-10551" id="S68" selection="6a">
+        <text xml:space="preserve">At age 12 months, blood and stool samples were obtained from the children and growth outcomes were measured.</text>
+    </sentence>
+    <sentence charOffset="10552-10697" id="S69" selection="6a">
+        <text xml:space="preserve">Children who were unwell at their 12-month visit were given appropriate treatment and asked to return to complete the visit procedures when well.</text>
+    </sentence>
+    <sentence charOffset="10706-10967" id="S70" selection="6a">
+        <text xml:space="preserve">The primary outcomes were immune response at age 1 year to BCG, tetanus, and measles immunisation; incidence of malaria, diarrhoea, pneumonia, measles, and tuberculosis during infancy as diagnosed by doctors at the study clinic; and vertical HIV transmission.18</text>
+    </sentence>
+    <sentence charOffset="10968-11033" id="S71" selection="6a">
+        <text xml:space="preserve">Planned secondary outcomes were growth and anaemia at age 1 year.</text>
+    </sentence>
+    <sentence charOffset="11034-11185" id="S72" selection="6a">
+        <text xml:space="preserve">Community-reported data for illness events were included as a secondary outcome for comparison with doctor-diagnosed illness events from clinic visits.</text>
+    </sentence>
+    <sentence charOffset="11186-11344" id="S73" selection="6a">
+        <text xml:space="preserve">We also considered two additional unplanned secondary outcomes: infant mortality and asymptomatic malaria (presence of malaria parasitaemia) at 1 year of age.</text>
+    </sentence>
+    <sentence charOffset="11353-11523" id="S74" selection="6a">
+        <text xml:space="preserve">Cytokine responses at 1 year of age to crude culture filtrate proteins of Mycobacterium tuberculosis (cCFP) were measured as an indicator of response to BCG immunisation.</text>
+    </sentence>
+    <sentence charOffset="11524-11641" id="S75" selection="6a">
+        <text xml:space="preserve">Cytokine responses at age 1 year to tetanus toxoid were measured as an indicator of response to tetanus immunisation.</text>
+    </sentence>
+    <sentence charOffset="11642-11829" id="S76" selection="6a">
+        <text xml:space="preserve">We examined stimulated interferon-γ (type 1), interleukin-5 (type 2), interleukin-13 (type 2), and interleukin-10 (regulatory) responses in a whole-blood assay, as previously described.23</text>
+    </sentence>
+    <sentence charOffset="11830-11930" id="S77" selection="6a">
+        <text xml:space="preserve">Total serum IgG, IgG4, and IgE responses to tetanus toxoid were measured by ELISA (webappendix p 1).</text>
+    </sentence>
+    <sentence charOffset="11939-12077" id="S78" selection="6a">
+        <text xml:space="preserve">Total serum measles-specific IgG was measured by ELISA (Dade Behring/Siemens, Eschborn, Germany) according to the manufacturer's protocol.</text>
+    </sentence>
+    <sentence charOffset="12078-12304" id="S79" selection="6a">
+        <text xml:space="preserve">Immunological assays were done after all samples had been obtained, in a randomised sequence (by use of a computer-generated random number sequence), to avoid confounding of secular trends with variations in assay performance.</text>
+    </sentence>
+    <sentence charOffset="12313-12791" id="S80" selection="6a">
+        <text xml:space="preserve">For the primary outcome, doctor-diagnosed illness events, clinical malaria was fever (temperature ≥37·5°C) with parasitaemia; diarrhoea was an infant's carer's definition, with stool frequency recorded;24 pneumonia was cough with difficulty in breathing, and age-specific fast breathing;25 measles was defined by standard clinical criteria and confirmed by measurement of specific antibody;26 and children with suspected tuberculosis were investigated as clinically indicated.27</text>
+    </sentence>
+    <sentence charOffset="12792-13152" id="S81" selection="6a">
+        <text xml:space="preserve">For the secondary outcome, community-reported illnesses, febrile illness was defined as measured by fieldworkers (temperature ≥37·5°C) or as reported by the child's carer; diarrhoea as reported by the carer, with stool frequency recorded; presumptive pneumonia was cough with difficulty in breathing, or age-specific fast breathing as measured by fieldworkers.</text>
+    </sentence>
+    <sentence charOffset="13161-13458" id="S82" selection="6a">
+        <text xml:space="preserve">Stool samples were examined for helminth ova with the Kato-Katz method28 and by charcoal culture for Strongyloides sterocoralis infection;29 two Kato-Katz slides were prepared from each sample and examined for hookworm ova within 30 mins of preparation, or examined the next day for other species.</text>
+    </sentence>
+    <sentence charOffset="13459-13588" id="S83" selection="6a">
+        <text xml:space="preserve">Hookworm and Schistosoma mansoni infections were classified into low, medium, and high intensities according to WHO guidelines.30</text>
+    </sentence>
+    <sentence charOffset="13589-13712" id="S84" selection="6a">
+        <text xml:space="preserve">Blood samples were examined by a modified Knott's method for Mansonella perstans31 and by thick film for malaria parasites.</text>
+    </sentence>
+    <sentence charOffset="13713-13796" id="S85" selection="6a">
+        <text xml:space="preserve">Haemoglobin was estimated by Coulter analyser (Beckman Coulter, Nyon, Switzerland).</text>
+    </sentence>
+    <sentence charOffset="13797-14021" id="S86" selection="6a">
+        <text xml:space="preserve">Quality control for Kato-Katz analyses was provided by the Vector Control Programme of the Ministry of Health, Uganda, and for haematology and malaria parasitology through the UK National External Quality Assessment Schemes.</text>
+    </sentence>
+    <sentence charOffset="14030-14087" id="S87" selection="6a">
+        <text xml:space="preserve">Mothers' HIV serology was done by rapid test algorithm.30</text>
+    </sentence>
+    <sentence charOffset="14088-14216" id="S88" selection="6a">
+        <text xml:space="preserve">Blood was obtained from cord and at 6 weeks of age from infants of mothers with HIV for assessment of vertical HIV transmission.</text>
+    </sentence>
+    <sentence charOffset="14217-14328" id="S89" selection="6a">
+        <text xml:space="preserve">Plasma and whole blood cell pellet were separated by centrifugation and stored at −80°C until assays were done.</text>
+    </sentence>
+    <sentence charOffset="14329-14542" id="S90" selection="6a">
+        <text xml:space="preserve">For detection of HIV-1 proviral DNA in infants at 6 weeks, DNA was extracted from stored whole blood cell pellets and amplified by nested PCR of three conserved viral regions, tat, gp41, and nef (webappendix p 1).</text>
+    </sentence>
+    <sentence charOffset="14543-14755" id="S91" selection="6a">
+        <text xml:space="preserve">For both cord and 6-week samples, plasma HIV load was measured with Bayer Versant branched DNA assay version 3.0 (Bayer, Leverkusen, Germany) or Roche Amplicor HIV-1 RNA Monitor test version 1.5 (Roche, NJ, USA).</text>
+    </sentence>
+    <sentence charOffset="14764-15026" id="S92" selection="6a">
+        <text xml:space="preserve">Infants were regarded as being HIV positive if the 6-week sample had a positive DNA PCR for any of the viral regions and a viral load of 1000 copies per mL or more; for four infants, only viral load data were available, so they were used to establish HIV status.</text>
+    </sentence>
+    <sentence charOffset="15027-15239" id="S93" selection="">
+        <text xml:space="preserve">Viral load and DNA-PCR results were concordant apart from one infant (viral load 6699 copies per mL, PCR negative) who was seronegative by rapid test algorithm at age 18 months and was classified as HIV negative.</text>
+    </sentence>
+    <sentence charOffset="15240-15396" id="S94" selection="6a">
+        <text xml:space="preserve">In infants with HIV infection, transmission was regarded as likely to have been intrauterine if the viral load in cord blood was 1000 copies per mL or more.</text>
+    </sentence>
+    <sentence charOffset="15419-15439" id="S95" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="15448-15511" id="S96" selection="">
+        <text xml:space="preserve">Analysis was done after all children were older than 15 months.</text>
+    </sentence>
+    <sentence charOffset="15512-15660" id="S97" selection="">
+        <text xml:space="preserve">Data for samples and measurements obtained at routine, 1-year visits were included if the child attended within 2 months after their first birthday.</text>
+    </sentence>
+    <sentence charOffset="15661-15732" id="S98" selection="">
+        <text xml:space="preserve">Data for illness events and mortality were censored strictly at 1 year.</text>
+    </sentence>
+    <sentence charOffset="15733-15791" id="S99" selection="">
+        <text xml:space="preserve">Results for younger twins were excluded from all analyses.</text>
+    </sentence>
+    <sentence charOffset="15800-15994" id="S100" selection="7a">
+        <text xml:space="preserve">On the basis of our preliminary study,32 the planned cohort size of 2500 was expected to accrue 1860 person-years of follow-up in infancy and 1594 infants were expected to be seen at age 1 year.</text>
+    </sentence>
+    <sentence charOffset="15995-16406" id="S101" selection="7a">
+        <text xml:space="preserve">For either maternal treatment, assuming no interaction between treatments, this number would give 80% power to detect rate ratios of 0·82 for malaria, 0·91 for diarrhoea, and 0·76 for pneumonia, with p values of less than 0·05, assuming frequency of disease in the placebo groups to be 50 per 100 person-years for malaria,33 190 per 100 person-years for diarrhoea,34 and 25 per 100 person-years for pneumonia.35</text>
+    </sentence>
+    <sentence charOffset="16407-16545" id="S102" selection="">
+        <text xml:space="preserve">Incidence of both tuberculosis and measles was expected to be low,18 therefore only very large differences in incidence would be detected.</text>
+    </sentence>
+    <sentence charOffset="16546-16692" id="S103" selection="">
+        <text xml:space="preserve">Samples from 1594 infants assessed at 1 year would detect differences in infant cytokine responses of 0·11 log10 between intervention groups.18,32</text>
+    </sentence>
+    <sentence charOffset="16701-16849" id="S104" selection="">
+        <text xml:space="preserve">The patients that were included in analysis for each of the primary outcomes differed because data for each outcome was obtained at different times.</text>
+    </sentence>
+    <sentence charOffset="16850-17111" id="S105" selection="">
+        <text xml:space="preserve">For immune response at age 1 year, analysis included all children who provided a blood sample at 1 year and who had received full BCG (for cCFP analysis) or tetanus (for tetanus toxoid analysis) immunisation at Entebbe Hospital; second-born twins were excluded.</text>
+    </sentence>
+    <sentence charOffset="17112-17234" id="S106" selection="">
+        <text xml:space="preserve">For incidence of infectious diseases during infancy, analysis included all liveborn children, excluding second-born twins.</text>
+    </sentence>
+    <sentence charOffset="17235-17459" id="S107" selection="">
+        <text xml:space="preserve">For vertical HIV transmission, analysis included all children whose mothers were not receiving highly-active antiretroviral therapy, and from whom blood samples at age 6 weeks were available; second-born twins were excluded.</text>
+    </sentence>
+    <sentence charOffset="17468-17574" id="S108" selection="">
+        <text xml:space="preserve">Cytokine and antibody responses showed skewed distributions, with disproportionate numbers of zero values.</text>
+    </sentence>
+    <sentence charOffset="17575-17741" id="S109" selection="12a">
+        <text xml:space="preserve">Results were transformed to log10(concentration+1) and analysed by linear regression with bootstrapping to estimate bias-corrected accelerated confidence intervals.36</text>
+    </sentence>
+    <sentence charOffset="17742-17818" id="S110" selection="12a">
+        <text xml:space="preserve">Regression coefficients were back-transformed to give geometric mean ratios.</text>
+    </sentence>
+    <sentence charOffset="17819-17862" id="S111" selection="12a">
+        <text xml:space="preserve">Interactions were examined with Wald tests.</text>
+    </sentence>
+    <sentence charOffset="17871-17999" id="S112" selection="">
+        <text xml:space="preserve">For doctor-diagnosed disease incidence, time at risk began at birth and was censored at loss to follow-up, death, or age 1 year.</text>
+    </sentence>
+    <sentence charOffset="18000-18150" id="S113" selection="">
+        <text xml:space="preserve">All children with known date of birth were included in the analysis until censoring, irrespective of whether they had made a clinic visit for illness.</text>
+    </sentence>
+    <sentence charOffset="18151-18214" id="S114" selection="12a">
+        <text xml:space="preserve">For each disease, we calculated incidence rates for all events.</text>
+    </sentence>
+    <sentence charOffset="18215-18479" id="S115" selection="">
+        <text xml:space="preserve">Disease episodes within 14 days of an initial presentation with the same disease were regarded as part of the same episode and excluded from the analysis; time at risk was adjusted accordingly, excluding these 14-day periods from the total person-time denominator.</text>
+    </sentence>
+    <sentence charOffset="18480-18615" id="S116" selection="12a">
+        <text xml:space="preserve">Hazard ratios (HRs) for effects of treatment were calculated with Cox regression, with robust SEs to allow for within-child clustering.</text>
+    </sentence>
+    <sentence charOffset="18616-18803" id="S117" selection="12a">
+        <text xml:space="preserve">For community-reported illness data, a generalised-estimating-equation approach with exchangeable correlation structure was used to model effects of treatment on repeated binary outcomes.</text>
+    </sentence>
+    <sentence charOffset="18804-18921" id="S118" selection="12a">
+        <text xml:space="preserve">Odds ratios (ORs) for the effects of treatment on vertical HIV transmission were calculated with logistic regression.</text>
+    </sentence>
+    <sentence charOffset="18930-19042" id="S119" selection="12a">
+        <text xml:space="preserve">The prevalence of asymptomatic malaria at 1 year was compared between treatment groups with logistic regression.</text>
+    </sentence>
+    <sentence charOffset="19043-19229" id="S120" selection="12a">
+        <text xml:space="preserve">Infant mortality per 1000 livebirths was estimated from Kaplan-Meier survival probabilities to age 1 year, and effects of maternal anthelmintic treatment were assessed by Cox regression.</text>
+    </sentence>
+    <sentence charOffset="19230-19379" id="S121" selection="12a">
+        <text xml:space="preserve">Weight-for-age, height-for-age, and weight-for-height Z scores at 1 year were derived from WHO growth standard reference scales, with igrowup macros.</text>
+    </sentence>
+    <sentence charOffset="19380-19484" id="S122" selection="12a">
+        <text xml:space="preserve">We examined effects of maternal treatment on Z scores and on haemoglobin at 1 year by linear regression.</text>
+    </sentence>
+    <sentence charOffset="19493-19711" id="S123" selection="12b">
+        <text xml:space="preserve">We did two prespecified subgroup analyses, examining effects of albendazole treatment in children of mothers with a hookworm infection, and effects of praziquantel treatment in children of mothers with schistosomiasis.</text>
+    </sentence>
+    <sentence charOffset="19712-19806" id="S124" selection="12b">
+        <text xml:space="preserve">Differences between subgroups were examined by fitting interaction terms in regression models.</text>
+    </sentence>
+    <sentence charOffset="19807-19884" id="S125" selection="12a,12b">
+        <text xml:space="preserve">All p values were two-sided with no adjustment made for multiple comparisons.</text>
+    </sentence>
+    <sentence charOffset="19885-19920" id="S126" selection="12a">
+        <text xml:space="preserve">Analyses were done with Stata 10.1.</text>
+    </sentence>
+    <sentence charOffset="19943-19969" id="S127" selection="">
+        <text xml:space="preserve">Role of the funding source</text>
+    </sentence>
+    <sentence charOffset="19978-20110" id="S128" selection="">
+        <text xml:space="preserve">The sponsor of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.</text>
+    </sentence>
+    <sentence charOffset="20111-20232" id="S129" selection="">
+        <text xml:space="preserve">AME had full access to all the data in the study and had final responsibility for the decision to submit for publication.</text>
+    </sentence>
+    <sentence charOffset="20256-20263" id="S130">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="20270-20290" id="S131" selection="13a,13b,16">
+        <text xml:space="preserve">Figure Trial profile</text>
+    </sentence>
+    <sentence charOffset="20291-20323" id="S132" selection="15">
+        <text xml:space="preserve">Table 1 Baseline characteristics</text>
+    </sentence>
+    <sentence charOffset="20324-20359" id="S133" selection="13a">
+        <text xml:space="preserve">The figure shows the trial profile.</text>
+    </sentence>
+    <sentence charOffset="20360-20540" id="S134" selection="13a">
+        <text xml:space="preserve">2507 women were randomly assigned to treatment groups, 1309 (52%) of whom were in the second trimester of pregnancy and 1195 (48%) of whom were in the third trimester of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="20541-20646" id="S135" selection="">
+        <text xml:space="preserve">The median length of time between receiving the study intervention and delivery was 87 days (IQR 54–118).</text>
+    </sentence>
+    <sentence charOffset="20647-20852" id="S136" selection="13b,16">
+        <text xml:space="preserve">Data were available for 2356 women (94%) at delivery and there were 2345 livebirths; results for 30 liveborn younger twins or triplets were excluded, which left data for follow-up of 2315 liveborn infants.</text>
+    </sentence>
+    <sentence charOffset="20853-20967" id="S137" selection="16">
+        <text xml:space="preserve">Of these infants, 2092 (90%) remained in follow-up at 1 year of age, of whom 1701 (81%) attended the 1-year visit.</text>
+    </sentence>
+    <sentence charOffset="20968-21053" id="S138" selection="15">
+        <text xml:space="preserve">Baseline characteristics of mothers were similar between the four groups (table 1).37</text>
+    </sentence>
+    <sentence charOffset="21054-21329" id="S139" selection="15">
+        <text xml:space="preserve">Mothers of children who did not contribute to follow-up were, on average, younger, more likely to be pregnant for the first time, have malaria or HIV infection, and have enrolled earlier during pregnancy than mothers of children who contributed to follow up (data not shown).</text>
+    </sentence>
+    <sentence charOffset="21330-21573" id="S140" selection="15">
+        <text xml:space="preserve">Mothers of children who provided samples at 1 year of age were of higher socioeconomic status and less likely to reside in remote parts of the study area than were mothers of children who did not provide samples at age 1 year (data not shown).</text>
+    </sentence>
+    <sentence charOffset="21580-21663" id="S141" selection="15">
+        <text xml:space="preserve">At enrolment, 1693 (68%) of women were infected with at least one helminth species.</text>
+    </sentence>
+    <sentence charOffset="21664-21825" id="S142" selection="15">
+        <text xml:space="preserve">Individual prevalences of each species were: hookworm 45%, M perstans 21%, S mansoni 18%, S stercoralis 12%, Trichuris trichiura 9%, and Ascaris lumbricoides 2%.</text>
+    </sentence>
+    <sentence charOffset="21826-21954" id="S143" selection="15">
+        <text xml:space="preserve">Infections were generally mild, with 942 (85%) of hookworm infections and 297 (65%) of S mansoni infections classified as light.</text>
+    </sentence>
+    <sentence charOffset="21955-22304" id="S144" selection="">
+        <text xml:space="preserve">Subgroups of 648 mothers who received albendazole-matching placebo and 658 mothers who received praziquantel-matching placebo had three stool samples examined before being treated 6 weeks after delivery; in these women, the sensitivity of one stool sample compared with three stool samples was 89% for hookworm infection and 66% for schistosomiasis.</text>
+    </sentence>
+    <sentence charOffset="22305-22554" id="S145" selection="">
+        <text xml:space="preserve">1957 mothers (78%) received at least one documented dose of tetanus immunisation during pregnancy; 1447 (74%) received all documented tetanus immunisations before the anthelmintic treatment intervention (median 4 days [IQR 3–7] before intervention).</text>
+    </sentence>
+    <sentence charOffset="22561-22790" id="S146" selection="17a">
+        <text xml:space="preserve">We noted no evidence of interaction between maternal albendazole and praziquantel treatments for any outcome (all interaction p values&gt;0·1; webappendix pp 3–4); therefore the effects of each treatment were assessed independently.</text>
+    </sentence>
+    <sentence charOffset="22791-23023" id="S147" selection="16">
+        <text xml:space="preserve">Results for cytokine responses at age 1 year were available for 1542 infants, of whom 1506 had received BCG immunisation at birth at Entebbe Hospital and 1015 had received all three doses of tetanus immunisation at Entebbe Hospital.</text>
+    </sentence>
+    <sentence charOffset="23024-23368" id="S148" selection="17a">
+        <text xml:space="preserve">The proportion of infants for whom positive responses to cCFP and tetanus toxoid were detected varied by cytokine; for cCFP, 1356 (90%) infants had positive responses to interferon-γ, 449 (30%) had positive responses to interleukin 5, 1005 (67%) had positive responses to interleukin 13, and 1316 (87%) had positive responses to interleukin-10.</text>
+    </sentence>
+    <sentence charOffset="23369-23605" id="S149" selection="17a">
+        <text xml:space="preserve">For tetanus toxoid, 655 (65%) infants had positive responses to interferon-γ, 499 (49%) had positive responses to interleukin 5, 766 (75%) had positive responses to interleukin 13, and 498 (49%) had positive responses to interleukin 10.</text>
+    </sentence>
+    <sentence charOffset="23612-23789" id="S150" selection="17a">
+        <text xml:space="preserve">Albendazole treatment of mothers was associated with a small reduction in unstimulated interleukin-10 production by their children (geometric mean ratio 0·83, 95% CI 0·70–0·98).</text>
+    </sentence>
+    <sentence charOffset="23790-23885" id="S151" selection="17a">
+        <text xml:space="preserve">We recorded no other overall effects of maternal treatment on unstimulated cytokine production.</text>
+    </sentence>
+    <sentence charOffset="23886-24035" id="S152" selection="17a">
+        <text xml:space="preserve">Results for effects on responses to stimulation were similar, irrespective of whether background cytokine production was subtracted (data not shown).</text>
+    </sentence>
+    <sentence charOffset="24042-24166" id="S153" selection="17a">
+        <text xml:space="preserve">Table 2 Effects of maternal anthelmintic treatment in pregnancy on infant response to BCG, tetanus, and measles immunisation</text>
+    </sentence>
+    <sentence charOffset="24167-24309" id="S154" selection="17a">
+        <text xml:space="preserve">Table 3 Effect of maternal anthelmintic treatment on response to BCG, tetanus, and measles immunisation, by maternal helminth infection status</text>
+    </sentence>
+    <sentence charOffset="24310-24452" id="S155" selection="17a">
+        <text xml:space="preserve">We detected no effects of either albendazole or praziquantel treatments on the overall antigen-specific response after immunisation (table 2).</text>
+    </sentence>
+    <sentence charOffset="24453-24757" id="S156" selection="17a">
+        <text xml:space="preserve">However, in infants of mothers with a hookworm infection, maternal albendazole treatment was associated with a small non-significant reduction in the interferon-γ response to cCFP and with reductions in their response to tetanus toxoid for the type 2 cytokines interleukin 5 and interleukin 13 (table 3).</text>
+    </sentence>
+    <sentence charOffset="24758-24871" id="S157" selection="17a">
+        <text xml:space="preserve">We recorded no significant effect of praziquantel treatment in infants of mothers with schistosomiasis (table 3).</text>
+    </sentence>
+    <sentence charOffset="24878-25156" id="S158" selection="17a">
+        <text xml:space="preserve">We recorded no overall effects for either albendazole or praziquantel treatments on antibody concentrations for tetanus or measles (table 2), nor did we detect differential effects for either albendazole or praziquantel treatment according to susceptible worm species (table 3).</text>
+    </sentence>
+    <sentence charOffset="25163-25267" id="S159" selection="17a">
+        <text xml:space="preserve">Of the 2315 liveborn children, 2083 (90%) made at least one illness-related clinic visit during infancy.</text>
+    </sentence>
+    <sentence charOffset="25268-25369" id="S160" selection="17a">
+        <text xml:space="preserve">The number of illness visits by children in all four treatment groups were similar (webappendix p 4).</text>
+    </sentence>
+    <sentence charOffset="25370-25584" id="S161" selection="17a">
+        <text xml:space="preserve">During the study period, the rate of malaria was 41 episodes per 100 person-years (95% CI 38–44), of diarrhoea 134 episodes per 100 person-years (129–139), and of pneumonia 22 episodes per 100 person-years (20–24).</text>
+    </sentence>
+    <sentence charOffset="25585-25736" id="S162" selection="17a">
+        <text xml:space="preserve">Measles and tuberculosis were rare, with two episodes of each, so we could not assess the effect of maternal anthelmintic treatment on their frequency.</text>
+    </sentence>
+    <sentence charOffset="25743-25867" id="S163" selection="17a">
+        <text xml:space="preserve">Table 4 Effects of maternal anthelmintic treatment in pregnancy on incidence of malaria, diarrhoea, and pneumonia in infancy</text>
+    </sentence>
+    <sentence charOffset="25868-25980" id="S164" selection="17a">
+        <text xml:space="preserve">Table 5 Effect of maternal anthelmintic treatment in pregnancy on disease incidence, by maternal helminth status</text>
+    </sentence>
+    <sentence charOffset="25981-26136" id="S165" selection="17a">
+        <text xml:space="preserve">We noted no evidence for effects of either albendazole or praziquantel treatments on doctor-diagnosed malaria, diarrhoea, or pneumonia incidence (table 4).</text>
+    </sentence>
+    <sentence charOffset="26137-26325" id="S166" selection="18">
+        <text xml:space="preserve">Subgroup analyses by maternal hookworm and schistosomiasis infection status showed no evidence of a differential effect of either treatment according to susceptible worm species (table 5).</text>
+    </sentence>
+    <sentence charOffset="26332-26481" id="S167" selection="13b">
+        <text xml:space="preserve">299 women tested positive for HIV at enrolment; of these, 16 were lost to follow-up before delivery, five had miscarriages, and nine had stillbirths.</text>
+    </sentence>
+    <sentence charOffset="26482-26659" id="S168" selection="13b">
+        <text xml:space="preserve">Five women were on highly-active antiretroviral therapy; their children, and seven second-born twins were excluded from the analysis, leaving 264 infants suitable for inclusion.</text>
+    </sentence>
+    <sentence charOffset="26660-26771" id="S169" selection="17b">
+        <text xml:space="preserve">6-week blood samples were available from 211 infants (80%), of whom 39 (18%) were diagnosed with HIV infection.</text>
+    </sentence>
+    <sentence charOffset="26772-26963" id="S170" selection="17a">
+        <text xml:space="preserve">Of infants with HIV infection, 31 had cord samples available, of which 20 (65%) showed an HIV viral load of 1000 copies per mL or more, which is consistent with intrauterine HIV transmission.</text>
+    </sentence>
+    <sentence charOffset="26964-27262" id="S171" selection="17a">
+        <text xml:space="preserve">We recorded no evidence for any effect of either albendazole (OR 0·70, 95% CI 0·35–1·42; p=0·33) or praziquantel (0·60, 0·29–1·23; p=0·17) treatment on vertical HIV transmission, although statistical power was restricted because the study was only powered to detect a large effect for this outcome.</text>
+    </sentence>
+    <sentence charOffset="27263-27564" id="S172" selection="17a">
+        <text xml:space="preserve">No evidence was noted for any differential effect of treatment according to susceptible worm species; ORs for the effect of albendazole treatment on HIV transmission were 0·77 (0·25–2·40) in mothers with hookworm infection and 0·66 (0·27–1·60) in those without hookworm infection (interaction p=0·83).</text>
+    </sentence>
+    <sentence charOffset="27565-27736" id="S173" selection="17a">
+        <text xml:space="preserve">We recorded similar results for praziquantel (OR 0·75, 0·18–3·14, for mothers with schistosomiasis; 0·56, 0·24–1·29 for those without schistosomiasis; interaction p=0·73).</text>
+    </sentence>
+    <sentence charOffset="27743-27977" id="S174" selection="17a">
+        <text xml:space="preserve">For the secondary outcome of community-reported illness data, the overall recorded prevalences of each illness collated every 14 days throughout infancy was 13% for febrile illness, 12% for diarrhoea, and 1% for presumptive pneumonia.</text>
+    </sentence>
+    <sentence charOffset="27978-28327" id="S175" selection="17a">
+        <text xml:space="preserve">These data were consistent with doctor-diagnosed outcomes and showed no effects of treatment with albendazole or praziquantel on febrile illnesses (OR 1·07, 95% CI 0·97–1·18, p=0·18; and 1·03, 0·93–1·13, 0·58), diarrhoea (1·08, 0·98–1·20, 0·13; and 0·93, 0·84–1·03, 0·18), or presumptive pneumonia (0·92, 0·65–1·31, 0·66; and 0·91, 0·64–1·30, 0·62).</text>
+    </sentence>
+    <sentence charOffset="28328-28445" id="S176" selection="17a">
+        <text xml:space="preserve">The prevalence of asymptomatic malaria parasitaemia at 1 year was similar between treatment groups (webappendix p 5).</text>
+    </sentence>
+    <sentence charOffset="28452-28658" id="S177" selection="17a">
+        <text xml:space="preserve">81 infants in the cohort died, 44 of whom were neonates, giving a neonatal mortality rate of 19·0 per 1000 livebirths (95% CI 14·2–25·5) and an infant mortality rate of 35·7 per 1000 livebirths (28·8–44·2).</text>
+    </sentence>
+    <sentence charOffset="28659-28747" id="S178" selection="17a">
+        <text xml:space="preserve">Maternal anthelmintic treatment had no pronounced effect on mortality (webappendix p 5).</text>
+    </sentence>
+    <sentence charOffset="28748-28889" id="S179" selection="">
+        <text xml:space="preserve">Height-for-age and weight-for-age Z scores were low compared with the WHO standards; however, the weight-for-height distribution was similar.</text>
+    </sentence>
+    <sentence charOffset="28890-28951" id="S180" selection="17a">
+        <text xml:space="preserve">Mean haemoglobin score at age 1 year was 102 g/L (SD 14 g/L).</text>
+    </sentence>
+    <sentence charOffset="28952-29194" id="S181" selection="17a">
+        <text xml:space="preserve">We noted no evidence for any difference in mean growth indices or mean haemoglobin between children of albendazole-treated and placebo-treated mothers, or between children of praziquantel-treated and placebo-treated mothers (webappendix p 5).</text>
+    </sentence>
+    <sentence charOffset="29195-29307" id="S182" selection="19">
+        <text xml:space="preserve">Numbers of serious adverse events are reported elsewhere19 and were distributed evenly between treatment groups.</text>
+    </sentence>
+    <sentence charOffset="29324-29334" id="S183">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="29341-29705" id="S184" selection="">
+        <text xml:space="preserve">In this randomised, placebo-controlled trial, we have shown that maternal anthelmintic treatment during pregnancy can have a small effect on an infant's response to tetanus immunisation, but has no effects, either beneficial or detrimental, on the occurrence of infectious diseases during infancy, infant mortality, or growth and anaemia outcomes at 1 year of age.</text>
+    </sentence>
+    <sentence charOffset="29706-29873" id="S185" selection="22">
+        <text xml:space="preserve">One dose of albendazole was effective for the treatment of hookworm and A lumbricoides infections, and praziquantel was effective for the treatment of schistosomiasis.</text>
+    </sentence>
+    <sentence charOffset="29874-30141" id="S186" selection="">
+        <text xml:space="preserve">At delivery, the prevalence of hookworm infections had decreased to 5% in the albendazole group, and remained at 45% in the placebo group; the prevalence of S mansoni infection had decreased to 5% in the praziquantel group, and remained at 21% in the placebo group.37</text>
+    </sentence>
+    <sentence charOffset="30142-30253" id="S187" selection="22">
+        <text xml:space="preserve">Thus we would have expected to see any noticeable effects of the removal of these maternal helminth infections.</text>
+    </sentence>
+    <sentence charOffset="30254-30426" id="S188" selection="20">
+        <text xml:space="preserve">A possible source of imprecision is that the Kato-Katz method has suboptimum sensitivity for diagnosis of intestinal helminth infections when one stool sample is used.38,39</text>
+    </sentence>
+    <sentence charOffset="30427-30593" id="S189" selection="22">
+        <text xml:space="preserve">In this study, the sensitivity for detecting both hookworm infection and schistosomiasis was greater when three stool samples were taken than when only one was taken.</text>
+    </sentence>
+    <sentence charOffset="30594-30710" id="S190" selection="">
+        <text xml:space="preserve">As expected, one dose of albendazole was not effective for treatment of S stercoralis, T trichiura, or M perstans.37</text>
+    </sentence>
+    <sentence charOffset="30717-30887" id="S191" selection="">
+        <text xml:space="preserve">Albendazole treatment in pregnancy was associated with reduced interleukin-5 and interleukin-13 responses to tetanus toxoid in infants of mothers with hookworm infection.</text>
+    </sentence>
+    <sentence charOffset="30888-31218" id="S192" selection="22">
+        <text xml:space="preserve">These results should be interpreted with caution because of the large number of statistical tests done, but they accord with earlier findings40,41 on effects of helminths on type-2 responses to tetanus immunisation in adults; by contrast with these previous studies,40,41 we recorded no reciprocal effect on interferon-γ response.</text>
+    </sentence>
+    <sentence charOffset="31219-31437" id="S193" selection="22">
+        <text xml:space="preserve">Such responses will probably not change the effectiveness of tetanus immunisation, because this immunisation depends on the production of toxin-neutralising IgG antibodies, which was not affected by maternal treatment.</text>
+    </sentence>
+    <sentence charOffset="31438-31645" id="S194" selection="22">
+        <text xml:space="preserve">However, the patterns recorded lend support to the hypothesis that maternal helminths promote a type-2 bias in an infant's response to unrelated antigens and that anthelmintic treatment modifies this effect.</text>
+    </sentence>
+    <sentence charOffset="31646-31739" id="S195" selection="22">
+        <text xml:space="preserve">These findings suggest that the effect of anthelmintic treatment can be transmitted in utero.</text>
+    </sentence>
+    <sentence charOffset="31746-31836" id="S196" selection="22">
+        <text xml:space="preserve">Neither intervention showed any overall effect on response to BCG immunisation in infants.</text>
+    </sentence>
+    <sentence charOffset="31837-31992" id="S197" selection="">
+        <text xml:space="preserve">Our preliminary study32 had suggested an unexpected positive association between maternal hookworm infection and interferon-γ responses to cCFP in infants.</text>
+    </sentence>
+    <sentence charOffset="31993-32238" id="S198" selection="22">
+        <text xml:space="preserve">In the present, larger study, interferon-γ responses were higher in infants of mothers with hookworm infection, and albendazole treatment was associated with a weak reduction in interferon-γ responses in infants of women with hookworm infection.</text>
+    </sentence>
+    <sentence charOffset="32239-32412" id="S199" selection="22">
+        <text xml:space="preserve">These findings contrast with our initial hypothesis that maternal hookworm infection would inhibit the Th1 response and that albendazole treatment would reverse this effect.</text>
+    </sentence>
+    <sentence charOffset="32413-32697" id="S200" selection="22">
+        <text xml:space="preserve">The absence of effect of praziquantel treatment was also unexpected, in view of Malhotra and colleagues' finding17 that infants who are sensitised to schistosome or filarial antigens in utero had reduced interferon-γ and increased interleukin-5 responses to neonatal BCG immunisation.</text>
+    </sentence>
+    <sentence charOffset="32698-32891" id="S201" selection="">
+        <text xml:space="preserve">However, all infants in Malhotra and colleagues' study were exposed to maternal helminth infections, and comparisons were made between those not sensitised or sensitised to helminth antigens.17</text>
+    </sentence>
+    <sentence charOffset="32892-33132" id="S202" selection="22">
+        <text xml:space="preserve">The idea that single-dose praziquantel treatment completely removes the likelihood of fetal sensitisation to schistosome antigens might be too simplistic, because worm and egg antigens can take some time to be cleared from maternal tissues.</text>
+    </sentence>
+    <sentence charOffset="33133-33397" id="S203" selection="22">
+        <text xml:space="preserve">Moreover, the killing of adult schistosomes results in release of worm antigen into the circulation and might have complex effects on the fetus, dependent on placental transfer of antigens or antibodies and the stage of development of the fetal immune system.41,42</text>
+    </sentence>
+    <sentence charOffset="33404-33537" id="S204" selection="22">
+        <text xml:space="preserve">The recorded effects on an infant's response to tetanus immunisation contrasted with the absence of effects seen for measles and BCG.</text>
+    </sentence>
+    <sentence charOffset="33538-33910" id="S205" selection="22">
+        <text xml:space="preserve">A possible explanation is that tetanus immunisation given to women during pregnancy could have led to the priming of an infant's antitetanus response in utero,42 and the profile of the primed response could have been affected by concomitant exposure to a maternal helminth infection, which depended on whether or not an infant's mother received treatment with albendazole.</text>
+    </sentence>
+    <sentence charOffset="33917-34152" id="S206" selection="">
+        <text xml:space="preserve">In keeping with the broad absence of effect of maternal anthelmintic treatment on an infant's response to vaccination, we recorded no effect of either treatment for the co-primary outcome of infectious disease incidence during infancy.</text>
+    </sentence>
+    <sentence charOffset="34153-34322" id="S207" selection="20">
+        <text xml:space="preserve">A possible source of imprecision is that data for doctor-diagnosed disease incidence were obtained passively, and therefore rates are likely to have been underestimated.</text>
+    </sentence>
+    <sentence charOffset="34323-34535" id="S208" selection="22">
+        <text xml:space="preserve">However, 90% of infants attended the clinic for illness at least once, and underestimation would be non-differential between treatment groups; therefore this imprecision is unlikely to have affected our findings.</text>
+    </sentence>
+    <sentence charOffset="34536-34791" id="S209" selection="22">
+        <text xml:space="preserve">Moreover, results from community-reported illness events (which are less likely to be under-reported), and malaria parasitaemia at 1 year of age (which is independent of reporting biases) were both consistent with the recorded absence of treatment effect.</text>
+    </sentence>
+    <sentence charOffset="34792-34938" id="S210" selection="20">
+        <text xml:space="preserve">We also detected no evidence that anthelmintic treatment affected vertical transmission of HIV, although power to detect an effect was restricted.</text>
+    </sentence>
+    <sentence charOffset="34945-35224" id="S211" selection="">
+        <text xml:space="preserve">The only other study43 to investigate the relation between anthelmintic treatment during pregnancy and post-neonatal outcomes, undertaken in Nepal, showed that treatment with albendazole during pregnancy was associated with a pronounced reduction in infant mortality at 6 months.</text>
+    </sentence>
+    <sentence charOffset="35225-35361" id="S212" selection="22">
+        <text xml:space="preserve">We recorded no such effect, although the number of deaths in the cohort was small so the possibility of a reduction cannot be ruled out.</text>
+    </sentence>
+    <sentence charOffset="35362-35535" id="S213" selection="">
+        <text xml:space="preserve">The Nepal study was not randomised and recorded a 41% reduction in 6-month mortality associated with two doses of albendazole but no effect on infant mortality for one dose.</text>
+    </sentence>
+    <sentence charOffset="35536-35843" id="S214" selection="">
+        <text xml:space="preserve">The researchers speculated that the greater benefit of two doses might result from prevention of reinfection between treatment and delivery, but this theory would not explain the contrast with our findings, because only 5% of women who received albendazole in our study had hookworm infection at delivery.19</text>
+    </sentence>
+    <sentence charOffset="35850-36065" id="S215" selection="">
+        <text xml:space="preserve">Our analyses needed many statistical tests, especially for the measurement of cytokine responses to immunisation, because we aimed to assess overall response profiles rather than concentrations of only one cytokine.</text>
+    </sentence>
+    <sentence charOffset="36066-36239" id="S216" selection="22">
+        <text xml:space="preserve">Consistency between all cytokine responses was expected, and can be interpreted as compelling evidence of an effect, compared with isolated change in an individual response.</text>
+    </sentence>
+    <sentence charOffset="36240-36365" id="S217" selection="">
+        <text xml:space="preserve">Therefore we did not increase confidence limits or use methods that assume independence of tests to formally adjust p values.</text>
+    </sentence>
+    <sentence charOffset="36366-36566" id="S218" selection="22,20">
+        <text xml:space="preserve">In the event, very few outcomes showed any evidence of association at a p value less than 0·05 so absence of adjustment for multiplicity is unlikely to have affected the interpretation of our results.</text>
+    </sentence>
+    <sentence charOffset="36573-36751" id="S219" selection="22">
+        <text xml:space="preserve">A strength of this study was the randomised intervention design; effects of helminth infections reported in observational studies could have been affected by confounding factors.</text>
+    </sentence>
+    <sentence charOffset="36752-36902" id="S220" selection="22">
+        <text xml:space="preserve">Our findings do not show that exposure to maternal helminth infections in utero has no important effect on the development of the fetal immune system.</text>
+    </sentence>
+    <sentence charOffset="36903-36961" id="S221" selection="">
+        <text xml:space="preserve">Some observational studies16,17 do suggest such an effect.</text>
+    </sentence>
+    <sentence charOffset="36962-37196" id="S222" selection="22">
+        <text xml:space="preserve">Rather, our findings suggest that one effective anthelmintic intervention given in the second or third trimester of pregnancy is insufficient to alter any effect of maternal worms on vaccine and infectious disease outcomes in infancy.</text>
+    </sentence>
+    <sentence charOffset="37197-37328" id="S223" selection="">
+        <text xml:space="preserve">This study examined only effects of maternal anthelmintic treatment on vaccine responses and disease incidence in newborn children.</text>
+    </sentence>
+    <sentence charOffset="37329-37467" id="S224" selection="">
+        <text xml:space="preserve">Further studies are needed to assess the effects of anthelmintic treatment on these outcomes in the individual who receives the treatment.</text>
+    </sentence>
+    <sentence charOffset="37474-37666" id="S225" selection="21">
+        <text xml:space="preserve">Our results are generalisable to areas with high prevalence but low intensity of helminth infection in young adults, which is a common pattern in areas that are endemic for helminth infection.</text>
+    </sentence>
+    <sentence charOffset="37667-37738" id="S226" selection="21">
+        <text xml:space="preserve">Findings might differ in populations with higher infection intensities.</text>
+    </sentence>
+    <sentence charOffset="37739-37975" id="S227" selection="22">
+        <text xml:space="preserve">These results suggest that, in settings such as Entebbe Municipality and Katabi subcounty, single-dose anthelmintic treatment during pregnancy has no benefit for an infant's response to immunisation, or for their health and development.</text>
+    </sentence>
+    <sentence charOffset="37982-38075" id="S228" selection="">
+        <text xml:space="preserve">We have previously reported a similar absence of effect on maternal and perinatal outcomes.37</text>
+    </sentence>
+    <sentence charOffset="38076-38247" id="S229" selection="22">
+        <text xml:space="preserve">These results contrast with the expected benefits of routine antenatal anthelmintic treatment recently advocated,44 and the value of such a policy may need to be reviewed.</text>
+    </sentence>
+    <sentence charOffset="38248-38501" id="S230" selection="">
+        <text xml:space="preserve">The study cohort is being followed up to establish whether these conclusions are still valid up to when children are aged 5 years, and to relate effects on the cytokine response to BCG immunisation to incidence of M tuberculosis infection and disease.18</text>
+    </sentence>
+    <sentence charOffset="38511-38522" id="S231">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="38530-38548" id="S232" selection="">
+        <text xml:space="preserve">Web Extra Material</text>
+    </sentence>
+    <sentence charOffset="38570-38595" id="S233" selection="">
+        <text xml:space="preserve">Supplementary webappendix</text>
+    </sentence>
+    <sentence charOffset="38627-38642" id="S234" selection="">
+        <text xml:space="preserve">Acknowledgments</text>
+    </sentence>
+    <sentence charOffset="38651-38923" id="S235" selection="25">
+        <text xml:space="preserve">The study was funded by Wellcome Trust grant numbers 064693 and 079110; Medical Research Council (MRC) staff were supported by MRC programme grant E743; ELW was supported by the UK MRC; and HM was supported in part by a Wellcome Trust PhD studentship, grant number 074791.</text>
+    </sentence>
+    <sentence charOffset="38924-39025" id="S236" selection="25">
+        <text xml:space="preserve">Mycobacterial antigens were provided through the National Institutes of Health contract NOI-AI-25147.</text>
+    </sentence>
+    <sentence charOffset="39026-39313" id="S237" selection="">
+        <text xml:space="preserve">We thank all staff and participants of the Entebbe Mother and Baby Study, the midwives of the Entebbe Hospital Maternity Department, the community field team in Entebbe and Katabi, and the staff of the Clinical Diagnostic Services Laboratory at the MRC/UVRI Uganda Research Unit on AIDS.</text>
+    </sentence>
+    <sentence charOffset="39314-39376" id="S238" selection="">
+        <text xml:space="preserve">We thank Richard Hayes for helpful comments on the manuscript.</text>
+    </sentence>
+    <sentence charOffset="39396-39408" id="S239" selection="">
+        <text xml:space="preserve">Contributors</text>
+    </sentence>
+    <sentence charOffset="39415-39465" id="S240" selection="">
+        <text xml:space="preserve">AME had the idea for, designed, and led the study.</text>
+    </sentence>
+    <sentence charOffset="39466-39544" id="S241" selection="">
+        <text xml:space="preserve">PAM and PBN contributed to sample processing; PAM did all the cytokine assays.</text>
+    </sentence>
+    <sentence charOffset="39545-39663" id="S242" selection="">
+        <text xml:space="preserve">DK led the work on measles antibodies, and AN led the work on tetanus antibodies, under the supervision of AME and RT.</text>
+    </sentence>
+    <sentence charOffset="39664-39708" id="S243" selection="">
+        <text xml:space="preserve">JNd led the clinical component of the study.</text>
+    </sentence>
+    <sentence charOffset="39709-39782" id="S244" selection="">
+        <text xml:space="preserve">JK-L led the virological investigations with a PCR assay developed by BN.</text>
+    </sentence>
+    <sentence charOffset="39783-39899" id="S245" selection="">
+        <text xml:space="preserve">MN, HM, MA, NL, MKiz, RK, JNa, and CA contributed to recruitment and follow-up of participants and to clinical care.</text>
+    </sentence>
+    <sentence charOffset="39900-39965" id="S246" selection="">
+        <text xml:space="preserve">LM, PWW, HA, and JNd contributed to data management and analysis.</text>
+    </sentence>
+    <sentence charOffset="39966-40013" id="S247" selection="">
+        <text xml:space="preserve">MKih and JB did parasitological investigations.</text>
+    </sentence>
+    <sentence charOffset="40014-40047" id="S248" selection="">
+        <text xml:space="preserve">ELW did the statistical analysis.</text>
+    </sentence>
+    <sentence charOffset="40048-40182" id="S249" selection="">
+        <text xml:space="preserve">ELW and AME drafted the report, with contributions to interpretation of the results and preparation of the manuscript from JNd and HM.</text>
+    </sentence>
+    <sentence charOffset="40183-40264" id="S250" selection="">
+        <text xml:space="preserve">JNd, PBN, MM, and JAGW contributed to the design and implementation of the study.</text>
+    </sentence>
+    <sentence charOffset="40265-40329" id="S251" selection="">
+        <text xml:space="preserve">ELW, PAM, JNd, DK, AN, and JK-L contributed equally to the work.</text>
+    </sentence>
+    <sentence charOffset="40330-40367" id="S252" selection="">
+        <text xml:space="preserve">All authors reviewed the final paper.</text>
+    </sentence>
+    <sentence charOffset="40380-40401" id="S253" selection="">
+        <text xml:space="preserve">Conflicts of interest</text>
+    </sentence>
+    <sentence charOffset="40408-40488" id="S254" selection="">
+        <text xml:space="preserve">JAGW is now a member of staff with the Wellcome Trust, the funders of the study.</text>
+    </sentence>
+    <sentence charOffset="40489-40599" id="S255" selection="">
+        <text xml:space="preserve">His role in the initial design and implementation of the study preceded his appointment at the Wellcome Trust.</text>
+    </sentence>
+    <sentence charOffset="40600-40654" id="S256" selection="">
+        <text xml:space="preserve">He has had no role in the study since his appointment.</text>
+    </sentence>
+    <sentence charOffset="40655-40721" id="S257" selection="">
+        <text xml:space="preserve">All other authors declare that they have no conflicts of interest.</text>
+    </sentence>
+    <section textSpan="0-217" title="Title" titleSpan="0-5"/>
+    <section textSpan="218-2918" title="Summary" titleSpan="227-234">
+        <section textSpan="243-522" title="Background" titleSpan="254-264"/>
+        <section textSpan="531-1449" title="Methods" titleSpan="542-549"/>
+        <section textSpan="1458-2632" title="Findings" titleSpan="1469-1477"/>
+        <section textSpan="2641-2849" title="Interpretation" titleSpan="2652-2666"/>
+        <section textSpan="2858-2911" title="Funding" titleSpan="2869-2876"/>
+    </section>
+    <section textSpan="2925-6757" title="Introduction" titleSpan="2932-2944"/>
+    <section textSpan="6762-20244" title="Methods" titleSpan="6769-6776">
+        <section textSpan="6783-8169" title="Study design and patients" titleSpan="6792-6817"/>
+        <section textSpan="8176-9295" title="Randomisation and masking" titleSpan="8185-8210"/>
+        <section textSpan="9302-15403" title="Procedures" titleSpan="9311-9321"/>
+        <section textSpan="15410-19927" title="Statistical analysis" titleSpan="15419-15439"/>
+        <section textSpan="19934-20239" title="Role of the funding source" titleSpan="19943-19969"/>
+    </section>
+    <section textSpan="20249-29312" title="Results" titleSpan="20256-20263"/>
+    <section textSpan="29317-38506" title="Discussion" titleSpan="29324-29334"/>
+    <section textSpan="38511-40727" title="Back matter" titleSpan="38511-38522"/>
+</document>

@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3128457" note="">
+    <text xml:space="preserve">Title
+Effect of tranexamic acid in traumatic brain injury: a nested randomised, placebo controlled trial (CRASH-2 Intracranial Bleeding Study)
+Abstract
+
+        Objective To assess the effect of tranexamic acid (which reduces bleeding in surgical patients and reduces mortality due to bleeding in trauma patients) on intracranial haemorrhage in patients with traumatic brain injury.
+        Methods A nested, randomised, placebo controlled trial. All investigators were masked to treatment allocation. All analyses were by intention to treat.
+        Patients 270 adult trauma patients with, or at risk of, significant extracranial bleeding within 8 hours of injury, who also had traumatic brain injury.
+        Interventions Patients randomly allocated to tranexamic acid (loading dose 1 g over 10 minutes, then infusion of 1 g over 8 hours) or matching placebo. 
+        Main outcome measures Intracranial haemorrhage growth (measured by computed tomography) between hospital admission and then 24–48 hours later, with adjustment for Glasgow coma score, age, time from injury to the scans, and initial haemorrhage volume. 
+        Results Of the 133 patients allocated to tranexamic acid and 137 allocated to placebo, 123 (92%) and 126 (92%) respectively provided information on the primary outcome. All patients provided information on clinical outcomes. The mean total haemorrhage growth was 5.9 ml (SD 26.8) and 8.1 mL (SD 29.2) in the tranexamic acid and placebo groups respectively (adjusted difference –3.8 mL (95% confidence interval −11.5 to 3.9)). New focal cerebral ischaemic lesions occurred in 6 (5%) patients in the tranexamic acid group versus 12 (9%) in the placebo group (adjusted odds ratio 0.51 (95% confidence interval 0.18 to 1.44)). There were 14 (11%) deaths in the tranexamic acid group and 24 (18%) in the placebo group (adjusted odds ratio 0.47 (0.21 to 1.04)).
+        Conclusions This trial shows that neither moderate benefits nor moderate harmful effects of tranexamic acid in patients with traumatic brain injury can be excluded. However, the analysis provides grounds for further clinical trials evaluating the effect of tranexamic acid in this population.
+        Trial registration ISRCTN86750102.
+      
+
+
+    
+      Introduction
+      The antifibrinolytic tranexamic acid has been shown to reduce blood loss in surgical patients and the risk of death in patients with traumatic bleeding, with no apparent increase in vascular occlusive events.1 2 These findings raise the possibility that it might be effective in other situations in which bleeding can be life threatening or disabling.
+      Traumatic brain injury is a leading cause of death and disability worldwide. Each year more than 1.5 million people die and about 10 million people are hospitalised after traumatic brain injury.3 A complication of such injury is intracranial haemorrhage. Its frequency varies according to the injury severity. In the MRC CRASH Trial, which included patients with mild, moderate, and severe traumatic brain injury, three quarters of patients had intracranial haemorrhage.4 In about half of patients with intracranial haemorrhage the lesion enlarges after hospital admission.5 6 Patients with large haemorrhages are at substantially greater risk of death than those with small haemorrhages.7
+      About a third of patients with traumatic brain injury have coagulopathy. Those with coagulopathy have an increased risk of haemorrhage growth and higher mortality.8 Increased fibrinolysis, as indicated by high levels of fibrinogen degradation products, is a common feature of the coagulopathy in traumatic brain injury, raising the possibility that tranexamic acid might reduce traumatic intracranial haemorrhage.9 To date, there have been no randomised controlled trials of tranexamic acid in traumatic brain injury.10
+      The CRASH-2 trial recruited 20 211 trauma patients with, or at risk of, significant (extracranial) haemorrhage. Although traumatic brain injury was not an inclusion criterion, it is likely that a substantial proportion of included patients would also have had traumatic brain injury. However, to keep data collection to a minimum, and ensure recruitment to detect the main outcome (overall mortality), computed tomography data were not routinely collected. Nevertheless, the CRASH-2 trial represented a unique opportunity to nest an exploratory study collecting computed tomography data to evaluate the effect of tranexamic acid on outcomes in patients with traumatic brain injury. The CRASH-2 Intracranial Bleeding Study was a prospective randomised controlled trial nested within the CRASH-2 trial to quantify the effect of an early short course of tranexamic acid on intracranial haemorrhage in patients with traumatic brain injury.
+    
+    
+      Methods
+      Trial design—This double blind, randomised, placebo controlled trial was nested in a cohort of CRASH-2 trial participants. The aims, methods, and results of the CRASH-2 trial are presented in detail elsewhere.2
+      Participants—The trial was conducted in a cohort of CRASH-2 trial participants. Patients eligible for inclusion in the Intracranial Bleeding Study fulfilled the inclusion criteria for the CRASH-2 trial—adult trauma patients with significant haemorrhage (systolic blood pressure &lt;90 mm Hg or heart rate &gt;110 beats per min, or both) or who were considered to be at risk of significant haemorrhage, and who were within 8 hours of injury (study entry governed by the uncertainty principle)11—but they also had traumatic brain injury (Glasgow coma scale ≤14 and a brain computed tomography compatible with traumatic brain injury). Pregnant women and patients for whom a second brain scan was not possible were excluded. Consent procedures at participating hospitals were established by local regulation and the appropriate ethics committees.
+      Study settings—Patients were recruited from 10 hospitals in India and Colombia. The sites were selected according to their interest in the topic, adequate facilities for conducting computed tomography, and expected recruitment rate.
+      
+        Interventions
+        Participants were randomly allocated to receive a loading dose of 1 g tranexamic acid infused over 10 minutes, followed by an intravenous infusion of 1 g over eight hours, or matching placebo (sodium chloride 0.9%).
+      
+      
+        Outcomes
+        We obtained two brain computed tomograms for each participant, the first before randomisation and the second 24–48 hours later. A neuroradiologist (Zoe Morris) who was blind to treatment allocation and clinical findings evaluated the first and second scans. Readings of the two scans were done twice (with the second reading blind to the results of the first reading) by central reading of the electronic DICOM image files in Digital Jacket software (DesAcc, Chicago IL, USA). The size of intra-parenchymal haemorrhages, haemorrhagic contusions, subdural epidural haematomas, subarachnoid haemorrhage, ischaemic lesions; mass effect; and the overall amount of tissue damage were assessed with validated rating scales based on previous work (see box).12 13 14 15 16 The individual ratings and measurements were recorded on a rating form developed for the purposes of this study (shown in appendix on bmj.com).
+        
+          
+            Methods used to measure brain lesions detected with computed tomography
+            
+              Parenchymal haemorrhage and haemorrhagic contusion (defined as focal low attenuation with patchy and relatively ill-defined haemorrhage)
+              
+                
+                  Measurement—A representative slice at the centre of the haematoma was selected. The maximum linear length (A) in cm was multiplied by the maximum width perpendicular to A (B) and the maximum depth (C) in cm. The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval thickness listed on the CT scan. To obtain the volume in cm3 the final product (A.B.C) was divided by 2
+                
+              
+            
+            
+              Subdural haematomas
+              
+                
+                  Measurement—A representative slice near the centre of the haematoma was selected. The linear distance in cm between each corner of the subdural crescent was used to determine the length (A). The width (B) was measured as the maximum thickness in cm of haematoma from the inner table of the skull perpendicular to the length. The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval thickness listed on the CT scan. To obtain the volume in cm3 the final product (A.B.C) was divided by 2.
+                
+              
+            
+            
+              Epidural haematomas
+              
+                
+                  Measurement—A representative slice near the centre of the haematoma was selected. The linear distance in cm between each corner of the epidural lens shape was used to determine the length (A). The width (B) was measured as the maximum thickness in cm of haematoma (B) from the inner table of the skull perpendicular to the length. The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval listed on the CT scan. To obtain the volume in cm3, the final product (A.B.C) was divided by 2
+                
+              
+            
+            
+              Subarachnoid haemorrhage 
+              
+                
+                  Measurement—Blood within subarachnoid spaces between pia and arachnoid membranes. Haemorrhage thickness was categorised as ≤5 mm or &gt;5 mm. The thickness was rated within a representative sulcus
+                
+              
+            
+            
+              New focal ischaemic lesions
+              
+                
+                  Measurement—Focal low attenuation in distribution indicating arterial ischaemic cause rather than traumatic contusional injury rated according to validated scale for ischaemic stroke
+                
+              
+            
+            
+              Mass effect
+              
+                
+                  Measurement—(1) sulcal effacement, (2) ventricular effacement, (3) uncal herniation, (4) cisterns compressed, (5) cisterns absent, (6) Midline shift (in mm)
+                
+              
+            
+          
+        
+        The primary outcome was total haemorrhage growth, defined as the difference in the combined volume (mL) of all intracranial haemorrhagic lesions (intra-parenchymal haematoma + haemorrhagic contusion + subdural haematoma + epidural haematoma) from the first to the second scan. Secondary outcomes were (a) significant haemorrhage growth defined as an increase by ≥25% of total haemorrhage in relation to its initial volume, (b) new intracranial haemorrhage (apparent on the second scan but not apparent on the first), (c) change in subarachnoid haemorrhage grade, (d) mass effect, and (e) new focal cerebral ischaemic lesions (apparent on the second scan but not the first).
+        The clinical outcomes were death from any cause, dependency, and the need for neurosurgical intervention. Clinical outcomes were recorded at hospital discharge, at 28 days after randomisation, or death, whichever occurred first. Dependency was measured using the five point modified Oxford handicap scale (mOHS).17 We dichotomised the scale into “dependent” (fully dependent requiring attention day and night, or dependent but not requiring constant attention) or “independent” (some restriction in lifestyle but independent, minor symptoms, or no symptoms). We also reported a “composite poor outcome” defined as a patient who developed one or more of the following during the follow-up period—significant haemorrhage growth, new intracranial haemorrhage, new focal cerebral ischaemic lesions, the need for neurosurgery, or death.
+        Adverse events that were serious, unexpected, and suspected to be related to the study treatment were reported separately.
+      
+      
+        Sample size
+        Assuming an initial intracranial haemorrhage volume of 20 mL, an average haemorrhage growth of 7 mL in the control group and a correlation of 0.6 between initial and follow-up volumes, we estimated that a trial with 300 patients would have 80% power (α=0.05) to detect a 35% reduction in haemorrhage growth. We pre-specified in the protocol that, as this study was nested within the main CRASH-2 trial, even if the planned sample size of 300 patients was not achieved, recruitment would stop at the same time as the main CRASH-2 trial.
+      
+      
+        Randomisation
+        After eligibility had been confirmed and the locally approved consent procedures had been completed, patients were randomly assigned. Randomisation was balanced by centre, with an allocation sequence based on a block size of eight. We used a local pack system that selected the lowest numbered treatment pack from a box containing eight numbered packs. Apart from the pack number, the treatment packs were identical. The pack number was recorded on the entry form, which was sent to the international trial coordinating centre in London, UK. Once the treatment pack number was recorded, the patient was included in the trial whether or not the treatment pack was opened or the allocated treatment started. All site investigators and trial coordinating centre staff were masked to treatment allocation.
+      
+      
+        Blinding
+        Tranexamic acid and placebo ampoules were indistinguishable. Tranexamic acid was manufactured by Pharmacia (Pfizer, Sandwich, UK) and placebo by St Mary’s Pharmaceutical Unit, Cardiff, UK. The treatment packs were prepared by an independent clinical trial supply company (Bilcare, Crickhowell, UK). Correct blinding and coding of ampoules was assured by independent random testing of each batch by high performance liquid chromatography to confirm the contents.
+      
+      
+        Statistical methods
+        We assessed the intra-observer reliability of haemorrhage measurements using the intra-class correlation coefficient. We assessed the reliability of binary measurements with the κ statistic. For continuous variables measuring the haemorrhage, we used the average measurement of the two independent readings in all analyses. For binary variables, we considered an intracranial finding to be present only if it was reported as present on both readings of a particular patient’s brain scan.
+        We used generalised linear models adjusted for baseline variables. Covariates included in the adjustment were Glasgow coma scale and age. For computed tomography outcomes, we also adjusted for time from injury to first and second scan and for initial haemorrhage volume. In our analysis of mass effect we adjusted for initial mass effect. Adjusted effects are considered in the primary analysis, but both adjusted and unadjusted effect measures are reported. We reported 95% confidence intervals for all the effects estimated and P values for the adjusted analyses.
+        Haemorrhage growth was analysed using multiple linear regression (analysis of covariance), the main factor being the treatment group. Outcomes are reported combined and separately for patients who did or did not undergo neurosurgical evacuation between the first and second computed tomography scan. Binary outcomes were analysed using logistic regression. Subarachnoid haemorrhage scale was compared in the two groups using a non-parametric rank test (Kruskal-Wallis). All analyses were undertaken on an intention to treat basis.
+        To evaluate the clinical relevance of the primary surrogate outcome selected in this study, we also analysed the clinical effect of haemorrhage growth. We conducted a logistic regression analysis with dependency (as defined by the modified Oxford handicap scale) as the outcome and haemorrhage growth as the main exposure variable, with adjustment by the potential confounders of initial haemorrhage volume, Glasgow coma scale, age, time from injury to computed tomography, and treatment.
+        We used the statistical software package Stata (version SE/11·0) from StataCorp.
+      
+      
+        Role of the funding source
+        The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The Writing Committee had full access to all data in the study and had final responsibility for the decision to submit for publication.
+      
+    
+    
+      Results
+      We recruited 270 patients (133 allocated to tranexamic acid and 137 allocated to placebo) between August 2008 and January 2010 (figure).This nested study was stopped when the main CRASH-2 trial’s pre-specified sample size of 20 000 was achieved. All patients received the loading and maintenance doses, except one patient allocated placebo who did not receive the maintenance dose. All patients were followed up for clinical outcomes. A total of 256 patients (95%) had the first computed tomography scan. In 14 patients (six allocated to tranexamic acid, eight controls allocated to placebo), the first scan was unavailable for reading for technical reasons. Five patients died before the second scan (three allocated to tranexamic acid, two controls). Protocol deviations were as follows: nine (3%) patients were randomised before the first computed tomography (six allocated tranexamic acid, three controls); 31 (11%) had a Glasgow coma scale of 15 at baseline (17 allocated tranexamic acid, 14 controls); and in 51 (19%) the second computed tomography was conducted outside the 24–48 hours window (25 allocated tranexamic acid, 26 controls).
+       Fig 1 Summary of patient flow through trial
+      Baseline characteristics of the included patients and their first brain scan findings are shown in tables 1 and 2. A total of 211 patients (82%) had some form of intracranial haemorrhage (intraparenchymal haematoma, haemorrhagic contusion, subdural haematoma, or epidural haematoma). Five patients had a focal ischaemic lesion (two patients in the tranexamic acid group, three controls). Forty patients (20 allocated tranexamic acid, 20 controls) had neurosurgical evacuation on the basis of findings from the first computed tomography scan.
+      Table 1  Baseline clinical characteristics of patients with, or at risk of, serious extracranial bleeding and traumatic brain injury who were allocated to tranexamic acid or placebo. Values are numbers (percentages) of patients unless stated otherwise
+      Table 2  Results from baseline computed tomography of patients with, or at risk of, serious extracranial bleeding and traumatic brain injury who were allocated to tranexamic acid or placebo. Values are numbers (percentages) of patients
+      Intra-observer reliability for reading computed tomographies was high for all outcomes except new intracranial haemorrhages. The intra-class correlation coefficient for total haemorrhage growth was 0.89. The κ scores for the categorical variables significant haemorrhage growth, new intracranial haemorrhage, any mass effect, and new focal cerebral ischaemic lesions were 0.82, 0.32, 0.81, and 0.89 respectively.
+      The mean initial intracranial haemorrhage volume was 16.8 mL (SD 23.8) in the tranexamic acid group and 19.8 mL (28.3) in the placebo group. Computed tomography outcomes were available for 249 (99%) of the 251 patients who had a first brain scan and were alive at 24 hours.
+      
+        Primary outcome
+        The mean total haemorrhage growth was 5.9 mL (SD 26.8) and 8.1 mL (SD 29.2) in the tranexamic acid and placebo groups respectively. The adjusted analysis showed a reduction in total haemorrhage growth in the tranexamic acid group in comparison with the controls of –3.8 mL (95% confidence interval –11.5 to 3.9, P=0.33) (table 3).
+        Table 3  Effect of tranexamic acid on total haemorrhage growth among patients with, or at risk of, serious extracranial bleeding and traumatic brain injury who were allocated tranexamic acid or placebo. Values are difference (95% confidence interval) between patients allocated tranexamic acid and controls unless stated otherwise
+      
+      
+        Other computed tomography outcomes
+        In the tranexamic acid and placebo groups respectively, significant haemorrhage growth occurred in 44 (36%) and 56 (44%) patients, new haemorrhage areas occurred in 13 (11%) and 20 (16%), signs of mass effect occurred in 58 (47%) and 76 (60%), and new focal cerebral ischaemic lesions occurred in six (5%) and 12 (9%) (see table 4 for the unadjusted and adjusted odds ratios).
+        Table 4  Effect of tranexamic acid on binary outcomes from computed tomography among patients with, or at risk of, serious extracranial bleeding and traumatic brain injury who were allocated tranexamic acid or placebo
+        The change in the subarachnoid haemorrhage scale was –0.11 for patients allocated tranexamic acid and –0.12 for control patients (P=0.93).
+      
+      
+        Clinical outcomes
+        There were 14/133 (11%) deaths in the tranexamic acid group and 24/137 (18%) in the placebo group (adjusted odds ratio 0.47 (95% confidence interval 0.21 to 1.04, P=0.06). Among the survivors, a total of 26/119 (22%) patients in the tranexamic acid group and 29/113 (26%) in the placebo group were dependent at hospital discharge or 28 days (adjusted odds ratio 0.66 (0.32 to 1.36, P=0.26). Twenty (15%) of the 133 patients in the tranexamic acid group and 21/137 (15%) in the placebo group had neurosurgery other than those evacuations based on first brain scan findings (adjusted odds ratio 0.98 (0.45 to 1.93) P=0.95).
+      
+      
+        Composite outcomes
+        Sixty (45%) patients in the tranexamic acid group and 80 (58%) in the placebo group had a “composite poor outcome” (adjusted odds ratio 0.57 (0.33 to 0.98) P=0.04). No emergency unblinding was needed, and there were no adverse events regarded as serious, unexpected, or suspected to be related to the study treatment. We also found that an increase in haemorrhage growth of 10 mL was strongly associated with dependency at hospital discharge (adjusted odds ratio 1.32 (1.08 to 1.62)).
+      
+    
+    
+      Discussion
+      This is the first randomised controlled study to evaluate the effect of tranexamic acid in patients with traumatic brain injury, and we found that neither moderate benefits nor moderate harmful effects can be excluded. However, despite the relatively wide confidence intervals, our analyses suggest that tranexamic acid administration might improve outcome after traumatic brain injury and provide grounds for evaluating this hypothesis in future research.
+      The Intracranial Bleeding Study was conducted among patients with traumatic brain injury who also had significant extracranial haemorrhage, and the effect of tranexamic acid might be different in patients with isolated traumatic brain injury. It has been suggested that, among patients with traumatic brain injury, only those with hypotension activate the fibrinolytic response.18 It is possible that in our study population tranexamic acid reduced extracranial bleeding, and therefore patients in the tranexamic acid group were less hypotensive, and less coagulopathic, and through this mechanism tranexamic acid reduced the expansion of intracranial bleeding. However, only 7% of the included patients had a systolic blood pressure &lt;90 mm Hg. Furthermore, we did not find evidence of treatment interaction according to systolic blood pressure at admission (P value for interaction for haemorrhage growth 0.38). Additionally, a recent paper has challenged this basic hypothesis by reporting that coagulopathy is also found in traumatic brain injury patients without hypotension.19
+      The larger effect on haematoma growth observed in surgical patients is consistent with the evidence of effectiveness of antifibrinolytic agents in elective surgery, for which antifibrinolytic agents have been shown to reduce blood loss.1
+      We found a reduction in new focal cerebral ischaemic lesions in the patients allocated tranexamic acid. However, the overall incidence of these lesions was low, and it is possible that the observed difference between the groups may have arisen by chance alone. Nevertheless, it is plausible that if tranexamic acid reduces haemorrhage growth then this could reduce the local pressure on arteries. Any reduction in intracranial pressure might also reduce the risk of ischaemia. Given that tranexamic acid has been shown to reduce mortality from bleeding, it is also possible that patients allocated to tranexamic acid may have had a more stable circulation and that this may have accounted for the observed reduction in ischaemic lesions. Our findings differ from those reported in a systematic review of randomised controlled trials of tranexamic acid in patients with aneurysmal subarachnoid haemorrhage, which found that tranexamic acid reduced the rate of re-bleeding but increased cerebral ischaemia.20 However, the doses of tranexamic acid used in these trials were larger and more prolonged than in our study. Furthermore, the risk and mechanism of cerebral ischaemia is different in the two conditions.
+      Regarding the clinical outcomes, although the results were not statistically significant, we found a trend towards a reduction in mortality, without any evidence of increase in dependency among survivors.
+      When we assessed the effect of tranexamic acid on a composite outcome that considered poor computed tomography and clinical outcomes we found a statistically significant reduction. Importantly, this composite outcome was pre-specified, and the effect on all the outcomes included in the composite outcome showed the same direction towards benefit.21 
+      
+        Strengths and limitations of study
+        Our study has several strengths. It was a prospective study which collected detailed computed tomographic data, with clear inclusion criteria, pre-specified outcomes, and statistical analysis plan. The randomisation methods ensured that participating clinicians did not have foreknowledge of treatment allocation, baseline clinical factors were well balanced, there was high follow-up, and all analyses were performed on an intention to treat basis. Although there were baseline differences between patients allocated tranexamic acid and those allocated placebo in some scan findings, the adjusted analyses should have accounted for any imbalance. We attempted to minimise measurement error through the use of central computed tomogram reading by an experienced neuroradiologist, following a pre-specified validated protocol of qualitative and quantitative methods to assess brain damage. The protocol used previously validated methods, and those that had not been previously validated were further tested in the present study. We found that intra-rater reliability was high for most imaging measurements.
+        Among the limitations, our study included only a relatively small sample of the CRASH-2 participants with traumatic brain injury, and a larger sample size could have provided more precise results. The nature of a large pragmatic trial such as the CRASH-2 trial constrained our ability to collect computed tomograms for all the patients with traumatic brain injury included in the CRASH-2 trial. Nevertheless, the relatively small sample size does not affect the internal validity of this study, and, although imprecise, the results should be unbiased.
+      
+      
+        Implications of results
+        The CRASH-2 trial has shown reliably that early administration of tranexamic acid in trauma patients with, or at risk of, significant bleeding reduces the risk of all cause mortality. As a consequence of this trial, tranexamic acid has been incorporated into trauma treatment protocols worldwide. Many patients with traumatic haemorrhage also have traumatic brain injury, and concerns about the risk of cerebral ischaemia may affect decisions whether to give tranexamic acid to these patients.22 The results presented here are the only available evidence to inform doctors about the effect of tranexamic acid on brain ischaemic lesions in patients with traumatic haemorrhage and traumatic brain injury, and, although imprecise, the results should give some reassurance about the safety of tranexamic acid in such patients.
+        Our results also have important research implications. In theory, if tranexamic acid reduces intracranial haemorrhage after traumatic brain injury without increasing the risk of ischaemic lesions, it could substantially improve patient outcomes. Until now, however, no trial has evaluated the effect of tranexamic acid in patients with traumatic brain injury. Our results suggest it is probable that, in such patients, the benefits of tranexamic acid administration would outweigh the risks. If such an inexpensive and widely practicable treatment were found to improve patient outcomes after traumatic intracranial haemorrhage this would have major implications for clinical care. The CRASH-3 trial (http://crash3.lshtm.ac.uk/) will determine reliably the effectiveness of the early administration of a short course of tranexamic acid in patients with traumatic brain injury.
+        
+          
+            What is already known on this topic
+            
+              
+                Intracranial bleeding is a common complication in patients with traumatic brain injury, and about a third of patients with traumatic brain injury have coagulopathy at hospital admission
+              
+              
+                The antifibrinolytic tranexamic acid reduces mortality in trauma patients with significant extracranial bleeding, but no randomised study has evaluated its effects in patients with traumatic brain injury
+              
+            
+          
+          
+            What this study adds
+            
+              
+                In this randomised, placebo controlled trial neither moderate benefits nor moderate harmful effects of tranexamic acid in patients with traumatic brain injury could be excluded
+              
+              
+                However, the non-significant trends to beneficial effects justify a randomised controlled trial to evaluate the effectiveness of the early administration of tranexamic acid in patients with traumatic brain injury
+              
+              
+                An early short course of tranexamic acid seems to be safe (in relation to new ischaemic brain lesions) in patients with trauma, extracranial significant bleeding, and concomitant traumatic brain injury
+              
+            
+          
+        
+      
+    
+  
+
+Back matter
+
+      
+        
+          The database programming was carried out by Tony Brady of Sealed Envelope.
+        
+        
+          CRASH-2 Collaborators (Intracranial Bleeding Study) 
+        
+        
+          Writing Committee: Pablo Perel (UK) (chair), Rustam Al-Shahi Salman (UK), Alfredo Constain (Colombia), Yashbir Dewan (India), Jorge Herrera (Colombia), Taemi Kawahara (UK), Anil P Lal (India), Jorge Mejía-Mantilla (Colombia), Carlos Morales (Colombia), Zoe Morris (UK), David Prieto-Merino (UK), P V Ramana (India), R R Ravi (India), Ian Roberts (UK), Peter Sandercock (UK), Haleema Shakur (UK), Joanna Wardlaw (UK). The Clinical Trials Unit had full access to all the data in the study and had final responsibility for the decision to submit for publication.
+        
+        
+          India Collaborators: Anil P Lal, Natasha Gohain (Aditya Neuroscience Centre and Sanjivani Hospital); P V Ramana (Care Hospital); Yashbir Dewan, Sarvpreet Singh Grewal, Pradipta Tripathy (Christian Medical College); RR Ravi, S Raja, Anand Doshi (Medical Trust Hospital); Prakash Khetan (Jeevan Jyoti Hospital). 
+        
+        
+          Colombian Collaborators: Carlos Morales, Santiago Naranjo (University of Antioquia, Hospital Universitario San Vicente de Paul); Alfredo Constain, Edwin Vazquez Salazar (Hospital Pablo Tobon Uribe); Jorge Herrera, Liliana Caicedo (Hospital San José de Popayán); Jorge Mejía-Mantilla, Ana MariaVarela (Fundación Valle del Lili). 
+        
+        
+          UK Coordinating Team: Eni Balogun (clinical trials associate), Lin Barnetson (data manager), Collette Barrow (assistant trials administrator), Matthew Berle (trials assistant), Lisa Cook (assistant trials manager), Avni Gadhiya (data assistant), Taemi Kawahara (assistant trials manager), Pablo Perel (clinical lecturer), Maria Ramos (trials administrator), Ian Roberts (clinical coordinator), Chris Rubery (data assistant), Haleema Shakur (senior lecturer), Cynthia To (data assistant) (London School of Hygiene &amp; Tropical Medicine); Rustam Al-Shahi Salman, Zoe Morris, David Perry, Peter Sandercock, Joanna Wardlaw (University of Edinburgh). 
+        
+        
+          Steering Committee: Ian Franklin (chair), Brigitte Chaudhry, Tim Coats, Charles Deakin, Steve Goodacre, BJ Hunt, David Meddings, Richard Peto, Ian Roberts, Peter Sandercock.
+        
+        
+          Funding: The CRASH-2 study was funded by the UK NIHR Health Technology Assessment programme, Pfizer, BUPA Foundation, and J P Moulton Charitable Foundation. This sub-study was funded by the UK Health Technology Assessment programme (06/303/20). Rustam Al-Shahi Salman was funded by a UK MRC clinician scientist fellowship. Joanna Wardlaw was funded by the Scottish Funding Council through the SINAPSE Collaboration (Scottish Imaging Network, A Platform for Scientific Excellence).
+        
+        
+          Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare: the submitted work was funded by the UK Health Technology Assessment programme (06/303/20), Rustam Al-Shahi Salman was funded by a UK MRC clinician scientist fellowship, Joanna Wardlaw was funded by the Scottish Funding Council; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work. 
+        
+        
+          Data sharing: Full information on accessing the data from this trial is available via freeBIRD (free Bank of Injury and emergency Research Data), a data repository hosted by the Clinical Trials Unit, London School of Hygiene and Tropical Medicine, at http://ctu2.lshtm.ac.uk/freebird.
+        
+      
+    
+
+      Cite this as: BMJ 2011;343:d3795</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-142" id="S2" selection="1a">
+        <text xml:space="preserve">Effect of tranexamic acid in traumatic brain injury: a nested randomised, placebo controlled trial (CRASH-2 Intracranial Bleeding Study)</text>
+    </sentence>
+    <sentence charOffset="143-151" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="161-382" id="S4" selection="1b">
+        <text xml:space="preserve">Objective To assess the effect of tranexamic acid (which reduces bleeding in surgical patients and reduces mortality due to bleeding in trauma patients) on intracranial haemorrhage in patients with traumatic brain injury.</text>
+    </sentence>
+    <sentence charOffset="391-446" id="S5" selection="">
+        <text xml:space="preserve">Methods A nested, randomised, placebo controlled trial.</text>
+    </sentence>
+    <sentence charOffset="447-501" id="S6" selection="">
+        <text xml:space="preserve">All investigators were masked to treatment allocation.</text>
+    </sentence>
+    <sentence charOffset="502-542" id="S7" selection="">
+        <text xml:space="preserve">All analyses were by intention to treat.</text>
+    </sentence>
+    <sentence charOffset="551-703" id="S8" selection="">
+        <text xml:space="preserve">Patients 270 adult trauma patients with, or at risk of, significant extracranial bleeding within 8 hours of injury, who also had traumatic brain injury.</text>
+    </sentence>
+    <sentence charOffset="712-863" id="S9" selection="">
+        <text xml:space="preserve">Interventions Patients randomly allocated to tranexamic acid (loading dose 1 g over 10 minutes, then infusion of 1 g over 8 hours) or matching placebo.</text>
+    </sentence>
+    <sentence charOffset="873-1123" id="S10" selection="">
+        <text xml:space="preserve">Main outcome measures Intracranial haemorrhage growth (measured by computed tomography) between hospital admission and then 24–48 hours later, with adjustment for Glasgow coma score, age, time from injury to the scans, and initial haemorrhage volume.</text>
+    </sentence>
+    <sentence charOffset="1133-1301" id="S11" selection="">
+        <text xml:space="preserve">Results Of the 133 patients allocated to tranexamic acid and 137 allocated to placebo, 123 (92%) and 126 (92%) respectively provided information on the primary outcome.</text>
+    </sentence>
+    <sentence charOffset="1302-1357" id="S12" selection="">
+        <text xml:space="preserve">All patients provided information on clinical outcomes.</text>
+    </sentence>
+    <sentence charOffset="1358-1558" id="S13" selection="">
+        <text xml:space="preserve">The mean total haemorrhage growth was 5.9 ml (SD 26.8) and 8.1 mL (SD 29.2) in the tranexamic acid and placebo groups respectively (adjusted difference –3.8 mL (95% confidence interval −11.5 to 3.9)).</text>
+    </sentence>
+    <sentence charOffset="1559-1755" id="S14" selection="">
+        <text xml:space="preserve">New focal cerebral ischaemic lesions occurred in 6 (5%) patients in the tranexamic acid group versus 12 (9%) in the placebo group (adjusted odds ratio 0.51 (95% confidence interval 0.18 to 1.44)).</text>
+    </sentence>
+    <sentence charOffset="1756-1888" id="S15" selection="">
+        <text xml:space="preserve">There were 14 (11%) deaths in the tranexamic acid group and 24 (18%) in the placebo group (adjusted odds ratio 0.47 (0.21 to 1.04)).</text>
+    </sentence>
+    <sentence charOffset="1897-2061" id="S16" selection="">
+        <text xml:space="preserve">Conclusions This trial shows that neither moderate benefits nor moderate harmful effects of tranexamic acid in patients with traumatic brain injury can be excluded.</text>
+    </sentence>
+    <sentence charOffset="2062-2189" id="S17" selection="">
+        <text xml:space="preserve">However, the analysis provides grounds for further clinical trials evaluating the effect of tranexamic acid in this population.</text>
+    </sentence>
+    <sentence charOffset="2198-2232" id="S18" selection="23">
+        <text xml:space="preserve">Trial registration ISRCTN86750102.</text>
+    </sentence>
+    <sentence charOffset="2253-2265" id="S19">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2272-2483" id="S20" selection="">
+        <text xml:space="preserve">The antifibrinolytic tranexamic acid has been shown to reduce blood loss in surgical patients and the risk of death in patients with traumatic bleeding, with no apparent increase in vascular occlusive events.1 2</text>
+    </sentence>
+    <sentence charOffset="2484-2623" id="S21" selection="">
+        <text xml:space="preserve">These findings raise the possibility that it might be effective in other situations in which bleeding can be life threatening or disabling.</text>
+    </sentence>
+    <sentence charOffset="2630-2706" id="S22" selection="">
+        <text xml:space="preserve">Traumatic brain injury is a leading cause of death and disability worldwide.</text>
+    </sentence>
+    <sentence charOffset="2707-2825" id="S23" selection="">
+        <text xml:space="preserve">Each year more than 1.5 million people die and about 10 million people are hospitalised after traumatic brain injury.3</text>
+    </sentence>
+    <sentence charOffset="2826-2884" id="S24" selection="">
+        <text xml:space="preserve">A complication of such injury is intracranial haemorrhage.</text>
+    </sentence>
+    <sentence charOffset="2885-2939" id="S25" selection="">
+        <text xml:space="preserve">Its frequency varies according to the injury severity.</text>
+    </sentence>
+    <sentence charOffset="2940-3101" id="S26" selection="">
+        <text xml:space="preserve">In the MRC CRASH Trial, which included patients with mild, moderate, and severe traumatic brain injury, three quarters of patients had intracranial haemorrhage.4</text>
+    </sentence>
+    <sentence charOffset="3102-3206" id="S27" selection="">
+        <text xml:space="preserve">In about half of patients with intracranial haemorrhage the lesion enlarges after hospital admission.5 6</text>
+    </sentence>
+    <sentence charOffset="3207-3319" id="S28" selection="">
+        <text xml:space="preserve">Patients with large haemorrhages are at substantially greater risk of death than those with small haemorrhages.7</text>
+    </sentence>
+    <sentence charOffset="3326-3398" id="S29" selection="">
+        <text xml:space="preserve">About a third of patients with traumatic brain injury have coagulopathy.</text>
+    </sentence>
+    <sentence charOffset="3399-3490" id="S30" selection="">
+        <text xml:space="preserve">Those with coagulopathy have an increased risk of haemorrhage growth and higher mortality.8</text>
+    </sentence>
+    <sentence charOffset="3491-3740" id="S31" selection="2a">
+        <text xml:space="preserve">Increased fibrinolysis, as indicated by high levels of fibrinogen degradation products, is a common feature of the coagulopathy in traumatic brain injury, raising the possibility that tranexamic acid might reduce traumatic intracranial haemorrhage.9</text>
+    </sentence>
+    <sentence charOffset="3741-3845" id="S32" selection="2a">
+        <text xml:space="preserve">To date, there have been no randomised controlled trials of tranexamic acid in traumatic brain injury.10</text>
+    </sentence>
+    <sentence charOffset="3852-3963" id="S33" selection="">
+        <text xml:space="preserve">The CRASH-2 trial recruited 20 211 trauma patients with, or at risk of, significant (extracranial) haemorrhage.</text>
+    </sentence>
+    <sentence charOffset="3964-4135" id="S34" selection="">
+        <text xml:space="preserve">Although traumatic brain injury was not an inclusion criterion, it is likely that a substantial proportion of included patients would also have had traumatic brain injury.</text>
+    </sentence>
+    <sentence charOffset="4136-4308" id="S35" selection="">
+        <text xml:space="preserve">However, to keep data collection to a minimum, and ensure recruitment to detect the main outcome (overall mortality), computed tomography data were not routinely collected.</text>
+    </sentence>
+    <sentence charOffset="4309-4533" id="S36" selection="">
+        <text xml:space="preserve">Nevertheless, the CRASH-2 trial represented a unique opportunity to nest an exploratory study collecting computed tomography data to evaluate the effect of tranexamic acid on outcomes in patients with traumatic brain injury.</text>
+    </sentence>
+    <sentence charOffset="4534-4787" id="S37" selection="2b">
+        <text xml:space="preserve">The CRASH-2 Intracranial Bleeding Study was a prospective randomised controlled trial nested within the CRASH-2 trial to quantify the effect of an early short course of tranexamic acid on intracranial haemorrhage in patients with traumatic brain injury.</text>
+    </sentence>
+    <sentence charOffset="4804-4811" id="S38">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="4818-4940" id="S39" selection="3a">
+        <text xml:space="preserve">Trial design—This double blind, randomised, placebo controlled trial was nested in a cohort of CRASH-2 trial participants.</text>
+    </sentence>
+    <sentence charOffset="4941-5028" id="S40" selection="">
+        <text xml:space="preserve">The aims, methods, and results of the CRASH-2 trial are presented in detail elsewhere.2</text>
+    </sentence>
+    <sentence charOffset="5035-5114" id="S41" selection="">
+        <text xml:space="preserve">Participants—The trial was conducted in a cohort of CRASH-2 trial participants.</text>
+    </sentence>
+    <sentence charOffset="5115-5660" id="S42" selection="4a">
+        <text xml:space="preserve">Patients eligible for inclusion in the Intracranial Bleeding Study fulfilled the inclusion criteria for the CRASH-2 trial—adult trauma patients with significant haemorrhage (systolic blood pressure &lt;90 mm Hg or heart rate &gt;110 beats per min, or both) or who were considered to be at risk of significant haemorrhage, and who were within 8 hours of injury (study entry governed by the uncertainty principle)11—but they also had traumatic brain injury (Glasgow coma scale ≤14 and a brain computed tomography compatible with traumatic brain injury).</text>
+    </sentence>
+    <sentence charOffset="5661-5749" id="S43" selection="4a">
+        <text xml:space="preserve">Pregnant women and patients for whom a second brain scan was not possible were excluded.</text>
+    </sentence>
+    <sentence charOffset="5750-5871" id="S44" selection="">
+        <text xml:space="preserve">Consent procedures at participating hospitals were established by local regulation and the appropriate ethics committees.</text>
+    </sentence>
+    <sentence charOffset="5878-5957" id="S45" selection="4b">
+        <text xml:space="preserve">Study settings—Patients were recruited from 10 hospitals in India and Colombia.</text>
+    </sentence>
+    <sentence charOffset="5958-6110" id="S46" selection="">
+        <text xml:space="preserve">The sites were selected according to their interest in the topic, adequate facilities for conducting computed tomography, and expected recruitment rate.</text>
+    </sentence>
+    <sentence charOffset="6126-6139" id="S47" selection="">
+        <text xml:space="preserve">Interventions</text>
+    </sentence>
+    <sentence charOffset="6148-6363" id="S48" selection="5">
+        <text xml:space="preserve">Participants were randomly allocated to receive a loading dose of 1 g tranexamic acid infused over 10 minutes, followed by an intravenous infusion of 1 g over eight hours, or matching placebo (sodium chloride 0.9%).</text>
+    </sentence>
+    <sentence charOffset="6386-6394" id="S49" selection="">
+        <text xml:space="preserve">Outcomes</text>
+    </sentence>
+    <sentence charOffset="6403-6530" id="S50" selection="6a">
+        <text xml:space="preserve">We obtained two brain computed tomograms for each participant, the first before randomisation and the second 24–48 hours later.</text>
+    </sentence>
+    <sentence charOffset="6531-6660" id="S51" selection="6a">
+        <text xml:space="preserve">A neuroradiologist (Zoe Morris) who was blind to treatment allocation and clinical findings evaluated the first and second scans.</text>
+    </sentence>
+    <sentence charOffset="6661-6879" id="S52" selection="6a">
+        <text xml:space="preserve">Readings of the two scans were done twice (with the second reading blind to the results of the first reading) by central reading of the electronic DICOM image files in Digital Jacket software (DesAcc, Chicago IL, USA).</text>
+    </sentence>
+    <sentence charOffset="6880-7167" id="S53" selection="6a">
+        <text xml:space="preserve">The size of intra-parenchymal haemorrhages, haemorrhagic contusions, subdural epidural haematomas, subarachnoid haemorrhage, ischaemic lesions; mass effect; and the overall amount of tissue damage were assessed with validated rating scales based on previous work (see box).12 13 14 15 16</text>
+    </sentence>
+    <sentence charOffset="7168-7311" id="S54" selection="6a">
+        <text xml:space="preserve">The individual ratings and measurements were recorded on a rating form developed for the purposes of this study (shown in appendix on bmj.com).</text>
+    </sentence>
+    <sentence charOffset="7344-7415" id="S55" selection="">
+        <text xml:space="preserve">Methods used to measure brain lesions detected with computed tomography</text>
+    </sentence>
+    <sentence charOffset="7443-7579" id="S56" selection="6a">
+        <text xml:space="preserve">Parenchymal haemorrhage and haemorrhagic contusion (defined as focal low attenuation with patchy and relatively ill-defined haemorrhage)</text>
+    </sentence>
+    <sentence charOffset="7630-7709" id="S57" selection="6a">
+        <text xml:space="preserve">Measurement—A representative slice at the centre of the haematoma was selected.</text>
+    </sentence>
+    <sentence charOffset="7710-7837" id="S58" selection="6a">
+        <text xml:space="preserve">The maximum linear length (A) in cm was multiplied by the maximum width perpendicular to A (B) and the maximum depth (C) in cm.</text>
+    </sentence>
+    <sentence charOffset="7838-7987" id="S59" selection="6a">
+        <text xml:space="preserve">The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval thickness listed on the CT scan.</text>
+    </sentence>
+    <sentence charOffset="7988-8058" id="S60" selection="6a">
+        <text xml:space="preserve">To obtain the volume in cm3 the final product (A.B.C) was divided by 2</text>
+    </sentence>
+    <sentence charOffset="8131-8150" id="S61" selection="6a">
+        <text xml:space="preserve">Subdural haematomas</text>
+    </sentence>
+    <sentence charOffset="8201-8282" id="S62" selection="6a">
+        <text xml:space="preserve">Measurement—A representative slice near the centre of the haematoma was selected.</text>
+    </sentence>
+    <sentence charOffset="8283-8391" id="S63" selection="6a">
+        <text xml:space="preserve">The linear distance in cm between each corner of the subdural crescent was used to determine the length (A).</text>
+    </sentence>
+    <sentence charOffset="8392-8525" id="S64" selection="6a">
+        <text xml:space="preserve">The width (B) was measured as the maximum thickness in cm of haematoma from the inner table of the skull perpendicular to the length.</text>
+    </sentence>
+    <sentence charOffset="8526-8675" id="S65" selection="6a">
+        <text xml:space="preserve">The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval thickness listed on the CT scan.</text>
+    </sentence>
+    <sentence charOffset="8676-8747" id="S66" selection="6a">
+        <text xml:space="preserve">To obtain the volume in cm3 the final product (A.B.C) was divided by 2.</text>
+    </sentence>
+    <sentence charOffset="8820-8839" id="S67" selection="6a">
+        <text xml:space="preserve">Epidural haematomas</text>
+    </sentence>
+    <sentence charOffset="8890-8971" id="S68" selection="6a">
+        <text xml:space="preserve">Measurement—A representative slice near the centre of the haematoma was selected.</text>
+    </sentence>
+    <sentence charOffset="8972-9082" id="S69" selection="6a">
+        <text xml:space="preserve">The linear distance in cm between each corner of the epidural lens shape was used to determine the length (A).</text>
+    </sentence>
+    <sentence charOffset="9083-9220" id="S70" selection="6a">
+        <text xml:space="preserve">The width (B) was measured as the maximum thickness in cm of haematoma (B) from the inner table of the skull perpendicular to the length.</text>
+    </sentence>
+    <sentence charOffset="9221-9360" id="S71" selection="6a">
+        <text xml:space="preserve">The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval listed on the CT scan.</text>
+    </sentence>
+    <sentence charOffset="9361-9432" id="S72" selection="6a">
+        <text xml:space="preserve">To obtain the volume in cm3, the final product (A.B.C) was divided by 2</text>
+    </sentence>
+    <sentence charOffset="9505-9529" id="S73" selection="6a">
+        <text xml:space="preserve">Subarachnoid haemorrhage</text>
+    </sentence>
+    <sentence charOffset="9581-9662" id="S74" selection="6a">
+        <text xml:space="preserve">Measurement—Blood within subarachnoid spaces between pia and arachnoid membranes.</text>
+    </sentence>
+    <sentence charOffset="9663-9719" id="S75" selection="6a">
+        <text xml:space="preserve">Haemorrhage thickness was categorised as ≤5 mm or &gt;5 mm.</text>
+    </sentence>
+    <sentence charOffset="9720-9774" id="S76" selection="6a">
+        <text xml:space="preserve">The thickness was rated within a representative sulcus</text>
+    </sentence>
+    <sentence charOffset="9847-9874" id="S77" selection="6a">
+        <text xml:space="preserve">New focal ischaemic lesions</text>
+    </sentence>
+    <sentence charOffset="9925-10107" id="S78" selection="6a">
+        <text xml:space="preserve">Measurement—Focal low attenuation in distribution indicating arterial ischaemic cause rather than traumatic contusional injury rated according to validated scale for ischaemic stroke</text>
+    </sentence>
+    <sentence charOffset="10180-10191" id="S79" selection="6a">
+        <text xml:space="preserve">Mass effect</text>
+    </sentence>
+    <sentence charOffset="10242-10398" id="S80" selection="6a">
+        <text xml:space="preserve">Measurement—(1) sulcal effacement, (2) ventricular effacement, (3) uncal herniation, (4) cisterns compressed, (5) cisterns absent, (6) Midline shift (in mm)</text>
+    </sentence>
+    <sentence charOffset="10472-10748" id="S81" selection="6a">
+        <text xml:space="preserve">The primary outcome was total haemorrhage growth, defined as the difference in the combined volume (mL) of all intracranial haemorrhagic lesions (intra-parenchymal haematoma + haemorrhagic contusion + subdural haematoma + epidural haematoma) from the first to the second scan.</text>
+    </sentence>
+    <sentence charOffset="10749-11145" id="S82" selection="6a">
+        <text xml:space="preserve">Secondary outcomes were (a) significant haemorrhage growth defined as an increase by ≥25% of total haemorrhage in relation to its initial volume, (b) new intracranial haemorrhage (apparent on the second scan but not apparent on the first), (c) change in subarachnoid haemorrhage grade, (d) mass effect, and (e) new focal cerebral ischaemic lesions (apparent on the second scan but not the first).</text>
+    </sentence>
+    <sentence charOffset="11154-11259" id="S83" selection="6a">
+        <text xml:space="preserve">The clinical outcomes were death from any cause, dependency, and the need for neurosurgical intervention.</text>
+    </sentence>
+    <sentence charOffset="11260-11382" id="S84" selection="6a">
+        <text xml:space="preserve">Clinical outcomes were recorded at hospital discharge, at 28 days after randomisation, or death, whichever occurred first.</text>
+    </sentence>
+    <sentence charOffset="11383-11468" id="S85" selection="6a">
+        <text xml:space="preserve">Dependency was measured using the five point modified Oxford handicap scale (mOHS).17</text>
+    </sentence>
+    <sentence charOffset="11469-11712" id="S86" selection="6a">
+        <text xml:space="preserve">We dichotomised the scale into “dependent” (fully dependent requiring attention day and night, or dependent but not requiring constant attention) or “independent” (some restriction in lifestyle but independent, minor symptoms, or no symptoms).</text>
+    </sentence>
+    <sentence charOffset="11713-11985" id="S87" selection="6a">
+        <text xml:space="preserve">We also reported a “composite poor outcome” defined as a patient who developed one or more of the following during the follow-up period—significant haemorrhage growth, new intracranial haemorrhage, new focal cerebral ischaemic lesions, the need for neurosurgery, or death.</text>
+    </sentence>
+    <sentence charOffset="11994-12116" id="S88" selection="6a">
+        <text xml:space="preserve">Adverse events that were serious, unexpected, and suspected to be related to the study treatment were reported separately.</text>
+    </sentence>
+    <sentence charOffset="12139-12150" id="S89" selection="">
+        <text xml:space="preserve">Sample size</text>
+    </sentence>
+    <sentence charOffset="12159-12466" id="S90" selection="7a">
+        <text xml:space="preserve">Assuming an initial intracranial haemorrhage volume of 20 mL, an average haemorrhage growth of 7 mL in the control group and a correlation of 0.6 between initial and follow-up volumes, we estimated that a trial with 300 patients would have 80% power (α=0.05) to detect a 35% reduction in haemorrhage growth.</text>
+    </sentence>
+    <sentence charOffset="12467-12694" id="S91" selection="7a">
+        <text xml:space="preserve">We pre-specified in the protocol that, as this study was nested within the main CRASH-2 trial, even if the planned sample size of 300 patients was not achieved, recruitment would stop at the same time as the main CRASH-2 trial.</text>
+    </sentence>
+    <sentence charOffset="12717-12730" id="S92" selection="">
+        <text xml:space="preserve">Randomisation</text>
+    </sentence>
+    <sentence charOffset="12739-12872" id="S93" selection="">
+        <text xml:space="preserve">After eligibility had been confirmed and the locally approved consent procedures had been completed, patients were randomly assigned.</text>
+    </sentence>
+    <sentence charOffset="12873-12970" id="S94" selection="8b">
+        <text xml:space="preserve">Randomisation was balanced by centre, with an allocation sequence based on a block size of eight.</text>
+    </sentence>
+    <sentence charOffset="12971-13091" id="S95" selection="8a">
+        <text xml:space="preserve">We used a local pack system that selected the lowest numbered treatment pack from a box containing eight numbered packs.</text>
+    </sentence>
+    <sentence charOffset="13092-13155" id="S96" selection="9">
+        <text xml:space="preserve">Apart from the pack number, the treatment packs were identical.</text>
+    </sentence>
+    <sentence charOffset="13156-13280" id="S97" selection="10">
+        <text xml:space="preserve">The pack number was recorded on the entry form, which was sent to the international trial coordinating centre in London, UK.</text>
+    </sentence>
+    <sentence charOffset="13281-13444" id="S98" selection="10">
+        <text xml:space="preserve">Once the treatment pack number was recorded, the patient was included in the trial whether or not the treatment pack was opened or the allocated treatment started.</text>
+    </sentence>
+    <sentence charOffset="13445-13540" id="S99" selection="11a">
+        <text xml:space="preserve">All site investigators and trial coordinating centre staff were masked to treatment allocation.</text>
+    </sentence>
+    <sentence charOffset="13563-13571" id="S100" selection="">
+        <text xml:space="preserve">Blinding</text>
+    </sentence>
+    <sentence charOffset="13580-13640" id="S101" selection="11b">
+        <text xml:space="preserve">Tranexamic acid and placebo ampoules were indistinguishable.</text>
+    </sentence>
+    <sentence charOffset="13641-13768" id="S102" selection="">
+        <text xml:space="preserve">Tranexamic acid was manufactured by Pharmacia (Pfizer, Sandwich, UK) and placebo by St Mary’s Pharmaceutical Unit, Cardiff, UK.</text>
+    </sentence>
+    <sentence charOffset="13769-13878" id="S103" selection="">
+        <text xml:space="preserve">The treatment packs were prepared by an independent clinical trial supply company (Bilcare, Crickhowell, UK).</text>
+    </sentence>
+    <sentence charOffset="13879-14041" id="S104" selection="11b">
+        <text xml:space="preserve">Correct blinding and coding of ampoules was assured by independent random testing of each batch by high performance liquid chromatography to confirm the contents.</text>
+    </sentence>
+    <sentence charOffset="14064-14083" id="S105" selection="">
+        <text xml:space="preserve">Statistical methods</text>
+    </sentence>
+    <sentence charOffset="14092-14209" id="S106" selection="12b">
+        <text xml:space="preserve">We assessed the intra-observer reliability of haemorrhage measurements using the intra-class correlation coefficient.</text>
+    </sentence>
+    <sentence charOffset="14210-14282" id="S107" selection="12b">
+        <text xml:space="preserve">We assessed the reliability of binary measurements with the κ statistic.</text>
+    </sentence>
+    <sentence charOffset="14283-14415" id="S108" selection="">
+        <text xml:space="preserve">For continuous variables measuring the haemorrhage, we used the average measurement of the two independent readings in all analyses.</text>
+    </sentence>
+    <sentence charOffset="14416-14579" id="S109" selection="">
+        <text xml:space="preserve">For binary variables, we considered an intracranial finding to be present only if it was reported as present on both readings of a particular patient’s brain scan.</text>
+    </sentence>
+    <sentence charOffset="14588-14654" id="S110" selection="12b">
+        <text xml:space="preserve">We used generalised linear models adjusted for baseline variables.</text>
+    </sentence>
+    <sentence charOffset="14655-14725" id="S111" selection="">
+        <text xml:space="preserve">Covariates included in the adjustment were Glasgow coma scale and age.</text>
+    </sentence>
+    <sentence charOffset="14726-14858" id="S112" selection="">
+        <text xml:space="preserve">For computed tomography outcomes, we also adjusted for time from injury to first and second scan and for initial haemorrhage volume.</text>
+    </sentence>
+    <sentence charOffset="14859-14926" id="S113" selection="">
+        <text xml:space="preserve">In our analysis of mass effect we adjusted for initial mass effect.</text>
+    </sentence>
+    <sentence charOffset="14927-15046" id="S114" selection="">
+        <text xml:space="preserve">Adjusted effects are considered in the primary analysis, but both adjusted and unadjusted effect measures are reported.</text>
+    </sentence>
+    <sentence charOffset="15047-15153" id="S115" selection="">
+        <text xml:space="preserve">We reported 95% confidence intervals for all the effects estimated and P values for the adjusted analyses.</text>
+    </sentence>
+    <sentence charOffset="15162-15295" id="S116" selection="12a">
+        <text xml:space="preserve">Haemorrhage growth was analysed using multiple linear regression (analysis of covariance), the main factor being the treatment group.</text>
+    </sentence>
+    <sentence charOffset="15296-15461" id="S117" selection="12a">
+        <text xml:space="preserve">Outcomes are reported combined and separately for patients who did or did not undergo neurosurgical evacuation between the first and second computed tomography scan.</text>
+    </sentence>
+    <sentence charOffset="15462-15518" id="S118" selection="12a">
+        <text xml:space="preserve">Binary outcomes were analysed using logistic regression.</text>
+    </sentence>
+    <sentence charOffset="15519-15631" id="S119" selection="12a">
+        <text xml:space="preserve">Subarachnoid haemorrhage scale was compared in the two groups using a non-parametric rank test (Kruskal-Wallis).</text>
+    </sentence>
+    <sentence charOffset="15632-15692" id="S120" selection="">
+        <text xml:space="preserve">All analyses were undertaken on an intention to treat basis.</text>
+    </sentence>
+    <sentence charOffset="15701-15852" id="S121" selection="">
+        <text xml:space="preserve">To evaluate the clinical relevance of the primary surrogate outcome selected in this study, we also analysed the clinical effect of haemorrhage growth.</text>
+    </sentence>
+    <sentence charOffset="15853-16189" id="S122" selection="12a">
+        <text xml:space="preserve">We conducted a logistic regression analysis with dependency (as defined by the modified Oxford handicap scale) as the outcome and haemorrhage growth as the main exposure variable, with adjustment by the potential confounders of initial haemorrhage volume, Glasgow coma scale, age, time from injury to computed tomography, and treatment.</text>
+    </sentence>
+    <sentence charOffset="16198-16278" id="S123" selection="12a">
+        <text xml:space="preserve">We used the statistical software package Stata (version SE/11·0) from StataCorp.</text>
+    </sentence>
+    <sentence charOffset="16301-16327" id="S124" selection="">
+        <text xml:space="preserve">Role of the funding source</text>
+    </sentence>
+    <sentence charOffset="16336-16467" id="S125" selection="">
+        <text xml:space="preserve">The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.</text>
+    </sentence>
+    <sentence charOffset="16468-16603" id="S126" selection="">
+        <text xml:space="preserve">The Writing Committee had full access to all data in the study and had final responsibility for the decision to submit for publication.</text>
+    </sentence>
+    <sentence charOffset="16627-16634" id="S127">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="16641-16886" id="S128" selection="13a,14a,14b">
+        <text xml:space="preserve">We recruited 270 patients (133 allocated to tranexamic acid and 137 allocated to placebo) between August 2008 and January 2010 (figure).This nested study was stopped when the main CRASH-2 trial’s pre-specified sample size of 20 000 was achieved.</text>
+    </sentence>
+    <sentence charOffset="16887-17022" id="S129" selection="13a">
+        <text xml:space="preserve">All patients received the loading and maintenance doses, except one patient allocated placebo who did not receive the maintenance dose.</text>
+    </sentence>
+    <sentence charOffset="17023-17075" id="S130" selection="13a">
+        <text xml:space="preserve">All patients were followed up for clinical outcomes.</text>
+    </sentence>
+    <sentence charOffset="17076-17145" id="S131" selection="13a">
+        <text xml:space="preserve">A total of 256 patients (95%) had the first computed tomography scan.</text>
+    </sentence>
+    <sentence charOffset="17146-17299" id="S132" selection="13b">
+        <text xml:space="preserve">In 14 patients (six allocated to tranexamic acid, eight controls allocated to placebo), the first scan was unavailable for reading for technical reasons.</text>
+    </sentence>
+    <sentence charOffset="17300-17393" id="S133" selection="13b">
+        <text xml:space="preserve">Five patients died before the second scan (three allocated to tranexamic acid, two controls).</text>
+    </sentence>
+    <sentence charOffset="17394-17785" id="S134" selection="13b">
+        <text xml:space="preserve">Protocol deviations were as follows: nine (3%) patients were randomised before the first computed tomography (six allocated tranexamic acid, three controls); 31 (11%) had a Glasgow coma scale of 15 at baseline (17 allocated tranexamic acid, 14 controls); and in 51 (19%) the second computed tomography was conducted outside the 24–48 hours window (25 allocated tranexamic acid, 26 controls).</text>
+    </sentence>
+    <sentence charOffset="17793-17836" id="S135" selection="13a,13b,16">
+        <text xml:space="preserve">Fig 1 Summary of patient flow through trial</text>
+    </sentence>
+    <sentence charOffset="17843-17957" id="S136" selection="15">
+        <text xml:space="preserve">Baseline characteristics of the included patients and their first brain scan findings are shown in tables 1 and 2.</text>
+    </sentence>
+    <sentence charOffset="17958-18126" id="S137" selection="15">
+        <text xml:space="preserve">A total of 211 patients (82%) had some form of intracranial haemorrhage (intraparenchymal haematoma, haemorrhagic contusion, subdural haematoma, or epidural haematoma).</text>
+    </sentence>
+    <sentence charOffset="18127-18230" id="S138" selection="15">
+        <text xml:space="preserve">Five patients had a focal ischaemic lesion (two patients in the tranexamic acid group, three controls).</text>
+    </sentence>
+    <sentence charOffset="18231-18384" id="S139" selection="15">
+        <text xml:space="preserve">Forty patients (20 allocated tranexamic acid, 20 controls) had neurosurgical evacuation on the basis of findings from the first computed tomography scan.</text>
+    </sentence>
+    <sentence charOffset="18391-18573" id="S140" selection="15">
+        <text xml:space="preserve">Table 1  Baseline clinical characteristics of patients with, or at risk of, serious extracranial bleeding and traumatic brain injury who were allocated to tranexamic acid or placebo.</text>
+    </sentence>
+    <sentence charOffset="18574-18642" id="S141" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) of patients unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="18649-18839" id="S142" selection="15">
+        <text xml:space="preserve">Table 2  Results from baseline computed tomography of patients with, or at risk of, serious extracranial bleeding and traumatic brain injury who were allocated to tranexamic acid or placebo.</text>
+    </sentence>
+    <sentence charOffset="18840-18884" id="S143" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) of patients</text>
+    </sentence>
+    <sentence charOffset="18891-19015" id="S144" selection="18">
+        <text xml:space="preserve">Intra-observer reliability for reading computed tomographies was high for all outcomes except new intracranial haemorrhages.</text>
+    </sentence>
+    <sentence charOffset="19016-19094" id="S145" selection="18">
+        <text xml:space="preserve">The intra-class correlation coefficient for total haemorrhage growth was 0.89.</text>
+    </sentence>
+    <sentence charOffset="19095-19303" id="S146" selection="18">
+        <text xml:space="preserve">The κ scores for the categorical variables significant haemorrhage growth, new intracranial haemorrhage, any mass effect, and new focal cerebral ischaemic lesions were 0.82, 0.32, 0.81, and 0.89 respectively.</text>
+    </sentence>
+    <sentence charOffset="19310-19450" id="S147" selection="15">
+        <text xml:space="preserve">The mean initial intracranial haemorrhage volume was 16.8 mL (SD 23.8) in the tranexamic acid group and 19.8 mL (28.3) in the placebo group.</text>
+    </sentence>
+    <sentence charOffset="19451-19583" id="S148" selection="15">
+        <text xml:space="preserve">Computed tomography outcomes were available for 249 (99%) of the 251 patients who had a first brain scan and were alive at 24 hours.</text>
+    </sentence>
+    <sentence charOffset="19599-19614" id="S149" selection="">
+        <text xml:space="preserve">Primary outcome</text>
+    </sentence>
+    <sentence charOffset="19623-19754" id="S150" selection="17a">
+        <text xml:space="preserve">The mean total haemorrhage growth was 5.9 mL (SD 26.8) and 8.1 mL (SD 29.2) in the tranexamic acid and placebo groups respectively.</text>
+    </sentence>
+    <sentence charOffset="19755-19953" id="S151" selection="17a">
+        <text xml:space="preserve">The adjusted analysis showed a reduction in total haemorrhage growth in the tranexamic acid group in comparison with the controls of –3.8 mL (95% confidence interval –11.5 to 3.9, P=0.33) (table 3).</text>
+    </sentence>
+    <sentence charOffset="19962-20164" id="S152" selection="17a">
+        <text xml:space="preserve">Table 3  Effect of tranexamic acid on total haemorrhage growth among patients with, or at risk of, serious extracranial bleeding and traumatic brain injury who were allocated tranexamic acid or placebo.</text>
+    </sentence>
+    <sentence charOffset="20165-20292" id="S153" selection="">
+        <text xml:space="preserve">Values are difference (95% confidence interval) between patients allocated tranexamic acid and controls unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="20315-20349" id="S154" selection="">
+        <text xml:space="preserve">Other computed tomography outcomes</text>
+    </sentence>
+    <sentence charOffset="20358-20734" id="S155" selection="17b">
+        <text xml:space="preserve">In the tranexamic acid and placebo groups respectively, significant haemorrhage growth occurred in 44 (36%) and 56 (44%) patients, new haemorrhage areas occurred in 13 (11%) and 20 (16%), signs of mass effect occurred in 58 (47%) and 76 (60%), and new focal cerebral ischaemic lesions occurred in six (5%) and 12 (9%) (see table 4 for the unadjusted and adjusted odds ratios).</text>
+    </sentence>
+    <sentence charOffset="20743-20960" id="S156" selection="17b">
+        <text xml:space="preserve">Table 4  Effect of tranexamic acid on binary outcomes from computed tomography among patients with, or at risk of, serious extracranial bleeding and traumatic brain injury who were allocated tranexamic acid or placebo</text>
+    </sentence>
+    <sentence charOffset="20969-21107" id="S157" selection="17a">
+        <text xml:space="preserve">The change in the subarachnoid haemorrhage scale was –0.11 for patients allocated tranexamic acid and –0.12 for control patients (P=0.93).</text>
+    </sentence>
+    <sentence charOffset="21130-21147" id="S158" selection="">
+        <text xml:space="preserve">Clinical outcomes</text>
+    </sentence>
+    <sentence charOffset="21156-21327" id="S159" selection="17b">
+        <text xml:space="preserve">There were 14/133 (11%) deaths in the tranexamic acid group and 24/137 (18%) in the placebo group (adjusted odds ratio 0.47 (95% confidence interval 0.21 to 1.04, P=0.06).</text>
+    </sentence>
+    <sentence charOffset="21328-21546" id="S160" selection="17b">
+        <text xml:space="preserve">Among the survivors, a total of 26/119 (22%) patients in the tranexamic acid group and 29/113 (26%) in the placebo group were dependent at hospital discharge or 28 days (adjusted odds ratio 0.66 (0.32 to 1.36, P=0.26).</text>
+    </sentence>
+    <sentence charOffset="21547-21777" id="S161" selection="17b">
+        <text xml:space="preserve">Twenty (15%) of the 133 patients in the tranexamic acid group and 21/137 (15%) in the placebo group had neurosurgery other than those evacuations based on first brain scan findings (adjusted odds ratio 0.98 (0.45 to 1.93) P=0.95).</text>
+    </sentence>
+    <sentence charOffset="21800-21818" id="S162" selection="">
+        <text xml:space="preserve">Composite outcomes</text>
+    </sentence>
+    <sentence charOffset="21827-21991" id="S163" selection="17b">
+        <text xml:space="preserve">Sixty (45%) patients in the tranexamic acid group and 80 (58%) in the placebo group had a “composite poor outcome” (adjusted odds ratio 0.57 (0.33 to 0.98) P=0.04).</text>
+    </sentence>
+    <sentence charOffset="21992-22144" id="S164" selection="19">
+        <text xml:space="preserve">No emergency unblinding was needed, and there were no adverse events regarded as serious, unexpected, or suspected to be related to the study treatment.</text>
+    </sentence>
+    <sentence charOffset="22145-22311" id="S165" selection="17a">
+        <text xml:space="preserve">We also found that an increase in haemorrhage growth of 10 mL was strongly associated with dependency at hospital discharge (adjusted odds ratio 1.32 (1.08 to 1.62)).</text>
+    </sentence>
+    <sentence charOffset="22335-22345" id="S166">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="22352-22570" id="S167" selection="22">
+        <text xml:space="preserve">This is the first randomised controlled study to evaluate the effect of tranexamic acid in patients with traumatic brain injury, and we found that neither moderate benefits nor moderate harmful effects can be excluded.</text>
+    </sentence>
+    <sentence charOffset="22571-22808" id="S168" selection="22">
+        <text xml:space="preserve">However, despite the relatively wide confidence intervals, our analyses suggest that tranexamic acid administration might improve outcome after traumatic brain injury and provide grounds for evaluating this hypothesis in future research.</text>
+    </sentence>
+    <sentence charOffset="22815-23057" id="S169" selection="20,21">
+        <text xml:space="preserve">The Intracranial Bleeding Study was conducted among patients with traumatic brain injury who also had significant extracranial haemorrhage, and the effect of tranexamic acid might be different in patients with isolated traumatic brain injury.</text>
+    </sentence>
+    <sentence charOffset="23058-23195" id="S170" selection="">
+        <text xml:space="preserve">It has been suggested that, among patients with traumatic brain injury, only those with hypotension activate the fibrinolytic response.18</text>
+    </sentence>
+    <sentence charOffset="23196-23476" id="S171" selection="22">
+        <text xml:space="preserve">It is possible that in our study population tranexamic acid reduced extracranial bleeding, and therefore patients in the tranexamic acid group were less hypotensive, and less coagulopathic, and through this mechanism tranexamic acid reduced the expansion of intracranial bleeding.</text>
+    </sentence>
+    <sentence charOffset="23477-23559" id="S172" selection="">
+        <text xml:space="preserve">However, only 7% of the included patients had a systolic blood pressure &lt;90 mm Hg.</text>
+    </sentence>
+    <sentence charOffset="23560-23727" id="S173" selection="22">
+        <text xml:space="preserve">Furthermore, we did not find evidence of treatment interaction according to systolic blood pressure at admission (P value for interaction for haemorrhage growth 0.38).</text>
+    </sentence>
+    <sentence charOffset="23728-23896" id="S174" selection="">
+        <text xml:space="preserve">Additionally, a recent paper has challenged this basic hypothesis by reporting that coagulopathy is also found in traumatic brain injury patients without hypotension.19</text>
+    </sentence>
+    <sentence charOffset="23903-24140" id="S175" selection="22">
+        <text xml:space="preserve">The larger effect on haematoma growth observed in surgical patients is consistent with the evidence of effectiveness of antifibrinolytic agents in elective surgery, for which antifibrinolytic agents have been shown to reduce blood loss.1</text>
+    </sentence>
+    <sentence charOffset="24147-24250" id="S176" selection="">
+        <text xml:space="preserve">We found a reduction in new focal cerebral ischaemic lesions in the patients allocated tranexamic acid.</text>
+    </sentence>
+    <sentence charOffset="24251-24407" id="S177" selection="22">
+        <text xml:space="preserve">However, the overall incidence of these lesions was low, and it is possible that the observed difference between the groups may have arisen by chance alone.</text>
+    </sentence>
+    <sentence charOffset="24408-24543" id="S178" selection="22">
+        <text xml:space="preserve">Nevertheless, it is plausible that if tranexamic acid reduces haemorrhage growth then this could reduce the local pressure on arteries.</text>
+    </sentence>
+    <sentence charOffset="24544-24623" id="S179" selection="22">
+        <text xml:space="preserve">Any reduction in intracranial pressure might also reduce the risk of ischaemia.</text>
+    </sentence>
+    <sentence charOffset="24624-24884" id="S180" selection="20,22">
+        <text xml:space="preserve">Given that tranexamic acid has been shown to reduce mortality from bleeding, it is also possible that patients allocated to tranexamic acid may have had a more stable circulation and that this may have accounted for the observed reduction in ischaemic lesions.</text>
+    </sentence>
+    <sentence charOffset="24885-25153" id="S181" selection="22">
+        <text xml:space="preserve">Our findings differ from those reported in a systematic review of randomised controlled trials of tranexamic acid in patients with aneurysmal subarachnoid haemorrhage, which found that tranexamic acid reduced the rate of re-bleeding but increased cerebral ischaemia.20</text>
+    </sentence>
+    <sentence charOffset="25154-25262" id="S182" selection="22">
+        <text xml:space="preserve">However, the doses of tranexamic acid used in these trials were larger and more prolonged than in our study.</text>
+    </sentence>
+    <sentence charOffset="25263-25356" id="S183" selection="22">
+        <text xml:space="preserve">Furthermore, the risk and mechanism of cerebral ischaemia is different in the two conditions.</text>
+    </sentence>
+    <sentence charOffset="25363-25567" id="S184" selection="22">
+        <text xml:space="preserve">Regarding the clinical outcomes, although the results were not statistically significant, we found a trend towards a reduction in mortality, without any evidence of increase in dependency among survivors.</text>
+    </sentence>
+    <sentence charOffset="25574-25754" id="S185" selection="22">
+        <text xml:space="preserve">When we assessed the effect of tranexamic acid on a composite outcome that considered poor computed tomography and clinical outcomes we found a statistically significant reduction.</text>
+    </sentence>
+    <sentence charOffset="25755-25923" id="S186" selection="22">
+        <text xml:space="preserve">Importantly, this composite outcome was pre-specified, and the effect on all the outcomes included in the composite outcome showed the same direction towards benefit.21</text>
+    </sentence>
+    <sentence charOffset="25940-25974" id="S187" selection="">
+        <text xml:space="preserve">Strengths and limitations of study</text>
+    </sentence>
+    <sentence charOffset="25983-26015" id="S188" selection="">
+        <text xml:space="preserve">Our study has several strengths.</text>
+    </sentence>
+    <sentence charOffset="26016-26180" id="S189" selection="">
+        <text xml:space="preserve">It was a prospective study which collected detailed computed tomographic data, with clear inclusion criteria, pre-specified outcomes, and statistical analysis plan.</text>
+    </sentence>
+    <sentence charOffset="26181-26432" id="S190" selection="">
+        <text xml:space="preserve">The randomisation methods ensured that participating clinicians did not have foreknowledge of treatment allocation, baseline clinical factors were well balanced, there was high follow-up, and all analyses were performed on an intention to treat basis.</text>
+    </sentence>
+    <sentence charOffset="26433-26630" id="S191" selection="">
+        <text xml:space="preserve">Although there were baseline differences between patients allocated tranexamic acid and those allocated placebo in some scan findings, the adjusted analyses should have accounted for any imbalance.</text>
+    </sentence>
+    <sentence charOffset="26631-26871" id="S192" selection="">
+        <text xml:space="preserve">We attempted to minimise measurement error through the use of central computed tomogram reading by an experienced neuroradiologist, following a pre-specified validated protocol of qualitative and quantitative methods to assess brain damage.</text>
+    </sentence>
+    <sentence charOffset="26872-27010" id="S193" selection="">
+        <text xml:space="preserve">The protocol used previously validated methods, and those that had not been previously validated were further tested in the present study.</text>
+    </sentence>
+    <sentence charOffset="27011-27088" id="S194" selection="">
+        <text xml:space="preserve">We found that intra-rater reliability was high for most imaging measurements.</text>
+    </sentence>
+    <sentence charOffset="27097-27293" id="S195" selection="20">
+        <text xml:space="preserve">Among the limitations, our study included only a relatively small sample of the CRASH-2 participants with traumatic brain injury, and a larger sample size could have provided more precise results.</text>
+    </sentence>
+    <sentence charOffset="27294-27491" id="S196" selection="20">
+        <text xml:space="preserve">The nature of a large pragmatic trial such as the CRASH-2 trial constrained our ability to collect computed tomograms for all the patients with traumatic brain injury included in the CRASH-2 trial.</text>
+    </sentence>
+    <sentence charOffset="27492-27648" id="S197" selection="">
+        <text xml:space="preserve">Nevertheless, the relatively small sample size does not affect the internal validity of this study, and, although imprecise, the results should be unbiased.</text>
+    </sentence>
+    <sentence charOffset="27671-27694" id="S198" selection="">
+        <text xml:space="preserve">Implications of results</text>
+    </sentence>
+    <sentence charOffset="27703-27886" id="S199" selection="">
+        <text xml:space="preserve">The CRASH-2 trial has shown reliably that early administration of tranexamic acid in trauma patients with, or at risk of, significant bleeding reduces the risk of all cause mortality.</text>
+    </sentence>
+    <sentence charOffset="27887-27999" id="S200" selection="">
+        <text xml:space="preserve">As a consequence of this trial, tranexamic acid has been incorporated into trauma treatment protocols worldwide.</text>
+    </sentence>
+    <sentence charOffset="28000-28198" id="S201" selection="">
+        <text xml:space="preserve">Many patients with traumatic haemorrhage also have traumatic brain injury, and concerns about the risk of cerebral ischaemia may affect decisions whether to give tranexamic acid to these patients.22</text>
+    </sentence>
+    <sentence charOffset="28199-28525" id="S202" selection="22">
+        <text xml:space="preserve">The results presented here are the only available evidence to inform doctors about the effect of tranexamic acid on brain ischaemic lesions in patients with traumatic haemorrhage and traumatic brain injury, and, although imprecise, the results should give some reassurance about the safety of tranexamic acid in such patients.</text>
+    </sentence>
+    <sentence charOffset="28534-28588" id="S203" selection="">
+        <text xml:space="preserve">Our results also have important research implications.</text>
+    </sentence>
+    <sentence charOffset="28589-28779" id="S204" selection="22">
+        <text xml:space="preserve">In theory, if tranexamic acid reduces intracranial haemorrhage after traumatic brain injury without increasing the risk of ischaemic lesions, it could substantially improve patient outcomes.</text>
+    </sentence>
+    <sentence charOffset="28780-28893" id="S205" selection="">
+        <text xml:space="preserve">Until now, however, no trial has evaluated the effect of tranexamic acid in patients with traumatic brain injury.</text>
+    </sentence>
+    <sentence charOffset="28894-29025" id="S206" selection="22">
+        <text xml:space="preserve">Our results suggest it is probable that, in such patients, the benefits of tranexamic acid administration would outweigh the risks.</text>
+    </sentence>
+    <sentence charOffset="29026-29215" id="S207" selection="22">
+        <text xml:space="preserve">If such an inexpensive and widely practicable treatment were found to improve patient outcomes after traumatic intracranial haemorrhage this would have major implications for clinical care.</text>
+    </sentence>
+    <sentence charOffset="29216-29410" id="S208" selection="">
+        <text xml:space="preserve">The CRASH-3 trial (http://crash3.lshtm.ac.uk/) will determine reliably the effectiveness of the early administration of a short course of tranexamic acid in patients with traumatic brain injury.</text>
+    </sentence>
+    <sentence charOffset="29443-29478" id="S209" selection="">
+        <text xml:space="preserve">What is already known on this topic</text>
+    </sentence>
+    <sentence charOffset="29523-29708" id="S210" selection="">
+        <text xml:space="preserve">Intracranial bleeding is a common complication in patients with traumatic brain injury, and about a third of patients with traumatic brain injury have coagulopathy at hospital admission</text>
+    </sentence>
+    <sentence charOffset="29755-29958" id="S211" selection="">
+        <text xml:space="preserve">The antifibrinolytic tranexamic acid reduces mortality in trauma patients with significant extracranial bleeding, but no randomised study has evaluated its effects in patients with traumatic brain injury</text>
+    </sentence>
+    <sentence charOffset="30021-30041" id="S212" selection="">
+        <text xml:space="preserve">What this study adds</text>
+    </sentence>
+    <sentence charOffset="30086-30262" id="S213" selection="">
+        <text xml:space="preserve">In this randomised, placebo controlled trial neither moderate benefits nor moderate harmful effects of tranexamic acid in patients with traumatic brain injury could be excluded</text>
+    </sentence>
+    <sentence charOffset="30309-30521" id="S214" selection="">
+        <text xml:space="preserve">However, the non-significant trends to beneficial effects justify a randomised controlled trial to evaluate the effectiveness of the early administration of tranexamic acid in patients with traumatic brain injury</text>
+    </sentence>
+    <sentence charOffset="30568-30769" id="S215" selection="">
+        <text xml:space="preserve">An early short course of tranexamic acid seems to be safe (in relation to new ischaemic brain lesions) in patients with trauma, extracranial significant bleeding, and concomitant traumatic brain injury</text>
+    </sentence>
+    <sentence charOffset="30834-30845" id="S216">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="30873-30947" id="S217" selection="">
+        <text xml:space="preserve">The database programming was carried out by Tony Brady of Sealed Envelope.</text>
+    </sentence>
+    <sentence charOffset="30976-31027" id="S218" selection="">
+        <text xml:space="preserve">CRASH-2 Collaborators (Intracranial Bleeding Study)</text>
+    </sentence>
+    <sentence charOffset="31057-31473" id="S219" selection="">
+        <text xml:space="preserve">Writing Committee: Pablo Perel (UK) (chair), Rustam Al-Shahi Salman (UK), Alfredo Constain (Colombia), Yashbir Dewan (India), Jorge Herrera (Colombia), Taemi Kawahara (UK), Anil P Lal (India), Jorge Mejía-Mantilla (Colombia), Carlos Morales (Colombia), Zoe Morris (UK), David Prieto-Merino (UK), P V Ramana (India), R R Ravi (India), Ian Roberts (UK), Peter Sandercock (UK), Haleema Shakur (UK), Joanna Wardlaw (UK).</text>
+    </sentence>
+    <sentence charOffset="31474-31616" id="S220" selection="">
+        <text xml:space="preserve">The Clinical Trials Unit had full access to all the data in the study and had final responsibility for the decision to submit for publication.</text>
+    </sentence>
+    <sentence charOffset="31645-31954" id="S221" selection="">
+        <text xml:space="preserve">India Collaborators: Anil P Lal, Natasha Gohain (Aditya Neuroscience Centre and Sanjivani Hospital); P V Ramana (Care Hospital); Yashbir Dewan, Sarvpreet Singh Grewal, Pradipta Tripathy (Christian Medical College); RR Ravi, S Raja, Anand Doshi (Medical Trust Hospital); Prakash Khetan (Jeevan Jyoti Hospital).</text>
+    </sentence>
+    <sentence charOffset="31984-32311" id="S222" selection="">
+        <text xml:space="preserve">Colombian Collaborators: Carlos Morales, Santiago Naranjo (University of Antioquia, Hospital Universitario San Vicente de Paul); Alfredo Constain, Edwin Vazquez Salazar (Hospital Pablo Tobon Uribe); Jorge Herrera, Liliana Caicedo (Hospital San José de Popayán); Jorge Mejía-Mantilla, Ana MariaVarela (Fundación Valle del Lili).</text>
+    </sentence>
+    <sentence charOffset="32341-32984" id="S223" selection="">
+        <text xml:space="preserve">UK Coordinating Team: Eni Balogun (clinical trials associate), Lin Barnetson (data manager), Collette Barrow (assistant trials administrator), Matthew Berle (trials assistant), Lisa Cook (assistant trials manager), Avni Gadhiya (data assistant), Taemi Kawahara (assistant trials manager), Pablo Perel (clinical lecturer), Maria Ramos (trials administrator), Ian Roberts (clinical coordinator), Chris Rubery (data assistant), Haleema Shakur (senior lecturer), Cynthia To (data assistant) (London School of Hygiene &amp; Tropical Medicine); Rustam Al-Shahi Salman, Zoe Morris, David Perry, Peter Sandercock, Joanna Wardlaw (University of Edinburgh).</text>
+    </sentence>
+    <sentence charOffset="33014-33187" id="S224" selection="">
+        <text xml:space="preserve">Steering Committee: Ian Franklin (chair), Brigitte Chaudhry, Tim Coats, Charles Deakin, Steve Goodacre, BJ Hunt, David Meddings, Richard Peto, Ian Roberts, Peter Sandercock.</text>
+    </sentence>
+    <sentence charOffset="33216-33372" id="S225" selection="25">
+        <text xml:space="preserve">Funding: The CRASH-2 study was funded by the UK NIHR Health Technology Assessment programme, Pfizer, BUPA Foundation, and J P Moulton Charitable Foundation.</text>
+    </sentence>
+    <sentence charOffset="33373-33460" id="S226" selection="25">
+        <text xml:space="preserve">This sub-study was funded by the UK Health Technology Assessment programme (06/303/20).</text>
+    </sentence>
+    <sentence charOffset="33461-33538" id="S227" selection="25">
+        <text xml:space="preserve">Rustam Al-Shahi Salman was funded by a UK MRC clinician scientist fellowship.</text>
+    </sentence>
+    <sentence charOffset="33539-33696" id="S228" selection="25">
+        <text xml:space="preserve">Joanna Wardlaw was funded by the Scottish Funding Council through the SINAPSE Collaboration (Scottish Imaging Network, A Platform for Scientific Excellence).</text>
+    </sentence>
+    <sentence charOffset="33725-34360" id="S229" selection="">
+        <text xml:space="preserve">Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare: the submitted work was funded by the UK Health Technology Assessment programme (06/303/20), Rustam Al-Shahi Salman was funded by a UK MRC clinician scientist fellowship, Joanna Wardlaw was funded by the Scottish Funding Council; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work.</text>
+    </sentence>
+    <sentence charOffset="34390-34674" id="S230" selection="">
+        <text xml:space="preserve">Data sharing: Full information on accessing the data from this trial is available via freeBIRD (free Bank of Injury and emergency Research Data), a data repository hosted by the Clinical Trials Unit, London School of Hygiene and Tropical Medicine, at http://ctu2.lshtm.ac.uk/freebird.</text>
+    </sentence>
+    <sentence charOffset="34703-34735" id="S231" selection="">
+        <text xml:space="preserve">Cite this as: BMJ 2011;343:d3795</text>
+    </sentence>
+    <section textSpan="0-142" title="Title" titleSpan="0-5"/>
+    <section textSpan="143-2240" title="Abstract" titleSpan="143-151"/>
+    <section textSpan="2246-4792" title="Introduction" titleSpan="2253-2265"/>
+    <section textSpan="4797-16615" title="Methods" titleSpan="4804-4811">
+        <section textSpan="6117-6370" title="Interventions" titleSpan="6126-6139"/>
+        <section textSpan="6377-12123" title="Outcomes" titleSpan="6386-6394">
+            <section textSpan="7331-10454" title="Methods used to measure brain lesions detected with computed tomography" titleSpan="7344-7415">
+                <section textSpan="7428-8103" title="Parenchymal haemorrhage and haemorrhagic contusion (defined as focal low attenuation with patchy and relatively ill-defined haemorrhage)" titleSpan="7443-7579"/>
+                <section textSpan="8116-8792" title="Subdural haematomas" titleSpan="8131-8150"/>
+                <section textSpan="8805-9477" title="Epidural haematomas" titleSpan="8820-8839"/>
+                <section textSpan="9490-9819" title="Subarachnoid haemorrhage " titleSpan="9505-9530"/>
+                <section textSpan="9832-10152" title="New focal ischaemic lesions" titleSpan="9847-9874"/>
+                <section textSpan="10165-10443" title="Mass effect" titleSpan="10180-10191"/>
+            </section>
+        </section>
+        <section textSpan="12130-12701" title="Sample size" titleSpan="12139-12150"/>
+        <section textSpan="12708-13547" title="Randomisation" titleSpan="12717-12730"/>
+        <section textSpan="13554-14048" title="Blinding" titleSpan="13563-13571"/>
+        <section textSpan="14055-16285" title="Statistical methods" titleSpan="14064-14083"/>
+        <section textSpan="16292-16610" title="Role of the funding source" titleSpan="16301-16327"/>
+    </section>
+    <section textSpan="16620-22323" title="Results" titleSpan="16627-16634">
+        <section textSpan="19590-20299" title="Primary outcome" titleSpan="19599-19614"/>
+        <section textSpan="20306-21114" title="Other computed tomography outcomes" titleSpan="20315-20349"/>
+        <section textSpan="21121-21784" title="Clinical outcomes" titleSpan="21130-21147"/>
+        <section textSpan="21791-22318" title="Composite outcomes" titleSpan="21800-21818"/>
+    </section>
+    <section textSpan="22328-30829" title="Discussion" titleSpan="22335-22345">
+        <section textSpan="25931-27655" title="Strengths and limitations of study" titleSpan="25940-25974"/>
+        <section textSpan="27662-30824" title="Implications of results" titleSpan="27671-27694">
+            <section textSpan="29430-29997" title="What is already known on this topic" titleSpan="29443-29478"/>
+            <section textSpan="30008-30808" title="What this study adds" titleSpan="30021-30041"/>
+        </section>
+    </section>
+    <section textSpan="30834-34741" title="Back matter" titleSpan="30834-30845"/>
+</document>

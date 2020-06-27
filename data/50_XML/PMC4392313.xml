@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC4392313" note="">
+    <text xml:space="preserve">Title
+Effect of interleukin-6 receptor blockade on surrogates of vascular risk in rheumatoid arthritis: MEASURE, a randomised, placebo-controlled study
+Abstract
+
+        
+          Objectives
+          The interleukin-6 receptor (IL-6R) blocker tocilizumab (TCZ) reduces inflammatory disease activity in rheumatoid arthritis (RA) but elevates lipid concentrations in some patients. We aimed to characterise the impact of IL-6R inhibition on established and novel risk factors in active RA.
+        
+        
+          Methods
+          Randomised, multicentre, two-part, phase III trial (24-week double-blind, 80-week open-label), MEASURE, evaluated lipid and lipoprotein levels, high-density lipoprotein (HDL) particle composition, markers of coagulation, thrombosis and vascular function by pulse wave velocity (PWV) in 132 patients with RA who received TCZ or placebo.
+        
+        
+          Results
+          Median total-cholesterol, low-density lipoprotein-cholesterol (LDL-C) and triglyceride levels increased in TCZ versus placebo recipients by week 12 (12.6% vs 1.7%, 28.1% vs 2.2%, 10.6% vs −1.9%, respectively; all p&lt;0.01). There were no significant differences in mean small LDL, mean oxidised LDL or total HDL-C concentrations. However, HDL-associated serum amyloid A content decreased in TCZ recipients. TCZ also induced reductions (&gt;30%) in secretory phospholipase A2-IIA, lipoprotein(a), fibrinogen and D-dimers and elevation of paraoxonase (all p&lt;0.0001 vs placebo). The ApoB/ApoA1 ratio remained stable over time in both groups. PWV decreases were greater with placebo than TCZ at 12 weeks (adjusted mean difference 0.79 m/s (95% CI 0.22 to 1.35; p=0.0067)).
+        
+        
+          Conclusions
+          These data provide the first detailed evidence for the modulation of lipoprotein particles and other surrogates of vascular risk with IL-6R inhibition. When compared with placebo, TCZ induced elevations in LDL-C but altered HDL particles towards an anti-inflammatory composition and favourably modified most, but not all, measured vascular risk surrogates. The net effect of such changes for cardiovascular risk requires determination.
+        
+      
+
+
+    
+      Introduction
+      Rheumatoid arthritis (RA) is a chronic inflammatory disease associated with clinically important comorbidities, including accelerated cardiovascular risk.1 The latter is not explained by conventional risk factors (eg, hypertension, obesity), suggesting that additional pathways contribute to adverse outcomes. These may reflect common genetic or environmental aetiological factors or the impact of chronic inflammation on underlying atherosclerotic disease burden, operating through circulating cytokines, immune complexes, complement factors and acute-phase reactants.2–4 Furthermore, it is recognised that absolute circulating lipid concentrations are modified in RA, likely reflecting regulatory integration of metabolic and inflammatory molecular networks.5 In general, high-density lipoprotein-cholesterol (HDL-C) and low-density lipoprotein-cholesterol (LDL-C) levels are reduced in active disease6 and may increase on the initiation of effective therapeutics regardless of modality.7 Moreover, interpretation of lipid particle concentrations may be further complicated by changes in size and composition associated with inflammation. For example, small LDL-C particles may confer more atherogenic risk than larger LDL-C particles.8 In inflammatory conditions, HDL particles are associated with increased serum amyloid A (SAA) content, representing a potentially proatherogenic phenotype.9 The impact of therapy on subparticle components in RA has not been well characterised. Similarly, the effect of therapy on other lipid particles causally associated with vascular disease, such as lipoprotein(a) (Lp[a]),10 and on clotting factors, such as fibrinogen or markers of activated clotting such as D-dimer,11 is poorly understood.
+      Interleukin-6 (IL-6) plays an important role in various inflammatory effector pathways in RA through B-cell, fibroblast and osteoclast activation. Additionally, it mediates systemic manifestations of disease operating through hepatic and central neurological pathways.12 Intriguingly, elevated IL-6 levels are independently associated with increased cardiovascular risk, including fatal myocardial infarction and cerebrovascular accident, in the general population.13 14 The mechanisms mediating such epidemiological observations are poorly understood but are likely to be commensurate with the fundamental role played by inflammatory pathways in the pathogenesis of atherosclerosis, the systemic functional activities of IL-6 conferred by widespread gp130 receptor membrane expression and the existence of soluble IL-6 receptor (IL-6R).15 Moreover, loss-of-function IL-6R polymorphisms are associated with reduced vascular risk.16 17
+      Tocilizumab (TCZ) is a monoclonal antibody targeting IL-6R (membrane-bound and soluble) that reduces inflammation and articular damage in patients with RA. In phase II and III trials, moderate elevations of LDL-C, HDL-C and triglycerides were apparent in RA patients treated with TCZ.7 The atherogenic implications of these changes are unknown. Similarly, the effect of IL-6R blockade on vascular physiology parameters (eg, as assessed by pulse wave velocity (PWV)) has been minimally explored. PWV is a measure of early structural vascular changes and has been shown to respond within 3 months to changes in vascular inflammation.18 Thus, given its mode of action, TCZ provides a highly specific molecular intervention with which to dissect the role of IL-6 in the modulation of lipid particles and the regulation of other vascular risk factors in patients with chronic inflammation. We report herein the results of a placebo-controlled trial that sought to define the effects of TCZ on a range of vascular risk surrogates in patients with RA. Our primary hypotheses were that PWV and small LDL particles would be significantly reduced by TCZ.
+    
+    
+      Methods
+      
+        Patients
+        This trial, conducted independently of the pivotal RA trials, was approved by an independent ethics committee or institutional review board, and all patients gave written informed consent for participation in the trial. Adult patients with moderately to severely active RA (diagnosed per American College of Rheumatology (ACR) criteria) of more than 6 months’ duration were recruited. Enrolment criteria included inadequate response to stable methotrexate (MTX) therapy, exemplified by a swollen joint count (SJC) ≥6 and a tender joint count (TJC) ≥6, together with C-reactive protein (CRP) &gt;10 mg/L or erythrocyte sedimentation rate (ESR) &gt;28 mm/h. Patients with inadequate response to an antitumour necrosis factor-α (aTNF) agent during the 6 months before baseline or to more than two previous aTNF agents were ineligible. MTX therapy was continued during the study. Initiation of lipid-lowering, oral antidiabetic or antihypertensive medications or change in dose within 12 weeks of baseline was prohibited, and glucocorticoid doses (≤10 mg) had to remain stable. Patients were stratified at randomisation by age (&lt;52 vs ≥52 years), mean arterial blood pressure (&lt;93.3 vs ≥93.3 mm Hg) and CRP (&lt;1.66 vs ≥1.66 mg/dL).
+      
+      
+        Procedures
+        This two-arm, randomised, multicentre, double-blind, placebo-controlled, parallel-group, phase III study was conducted in the USA, Canada and the UK (figure 1) at 34 sites (the MEASURE study). Patients were randomly assigned using an interactive voice response system to blinded (patient and treating clinical team) intravenous treatment with TCZ 8 mg/kg or placebo in a 1:1 ratio, both in combination with oral MTX, every 4 weeks for 6 months between November 2007 and June 2008. Patients who, despite scheduled infusions of double-blind study medication at weeks 8 and 12, did not achieve ≥20% improvement from baseline in SJC and TJC at week 16 were offered escape therapy with open-label TCZ 8 mg/kg. At completion of the 24-week randomised treatment period, all patients were offered open-label treatment with TCZ 8 mg/kg plus MTX. Assessments during part 1 (randomised phase) of the study were performed at day 1 and at weeks 1, 2, 4, 8, 12, 16, 20 and 24. Open-label assessments were performed every 12 weeks to week 104 (ClinicalTrials.gov number NCT00535782). The study protocol (version C, 22 June 2009 (original protocol published 10 May 2007)) is available as online supplementary material.
+        Figure 1 Study design. MTX, methotrexate; TCZ, tocilizumab. (A) *Patients who did not achieve ≥20% improvement from baseline in swollen and tender joint counts at week 16 were offered escape therapy with open-label TCZ 8 mg/kg. †60 placebo+MTX and 65 TCZ+MTX patients completed 12 weeks. ‡59 placebo+MTX and 65 TCZ+MTX patients completed 24 weeks. (B) *TCZ 8 mg/kg every 4 weeks+background MTX (7.5–25 mg weekly). †Escape therapy, open-label TCZ (8 mg/kg every 4 weeks+background MTX). ‡Patients who received at least one dose of TCZ (double-blind or open-label).
+      
+      
+        Lipid and biomarker assays
+        Commercial assays were used to measure cholesterol, triglycerides, apolipoproteins A1 and B (ApoA1 and ApoB), CRP (by high-sensitivity assay) and ESR (all assays conducted or facilitated by Covance Laboratories, Greenfield, Indiana, USA). Serum lipid subclasses were characterised by nuclear magnetic resonance (NMR; LipoScience, Raleigh, North Carolina, USA). Assays for HDL-associated SAA and serum paraoxonase, secretory phospholipase A2-IIA (sPLA2-IIA), oxidised LDL, d-dimer, fibrinogen, Lp(a) and haptoglobin were performed at Pacific Biomarkers, Inc. (Seattle, Washington, USA). Specific details are provided as online supplementary material.
+      
+      
+        Vascular physiology
+        Arterial stiffness was assessed by PWV according to the manufacturer's instructions using a pulse wave analysis apparatus (SphygmoCor; AtCor, San Jose, California, USA).19 Blinded assessors from all centres underwent training with an expert assessor, and certification was provided by AtCor. All PWV scans were reviewed by AtCor, and only those meeting predetermined quality control measures were accepted for analysis (details in online supplementary material).
+      
+      
+        Statistical analysis
+        The primary objective was to investigate the effect of 12 weeks of treatment with TCZ on PWV and on small LDL particle number assessed by NMR compared with placebo. The secondary objective was to investigate the effect of TCZ compared with placebo on these measurements at week 24. All other analyses, including lipid and lipoprotein parameters, were exploratory. A sample size of 120 patients (60 per arm), calculated based on previous results in patients with RA,5 18 was expected to provide sufficient power to detect a difference at week 12 in PWV (−1.14 m/s) and small LDL (−5.51 mg/dL (30% reduction)) in patients treated with TCZ compared with placebo.
+        The co-primary efficacy end points of change from baseline in PWV and small LDL particle number were analysed by parametric analysis of covariance. The 12-week and 24-week efficacy analyses of primary and secondary end points were performed on the intent-to-treat (ITT) population using last-observation-carried-forward to impute missing data at the analysis time point. Only measurements recorded before escape therapy were carried forward. All other exploratory end points were summarised for the ITT population observed cases, without imputation of missing data and excluding escape data. All laboratory parameter values were converted to SI units; for lipid parameters, only the latest fasted values within the time window were included. Assumptions of normality and homogeneity of the variance were assessed by inspecting normal probability plots, plots of standardised residual versus predicted values and plots of standardised residual versus continuous covariates. Primary end points in the study were analysed based on a normal distribution; however, because baseline values for several laboratory assessments in this study demonstrated non-normal distributions, values for exploratory serum analytes are presented as medians or median percentage changes from baseline. Exploratory analyses, based on observed cases, were performed using the non-parametric Kruskal–Wallis test. Hodges–Lehmann estimates of location shift and 95% CIs are presented. No adjustments for multiplicity were performed.
+      
+    
+    
+      Results
+      Sixty-nine patients were randomly assigned to receive TCZ+MTX and sixty-three to receive placebo+MTX (figure 1). Sixty-five and sixty patients, respectively, completed 12 weeks of therapy. One patient in each arm withdrew because of an adverse event; one patient on placebo withdrew because of insufficient therapeutic response, three patients in the TCZ arm refused treatment and one patient in the TCZ arm was withdrawn because of a protocol violation. Two patients in the TCZ arm had their lipid-lowering medications changed; though included in the ITT analyses, they were excluded from the per-protocol analyses. Of 124 patients who completed blinded treatment, 117 elected to continue to the open-label phase; 92 completed treatment for 96 weeks. Demographic and baseline disease characteristics (table 1) were similar to those of the TCZ phase III cohort.20 Moreover, 30% and 39% of the patients in the placebo and TCZ arms, respectively, had previously received aTNFs. TCZ efficacy, assessed by change in disease activity score at 28 joints (DAS28) at weeks 12 and 24 or by ACR 20/50/70 proportional changes at week 24, was similar to that previously observed and differed significantly from that of placebo (see online supplementary figure S1). Adverse events and serious adverse events occurring during the trial were similar to those observed in previous TCZ studies (see online supplementary table S1).
+      Table 1 Demographic and disease factors at baseline
+      Consistent with results from TCZ phase III clinical trials, median total cholesterol and LDL-C levels increased in TCZ recipients but did not change in placebo patients (table 2). In contrast, no statistically significant difference in the co-primary outcome of concentration of small LDL particles was observed at either week 12 (adjusted mean difference −0.0 (95% CI −115.0 to 115.0) nmol/L) or week 24 (adjusted mean difference 11.2 (95% CI −106.7 to 129.1) nmol/L) after treatment with TCZ compared with placebo (figure 2A). Oxidised LDL exhibited a 7% increase on TCZ treatment that was not significantly different from the increase observed with placebo and did not persist at week 24 (figure 2B). By contrast, Lp(a) was reduced (by 37%) in TCZ recipients (figure 2C) compared with controls.
+      Table 2 Percentage change from baseline to week 12 in lipid parameters and lipid particles* (observed cases), ITT population
+      Figure 2 (A–F) Effects on lipoproteins (TCZ vs placebo). HDL, high-density lipoprotein; LDL, low-density lipoprotein; MTX, methotrexate; SAA, serum amyloid A; sPLA2-IIA, secretory phospholipase A2-IIA; TCZ, tocilizumab. *p&lt;0.0001 (TCZ vs placebo).
+      Measurement of change in PWV (second co-primary outcome) over 12 weeks revealed a significant difference between groups (adjusted mean difference 0.79 m/s (95% CI 0.22 to 1.35; p=0.0067)), constituting a greater relative reduction in PWV in placebo compared with TCZ-treated patients (−0.99 vs −0.21 m/s). The group difference was not sustained to week 24 (−0.47 vs −0.17 m/s; adjusted mean difference 0.30 m/s (95% CI −0.27 to 0.87; p=0.30)) (table 3). Technical challenges across sites were recorded in a substantial number of case report forms. There was no evidence of change in blood pressure by treatment arm before or after infusions (data available on request). Ten (17.5%) patients who received placebo and nine (15.5%) who received TCZ did not meet the quality control standards established for all measured PWV parameters.
+      Table 3 Change from baseline in PWV (LOCF), ITT population
+      No statistically significant changes occurred in total serum HDL-C levels in the study. NMR evaluation of HDL, however, revealed differential effects of TCZ versus placebo across particle sizes, with observed elevations in small HDL concentration and reductions in medium HDL (table 2). A significant reduction (by 78%) was observed in the TCZ arm for HDL-associated SAA. In contrast, a significant increase (by 16%) was noted in the antioxidative enzyme paraoxonase I, which is almost exclusively carried in serum HDL (figure 2D–F). sPLA2-IIA was reduced (by 61%) in TCZ recipients. No changes were observed in the control population in these biomarkers. Alterations occurred rapidly (by week 2) and were sustained throughout therapy.
+      Results of NMR subfractionation of other lipoprotein subclasses are shown in table 2. In patients treated with TCZ, changes in very low-density lipoprotein (VLDL) subclasses were elevated compared with placebo, with changes in the largest components of the VLDL subclasses most notable, though they constituted a small proportion of the total VLDL particles. Similarly, no significant changes in the concentrations of intermediate, buoyant particles (large LDL and intermediate-density lipoprotein) occurred in TCZ-treated patients compared with placebo patients. Median triglyceride levels increased in TCZ-treated patients but did not change in placebo patients.
+      Markers of inflammation, including CRP and haptoglobin, were elevated at baseline and markedly reduced within the first week of TCZ treatment (figure 3). Similarly, rapid and sustained reductions in fibrinogen (by 47% from baseline) and d-dimer (by 62% from baseline) were observed in recipients of TCZ, whereas no changes were observed in the control arm (figure 3). All changes remained stable throughout TCZ treatment. Finally, the ApoB/ApoA1 ratio did not change throughout the study in either group (table 2).
+      Figure 3 (A–D) Effects on inflammatory and thrombotic markers (TCZ vs placebo). hs-CRP, high-sensitivity C-reactive protein; MTX, methotrexate; TCZ, tocilizumab. *p&lt;0.0001 (TCZ vs placebo).
+    
+    
+      Discussion
+      We herein tested the primary hypotheses that TCZ in comparison to placebo would significantly lower PWV and the amount of small, dense LDL. However, neither hypothesis was supported. There was no change in the amount of small, dense LDL, and though PWV declined in both groups it did so more in placebo recipients. We also performed extensive additional analyses to investigate the wider impact of IL-6R inhibition on a range of vascular risk factors. Thus, we report that TCZ did modulate lipid particle levels (LDL, HDL, VLDL) and composition (HDL-associated SAA), together with a number of other inflammatory (CRP, paraoxonase) and vascular (Lp(a), D-dimer, fibrinogen) risk factors, suggesting potential modulation of the net atherogenic risk profile.
+      Consistent with results from other TCZ phase III clinical trials, total cholesterol, LDL-C and triglyceride levels increased in TCZ-treated patients but were minimally changed in placebo patients. In contrast, small LDL particle concentrations, considered proatherogenic, remained similar in TCZ-treated and placebo patients. Moreover, we observed a decrease (&gt;30%) in Lp(a), a risk factor independently associated with vascular events.10 NMR assessment of lipoprotein subclasses revealed clear and sizeable changes in all classes of VLDL particles, the functional significance of which is yet unclear.
+      By contrast, we did not see a reduction in PWV with TCZ but rather a significant reduction in the placebo group at 12 weeks relative to TCZ recipients, though this pattern was not sustained to the 24-week measurement. This finding, therefore, contradicts our original hypothesis. It should be noted, however, that technical challenges during the conduct of this multicentre trial led to approximately 15% of the measurements being substandard. Because of the severity of disease in study participants who had reduced mobility, contractures and joint pain, the procedure proved more difficult than anticipated. Nevertheless, it appears that PWV is not necessarily reduced with TCZ, though further studies with other vascular function measures not influenced by limited mobility (eg, peripheral arterial tonometry as a measure of endothelial function) would be useful. Our findings contrast with those of Kume et al,21 who observed similar reductions in cardio-ankle vascular index and aortic augmentation index for patients treated with TCZ, adalimumab or etanercept. Speculatively, it remains possible that disease-related vascular changes in patients in the present study (in which mean DAS28 was high) were much more progressed (and, thus, less reversible) than in patients studied in other trials.18 21
+      Increases in HDL particle number, measured by NMR, occurred primarily in small particles. Our demonstration of a significant increase in the concentration of small HDL particles with TCZ treatment is consistent with a potential ‘normalisation’ of small HDL particle levels. Small HDL particle numbers, measured by NMR, in two independent studies were lower in RA patients than in controls despite similar HDL-C concentrations.5 6 Furthermore, the observed significant reduction in medium HDL and HDL-SAA concentrations, along with the increase in paraoxonase, an antioxidant enzyme associated with HDL, suggests remodelling of HDL particles from a pro-inflammatory to an anti-inflammatory phenotype in response to TCZ treatment. Overall, such changes in HDL particle composition with TCZ are consistent with the results of a recent study of aTNFs in patients with ankylosing spondylitis.22 Although it is unclear to what extent small HDL particles measured by NMR corroborate with those measured by other methods, small HDL particles may be more active in cholesterol efflux and anti-inflammatory functions,23 though this observation remains debated.
+      Previous studies have demonstrated lower levels of LDL-C in patients with active RA than in controls.6 Such decreases may result from increased catabolism (including by scavenger receptors), increased particle retention in tissue, or both, rather than from decreased lipid production. Increased cholesterol retention under conditions of elevated IL-6/IL-6R levels have been hypothesised to result from increased surface density on multiple tissues of LDL receptor, VLDL receptor and scavenger receptors, leading to excess internalisation of VLDL and LDL.24–26 Furthermore, sPLA2-IIA expression, augmented by IL-6, leads to phospholipid hydrolysis of LDL and increases LDL uptake in tissues.27 Consistent with our results and the TCZ phase III programme,7 the TCZ-based IL-6 signal inhibition may reduce various receptor surface levels and sPLA2-IIA levels, leading to both decreased LDL and VLDL tissue retention and elevated circulating levels.
+      Decreased thrombotic potential in TCZ-treated RA patients is indicated by declines in circulating fibrinogen and D-dimer levels. Although the reduction in fibrinogen, an acute-phase protein, with TCZ is predictable, the reduction of D-dimer is of particular interest because it represents the most widely used clinical marker of activated blood coagulation. Moreover, several prospective studies28 29 have linked elevated D-dimer levels to heightened risk for vascular events independently of established risk factors. Similarly, the sizeable reduction in Lp(a) observed with TCZ is of considerable interest because recent genetic and epidemiological evidence suggests Lp(a) is causally linked to cardiovascular events in the general population.10 30 Our Lp(a) observations also extend findings from an earlier randomised, placebo-controlled study linking aTNF blockade to dose-dependent reductions in Lp(a) in patients with psoriatic arthritis.31 Collectively, these changes suggest a reduction in thrombotic potential with TCZ in patients with active RA. Of course, the net effect of TCZ-induced changes to vascular outcomes can be robustly tested only in the context of vascular outcomes in prospective studies.
+      In summary, the results of this randomised, placebo-controlled study suggest that IL-6R blockade with TCZ in patients with active RA not only reduces markers of inflammation but also affects quantitative and qualitative changes in lipids and lipoproteins. Such changes include a global increase in LDL-C concentration, in line with findings from other biological studies,7 and apparently favourable changes to HDL particle composition, rendering them less pro-inflammatory. In addition, marked reductions in haemostatic and Lp(a) markers were observed, though PWV did not change favourably. Future determination of the net vascular effect of such changes in RA patients—and potentially other groups of patients— is of major interest, particularly given the recent data from large-scale (&gt;130 000 subjects, &gt;25 000 coronary heart disease cases) genome-wide association studies16 17 that suggest a potentially detrimental effect of IL-6R signalling on the risk for coronary heart disease.
+    
+    
+      Supplementary Material
+      
+        
+          Web supplement
+        
+        
+      
+      
+        
+          Web table
+        
+        
+      
+    
+  
+
+Back matter
+
+      Writing assistance was provided by Santo D'Angelo, PhD, MS.
+    
+
+      
+        Contributors: IBM was involved in the design of the study, conducting the research, analysis and interpretation of the data, drafting of the manuscript, and approval of the final draft to be published. LT was involved in the design of the study, data collection, analysis and interpretation of the data, drafting of the manuscript and approval of the final draft to be published. JTG was involved in conducting the research, analysis and interpretation of data, drafting of the manuscript and approval of the final draft to be published. JMB and JSL were involved in the design of the study, analysis and interpretation of the data, drafting of the manuscript and approval of the final draft to be published. JES and NS were involved in the design of the study, drafting of the manuscript, and approval of the final draft to be published. ADB was involved in conducting the research, drafting of the manuscript and approval of the final draft to be published. CEC was involved in conducting the research, review and revision of the manuscript, and approval of the final draft to be published. THC was involved in the design of the study, conducting the research, drafting of the manuscript and approval of the final draft to be published. CD was involved in the design of the study, conducting the research, analysis and interpretation of the data, review and revision of the manuscript, and approval of the final draft to be published. NS was also involved in analysis and interpretation of the data.
+      
+      
+        Funding: This study was funded by Roche. F. Hoffmann-La Roche was responsible for the study design together with several authors, principally IBM, JSL and NS. The other authors contributed to data interpretation and were responsible for the writing and review of the manuscript. The lead author had the final responsibility for the decision to submit the manuscript for publication.
+      
+      
+        Competing interests: IBM: research grants and honoraria from Roche, Pfizer, Merck Sharp &amp; Dohme, Bristol-Myers Squibb, Abbott. LT: employee of Roche Products Ltd. JTG: consultant to Roche. JES: consultant to Quidel and Alexion Pharmaceuticals, served on advisory board for Bristol-Myers Squibb, research grants to Hospital for Special Surgery from F. Hoffmann-La Roche and the National Institutes of Health. ADB: research grant from Roche. CEC: research grant to institution for study participation. JSL: employee of Roche. NS: consultant to and on speaker's bureau for Roche.
+      
+      
+        Patient consent: Obtained.
+      
+      
+        Ethics approval: The trial was approved by an independent Ethics Committee or Institutional Review Board, and all patients gave written informed consent for participation in the trial. This two-arm, randomised, multicentre, double-blind, placebo-controlled, parallel-group, phase III study was conducted in the USA, Canada and the UK (figure 1) at 34 sites (the MEASURE study).
+      
+      
+        Provenance and peer review: Not commissioned; externally peer reviewed.
+      
+      
+        Open Access: This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 3.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/3.0/</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-151" id="S2" selection="1a">
+        <text xml:space="preserve">Effect of interleukin-6 receptor blockade on surrogates of vascular risk in rheumatoid arthritis: MEASURE, a randomised, placebo-controlled study</text>
+    </sentence>
+    <sentence charOffset="152-160" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="181-191" id="S4" selection="">
+        <text xml:space="preserve">Objectives</text>
+    </sentence>
+    <sentence charOffset="202-381" id="S5" selection="1b">
+        <text xml:space="preserve">The interleukin-6 receptor (IL-6R) blocker tocilizumab (TCZ) reduces inflammatory disease activity in rheumatoid arthritis (RA) but elevates lipid concentrations in some patients.</text>
+    </sentence>
+    <sentence charOffset="382-489" id="S6" selection="">
+        <text xml:space="preserve">We aimed to characterise the impact of IL-6R inhibition on established and novel risk factors in active RA.</text>
+    </sentence>
+    <sentence charOffset="518-525" id="S7" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="536-871" id="S8" selection="">
+        <text xml:space="preserve">Randomised, multicentre, two-part, phase III trial (24-week double-blind, 80-week open-label), MEASURE, evaluated lipid and lipoprotein levels, high-density lipoprotein (HDL) particle composition, markers of coagulation, thrombosis and vascular function by pulse wave velocity (PWV) in 132 patients with RA who received TCZ or placebo.</text>
+    </sentence>
+    <sentence charOffset="900-907" id="S9" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="918-1139" id="S10" selection="">
+        <text xml:space="preserve">Median total-cholesterol, low-density lipoprotein-cholesterol (LDL-C) and triglyceride levels increased in TCZ versus placebo recipients by week 12 (12.6% vs 1.7%, 28.1% vs 2.2%, 10.6% vs −1.9%, respectively; all p&lt;0.01).</text>
+    </sentence>
+    <sentence charOffset="1140-1245" id="S11" selection="">
+        <text xml:space="preserve">There were no significant differences in mean small LDL, mean oxidised LDL or total HDL-C concentrations.</text>
+    </sentence>
+    <sentence charOffset="1246-1322" id="S12" selection="">
+        <text xml:space="preserve">However, HDL-associated serum amyloid A content decreased in TCZ recipients.</text>
+    </sentence>
+    <sentence charOffset="1323-1488" id="S13" selection="">
+        <text xml:space="preserve">TCZ also induced reductions (&gt;30%) in secretory phospholipase A2-IIA, lipoprotein(a), fibrinogen and D-dimers and elevation of paraoxonase (all p&lt;0.0001 vs placebo).</text>
+    </sentence>
+    <sentence charOffset="1489-1551" id="S14" selection="">
+        <text xml:space="preserve">The ApoB/ApoA1 ratio remained stable over time in both groups.</text>
+    </sentence>
+    <sentence charOffset="1552-1681" id="S15" selection="">
+        <text xml:space="preserve">PWV decreases were greater with placebo than TCZ at 12 weeks (adjusted mean difference 0.79 m/s (95% CI 0.22 to 1.35; p=0.0067)).</text>
+    </sentence>
+    <sentence charOffset="1710-1721" id="S16" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="1732-1883" id="S17" selection="">
+        <text xml:space="preserve">These data provide the first detailed evidence for the modulation of lipoprotein particles and other surrogates of vascular risk with IL-6R inhibition.</text>
+    </sentence>
+    <sentence charOffset="1884-2088" id="S18" selection="">
+        <text xml:space="preserve">When compared with placebo, TCZ induced elevations in LDL-C but altered HDL particles towards an anti-inflammatory composition and favourably modified most, but not all, measured vascular risk surrogates.</text>
+    </sentence>
+    <sentence charOffset="2089-2167" id="S19" selection="">
+        <text xml:space="preserve">The net effect of such changes for cardiovascular risk requires determination.</text>
+    </sentence>
+    <sentence charOffset="2197-2209" id="S20">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2216-2371" id="S21" selection="">
+        <text xml:space="preserve">Rheumatoid arthritis (RA) is a chronic inflammatory disease associated with clinically important comorbidities, including accelerated cardiovascular risk.1</text>
+    </sentence>
+    <sentence charOffset="2372-2525" id="S22" selection="">
+        <text xml:space="preserve">The latter is not explained by conventional risk factors (eg, hypertension, obesity), suggesting that additional pathways contribute to adverse outcomes.</text>
+    </sentence>
+    <sentence charOffset="2526-2788" id="S23" selection="">
+        <text xml:space="preserve">These may reflect common genetic or environmental aetiological factors or the impact of chronic inflammation on underlying atherosclerotic disease burden, operating through circulating cytokines, immune complexes, complement factors and acute-phase reactants.2–4</text>
+    </sentence>
+    <sentence charOffset="2789-2977" id="S24" selection="">
+        <text xml:space="preserve">Furthermore, it is recognised that absolute circulating lipid concentrations are modified in RA, likely reflecting regulatory integration of metabolic and inflammatory molecular networks.5</text>
+    </sentence>
+    <sentence charOffset="2978-3206" id="S25" selection="">
+        <text xml:space="preserve">In general, high-density lipoprotein-cholesterol (HDL-C) and low-density lipoprotein-cholesterol (LDL-C) levels are reduced in active disease6 and may increase on the initiation of effective therapeutics regardless of modality.7</text>
+    </sentence>
+    <sentence charOffset="3207-3356" id="S26" selection="">
+        <text xml:space="preserve">Moreover, interpretation of lipid particle concentrations may be further complicated by changes in size and composition associated with inflammation.</text>
+    </sentence>
+    <sentence charOffset="3357-3454" id="S27" selection="">
+        <text xml:space="preserve">For example, small LDL-C particles may confer more atherogenic risk than larger LDL-C particles.8</text>
+    </sentence>
+    <sentence charOffset="3455-3611" id="S28" selection="">
+        <text xml:space="preserve">In inflammatory conditions, HDL particles are associated with increased serum amyloid A (SAA) content, representing a potentially proatherogenic phenotype.9</text>
+    </sentence>
+    <sentence charOffset="3612-3698" id="S29" selection="">
+        <text xml:space="preserve">The impact of therapy on subparticle components in RA has not been well characterised.</text>
+    </sentence>
+    <sentence charOffset="3699-3951" id="S30" selection="">
+        <text xml:space="preserve">Similarly, the effect of therapy on other lipid particles causally associated with vascular disease, such as lipoprotein(a) (Lp[a]),10 and on clotting factors, such as fibrinogen or markers of activated clotting such as D-dimer,11 is poorly understood.</text>
+    </sentence>
+    <sentence charOffset="3958-4104" id="S31" selection="">
+        <text xml:space="preserve">Interleukin-6 (IL-6) plays an important role in various inflammatory effector pathways in RA through B-cell, fibroblast and osteoclast activation.</text>
+    </sentence>
+    <sentence charOffset="4105-4228" id="S32" selection="">
+        <text xml:space="preserve">Additionally, it mediates systemic manifestations of disease operating through hepatic and central neurological pathways.12</text>
+    </sentence>
+    <sentence charOffset="4229-4428" id="S33" selection="">
+        <text xml:space="preserve">Intriguingly, elevated IL-6 levels are independently associated with increased cardiovascular risk, including fatal myocardial infarction and cerebrovascular accident, in the general population.13 14</text>
+    </sentence>
+    <sentence charOffset="4429-4797" id="S34" selection="">
+        <text xml:space="preserve">The mechanisms mediating such epidemiological observations are poorly understood but are likely to be commensurate with the fundamental role played by inflammatory pathways in the pathogenesis of atherosclerosis, the systemic functional activities of IL-6 conferred by widespread gp130 receptor membrane expression and the existence of soluble IL-6 receptor (IL-6R).15</text>
+    </sentence>
+    <sentence charOffset="4798-4892" id="S35" selection="">
+        <text xml:space="preserve">Moreover, loss-of-function IL-6R polymorphisms are associated with reduced vascular risk.16 17</text>
+    </sentence>
+    <sentence charOffset="4899-5054" id="S36" selection="2a">
+        <text xml:space="preserve">Tocilizumab (TCZ) is a monoclonal antibody targeting IL-6R (membrane-bound and soluble) that reduces inflammation and articular damage in patients with RA.</text>
+    </sentence>
+    <sentence charOffset="5055-5184" id="S37" selection="">
+        <text xml:space="preserve">In phase II and III trials, moderate elevations of LDL-C, HDL-C and triglycerides were apparent in RA patients treated with TCZ.7</text>
+    </sentence>
+    <sentence charOffset="5185-5243" id="S38" selection="">
+        <text xml:space="preserve">The atherogenic implications of these changes are unknown.</text>
+    </sentence>
+    <sentence charOffset="5244-5393" id="S39" selection="">
+        <text xml:space="preserve">Similarly, the effect of IL-6R blockade on vascular physiology parameters (eg, as assessed by pulse wave velocity (PWV)) has been minimally explored.</text>
+    </sentence>
+    <sentence charOffset="5394-5532" id="S40" selection="">
+        <text xml:space="preserve">PWV is a measure of early structural vascular changes and has been shown to respond within 3 months to changes in vascular inflammation.18</text>
+    </sentence>
+    <sentence charOffset="5533-5783" id="S41" selection="2a">
+        <text xml:space="preserve">Thus, given its mode of action, TCZ provides a highly specific molecular intervention with which to dissect the role of IL-6 in the modulation of lipid particles and the regulation of other vascular risk factors in patients with chronic inflammation.</text>
+    </sentence>
+    <sentence charOffset="5784-5943" id="S42" selection="2b">
+        <text xml:space="preserve">We report herein the results of a placebo-controlled trial that sought to define the effects of TCZ on a range of vascular risk surrogates in patients with RA.</text>
+    </sentence>
+    <sentence charOffset="5944-6043" id="S43" selection="2b">
+        <text xml:space="preserve">Our primary hypotheses were that PWV and small LDL particles would be significantly reduced by TCZ.</text>
+    </sentence>
+    <sentence charOffset="6060-6067" id="S44">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="6083-6091" id="S45" selection="">
+        <text xml:space="preserve">Patients</text>
+    </sentence>
+    <sentence charOffset="6100-6319" id="S46" selection="">
+        <text xml:space="preserve">This trial, conducted independently of the pivotal RA trials, was approved by an independent ethics committee or institutional review board, and all patients gave written informed consent for participation in the trial.</text>
+    </sentence>
+    <sentence charOffset="6320-6484" id="S47" selection="4a">
+        <text xml:space="preserve">Adult patients with moderately to severely active RA (diagnosed per American College of Rheumatology (ACR) criteria) of more than 6 months’ duration were recruited.</text>
+    </sentence>
+    <sentence charOffset="6485-6749" id="S48" selection="4a">
+        <text xml:space="preserve">Enrolment criteria included inadequate response to stable methotrexate (MTX) therapy, exemplified by a swollen joint count (SJC) ≥6 and a tender joint count (TJC) ≥6, together with C-reactive protein (CRP) &gt;10 mg/L or erythrocyte sedimentation rate (ESR) &gt;28 mm/h.</text>
+    </sentence>
+    <sentence charOffset="6750-6925" id="S49" selection="4a">
+        <text xml:space="preserve">Patients with inadequate response to an antitumour necrosis factor-α (aTNF) agent during the 6 months before baseline or to more than two previous aTNF agents were ineligible.</text>
+    </sentence>
+    <sentence charOffset="6926-6969" id="S50" selection="5">
+        <text xml:space="preserve">MTX therapy was continued during the study.</text>
+    </sentence>
+    <sentence charOffset="6970-7167" id="S51" selection="5">
+        <text xml:space="preserve">Initiation of lipid-lowering, oral antidiabetic or antihypertensive medications or change in dose within 12 weeks of baseline was prohibited, and glucocorticoid doses (≤10 mg) had to remain stable.</text>
+    </sentence>
+    <sentence charOffset="7168-7320" id="S52" selection="8b">
+        <text xml:space="preserve">Patients were stratified at randomisation by age (&lt;52 vs ≥52 years), mean arterial blood pressure (&lt;93.3 vs ≥93.3 mm Hg) and CRP (&lt;1.66 vs ≥1.66 mg/dL).</text>
+    </sentence>
+    <sentence charOffset="7343-7353" id="S53" selection="">
+        <text xml:space="preserve">Procedures</text>
+    </sentence>
+    <sentence charOffset="7362-7554" id="S54" selection="3a,4b">
+        <text xml:space="preserve">This two-arm, randomised, multicentre, double-blind, placebo-controlled, parallel-group, phase III study was conducted in the USA, Canada and the UK (figure 1) at 34 sites (the MEASURE study).</text>
+    </sentence>
+    <sentence charOffset="7555-7842" id="S55" selection="11a,5,14a,8a">
+        <text xml:space="preserve">Patients were randomly assigned using an interactive voice response system to blinded (patient and treating clinical team) intravenous treatment with TCZ 8 mg/kg or placebo in a 1:1 ratio, both in combination with oral MTX, every 4 weeks for 6 months between November 2007 and June 2008.</text>
+    </sentence>
+    <sentence charOffset="7843-8066" id="S56" selection="5">
+        <text xml:space="preserve">Patients who, despite scheduled infusions of double-blind study medication at weeks 8 and 12, did not achieve ≥20% improvement from baseline in SJC and TJC at week 16 were offered escape therapy with open-label TCZ 8 mg/kg.</text>
+    </sentence>
+    <sentence charOffset="8067-8198" id="S57" selection="5">
+        <text xml:space="preserve">At completion of the 24-week randomised treatment period, all patients were offered open-label treatment with TCZ 8 mg/kg plus MTX.</text>
+    </sentence>
+    <sentence charOffset="8199-8324" id="S58" selection="6a">
+        <text xml:space="preserve">Assessments during part 1 (randomised phase) of the study were performed at day 1 and at weeks 1, 2, 4, 8, 12, 16, 20 and 24.</text>
+    </sentence>
+    <sentence charOffset="8325-8430" id="S59" selection="23,6a">
+        <text xml:space="preserve">Open-label assessments were performed every 12 weeks to week 104 (ClinicalTrials.gov number NCT00535782).</text>
+    </sentence>
+    <sentence charOffset="8431-8564" id="S60" selection="24">
+        <text xml:space="preserve">The study protocol (version C, 22 June 2009 (original protocol published 10 May 2007)) is available as online supplementary material.</text>
+    </sentence>
+    <sentence charOffset="8573-8595" id="S61" selection="3a,5,13a,13b,16">
+        <text xml:space="preserve">Figure 1 Study design.</text>
+    </sentence>
+    <sentence charOffset="8596-8632" id="S62" selection="">
+        <text xml:space="preserve">MTX, methotrexate; TCZ, tocilizumab.</text>
+    </sentence>
+    <sentence charOffset="8633-8800" id="S63" selection="">
+        <text xml:space="preserve">(A) *Patients who did not achieve ≥20% improvement from baseline in swollen and tender joint counts at week 16 were offered escape therapy with open-label TCZ 8 mg/kg.</text>
+    </sentence>
+    <sentence charOffset="8801-8860" id="S64" selection="">
+        <text xml:space="preserve">†60 placebo+MTX and 65 TCZ+MTX patients completed 12 weeks.</text>
+    </sentence>
+    <sentence charOffset="8861-8920" id="S65" selection="">
+        <text xml:space="preserve">‡59 placebo+MTX and 65 TCZ+MTX patients completed 24 weeks.</text>
+    </sentence>
+    <sentence charOffset="8921-8986" id="S66" selection="">
+        <text xml:space="preserve">(B) *TCZ 8 mg/kg every 4 weeks+background MTX (7.5–25 mg weekly).</text>
+    </sentence>
+    <sentence charOffset="8987-9058" id="S67" selection="">
+        <text xml:space="preserve">†Escape therapy, open-label TCZ (8 mg/kg every 4 weeks+background MTX).</text>
+    </sentence>
+    <sentence charOffset="9059-9136" id="S68" selection="">
+        <text xml:space="preserve">‡Patients who received at least one dose of TCZ (double-blind or open-label).</text>
+    </sentence>
+    <sentence charOffset="9159-9185" id="S69" selection="">
+        <text xml:space="preserve">Lipid and biomarker assays</text>
+    </sentence>
+    <sentence charOffset="9194-9432" id="S70" selection="">
+        <text xml:space="preserve">Commercial assays were used to measure cholesterol, triglycerides, apolipoproteins A1 and B (ApoA1 and ApoB), CRP (by high-sensitivity assay) and ESR (all assays conducted or facilitated by Covance Laboratories, Greenfield, Indiana, USA).</text>
+    </sentence>
+    <sentence charOffset="9433-9554" id="S71" selection="">
+        <text xml:space="preserve">Serum lipid subclasses were characterised by nuclear magnetic resonance (NMR; LipoScience, Raleigh, North Carolina, USA).</text>
+    </sentence>
+    <sentence charOffset="9555-9779" id="S72" selection="">
+        <text xml:space="preserve">Assays for HDL-associated SAA and serum paraoxonase, secretory phospholipase A2-IIA (sPLA2-IIA), oxidised LDL, d-dimer, fibrinogen, Lp(a) and haptoglobin were performed at Pacific Biomarkers, Inc. (Seattle, Washington, USA).</text>
+    </sentence>
+    <sentence charOffset="9780-9843" id="S73" selection="">
+        <text xml:space="preserve">Specific details are provided as online supplementary material.</text>
+    </sentence>
+    <sentence charOffset="9866-9885" id="S74" selection="">
+        <text xml:space="preserve">Vascular physiology</text>
+    </sentence>
+    <sentence charOffset="9894-10065" id="S75" selection="6a">
+        <text xml:space="preserve">Arterial stiffness was assessed by PWV according to the manufacturer's instructions using a pulse wave analysis apparatus (SphygmoCor; AtCor, San Jose, California, USA).19</text>
+    </sentence>
+    <sentence charOffset="10066-10185" id="S76" selection="">
+        <text xml:space="preserve">Blinded assessors from all centres underwent training with an expert assessor, and certification was provided by AtCor.</text>
+    </sentence>
+    <sentence charOffset="10186-10356" id="S77" selection="">
+        <text xml:space="preserve">All PWV scans were reviewed by AtCor, and only those meeting predetermined quality control measures were accepted for analysis (details in online supplementary material).</text>
+    </sentence>
+    <sentence charOffset="10379-10399" id="S78" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="10408-10572" id="S79" selection="6a">
+        <text xml:space="preserve">The primary objective was to investigate the effect of 12 weeks of treatment with TCZ on PWV and on small LDL particle number assessed by NMR compared with placebo.</text>
+    </sentence>
+    <sentence charOffset="10573-10689" id="S80" selection="6a">
+        <text xml:space="preserve">The secondary objective was to investigate the effect of TCZ compared with placebo on these measurements at week 24.</text>
+    </sentence>
+    <sentence charOffset="10690-10771" id="S81" selection="">
+        <text xml:space="preserve">All other analyses, including lipid and lipoprotein parameters, were exploratory.</text>
+    </sentence>
+    <sentence charOffset="10772-11067" id="S82" selection="7a">
+        <text xml:space="preserve">A sample size of 120 patients (60 per arm), calculated based on previous results in patients with RA,5 18 was expected to provide sufficient power to detect a difference at week 12 in PWV (−1.14 m/s) and small LDL (−5.51 mg/dL (30% reduction)) in patients treated with TCZ compared with placebo.</text>
+    </sentence>
+    <sentence charOffset="11076-11223" id="S83" selection="12a">
+        <text xml:space="preserve">The co-primary efficacy end points of change from baseline in PWV and small LDL particle number were analysed by parametric analysis of covariance.</text>
+    </sentence>
+    <sentence charOffset="11224-11446" id="S84" selection="12a">
+        <text xml:space="preserve">The 12-week and 24-week efficacy analyses of primary and secondary end points were performed on the intent-to-treat (ITT) population using last-observation-carried-forward to impute missing data at the analysis time point.</text>
+    </sentence>
+    <sentence charOffset="11447-11517" id="S85" selection="">
+        <text xml:space="preserve">Only measurements recorded before escape therapy were carried forward.</text>
+    </sentence>
+    <sentence charOffset="11518-11667" id="S86" selection="12b">
+        <text xml:space="preserve">All other exploratory end points were summarised for the ITT population observed cases, without imputation of missing data and excluding escape data.</text>
+    </sentence>
+    <sentence charOffset="11668-11817" id="S87" selection="">
+        <text xml:space="preserve">All laboratory parameter values were converted to SI units; for lipid parameters, only the latest fasted values within the time window were included.</text>
+    </sentence>
+    <sentence charOffset="11818-12048" id="S88" selection="">
+        <text xml:space="preserve">Assumptions of normality and homogeneity of the variance were assessed by inspecting normal probability plots, plots of standardised residual versus predicted values and plots of standardised residual versus continuous covariates.</text>
+    </sentence>
+    <sentence charOffset="12049-12354" id="S89" selection="12a">
+        <text xml:space="preserve">Primary end points in the study were analysed based on a normal distribution; however, because baseline values for several laboratory assessments in this study demonstrated non-normal distributions, values for exploratory serum analytes are presented as medians or median percentage changes from baseline.</text>
+    </sentence>
+    <sentence charOffset="12355-12462" id="S90" selection="12b">
+        <text xml:space="preserve">Exploratory analyses, based on observed cases, were performed using the non-parametric Kruskal–Wallis test.</text>
+    </sentence>
+    <sentence charOffset="12463-12532" id="S91" selection="12b">
+        <text xml:space="preserve">Hodges–Lehmann estimates of location shift and 95% CIs are presented.</text>
+    </sentence>
+    <sentence charOffset="12533-12580" id="S92" selection="">
+        <text xml:space="preserve">No adjustments for multiplicity were performed.</text>
+    </sentence>
+    <sentence charOffset="12604-12611" id="S93">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="12618-12730" id="S94" selection="13a">
+        <text xml:space="preserve">Sixty-nine patients were randomly assigned to receive TCZ+MTX and sixty-three to receive placebo+MTX (figure 1).</text>
+    </sentence>
+    <sentence charOffset="12731-12806" id="S95" selection="13a">
+        <text xml:space="preserve">Sixty-five and sixty patients, respectively, completed 12 weeks of therapy.</text>
+    </sentence>
+    <sentence charOffset="12807-13072" id="S96" selection="13b">
+        <text xml:space="preserve">One patient in each arm withdrew because of an adverse event; one patient on placebo withdrew because of insufficient therapeutic response, three patients in the TCZ arm refused treatment and one patient in the TCZ arm was withdrawn because of a protocol violation.</text>
+    </sentence>
+    <sentence charOffset="13073-13234" id="S97" selection="13b">
+        <text xml:space="preserve">Two patients in the TCZ arm had their lipid-lowering medications changed; though included in the ITT analyses, they were excluded from the per-protocol analyses.</text>
+    </sentence>
+    <sentence charOffset="13235-13369" id="S98" selection="13a">
+        <text xml:space="preserve">Of 124 patients who completed blinded treatment, 117 elected to continue to the open-label phase; 92 completed treatment for 96 weeks.</text>
+    </sentence>
+    <sentence charOffset="13370-13481" id="S99" selection="15">
+        <text xml:space="preserve">Demographic and baseline disease characteristics (table 1) were similar to those of the TCZ phase III cohort.20</text>
+    </sentence>
+    <sentence charOffset="13482-13593" id="S100" selection="15">
+        <text xml:space="preserve">Moreover, 30% and 39% of the patients in the placebo and TCZ arms, respectively, had previously received aTNFs.</text>
+    </sentence>
+    <sentence charOffset="13594-13870" id="S101" selection="">
+        <text xml:space="preserve">TCZ efficacy, assessed by change in disease activity score at 28 joints (DAS28) at weeks 12 and 24 or by ACR 20/50/70 proportional changes at week 24, was similar to that previously observed and differed significantly from that of placebo (see online supplementary figure S1).</text>
+    </sentence>
+    <sentence charOffset="13871-14031" id="S102" selection="19">
+        <text xml:space="preserve">Adverse events and serious adverse events occurring during the trial were similar to those observed in previous TCZ studies (see online supplementary table S1).</text>
+    </sentence>
+    <sentence charOffset="14038-14089" id="S103" selection="15">
+        <text xml:space="preserve">Table 1 Demographic and disease factors at baseline</text>
+    </sentence>
+    <sentence charOffset="14096-14275" id="S104" selection="17a">
+        <text xml:space="preserve">Consistent with results from TCZ phase III clinical trials, median total cholesterol and LDL-C levels increased in TCZ recipients but did not change in placebo patients (table 2).</text>
+    </sentence>
+    <sentence charOffset="14276-14624" id="S105" selection="17a">
+        <text xml:space="preserve">In contrast, no statistically significant difference in the co-primary outcome of concentration of small LDL particles was observed at either week 12 (adjusted mean difference −0.0 (95% CI −115.0 to 115.0) nmol/L) or week 24 (adjusted mean difference 11.2 (95% CI −106.7 to 129.1) nmol/L) after treatment with TCZ compared with placebo (figure 2A).</text>
+    </sentence>
+    <sentence charOffset="14625-14799" id="S106" selection="17a">
+        <text xml:space="preserve">Oxidised LDL exhibited a 7% increase on TCZ treatment that was not significantly different from the increase observed with placebo and did not persist at week 24 (figure 2B).</text>
+    </sentence>
+    <sentence charOffset="14800-14893" id="S107" selection="17a">
+        <text xml:space="preserve">By contrast, Lp(a) was reduced (by 37%) in TCZ recipients (figure 2C) compared with controls.</text>
+    </sentence>
+    <sentence charOffset="14900-15024" id="S108" selection="17a">
+        <text xml:space="preserve">Table 2 Percentage change from baseline to week 12 in lipid parameters and lipid particles* (observed cases), ITT population</text>
+    </sentence>
+    <sentence charOffset="15031-15087" id="S109" selection="17a">
+        <text xml:space="preserve">Figure 2 (A–F) Effects on lipoproteins (TCZ vs placebo).</text>
+    </sentence>
+    <sentence charOffset="15088-15250" id="S110" selection="">
+        <text xml:space="preserve">HDL, high-density lipoprotein; LDL, low-density lipoprotein; MTX, methotrexate; SAA, serum amyloid A; sPLA2-IIA, secretory phospholipase A2-IIA; TCZ, tocilizumab.</text>
+    </sentence>
+    <sentence charOffset="15251-15278" id="S111" selection="">
+        <text xml:space="preserve">*p&lt;0.0001 (TCZ vs placebo).</text>
+    </sentence>
+    <sentence charOffset="15285-15590" id="S112" selection="17a">
+        <text xml:space="preserve">Measurement of change in PWV (second co-primary outcome) over 12 weeks revealed a significant difference between groups (adjusted mean difference 0.79 m/s (95% CI 0.22 to 1.35; p=0.0067)), constituting a greater relative reduction in PWV in placebo compared with TCZ-treated patients (−0.99 vs −0.21 m/s).</text>
+    </sentence>
+    <sentence charOffset="15591-15738" id="S113" selection="17a">
+        <text xml:space="preserve">The group difference was not sustained to week 24 (−0.47 vs −0.17 m/s; adjusted mean difference 0.30 m/s (95% CI −0.27 to 0.87; p=0.30)) (table 3).</text>
+    </sentence>
+    <sentence charOffset="15739-15832" id="S114" selection="">
+        <text xml:space="preserve">Technical challenges across sites were recorded in a substantial number of case report forms.</text>
+    </sentence>
+    <sentence charOffset="15833-15954" id="S115" selection="">
+        <text xml:space="preserve">There was no evidence of change in blood pressure by treatment arm before or after infusions (data available on request).</text>
+    </sentence>
+    <sentence charOffset="15955-16118" id="S116" selection="">
+        <text xml:space="preserve">Ten (17.5%) patients who received placebo and nine (15.5%) who received TCZ did not meet the quality control standards established for all measured PWV parameters.</text>
+    </sentence>
+    <sentence charOffset="16125-16183" id="S117" selection="17a">
+        <text xml:space="preserve">Table 3 Change from baseline in PWV (LOCF), ITT population</text>
+    </sentence>
+    <sentence charOffset="16190-16277" id="S118" selection="18">
+        <text xml:space="preserve">No statistically significant changes occurred in total serum HDL-C levels in the study.</text>
+    </sentence>
+    <sentence charOffset="16278-16476" id="S119" selection="18">
+        <text xml:space="preserve">NMR evaluation of HDL, however, revealed differential effects of TCZ versus placebo across particle sizes, with observed elevations in small HDL concentration and reductions in medium HDL (table 2).</text>
+    </sentence>
+    <sentence charOffset="16477-16561" id="S120" selection="18">
+        <text xml:space="preserve">A significant reduction (by 78%) was observed in the TCZ arm for HDL-associated SAA.</text>
+    </sentence>
+    <sentence charOffset="16562-16723" id="S121" selection="18">
+        <text xml:space="preserve">In contrast, a significant increase (by 16%) was noted in the antioxidative enzyme paraoxonase I, which is almost exclusively carried in serum HDL (figure 2D–F).</text>
+    </sentence>
+    <sentence charOffset="16724-16773" id="S122" selection="18">
+        <text xml:space="preserve">sPLA2-IIA was reduced (by 61%) in TCZ recipients.</text>
+    </sentence>
+    <sentence charOffset="16774-16845" id="S123" selection="18">
+        <text xml:space="preserve">No changes were observed in the control population in these biomarkers.</text>
+    </sentence>
+    <sentence charOffset="16846-16925" id="S124" selection="18">
+        <text xml:space="preserve">Alterations occurred rapidly (by week 2) and were sustained throughout therapy.</text>
+    </sentence>
+    <sentence charOffset="16932-17017" id="S125" selection="18">
+        <text xml:space="preserve">Results of NMR subfractionation of other lipoprotein subclasses are shown in table 2.</text>
+    </sentence>
+    <sentence charOffset="17018-17290" id="S126" selection="18">
+        <text xml:space="preserve">In patients treated with TCZ, changes in very low-density lipoprotein (VLDL) subclasses were elevated compared with placebo, with changes in the largest components of the VLDL subclasses most notable, though they constituted a small proportion of the total VLDL particles.</text>
+    </sentence>
+    <sentence charOffset="17291-17495" id="S127" selection="18">
+        <text xml:space="preserve">Similarly, no significant changes in the concentrations of intermediate, buoyant particles (large LDL and intermediate-density lipoprotein) occurred in TCZ-treated patients compared with placebo patients.</text>
+    </sentence>
+    <sentence charOffset="17496-17596" id="S128" selection="18">
+        <text xml:space="preserve">Median triglyceride levels increased in TCZ-treated patients but did not change in placebo patients.</text>
+    </sentence>
+    <sentence charOffset="17603-17756" id="S129" selection="18">
+        <text xml:space="preserve">Markers of inflammation, including CRP and haptoglobin, were elevated at baseline and markedly reduced within the first week of TCZ treatment (figure 3).</text>
+    </sentence>
+    <sentence charOffset="17757-17970" id="S130" selection="18">
+        <text xml:space="preserve">Similarly, rapid and sustained reductions in fibrinogen (by 47% from baseline) and d-dimer (by 62% from baseline) were observed in recipients of TCZ, whereas no changes were observed in the control arm (figure 3).</text>
+    </sentence>
+    <sentence charOffset="17971-18024" id="S131" selection="18">
+        <text xml:space="preserve">All changes remained stable throughout TCZ treatment.</text>
+    </sentence>
+    <sentence charOffset="18025-18117" id="S132" selection="18">
+        <text xml:space="preserve">Finally, the ApoB/ApoA1 ratio did not change throughout the study in either group (table 2).</text>
+    </sentence>
+    <sentence charOffset="18124-18203" id="S133" selection="18">
+        <text xml:space="preserve">Figure 3 (A–D) Effects on inflammatory and thrombotic markers (TCZ vs placebo).</text>
+    </sentence>
+    <sentence charOffset="18204-18285" id="S134" selection="">
+        <text xml:space="preserve">hs-CRP, high-sensitivity C-reactive protein; MTX, methotrexate; TCZ, tocilizumab.</text>
+    </sentence>
+    <sentence charOffset="18286-18313" id="S135" selection="">
+        <text xml:space="preserve">*p&lt;0.0001 (TCZ vs placebo).</text>
+    </sentence>
+    <sentence charOffset="18330-18340" id="S136">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="18347-18486" id="S137" selection="">
+        <text xml:space="preserve">We herein tested the primary hypotheses that TCZ in comparison to placebo would significantly lower PWV and the amount of small, dense LDL.</text>
+    </sentence>
+    <sentence charOffset="18487-18529" id="S138" selection="22">
+        <text xml:space="preserve">However, neither hypothesis was supported.</text>
+    </sentence>
+    <sentence charOffset="18530-18661" id="S139" selection="">
+        <text xml:space="preserve">There was no change in the amount of small, dense LDL, and though PWV declined in both groups it did so more in placebo recipients.</text>
+    </sentence>
+    <sentence charOffset="18662-18798" id="S140" selection="">
+        <text xml:space="preserve">We also performed extensive additional analyses to investigate the wider impact of IL-6R inhibition on a range of vascular risk factors.</text>
+    </sentence>
+    <sentence charOffset="18799-19102" id="S141" selection="22">
+        <text xml:space="preserve">Thus, we report that TCZ did modulate lipid particle levels (LDL, HDL, VLDL) and composition (HDL-associated SAA), together with a number of other inflammatory (CRP, paraoxonase) and vascular (Lp(a), D-dimer, fibrinogen) risk factors, suggesting potential modulation of the net atherogenic risk profile.</text>
+    </sentence>
+    <sentence charOffset="19109-19305" id="S142" selection="22">
+        <text xml:space="preserve">Consistent with results from other TCZ phase III clinical trials, total cholesterol, LDL-C and triglyceride levels increased in TCZ-treated patients but were minimally changed in placebo patients.</text>
+    </sentence>
+    <sentence charOffset="19306-19434" id="S143" selection="">
+        <text xml:space="preserve">In contrast, small LDL particle concentrations, considered proatherogenic, remained similar in TCZ-treated and placebo patients.</text>
+    </sentence>
+    <sentence charOffset="19435-19547" id="S144" selection="">
+        <text xml:space="preserve">Moreover, we observed a decrease (&gt;30%) in Lp(a), a risk factor independently associated with vascular events.10</text>
+    </sentence>
+    <sentence charOffset="19548-19711" id="S145" selection="">
+        <text xml:space="preserve">NMR assessment of lipoprotein subclasses revealed clear and sizeable changes in all classes of VLDL particles, the functional significance of which is yet unclear.</text>
+    </sentence>
+    <sentence charOffset="19718-19935" id="S146" selection="">
+        <text xml:space="preserve">By contrast, we did not see a reduction in PWV with TCZ but rather a significant reduction in the placebo group at 12 weeks relative to TCZ recipients, though this pattern was not sustained to the 24-week measurement.</text>
+    </sentence>
+    <sentence charOffset="19936-19997" id="S147" selection="">
+        <text xml:space="preserve">This finding, therefore, contradicts our original hypothesis.</text>
+    </sentence>
+    <sentence charOffset="19998-20161" id="S148" selection="20">
+        <text xml:space="preserve">It should be noted, however, that technical challenges during the conduct of this multicentre trial led to approximately 15% of the measurements being substandard.</text>
+    </sentence>
+    <sentence charOffset="20162-20327" id="S149" selection="20">
+        <text xml:space="preserve">Because of the severity of disease in study participants who had reduced mobility, contractures and joint pain, the procedure proved more difficult than anticipated.</text>
+    </sentence>
+    <sentence charOffset="20328-20584" id="S150" selection="">
+        <text xml:space="preserve">Nevertheless, it appears that PWV is not necessarily reduced with TCZ, though further studies with other vascular function measures not influenced by limited mobility (eg, peripheral arterial tonometry as a measure of endothelial function) would be useful.</text>
+    </sentence>
+    <sentence charOffset="20585-20784" id="S151" selection="22">
+        <text xml:space="preserve">Our findings contrast with those of Kume et al,21 who observed similar reductions in cardio-ankle vascular index and aortic augmentation index for patients treated with TCZ, adalimumab or etanercept.</text>
+    </sentence>
+    <sentence charOffset="20785-21023" id="S152" selection="22">
+        <text xml:space="preserve">Speculatively, it remains possible that disease-related vascular changes in patients in the present study (in which mean DAS28 was high) were much more progressed (and, thus, less reversible) than in patients studied in other trials.18 21</text>
+    </sentence>
+    <sentence charOffset="21030-21119" id="S153" selection="">
+        <text xml:space="preserve">Increases in HDL particle number, measured by NMR, occurred primarily in small particles.</text>
+    </sentence>
+    <sentence charOffset="21120-21303" id="S154" selection="22">
+        <text xml:space="preserve">Our demonstration of a significant increase in the concentration of small HDL particles with TCZ treatment is consistent with a potential ‘normalisation’ of small HDL particle levels.</text>
+    </sentence>
+    <sentence charOffset="21304-21459" id="S155" selection="">
+        <text xml:space="preserve">Small HDL particle numbers, measured by NMR, in two independent studies were lower in RA patients than in controls despite similar HDL-C concentrations.5 6</text>
+    </sentence>
+    <sentence charOffset="21460-21758" id="S156" selection="22">
+        <text xml:space="preserve">Furthermore, the observed significant reduction in medium HDL and HDL-SAA concentrations, along with the increase in paraoxonase, an antioxidant enzyme associated with HDL, suggests remodelling of HDL particles from a pro-inflammatory to an anti-inflammatory phenotype in response to TCZ treatment.</text>
+    </sentence>
+    <sentence charOffset="21759-21919" id="S157" selection="22">
+        <text xml:space="preserve">Overall, such changes in HDL particle composition with TCZ are consistent with the results of a recent study of aTNFs in patients with ankylosing spondylitis.22</text>
+    </sentence>
+    <sentence charOffset="21920-22180" id="S158" selection="22">
+        <text xml:space="preserve">Although it is unclear to what extent small HDL particles measured by NMR corroborate with those measured by other methods, small HDL particles may be more active in cholesterol efflux and anti-inflammatory functions,23 though this observation remains debated.</text>
+    </sentence>
+    <sentence charOffset="22187-22289" id="S159" selection="">
+        <text xml:space="preserve">Previous studies have demonstrated lower levels of LDL-C in patients with active RA than in controls.6</text>
+    </sentence>
+    <sentence charOffset="22290-22471" id="S160" selection="">
+        <text xml:space="preserve">Such decreases may result from increased catabolism (including by scavenger receptors), increased particle retention in tissue, or both, rather than from decreased lipid production.</text>
+    </sentence>
+    <sentence charOffset="22472-22746" id="S161" selection="">
+        <text xml:space="preserve">Increased cholesterol retention under conditions of elevated IL-6/IL-6R levels have been hypothesised to result from increased surface density on multiple tissues of LDL receptor, VLDL receptor and scavenger receptors, leading to excess internalisation of VLDL and LDL.24–26</text>
+    </sentence>
+    <sentence charOffset="22747-22879" id="S162" selection="">
+        <text xml:space="preserve">Furthermore, sPLA2-IIA expression, augmented by IL-6, leads to phospholipid hydrolysis of LDL and increases LDL uptake in tissues.27</text>
+    </sentence>
+    <sentence charOffset="22880-23132" id="S163" selection="22">
+        <text xml:space="preserve">Consistent with our results and the TCZ phase III programme,7 the TCZ-based IL-6 signal inhibition may reduce various receptor surface levels and sPLA2-IIA levels, leading to both decreased LDL and VLDL tissue retention and elevated circulating levels.</text>
+    </sentence>
+    <sentence charOffset="23139-23267" id="S164" selection="">
+        <text xml:space="preserve">Decreased thrombotic potential in TCZ-treated RA patients is indicated by declines in circulating fibrinogen and D-dimer levels.</text>
+    </sentence>
+    <sentence charOffset="23268-23496" id="S165" selection="">
+        <text xml:space="preserve">Although the reduction in fibrinogen, an acute-phase protein, with TCZ is predictable, the reduction of D-dimer is of particular interest because it represents the most widely used clinical marker of activated blood coagulation.</text>
+    </sentence>
+    <sentence charOffset="23497-23657" id="S166" selection="">
+        <text xml:space="preserve">Moreover, several prospective studies28 29 have linked elevated D-dimer levels to heightened risk for vascular events independently of established risk factors.</text>
+    </sentence>
+    <sentence charOffset="23658-23889" id="S167" selection="">
+        <text xml:space="preserve">Similarly, the sizeable reduction in Lp(a) observed with TCZ is of considerable interest because recent genetic and epidemiological evidence suggests Lp(a) is causally linked to cardiovascular events in the general population.10 30</text>
+    </sentence>
+    <sentence charOffset="23890-24086" id="S168" selection="">
+        <text xml:space="preserve">Our Lp(a) observations also extend findings from an earlier randomised, placebo-controlled study linking aTNF blockade to dose-dependent reductions in Lp(a) in patients with psoriatic arthritis.31</text>
+    </sentence>
+    <sentence charOffset="24087-24195" id="S169" selection="22">
+        <text xml:space="preserve">Collectively, these changes suggest a reduction in thrombotic potential with TCZ in patients with active RA.</text>
+    </sentence>
+    <sentence charOffset="24196-24353" id="S170" selection="">
+        <text xml:space="preserve">Of course, the net effect of TCZ-induced changes to vascular outcomes can be robustly tested only in the context of vascular outcomes in prospective studies.</text>
+    </sentence>
+    <sentence charOffset="24360-24615" id="S171" selection="22">
+        <text xml:space="preserve">In summary, the results of this randomised, placebo-controlled study suggest that IL-6R blockade with TCZ in patients with active RA not only reduces markers of inflammation but also affects quantitative and qualitative changes in lipids and lipoproteins.</text>
+    </sentence>
+    <sentence charOffset="24616-24833" id="S172" selection="22">
+        <text xml:space="preserve">Such changes include a global increase in LDL-C concentration, in line with findings from other biological studies,7 and apparently favourable changes to HDL particle composition, rendering them less pro-inflammatory.</text>
+    </sentence>
+    <sentence charOffset="24834-24950" id="S173" selection="">
+        <text xml:space="preserve">In addition, marked reductions in haemostatic and Lp(a) markers were observed, though PWV did not change favourably.</text>
+    </sentence>
+    <sentence charOffset="24951-25346" id="S174" selection="">
+        <text xml:space="preserve">Future determination of the net vascular effect of such changes in RA patients—and potentially other groups of patients— is of major interest, particularly given the recent data from large-scale (&gt;130 000 subjects, &gt;25 000 coronary heart disease cases) genome-wide association studies16 17 that suggest a potentially detrimental effect of IL-6R signalling on the risk for coronary heart disease.</text>
+    </sentence>
+    <sentence charOffset="25363-25385" id="S175">
+        <text xml:space="preserve">Supplementary Material</text>
+    </sentence>
+    <sentence charOffset="25412-25426" id="S176" selection="">
+        <text xml:space="preserve">Web supplement</text>
+    </sentence>
+    <sentence charOffset="25478-25487" id="S177" selection="">
+        <text xml:space="preserve">Web table</text>
+    </sentence>
+    <sentence charOffset="25522-25533" id="S178">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="25541-25600" id="S179" selection="">
+        <text xml:space="preserve">Writing assistance was provided by Santo D'Angelo, PhD, MS.</text>
+    </sentence>
+    <sentence charOffset="25622-25823" id="S180" selection="">
+        <text xml:space="preserve">Contributors: IBM was involved in the design of the study, conducting the research, analysis and interpretation of the data, drafting of the manuscript, and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="25824-26001" id="S181" selection="">
+        <text xml:space="preserve">LT was involved in the design of the study, data collection, analysis and interpretation of the data, drafting of the manuscript and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="26002-26159" id="S182" selection="">
+        <text xml:space="preserve">JTG was involved in conducting the research, analysis and interpretation of data, drafting of the manuscript and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="26160-26330" id="S183" selection="">
+        <text xml:space="preserve">JMB and JSL were involved in the design of the study, analysis and interpretation of the data, drafting of the manuscript and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="26331-26460" id="S184" selection="">
+        <text xml:space="preserve">JES and NS were involved in the design of the study, drafting of the manuscript, and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="26461-26581" id="S185" selection="">
+        <text xml:space="preserve">ADB was involved in conducting the research, drafting of the manuscript and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="26582-26714" id="S186" selection="">
+        <text xml:space="preserve">CEC was involved in conducting the research, review and revision of the manuscript, and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="26715-26860" id="S187" selection="">
+        <text xml:space="preserve">THC was involved in the design of the study, conducting the research, drafting of the manuscript and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="26861-27058" id="S188" selection="">
+        <text xml:space="preserve">CD was involved in the design of the study, conducting the research, analysis and interpretation of the data, review and revision of the manuscript, and approval of the final draft to be published.</text>
+    </sentence>
+    <sentence charOffset="27059-27123" id="S189" selection="">
+        <text xml:space="preserve">NS was also involved in analysis and interpretation of the data.</text>
+    </sentence>
+    <sentence charOffset="27146-27186" id="S190" selection="25">
+        <text xml:space="preserve">Funding: This study was funded by Roche.</text>
+    </sentence>
+    <sentence charOffset="27187-27189" id="S191" selection="">
+        <text xml:space="preserve">F.</text>
+    </sentence>
+    <sentence charOffset="27190-27304" id="S192" selection="">
+        <text xml:space="preserve">Hoffmann-La Roche was responsible for the study design together with several authors, principally IBM, JSL and NS.</text>
+    </sentence>
+    <sentence charOffset="27305-27424" id="S193" selection="">
+        <text xml:space="preserve">The other authors contributed to data interpretation and were responsible for the writing and review of the manuscript.</text>
+    </sentence>
+    <sentence charOffset="27425-27528" id="S194" selection="">
+        <text xml:space="preserve">The lead author had the final responsibility for the decision to submit the manuscript for publication.</text>
+    </sentence>
+    <sentence charOffset="27551-27677" id="S195" selection="">
+        <text xml:space="preserve">Competing interests: IBM: research grants and honoraria from Roche, Pfizer, Merck Sharp &amp; Dohme, Bristol-Myers Squibb, Abbott.</text>
+    </sentence>
+    <sentence charOffset="27678-27739" id="S196" selection="">
+        <text xml:space="preserve">LT: employee of Roche Products Ltd. JTG: consultant to Roche.</text>
+    </sentence>
+    <sentence charOffset="27740-27901" id="S197" selection="">
+        <text xml:space="preserve">JES: consultant to Quidel and Alexion Pharmaceuticals, served on advisory board for Bristol-Myers Squibb, research grants to Hospital for Special Surgery from F.</text>
+    </sentence>
+    <sentence charOffset="27902-27958" id="S198" selection="">
+        <text xml:space="preserve">Hoffmann-La Roche and the National Institutes of Health.</text>
+    </sentence>
+    <sentence charOffset="27959-27990" id="S199" selection="">
+        <text xml:space="preserve">ADB: research grant from Roche.</text>
+    </sentence>
+    <sentence charOffset="27991-28050" id="S200" selection="">
+        <text xml:space="preserve">CEC: research grant to institution for study participation.</text>
+    </sentence>
+    <sentence charOffset="28051-28074" id="S201" selection="">
+        <text xml:space="preserve">JSL: employee of Roche.</text>
+    </sentence>
+    <sentence charOffset="28075-28127" id="S202" selection="">
+        <text xml:space="preserve">NS: consultant to and on speaker's bureau for Roche.</text>
+    </sentence>
+    <sentence charOffset="28150-28176" id="S203" selection="">
+        <text xml:space="preserve">Patient consent: Obtained.</text>
+    </sentence>
+    <sentence charOffset="28199-28383" id="S204" selection="">
+        <text xml:space="preserve">Ethics approval: The trial was approved by an independent Ethics Committee or Institutional Review Board, and all patients gave written informed consent for participation in the trial.</text>
+    </sentence>
+    <sentence charOffset="28384-28576" id="S205" selection="">
+        <text xml:space="preserve">This two-arm, randomised, multicentre, double-blind, placebo-controlled, parallel-group, phase III study was conducted in the USA, Canada and the UK (figure 1) at 34 sites (the MEASURE study).</text>
+    </sentence>
+    <sentence charOffset="28599-28670" id="S206" selection="">
+        <text xml:space="preserve">Provenance and peer review: Not commissioned; externally peer reviewed.</text>
+    </sentence>
+    <sentence charOffset="28693-29059" id="S207" selection="">
+        <text xml:space="preserve">Open Access: This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 3.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial.</text>
+    </sentence>
+    <sentence charOffset="29060-29111" id="S208" selection="">
+        <text xml:space="preserve">See: http://creativecommons.org/licenses/by-nc/3.0/</text>
+    </sentence>
+    <section textSpan="0-151" title="Title" titleSpan="0-5"/>
+    <section textSpan="152-2184" title="Abstract" titleSpan="152-160">
+        <section textSpan="170-498" title="Objectives" titleSpan="181-191"/>
+        <section textSpan="507-880" title="Methods" titleSpan="518-525"/>
+        <section textSpan="889-1690" title="Results" titleSpan="900-907"/>
+        <section textSpan="1699-2176" title="Conclusions" titleSpan="1710-1721"/>
+    </section>
+    <section textSpan="2190-6048" title="Introduction" titleSpan="2197-2209"/>
+    <section textSpan="6053-12592" title="Methods" titleSpan="6060-6067">
+        <section textSpan="6074-7327" title="Patients" titleSpan="6083-6091"/>
+        <section textSpan="7334-9143" title="Procedures" titleSpan="7343-7353"/>
+        <section textSpan="9150-9850" title="Lipid and biomarker assays" titleSpan="9159-9185"/>
+        <section textSpan="9857-10363" title="Vascular physiology" titleSpan="9866-9885"/>
+        <section textSpan="10370-12587" title="Statistical analysis" titleSpan="10379-10399"/>
+    </section>
+    <section textSpan="12597-18318" title="Results" titleSpan="12604-12611"/>
+    <section textSpan="18323-25351" title="Discussion" titleSpan="18330-18340"/>
+    <section textSpan="25356-25517" title="Supplementary Material" titleSpan="25363-25385"/>
+    <section textSpan="25522-29124" title="Back matter" titleSpan="25522-25533"/>
+</document>

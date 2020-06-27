@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC4621368" note="">
+    <text xml:space="preserve">Title
+Perioperative elafin for ischaemia-reperfusion injury during coronary artery bypass graft surgery: a randomised-controlled trial
+Abstract
+
+        
+          Background
+          Elafin is a potent endogenous neutrophil elastase inhibitor that protects against myocardial inflammation and injury in preclinical models of ischaemic-reperfusion injury. We investigated whether elafin could inhibit myocardial ischaemia-reperfusion injury induced during coronary artery bypass graft (CABG) surgery.
+        
+        
+          Methods and results
+          In a randomised double-blind placebo-controlled parallel group clinical trial, 87 patients undergoing CABG surgery were randomised 1:1 to intravenous elafin 200 mg or saline placebo administered after induction of anaesthesia and prior to sternotomy. Myocardial injury was measured as cardiac troponin I release over 48 h (area under the curve (AUC)) and myocardial infarction identified with MRI. Postischaemic inflammation was measured by plasma markers including AUC high-sensitive C reactive protein (hs-CRP) and myeloperoxidase (MPO). Elafin infusion was safe and resulted in &gt;3000-fold increase in plasma elafin concentrations and &gt;50% inhibition of elastase activity in the first 24 h. This did not reduce myocardial injury over 48 h (ratio of geometric means (elafin/placebo) of AUC troponin I 0.74 (95% CI 0.47 to 1.15, p=0.18)) although post hoc analysis of the high-sensitive assay revealed lower troponin I concentrations at 6 h in elafin-treated patients (median 2.4 vs 4.1 μg/L, p=0.035). Elafin had no effect on myocardial infarction (elafin, 7/34 vs placebo, 5/35 patients) or on markers of inflammation: mean differences for AUC hs-CRP of 499 mg/L/48 h (95% CI −207 to 1205, p=0.16), and AUC MPO of 238 ng/mL/48 h (95% CI −235 to 711, p=0.320).
+        
+        
+          Conclusions
+          There was no strong evidence that neutrophil elastase inhibition with a single-dose elafin treatment reduced myocardial injury and inflammation following CABG-induced ischaemia-reperfusion injury.
+        
+        
+          Trial registration number
+          (EudraCT 2010-019527-58, ISRCTN82061264).
+        
+      
+
+
+    
+      Introduction
+      Ischaemia-reperfusion injury occurs when blood flow is restored to organs and tissues that have sustained a period of interrupted blood supply. This occurs following therapies for acute myocardial infarction and ischaemic stroke, and is a necessary consequence of solid organ transplantation. Mechanisms of cell and tissue injury include a neutrophil-mediated postischaemic inflammatory response and activation of cellular death pathways following reperfusion.1 Protecting organs from ischaemia-reperfusion injury to improve clinical outcome is a high priority. Despite intense research efforts and huge promise from preclinical and early-phase clinical trials, there are currently no effective therapies that can limit this injurious response.
+      During coronary artery bypass graft (CABG) surgery and cardiopulmonary bypass, coronary blood flow is interrupted and the heart is put into circulatory arrest. This causes ischaemia-reperfusion injury that is exacerbated by adverse neutrophil-mediated myocardial inflammation and injury.2–4 CABG surgery therefore represents a programmed clinical model of ischaemia-reperfusion injury that lends itself to testing the efficacy of potential therapeutic interventions.5
+      Elafin is an endogenous anti-inflammatory protein that was first isolated in the search for inhibitors of neutrophil elastase activity in the lung and skin.6 7 It has inhibitory activity against both human neutrophil elastase and proteinase-3 as well as suppressing production of inflammatory cytokines such as interleukin (IL)-8 and tumour necrosis factor alpha (TNF-α).8 Elafin is produced locally at sites of inflammation, raising a local defence of ‘alarm’ antiproteases in order to contain and inhibit neutrophil-mediated inflammation.9 Cardiovascular tissues do not express elafin or other neutrophil elastase inhibitors, and are therefore more vulnerable to neutrophil-mediated injury.
+      Augmentation of human elafin has consistently demonstrated impressive protective effects in rodent models of ischaemic and inflammatory elastase-mediated vascular injury. Elafin infusion reduced muscular injury and neutrophil recruitment in the rat ischaemic hindlimb and myocardial ischaemia–reperfusion injury models.10 11 Transgenic mice overexpressing human elafin under the control of the vascular pre-proendothelin promoter have relatively preserved LV size and function following myocardial infarction.12 Compared with wild-type littermates, these animals are also protected from viral myocarditis and hypoxia-induced pulmonary hypertension and exhibit less restenosis following wire-induced carotid artery denudation.13–15 Elafin augmentation, therefore, protects the cardiovascular system from a range of conditions characterised by neutrophil elastase-mediated inflammation and injury.
+      The purpose of the Elafin Myocardial Protection from Ischemia Reperfusion (EMPIRE) randomised-controlled clinical trial was to provide proof of concept that Elafin treatment could reduce myocardial ischaemia-reperfusion inflammation and injury in patients undergoing CABG surgery.
+    
+    
+      Methods
+      
+        Trial population
+        Between June 2011 and September 2013, consecutive patients referred for elective CABG surgery were recruited from two clinics at Edinburgh Heart Centre. Patients were 18 years or older, and were referred for isolated CABG surgery requiring two or more grafts. Exclusion criteria included patients with recent myocardial infarction (within 1 month of surgery), emergency or concomitant valve surgery, significant renal impairment (estimated glomerular filtration rate&lt;40 mL/min), severe respiratory disease (maintenance corticosteroid therapy or forced expiratory volume in 1 s &lt;50% predicted), severe LV impairment (EF &lt;40%), contraindication to magnetic resonance scanning, treatment for chronic inflammatory disease, women of childbearing potential and inability to provide consent.
+      
+      
+        Study drug and randomisation
+        Intravenous recombinant human elafin (Proteo Biotech AG, Germany) 200 mg or saline placebo was prepared and infused as aqueous solution of 250 mL 0.9% saline. Patients were randomised (1:1) to receive elafin or matched placebo by Edinburgh Clinical Trials Unit to ensure allocation concealment. Randomisation incorporated minimisation for age, presence of diabetes mellitus, extent of coronary artery disease, renal function and surgeon A or B. To ensure blinding, study drugs were prepared by staff independent of the study investigators or clinical team responsible for the patient’s care.
+        Intravenous elafin 200 mg causes complete inhibition of plasma elastase activity for 2 h and &gt;50% inhibition for 6 h. This dosage regimen was selected to cover the increased elastase release following CABG surgery that peaks at the time of weaning from cardiopulmonary bypass and has returned to baseline by 6–7 h. The study drug was administered to the patient through a central venous cannula over a period of 30 min. The intravenous infusion was started at first skin incision and completed at least 20 min before cardiopulmonary bypass commenced.
+      
+      
+        Anaesthesia and coronary artery bypass surgery
+        General anaesthesia was maintained with isoflurane and propofol infusion during bypass. Surgical approach was via a median sternotomy and cardiopulmonary bypass was started after heparin administration with a non-pulsatile flow and a membrane oxygenator. Cardioprotection was provided by cold blood cardioplegia (1:4), which was administered antegradely, after cross-clamping the aorta, into the coronary arteries or by cross-clamp fibrillation.
+      
+      
+        Blood samples
+        Blood samples were taken at baseline (time 0, skin incision) and at 2, 6, 24 and 48 h postoperatively. Plasma cardiac troponin I (cTnI) concentrations were measured with the ARCHITECTSTAT troponin I assay and ARCHITECTSTAT high-sensitive troponin I assay (Abbott Laboratories, Abbott Park, Illinois, USA) validated in our institution.16 17 Plasma concentrations of high-sensitive C reactive protein, IL-6, IL-8, myeloperoxidase and elastase were quantified using ELISAs (R&amp;D Systems, UK; Elastase ELISA, Cambridge Biosciences, UK). Plasma elastase activity and serum elafin concentrations were measured by the Department of Dermatology, University of Kiel, Germany.
+      
+      
+        Cardiac MRI and analysis
+        Each patient underwent cardiac MRI twice: within 6 weeks before surgery and from 5 days after surgery. Patients were scanned using a research-dedicated 3T Siemens Verio scanner (Siemens Medical, Germany). Quantification of LV mass, EF and late gadolinium enhancement infarct size were determined using established protocols and dedicated cardiac analysis software by two trained independent blinded observers.
+      
+      
+        Statistical analysis
+        The primary outcome variable was the 48 h area under the curve (AUC) for plasma cTnI concentration. It was analysed using a generalised linear model, including terms for the treatment allocation and the variables on which the randomisation was minimised. Log transformations were applied as the data were skewed, and the results have been unlogged and presented as geometric means. Secondary outcome measures involving the AUC (hs-CRP, IL-6, IL-8, myeloperoxidase and elastase) were analysed similarly, taking log transformation if the data were skewed. LVEF and mass were analysed using QMass software (Medis Medical Imaging Systems, the Netherlands). The change in volume of infarction from preoperative and first postoperative magnetic resonance scans was categorised as increased, no change or reduced according to detection threshold based on interobserver variability. Post hoc analyses of individual time points used Wilcoxon tests.
+        The primary analysis included all randomised patients on an intention-to-treat basis regardless of compliance with allocated treatment and post-randomisation events. A secondary pre-specified exploratory analysis of AUC cTnI release excluded patients who had myocardial infarction or a cardiac arrest, resulting in loss of cardiac output for &gt;1 min. Type V myocardial infarction was defined according to the third universal definition.18 Finally, post hoc, we examined treatment effect for each time point using the high-sensitive cTnI assay.
+        Power calculations were based on a recent study of patients undergoing remote ischaemic preconditioning before coronary artery bypass surgery.5 Mean cardiac troponin T release quantified as AUC was 36.12 µg/L (SD 26.08) and 20.58 µg/L (SD 9.58) in the control and treated patients, respectively. No contemporary AUC data were available for cTnI release in this patient group, but the measurements are equivalent in terms of quantifying myocardial injury. With a sample size of 80 patients, we had 90% power to detect this 40% difference in AUC cTnI with a significance level of 5%, using a t test with unequal variances and allowing for four dropouts in each arm.
+      
+    
+    
+      Results
+      A participant flow diagram is shown in figure 1. In 85 of the 87 patients, the trial infusion was administered as planned. Patient characteristics and intraoperative details are shown in table 1. Full data to calculate the AUC for cTnI (primary outcome) were obtained in 83 patients (95%). Data quality was similarly good for all secondary end points with missing data evenly balanced across the treatment arms.
+       Table 1 Baseline characteristics and intraoperative details by treatment group 
+       Figure 1 Trial flow diagram. 
+      Elafin infusion resulted in &gt;3000-fold higher plasma concentrations (mean AUC at 24 h; 31.1±9.6 vs 0.01±0.07 μg/mL for placebo) that was associated with a marked reduction in plasma elastase activity (mean AUC at 24 h; 4.28±5.13 vs 9.66±9.21 units/mL; figure 2).
+       Figure 2 Perioperative plasma elafin concentration (left) and plasma elastase activity (right) between groups. Data are median plus IQR from the first skin incision (time 0 h) to 24 h. Placebo group n=41; elafin group, n=43. 
+      There was no change in mean AUC troponin concentrations over the first 48 h in Elafin-treated patients (adjusted ratio of geometric means (elafin/placebo) 0.74, 95% CI 0.47 to 1.15, p=0.18; figure 3). There remained no evidence of a difference in a pre-specified secondary analysis where three patients who sustained a clinical myocardial infarction or had a cardiac arrest were excluded from analysis. Post hoc analysis using the high-sensitive assay demonstrated a reduction of plasma cTnI concentrations in elafin-treated patients at 6 h (median 2.4 vs placebo 4.1 μg/L, p=0.035; table 2).
+       Table 2 Post hoc analysis of plasma cardiac troponin I concentration (μg/L, median and IQR, high-sensitive assay) to 48 h 
+       Figure 3 Myocardial injury. Cardiac troponin I release following coronary artery bypass graft surgery between treatment groups from first skin incision (time 0 h) to 48 h. Data are median plus IQR. Placebo group, n=42; elafin group, n=44. 
+      Data from preoperative and postoperative scans were available for 34 (77.3%) elafin-treated and 35 (81.4%) placebo-treated patients (table 3). There was no difference in postoperative LV mass. The intra-class correlation coefficient for late gadolinium enhancement was 0.99 and the coefficient of repeatability of 1.78 mL (1.87 g) giving a threshold of 1.8 mL (1.9 g) for an increase in late gadolinium enhancement. Using this threshold, the incidence of increased myocardial infarction volume was 20.3% in elafin-treated and 14.3% in placebo-treated patients.
+       Table 3 MRI analysis of postoperative EF, LV mass and infarct volume 
+      There was no effect on peak myeloperoxidase concentrations (mean difference 54.73 ng/L, 95% CI −60.0 to 169.5, p=0.35) but peak elastase concentration was reduced (mean difference −168.4 ng/mL, 95% CI −323.4 to −13.47, p=0.03; figure 4). In contrast, there was no effect on the 6 h AUC for plasma elastase concentration (mean difference –524.0 ng/mL/48 h, 95% CI −1239 to 191.3, p=0.15). Although hs-CRP, IL-6 and IL-8 concentrations rose following CABG surgery (p&lt;0.001 for all), there was no treatment effect of elafin (mean differences for 48 h AUC hs-CRP of 499 mg/L/48 h, 95% CI −207 to 1205, p=0.16) and p&gt;0.05 for both IL-6 and IL-8; figure 4.
+       Figure 4 Perioperative circulating concentrations of neutrophil granule proteins elastase (top left), myeloperoxidase (top right), inflammatory cytokines interleukin (IL)-6 (bottom left) and IL-8 (bottom right) between treatment groups out to 6 h. Data are median plus IQR. Placebo group, n=42; elafin group, n=44. 
+      Median duration of stay in the intensive care unit was 24 and 23 h for patients treated with elafin and placebo, respectively (HR 1.25, 95% CI 0.81 to 1.94, p=0.32). Clinical outcomes and the incidence of perioperative complications in the first 48 h were also similar (table 4).
+       Table 4 Postoperative complications and outcomes by treatment 
+    
+    
+      Discussion
+      This is the first phase II clinical trial investigating the effect of elafin, an endogenous neutrophil elastase inhibitor, on myocardial ischaemia-reperfusion injury in patients undergoing CABG surgery. Despite achieving &gt;3000-fold increase in plasma concentrations sufficient to more than halve plasma elastase activity, we did not demonstrate clear evidence of beneficial effect of human recombinant elafin in our patients. Specifically, we were unable to attenuate the systemic inflammatory response despite evidence of anti-inflammatory activity in preclinical disease models.19 Nor could we conclusively detect a reduction in two very sensitive, complementary and gold standard measures of myocardial injury: AUC for plasma cTnI concentrations and late gadolinium enhancement on MRI despite preclinical studies with elafin reducing myocardial inflammation and injury after myocardial infarction.11 12 Differences between preclinical studies and the clinical CABG surgery model may have been responsible for different results. Elafin has never been tested in large animal models or in the setting of cardiopulmonary bypass surgery. The surgical population was relatively low risk, and the use of isoflurane anaesthesia may provide cardioprotection.20 Nevertheless, ischaemia-reperfusion injury in CABG surgery produced conditions where elafin would be expected to exert a treatment effect: neutrophil activation, elastase release and heightened circulating elastase activity together with activation of inflammatory cytokine pathways.
+      Elafin was safe and well tolerated in this high-risk clinical setting and post hoc analysis indicated reduced myocardial injury at 6 h, raising the possibility that more extensive treatment effect could have been seen with multiple doses or bolus and sustained infusions.
+      All patients in our trial exhibited evidence of myocardial injury demonstrated by cTnI release. This was associated with a marginal reduction in LVEF detected on postoperative MRI. Small increases in delayed gadolinium enhancement indicative of new myocardial infarction were detected in a fifth of patients in keeping with subclinical myocardial injury and infarction that follows circulatory arrest and ischaemia-reperfusion during CABG surgery. The current MRI results contrast with an earlier study reporting increased infarct volume in 78% of patients undergoing planned CABG.21 A key difference that may explain this discrepancy is the detailed patient characterisation in our study with availability of preoperative MRI scans allowing identification of small areas of pre-existing infarct that would be missed by using clinical history, echocardiography or ECGs to screen for pre-existing infarction.
+      Our data indicate that with single bolus administration elafin does not confer myocardial protection in the first 48 h following CABG surgery. This result was unchanged in a secondary analysis excluding patients who had sustained clinical events thought to be unrelated to study drug that would have contributed to large additional cTnI elevations. The absence of a convincing beneficial effect conflicts with preclinical ischaemia-reperfusion studies where elafin infusion was associated with a 27% reduction in myocardial infarct size and improved LV performance. Our clinical CABG model allows recapitulation of a key condition in preclinical models where elafin is administered upfront or expressed in tissues prior to the onset of cardiopulmonary bypass and ischaemic tissue injury. However, despite this, we were unable to demonstrate clear efficacy using two complementary and highly sensitive measures of myocardial injury. Post hoc analysis identified a reduction in plasma cTnI concentrations at 6 h in elafin-treated patients. Preclinical studies used continuous elafin delivery by infusion or gene expression and the reduced cTnI concentration at an early postoperative time point raises the question whether continuous elafin infusion following the bolus may have extended the treatment effect to 48 h.
+      Elafin is one of several agents targeting inflammatory pathways that have been investigated in ischaemia-reperfusion injury during cardiac surgery without success. Pexelizumab, a recombinant, single-chain anti-C5 monoclonal antibody, was studied in two multicentre, randomised clinical trials of patients undergoing CABG surgery with or without valve surgery on cardiopulmonary bypass. There was no difference in the primary outcome of death or myocardial infarction between the pexelizumab and placebo treatment groups.22 Failure of treatment effect with elafin and pexelizumab may reflect different mechanisms responsible for myocardial injury during CABG. Myocardial ischaemia and necrosis undoubtedly occur during CABG surgery, and the magnitude of cTnI release is correlated with subsequent morbidity and mortality.23 Mechanism of ischaemia in preclinical models commonly involves complete interruption of coronary blood flow with a ligature to the beating heart. In CABG surgery, the heart is in a state of circulatory arrest with protective cardioplegia and the impact of blood flow interruption is less severe. Despite evidence of neutrophil-mediated inflammatory injury post-CABG, it may be activation of cellular survival pathways within cardiomyocytes that determines the outcome of ischaemia-reperfusion in this setting. Ischaemic preconditioning refers to resistance to acute myocardial ischaemia reperfusion conferred by the application of brief repeated episodes of ischaemia. This approach has been used successfully in CABG surgery to limit cardiac marker release.5 We demonstrated substantial (&gt;50%) inhibition of circulating elastase activity by elafin following CABG surgery, and our data therefore indicate that neutrophil-derived elastase injury is not a prominent cause of myocardial injury in this setting.
+      The patients in our study did have evidence of neutrophil activation and degranulation with increased plasma concentrations of the primary granule contents, elastase and myeloperoxidase. Peak elastase concentrations were reduced in elafin-treated patients, although there was no demonstrable effect on peak myeloperoxidase concentrations. This discrepancy is explained by differences in the origin of these two neutrophil primary granule proteins. Circulating human neutrophil elastase is derived largely from acute neutrophil degranulation. A pool of neutrophil-derived myeloperoxidase is transcytosed and bound to the subendothelial matrix.24 This contributes to the circulating pool and is released following heparin administration during cardiopulmonary bypass.25
+      Elafin-mediated reductions in elastolytic activity and myeloperoxidase staining (as a marker of neutrophil infiltration) have been consistent findings in preclinical models. Elafin infusion produced impressive reductions in myocardial inflammation and necrosis in rabbits undergoing heterotopic cardiac transplantation.26 This was associated with a marked attenuation of myocardial elastolytic activity in transplanted hearts. Transgenic mice overexpressing full-length human elafin under the control of the vascular pre-proendothelin promoter exhibit complete inhibition of tissue elastolytic activity following acute myocardial infarction and carotid arterial wire denudation.12 15 These favourable treatment effects consistently occurred with reduced tissue myeloperoxidase content in keeping with less neutrophil recruitment. We were not able to access myocardial tissue for assessment of neutrophil infiltration and elastolytic activity, but the significant reduction in peak elastase concentration leaves open the possibility of an elafin effect on neutrophil activation and degranulation, which, if present, was not large enough to translate into a reduction in AUC elastase at 6 h.
+      The EMPIRE patients exhibited increased IL-8 and IL-6 production and increased levels of circulating hs-CRP in keeping with a postischaemic inflammatory response following CABG surgery. A systemic inflammatory response follows CABG surgery driven both by major surgical insult and contact activation of blood with artificial surfaces of the extracorporeal circuit.27 Belief that the magnitude of this response may drive clinical outcome has led to trials examining interventions to reduce postoperative inflammation. Peak and AUC hs-CRP, IL-6 and IL-8 release were similar between treatment groups. This result for elafin contrasts with previous work indicating broad-ranging anti-inflammatory activity in human endothelial cells and monocyte-derived macrophages.8 The failure of elafin to suppress IL-8 production during CABG surgery may indicate that additional inflammatory pathways are active or that despite impacting on circulating elastase activity elafin is not reaching or is not active in the subcellular space between neutrophils and their target tissue.
+      Given lack of a conclusive therapeutic effect on myocardial injury and postischaemic inflammation, it is not surprising that the exploratory clinical end point of postoperative ITU stay was no different between treatment groups. Elafin infusion was safe. There were no drug-related adverse events in this high-risk surgical group and no evidence of excessive bleeding, cardiovascular complications or renal dysfunction.
+      In conclusion, despite the body of work indicating therapeutic potential from several groups using different models, species and modes of augmentation, elafin's promise as a therapeutic agent to attenuate myocardial ischaemia-reperfusion injury and inflammation was not translated in this first phase II clinical trial. Post hoc analysis identified reduced cTnI concentrations at 6 h in elafin-treated patients, and it is possible that a bigger dose could have conferred protection out to 48 h. Elafin was safe and lack of treatment effect was seen despite achieving high plasma elafin concentrations and halving of circulating elastase activity. Key messagesWhat is already known on this subject?Ischaemia-reperfusion contributes to myocardial injury during cardiac surgery. Therapies to reduce injury remain elusive despite promise from preclinical studies. Elafin is an endogenous neutrophil elastase inhibitor with broad-ranging anti-inflammatory activity. Elafin reduces myocardial injury and infarct size and is associated with better myocardial function in preclinical models of ischaemia-reperfusion injury.What might this study add?We investigated elafin in myocardial ischaemia-reperfusion injury induced during coronary artery bypass graft surgery. A single dose of elafin was safe and reduced circulating elastase activity but did not attenuate ischaemia-reperfusion injury or postoperative inflammation following coronary artery bypass surgery.How might this impact on clinical practice?Elafin's promise as a therapeutic agent was not translated in this first phase II clinical trial. Post hoc analysis revealed reduced myocardial injury at an early time point in elafin-treated patients. Further studies with continuous infusion and alternative clinical models are needed to elucidate whether elafin can confer protection form ischaemia-reperfusion injury.
+    
+  
+
+Back matter
+
+      
+        Contributors: SA, DEN and PAH: substantial contributions to the conception or design of the work, or the acquisition, analysis or interpretation of data; drafting the work or revising it critically for important intellectual content; final approval of the version published and agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. SCL, AK, KG, KO, RH, NMM and CM: drafting the work or revising it critically for important intellectual content and final approval of the version published. VZ, RP, MRD, LM, ST, SS, OW, CS and SM: substantial contributions to the conception or design of the work, or the acquisition, analysis or interpretation of data; drafting the work or revising it critically for important intellectual content and final approval of the version published.
+      
+      
+        Funding: Medical Research Council (UK) Developmental Clinical Studies grant G1001339 and Chest Heart and Stroke Scotland (UK) grant R11/A135. DEN is funded by the British Heart Foundation (CH/09/002). Proteo Biotech AG supported the study by supplying the elafin required free of charge. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript. The content of this manuscript is solely the responsibility of the authors.
+      
+      
+        Competing interests: None declared.
+      
+      
+        Patient consent: Obtained.
+      
+      
+        Ethics approval: This single-centre clinical trial was performed with the approval of the national research ethics committee (11/MRE00/5), in accordance with the Declaration of Helsinki (2000), under a Clinical Trial Authorisation (27586/0015/001-0001) from the Medicine and Healthcare products Regulatory Authority (MHRA, UK).
+      
+      
+        Provenance and peer review: Not commissioned; externally peer reviewed.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-134" id="S2" selection="1a">
+        <text xml:space="preserve">Perioperative elafin for ischaemia-reperfusion injury during coronary artery bypass graft surgery: a randomised-controlled trial</text>
+    </sentence>
+    <sentence charOffset="135-143" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="164-174" id="S4" selection="">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="185-356" id="S5" selection="1b">
+        <text xml:space="preserve">Elafin is a potent endogenous neutrophil elastase inhibitor that protects against myocardial inflammation and injury in preclinical models of ischaemic-reperfusion injury.</text>
+    </sentence>
+    <sentence charOffset="357-501" id="S6" selection="">
+        <text xml:space="preserve">We investigated whether elafin could inhibit myocardial ischaemia-reperfusion injury induced during coronary artery bypass graft (CABG) surgery.</text>
+    </sentence>
+    <sentence charOffset="530-549" id="S7" selection="">
+        <text xml:space="preserve">Methods and results</text>
+    </sentence>
+    <sentence charOffset="560-810" id="S8" selection="3a">
+        <text xml:space="preserve">In a randomised double-blind placebo-controlled parallel group clinical trial, 87 patients undergoing CABG surgery were randomised 1:1 to intravenous elafin 200 mg or saline placebo administered after induction of anaesthesia and prior to sternotomy.</text>
+    </sentence>
+    <sentence charOffset="811-957" id="S9" selection="">
+        <text xml:space="preserve">Myocardial injury was measured as cardiac troponin I release over 48 h (area under the curve (AUC)) and myocardial infarction identified with MRI.</text>
+    </sentence>
+    <sentence charOffset="958-1099" id="S10" selection="">
+        <text xml:space="preserve">Postischaemic inflammation was measured by plasma markers including AUC high-sensitive C reactive protein (hs-CRP) and myeloperoxidase (MPO).</text>
+    </sentence>
+    <sentence charOffset="1100-1252" id="S11" selection="">
+        <text xml:space="preserve">Elafin infusion was safe and resulted in &gt;3000-fold increase in plasma elafin concentrations and &gt;50% inhibition of elastase activity in the first 24 h.</text>
+    </sentence>
+    <sentence charOffset="1253-1562" id="S12" selection="">
+        <text xml:space="preserve">This did not reduce myocardial injury over 48 h (ratio of geometric means (elafin/placebo) of AUC troponin I 0.74 (95% CI 0.47 to 1.15, p=0.18)) although post hoc analysis of the high-sensitive assay revealed lower troponin I concentrations at 6 h in elafin-treated patients (median 2.4 vs 4.1 μg/L, p=0.035).</text>
+    </sentence>
+    <sentence charOffset="1563-1821" id="S13" selection="">
+        <text xml:space="preserve">Elafin had no effect on myocardial infarction (elafin, 7/34 vs placebo, 5/35 patients) or on markers of inflammation: mean differences for AUC hs-CRP of 499 mg/L/48 h (95% CI −207 to 1205, p=0.16), and AUC MPO of 238 ng/mL/48 h (95% CI −235 to 711, p=0.320).</text>
+    </sentence>
+    <sentence charOffset="1850-1861" id="S14" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="1872-2068" id="S15" selection="">
+        <text xml:space="preserve">There was no strong evidence that neutrophil elastase inhibition with a single-dose elafin treatment reduced myocardial injury and inflammation following CABG-induced ischaemia-reperfusion injury.</text>
+    </sentence>
+    <sentence charOffset="2097-2122" id="S16" selection="">
+        <text xml:space="preserve">Trial registration number</text>
+    </sentence>
+    <sentence charOffset="2133-2174" id="S17" selection="23">
+        <text xml:space="preserve">(EudraCT 2010-019527-58, ISRCTN82061264).</text>
+    </sentence>
+    <sentence charOffset="2204-2216" id="S18">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2223-2366" id="S19" selection="">
+        <text xml:space="preserve">Ischaemia-reperfusion injury occurs when blood flow is restored to organs and tissues that have sustained a period of interrupted blood supply.</text>
+    </sentence>
+    <sentence charOffset="2367-2515" id="S20" selection="">
+        <text xml:space="preserve">This occurs following therapies for acute myocardial infarction and ischaemic stroke, and is a necessary consequence of solid organ transplantation.</text>
+    </sentence>
+    <sentence charOffset="2516-2684" id="S21" selection="">
+        <text xml:space="preserve">Mechanisms of cell and tissue injury include a neutrophil-mediated postischaemic inflammatory response and activation of cellular death pathways following reperfusion.1</text>
+    </sentence>
+    <sentence charOffset="2685-2784" id="S22" selection="">
+        <text xml:space="preserve">Protecting organs from ischaemia-reperfusion injury to improve clinical outcome is a high priority.</text>
+    </sentence>
+    <sentence charOffset="2785-2967" id="S23" selection="">
+        <text xml:space="preserve">Despite intense research efforts and huge promise from preclinical and early-phase clinical trials, there are currently no effective therapies that can limit this injurious response.</text>
+    </sentence>
+    <sentence charOffset="2974-3133" id="S24" selection="">
+        <text xml:space="preserve">During coronary artery bypass graft (CABG) surgery and cardiopulmonary bypass, coronary blood flow is interrupted and the heart is put into circulatory arrest.</text>
+    </sentence>
+    <sentence charOffset="3134-3264" id="S25" selection="">
+        <text xml:space="preserve">This causes ischaemia-reperfusion injury that is exacerbated by adverse neutrophil-mediated myocardial inflammation and injury.2–4</text>
+    </sentence>
+    <sentence charOffset="3265-3441" id="S26" selection="">
+        <text xml:space="preserve">CABG surgery therefore represents a programmed clinical model of ischaemia-reperfusion injury that lends itself to testing the efficacy of potential therapeutic interventions.5</text>
+    </sentence>
+    <sentence charOffset="3448-3607" id="S27" selection="">
+        <text xml:space="preserve">Elafin is an endogenous anti-inflammatory protein that was first isolated in the search for inhibitors of neutrophil elastase activity in the lung and skin.6 7</text>
+    </sentence>
+    <sentence charOffset="3608-3820" id="S28" selection="">
+        <text xml:space="preserve">It has inhibitory activity against both human neutrophil elastase and proteinase-3 as well as suppressing production of inflammatory cytokines such as interleukin (IL)-8 and tumour necrosis factor alpha (TNF-α).8</text>
+    </sentence>
+    <sentence charOffset="3821-3989" id="S29" selection="2a">
+        <text xml:space="preserve">Elafin is produced locally at sites of inflammation, raising a local defence of ‘alarm’ antiproteases in order to contain and inhibit neutrophil-mediated inflammation.9</text>
+    </sentence>
+    <sentence charOffset="3990-4140" id="S30" selection="">
+        <text xml:space="preserve">Cardiovascular tissues do not express elafin or other neutrophil elastase inhibitors, and are therefore more vulnerable to neutrophil-mediated injury.</text>
+    </sentence>
+    <sentence charOffset="4147-4317" id="S31" selection="">
+        <text xml:space="preserve">Augmentation of human elafin has consistently demonstrated impressive protective effects in rodent models of ischaemic and inflammatory elastase-mediated vascular injury.</text>
+    </sentence>
+    <sentence charOffset="4318-4471" id="S32" selection="">
+        <text xml:space="preserve">Elafin infusion reduced muscular injury and neutrophil recruitment in the rat ischaemic hindlimb and myocardial ischaemia–reperfusion injury models.10 11</text>
+    </sentence>
+    <sentence charOffset="4472-4658" id="S33" selection="">
+        <text xml:space="preserve">Transgenic mice overexpressing human elafin under the control of the vascular pre-proendothelin promoter have relatively preserved LV size and function following myocardial infarction.12</text>
+    </sentence>
+    <sentence charOffset="4659-4877" id="S34" selection="">
+        <text xml:space="preserve">Compared with wild-type littermates, these animals are also protected from viral myocarditis and hypoxia-induced pulmonary hypertension and exhibit less restenosis following wire-induced carotid artery denudation.13–15</text>
+    </sentence>
+    <sentence charOffset="4878-5042" id="S35" selection="2a">
+        <text xml:space="preserve">Elafin augmentation, therefore, protects the cardiovascular system from a range of conditions characterised by neutrophil elastase-mediated inflammation and injury.</text>
+    </sentence>
+    <sentence charOffset="5049-5329" id="S36" selection="2b">
+        <text xml:space="preserve">The purpose of the Elafin Myocardial Protection from Ischemia Reperfusion (EMPIRE) randomised-controlled clinical trial was to provide proof of concept that Elafin treatment could reduce myocardial ischaemia-reperfusion inflammation and injury in patients undergoing CABG surgery.</text>
+    </sentence>
+    <sentence charOffset="5346-5353" id="S37">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="5369-5385" id="S38" selection="">
+        <text xml:space="preserve">Trial population</text>
+    </sentence>
+    <sentence charOffset="5394-5546" id="S39" selection="4b,14a">
+        <text xml:space="preserve">Between June 2011 and September 2013, consecutive patients referred for elective CABG surgery were recruited from two clinics at Edinburgh Heart Centre.</text>
+    </sentence>
+    <sentence charOffset="5547-5653" id="S40" selection="4a">
+        <text xml:space="preserve">Patients were 18 years or older, and were referred for isolated CABG surgery requiring two or more grafts.</text>
+    </sentence>
+    <sentence charOffset="5654-6178" id="S41" selection="4a">
+        <text xml:space="preserve">Exclusion criteria included patients with recent myocardial infarction (within 1 month of surgery), emergency or concomitant valve surgery, significant renal impairment (estimated glomerular filtration rate&lt;40 mL/min), severe respiratory disease (maintenance corticosteroid therapy or forced expiratory volume in 1 s &lt;50% predicted), severe LV impairment (EF &lt;40%), contraindication to magnetic resonance scanning, treatment for chronic inflammatory disease, women of childbearing potential and inability to provide consent.</text>
+    </sentence>
+    <sentence charOffset="6201-6229" id="S42" selection="">
+        <text xml:space="preserve">Study drug and randomisation</text>
+    </sentence>
+    <sentence charOffset="6238-6396" id="S43" selection="5">
+        <text xml:space="preserve">Intravenous recombinant human elafin (Proteo Biotech AG, Germany) 200 mg or saline placebo was prepared and infused as aqueous solution of 250 mL 0.9% saline.</text>
+    </sentence>
+    <sentence charOffset="6397-6532" id="S44" selection="8b,10,9">
+        <text xml:space="preserve">Patients were randomised (1:1) to receive elafin or matched placebo by Edinburgh Clinical Trials Unit to ensure allocation concealment.</text>
+    </sentence>
+    <sentence charOffset="6533-6829" id="S45" selection="11a,8b">
+        <text xml:space="preserve">Randomisation incorporated minimisation for age, presence of diabetes mellitus, extent of coronary artery disease, renal function and surgeon A or B. To ensure blinding, study drugs were prepared by staff independent of the study investigators or clinical team responsible for the patient’s care.</text>
+    </sentence>
+    <sentence charOffset="6838-6955" id="S46" selection="">
+        <text xml:space="preserve">Intravenous elafin 200 mg causes complete inhibition of plasma elastase activity for 2 h and &gt;50% inhibition for 6 h.</text>
+    </sentence>
+    <sentence charOffset="6956-7152" id="S47" selection="5">
+        <text xml:space="preserve">This dosage regimen was selected to cover the increased elastase release following CABG surgery that peaks at the time of weaning from cardiopulmonary bypass and has returned to baseline by 6–7 h.</text>
+    </sentence>
+    <sentence charOffset="7153-7388" id="S48" selection="5">
+        <text xml:space="preserve">The study drug was administered to the patient through a central venous cannula over a period of 30 min. The intravenous infusion was started at first skin incision and completed at least 20 min before cardiopulmonary bypass commenced.</text>
+    </sentence>
+    <sentence charOffset="7411-7457" id="S49" selection="">
+        <text xml:space="preserve">Anaesthesia and coronary artery bypass surgery</text>
+    </sentence>
+    <sentence charOffset="7466-7553" id="S50" selection="">
+        <text xml:space="preserve">General anaesthesia was maintained with isoflurane and propofol infusion during bypass.</text>
+    </sentence>
+    <sentence charOffset="7554-7720" id="S51" selection="">
+        <text xml:space="preserve">Surgical approach was via a median sternotomy and cardiopulmonary bypass was started after heparin administration with a non-pulsatile flow and a membrane oxygenator.</text>
+    </sentence>
+    <sentence charOffset="7721-7911" id="S52" selection="">
+        <text xml:space="preserve">Cardioprotection was provided by cold blood cardioplegia (1:4), which was administered antegradely, after cross-clamping the aorta, into the coronary arteries or by cross-clamp fibrillation.</text>
+    </sentence>
+    <sentence charOffset="7934-7947" id="S53" selection="">
+        <text xml:space="preserve">Blood samples</text>
+    </sentence>
+    <sentence charOffset="7956-8058" id="S54" selection="6a">
+        <text xml:space="preserve">Blood samples were taken at baseline (time 0, skin incision) and at 2, 6, 24 and 48 h postoperatively.</text>
+    </sentence>
+    <sentence charOffset="8059-8295" id="S55" selection="6a">
+        <text xml:space="preserve">Plasma cardiac troponin I (cTnI) concentrations were measured with the ARCHITECTSTAT troponin I assay and ARCHITECTSTAT high-sensitive troponin I assay (Abbott Laboratories, Abbott Park, Illinois, USA) validated in our institution.16 17</text>
+    </sentence>
+    <sentence charOffset="8296-8487" id="S56" selection="6a">
+        <text xml:space="preserve">Plasma concentrations of high-sensitive C reactive protein, IL-6, IL-8, myeloperoxidase and elastase were quantified using ELISAs (R&amp;D Systems, UK; Elastase ELISA, Cambridge Biosciences, UK).</text>
+    </sentence>
+    <sentence charOffset="8488-8621" id="S57" selection="6a">
+        <text xml:space="preserve">Plasma elastase activity and serum elafin concentrations were measured by the Department of Dermatology, University of Kiel, Germany.</text>
+    </sentence>
+    <sentence charOffset="8644-8668" id="S58" selection="">
+        <text xml:space="preserve">Cardiac MRI and analysis</text>
+    </sentence>
+    <sentence charOffset="8677-8779" id="S59" selection="6a">
+        <text xml:space="preserve">Each patient underwent cardiac MRI twice: within 6 weeks before surgery and from 5 days after surgery.</text>
+    </sentence>
+    <sentence charOffset="8780-8881" id="S60" selection="6a">
+        <text xml:space="preserve">Patients were scanned using a research-dedicated 3T Siemens Verio scanner (Siemens Medical, Germany).</text>
+    </sentence>
+    <sentence charOffset="8882-9086" id="S61" selection="6a">
+        <text xml:space="preserve">Quantification of LV mass, EF and late gadolinium enhancement infarct size were determined using established protocols and dedicated cardiac analysis software by two trained independent blinded observers.</text>
+    </sentence>
+    <sentence charOffset="9109-9129" id="S62" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="9138-9237" id="S63" selection="6a">
+        <text xml:space="preserve">The primary outcome variable was the 48 h area under the curve (AUC) for plasma cTnI concentration.</text>
+    </sentence>
+    <sentence charOffset="9238-9392" id="S64" selection="12a">
+        <text xml:space="preserve">It was analysed using a generalised linear model, including terms for the treatment allocation and the variables on which the randomisation was minimised.</text>
+    </sentence>
+    <sentence charOffset="9393-9519" id="S65" selection="12a">
+        <text xml:space="preserve">Log transformations were applied as the data were skewed, and the results have been unlogged and presented as geometric means.</text>
+    </sentence>
+    <sentence charOffset="9520-9691" id="S66" selection="6a">
+        <text xml:space="preserve">Secondary outcome measures involving the AUC (hs-CRP, IL-6, IL-8, myeloperoxidase and elastase) were analysed similarly, taking log transformation if the data were skewed.</text>
+    </sentence>
+    <sentence charOffset="9692-9790" id="S67" selection="12a">
+        <text xml:space="preserve">LVEF and mass were analysed using QMass software (Medis Medical Imaging Systems, the Netherlands).</text>
+    </sentence>
+    <sentence charOffset="9791-10012" id="S68" selection="12a">
+        <text xml:space="preserve">The change in volume of infarction from preoperative and first postoperative magnetic resonance scans was categorised as increased, no change or reduced according to detection threshold based on interobserver variability.</text>
+    </sentence>
+    <sentence charOffset="10013-10077" id="S69" selection="12a">
+        <text xml:space="preserve">Post hoc analyses of individual time points used Wilcoxon tests.</text>
+    </sentence>
+    <sentence charOffset="10086-10251" id="S70" selection="">
+        <text xml:space="preserve">The primary analysis included all randomised patients on an intention-to-treat basis regardless of compliance with allocated treatment and post-randomisation events.</text>
+    </sentence>
+    <sentence charOffset="10252-10523" id="S71" selection="6a">
+        <text xml:space="preserve">A secondary pre-specified exploratory analysis of AUC cTnI release excluded patients who had myocardial infarction or a cardiac arrest, resulting in loss of cardiac output for &gt;1 min. Type V myocardial infarction was defined according to the third universal definition.18</text>
+    </sentence>
+    <sentence charOffset="10524-10628" id="S72" selection="6a">
+        <text xml:space="preserve">Finally, post hoc, we examined treatment effect for each time point using the high-sensitive cTnI assay.</text>
+    </sentence>
+    <sentence charOffset="10637-10780" id="S73" selection="7a">
+        <text xml:space="preserve">Power calculations were based on a recent study of patients undergoing remote ischaemic preconditioning before coronary artery bypass surgery.5</text>
+    </sentence>
+    <sentence charOffset="10781-10932" id="S74" selection="7a">
+        <text xml:space="preserve">Mean cardiac troponin T release quantified as AUC was 36.12 µg/L (SD 26.08) and 20.58 µg/L (SD 9.58) in the control and treated patients, respectively.</text>
+    </sentence>
+    <sentence charOffset="10933-11091" id="S75" selection="7a">
+        <text xml:space="preserve">No contemporary AUC data were available for cTnI release in this patient group, but the measurements are equivalent in terms of quantifying myocardial injury.</text>
+    </sentence>
+    <sentence charOffset="11092-11300" id="S76" selection="7a">
+        <text xml:space="preserve">With a sample size of 80 patients, we had 90% power to detect this 40% difference in AUC cTnI with a significance level of 5%, using a t test with unequal variances and allowing for four dropouts in each arm.</text>
+    </sentence>
+    <sentence charOffset="11324-11331" id="S77">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="11338-11386" id="S78" selection="13a">
+        <text xml:space="preserve">A participant flow diagram is shown in figure 1.</text>
+    </sentence>
+    <sentence charOffset="11387-11460" id="S79" selection="13a">
+        <text xml:space="preserve">In 85 of the 87 patients, the trial infusion was administered as planned.</text>
+    </sentence>
+    <sentence charOffset="11461-11533" id="S80" selection="15">
+        <text xml:space="preserve">Patient characteristics and intraoperative details are shown in table 1.</text>
+    </sentence>
+    <sentence charOffset="11534-11627" id="S81" selection="13a">
+        <text xml:space="preserve">Full data to calculate the AUC for cTnI (primary outcome) were obtained in 83 patients (95%).</text>
+    </sentence>
+    <sentence charOffset="11628-11749" id="S82" selection="">
+        <text xml:space="preserve">Data quality was similarly good for all secondary end points with missing data evenly balanced across the treatment arms.</text>
+    </sentence>
+    <sentence charOffset="11757-11835" id="S83" selection="15">
+        <text xml:space="preserve">Table 1 Baseline characteristics and intraoperative details by treatment group</text>
+    </sentence>
+    <sentence charOffset="11844-11872" id="S84" selection="13a,16,13b">
+        <text xml:space="preserve">Figure 1 Trial flow diagram.</text>
+    </sentence>
+    <sentence charOffset="11880-12142" id="S85" selection="17a">
+        <text xml:space="preserve">Elafin infusion resulted in &gt;3000-fold higher plasma concentrations (mean AUC at 24 h; 31.1±9.6 vs 0.01±0.07 μg/mL for placebo) that was associated with a marked reduction in plasma elastase activity (mean AUC at 24 h; 4.28±5.13 vs 9.66±9.21 units/mL; figure 2).</text>
+    </sentence>
+    <sentence charOffset="12150-12260" id="S86" selection="17a">
+        <text xml:space="preserve">Figure 2 Perioperative plasma elafin concentration (left) and plasma elastase activity (right) between groups.</text>
+    </sentence>
+    <sentence charOffset="12261-12334" id="S87" selection="">
+        <text xml:space="preserve">Data are median plus IQR from the first skin incision (time 0 h) to 24 h.</text>
+    </sentence>
+    <sentence charOffset="12335-12374" id="S88" selection="16">
+        <text xml:space="preserve">Placebo group n=41; elafin group, n=43.</text>
+    </sentence>
+    <sentence charOffset="12382-12582" id="S89" selection="17a">
+        <text xml:space="preserve">There was no change in mean AUC troponin concentrations over the first 48 h in Elafin-treated patients (adjusted ratio of geometric means (elafin/placebo) 0.74, 95% CI 0.47 to 1.15, p=0.18; figure 3).</text>
+    </sentence>
+    <sentence charOffset="12583-12784" id="S90" selection="17a">
+        <text xml:space="preserve">There remained no evidence of a difference in a pre-specified secondary analysis where three patients who sustained a clinical myocardial infarction or had a cardiac arrest were excluded from analysis.</text>
+    </sentence>
+    <sentence charOffset="12785-12974" id="S91" selection="18">
+        <text xml:space="preserve">Post hoc analysis using the high-sensitive assay demonstrated a reduction of plasma cTnI concentrations in elafin-treated patients at 6 h (median 2.4 vs placebo 4.1 μg/L, p=0.035; table 2).</text>
+    </sentence>
+    <sentence charOffset="12982-13103" id="S92" selection="18">
+        <text xml:space="preserve">Table 2 Post hoc analysis of plasma cardiac troponin I concentration (μg/L, median and IQR, high-sensitive assay) to 48 h</text>
+    </sentence>
+    <sentence charOffset="13112-13139" id="S93" selection="">
+        <text xml:space="preserve">Figure 3 Myocardial injury.</text>
+    </sentence>
+    <sentence charOffset="13140-13283" id="S94" selection="17a">
+        <text xml:space="preserve">Cardiac troponin I release following coronary artery bypass graft surgery between treatment groups from first skin incision (time 0 h) to 48 h.</text>
+    </sentence>
+    <sentence charOffset="13284-13309" id="S95" selection="">
+        <text xml:space="preserve">Data are median plus IQR.</text>
+    </sentence>
+    <sentence charOffset="13310-13350" id="S96" selection="16">
+        <text xml:space="preserve">Placebo group, n=42; elafin group, n=44.</text>
+    </sentence>
+    <sentence charOffset="13358-13500" id="S97" selection="">
+        <text xml:space="preserve">Data from preoperative and postoperative scans were available for 34 (77.3%) elafin-treated and 35 (81.4%) placebo-treated patients (table 3).</text>
+    </sentence>
+    <sentence charOffset="13501-13550" id="S98" selection="17a">
+        <text xml:space="preserve">There was no difference in postoperative LV mass.</text>
+    </sentence>
+    <sentence charOffset="13551-13773" id="S99" selection="17a">
+        <text xml:space="preserve">The intra-class correlation coefficient for late gadolinium enhancement was 0.99 and the coefficient of repeatability of 1.78 mL (1.87 g) giving a threshold of 1.8 mL (1.9 g) for an increase in late gadolinium enhancement.</text>
+    </sentence>
+    <sentence charOffset="13774-13918" id="S100" selection="17b">
+        <text xml:space="preserve">Using this threshold, the incidence of increased myocardial infarction volume was 20.3% in elafin-treated and 14.3% in placebo-treated patients.</text>
+    </sentence>
+    <sentence charOffset="13926-13994" id="S101" selection="17a">
+        <text xml:space="preserve">Table 3 MRI analysis of postoperative EF, LV mass and infarct volume</text>
+    </sentence>
+    <sentence charOffset="14002-14239" id="S102" selection="17a">
+        <text xml:space="preserve">There was no effect on peak myeloperoxidase concentrations (mean difference 54.73 ng/L, 95% CI −60.0 to 169.5, p=0.35) but peak elastase concentration was reduced (mean difference −168.4 ng/mL, 95% CI −323.4 to −13.47, p=0.03; figure 4).</text>
+    </sentence>
+    <sentence charOffset="14240-14389" id="S103" selection="17a">
+        <text xml:space="preserve">In contrast, there was no effect on the 6 h AUC for plasma elastase concentration (mean difference –524.0 ng/mL/48 h, 95% CI −1239 to 191.3, p=0.15).</text>
+    </sentence>
+    <sentence charOffset="14390-14652" id="S104" selection="17a">
+        <text xml:space="preserve">Although hs-CRP, IL-6 and IL-8 concentrations rose following CABG surgery (p&lt;0.001 for all), there was no treatment effect of elafin (mean differences for 48 h AUC hs-CRP of 499 mg/L/48 h, 95% CI −207 to 1205, p=0.16) and p&gt;0.05 for both IL-6 and IL-8; figure 4.</text>
+    </sentence>
+    <sentence charOffset="14660-14907" id="S105" selection="17a">
+        <text xml:space="preserve">Figure 4 Perioperative circulating concentrations of neutrophil granule proteins elastase (top left), myeloperoxidase (top right), inflammatory cytokines interleukin (IL)-6 (bottom left) and IL-8 (bottom right) between treatment groups out to 6 h.</text>
+    </sentence>
+    <sentence charOffset="14908-14933" id="S106" selection="">
+        <text xml:space="preserve">Data are median plus IQR.</text>
+    </sentence>
+    <sentence charOffset="14934-14974" id="S107" selection="16">
+        <text xml:space="preserve">Placebo group, n=42; elafin group, n=44.</text>
+    </sentence>
+    <sentence charOffset="14982-15147" id="S108" selection="">
+        <text xml:space="preserve">Median duration of stay in the intensive care unit was 24 and 23 h for patients treated with elafin and placebo, respectively (HR 1.25, 95% CI 0.81 to 1.94, p=0.32).</text>
+    </sentence>
+    <sentence charOffset="15148-15261" id="S109" selection="19">
+        <text xml:space="preserve">Clinical outcomes and the incidence of perioperative complications in the first 48 h were also similar (table 4).</text>
+    </sentence>
+    <sentence charOffset="15269-15330" id="S110" selection="19">
+        <text xml:space="preserve">Table 4 Postoperative complications and outcomes by treatment</text>
+    </sentence>
+    <sentence charOffset="15348-15358" id="S111">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="15365-15567" id="S112" selection="">
+        <text xml:space="preserve">This is the first phase II clinical trial investigating the effect of elafin, an endogenous neutrophil elastase inhibitor, on myocardial ischaemia-reperfusion injury in patients undergoing CABG surgery.</text>
+    </sentence>
+    <sentence charOffset="15568-15790" id="S113" selection="22">
+        <text xml:space="preserve">Despite achieving &gt;3000-fold increase in plasma concentrations sufficient to more than halve plasma elastase activity, we did not demonstrate clear evidence of beneficial effect of human recombinant elafin in our patients.</text>
+    </sentence>
+    <sentence charOffset="15791-15947" id="S114" selection="22">
+        <text xml:space="preserve">Specifically, we were unable to attenuate the systemic inflammatory response despite evidence of anti-inflammatory activity in preclinical disease models.19</text>
+    </sentence>
+    <sentence charOffset="15948-16270" id="S115" selection="22">
+        <text xml:space="preserve">Nor could we conclusively detect a reduction in two very sensitive, complementary and gold standard measures of myocardial injury: AUC for plasma cTnI concentrations and late gadolinium enhancement on MRI despite preclinical studies with elafin reducing myocardial inflammation and injury after myocardial infarction.11 12</text>
+    </sentence>
+    <sentence charOffset="16271-16395" id="S116" selection="22">
+        <text xml:space="preserve">Differences between preclinical studies and the clinical CABG surgery model may have been responsible for different results.</text>
+    </sentence>
+    <sentence charOffset="16396-16500" id="S117" selection="">
+        <text xml:space="preserve">Elafin has never been tested in large animal models or in the setting of cardiopulmonary bypass surgery.</text>
+    </sentence>
+    <sentence charOffset="16501-16619" id="S118" selection="">
+        <text xml:space="preserve">The surgical population was relatively low risk, and the use of isoflurane anaesthesia may provide cardioprotection.20</text>
+    </sentence>
+    <sentence charOffset="16620-16903" id="S119" selection="">
+        <text xml:space="preserve">Nevertheless, ischaemia-reperfusion injury in CABG surgery produced conditions where elafin would be expected to exert a treatment effect: neutrophil activation, elastase release and heightened circulating elastase activity together with activation of inflammatory cytokine pathways.</text>
+    </sentence>
+    <sentence charOffset="16910-17181" id="S120" selection="22">
+        <text xml:space="preserve">Elafin was safe and well tolerated in this high-risk clinical setting and post hoc analysis indicated reduced myocardial injury at 6 h, raising the possibility that more extensive treatment effect could have been seen with multiple doses or bolus and sustained infusions.</text>
+    </sentence>
+    <sentence charOffset="17188-17283" id="S121" selection="">
+        <text xml:space="preserve">All patients in our trial exhibited evidence of myocardial injury demonstrated by cTnI release.</text>
+    </sentence>
+    <sentence charOffset="17284-17368" id="S122" selection="">
+        <text xml:space="preserve">This was associated with a marginal reduction in LVEF detected on postoperative MRI.</text>
+    </sentence>
+    <sentence charOffset="17369-17635" id="S123" selection="22">
+        <text xml:space="preserve">Small increases in delayed gadolinium enhancement indicative of new myocardial infarction were detected in a fifth of patients in keeping with subclinical myocardial injury and infarction that follows circulatory arrest and ischaemia-reperfusion during CABG surgery.</text>
+    </sentence>
+    <sentence charOffset="17636-17771" id="S124" selection="22">
+        <text xml:space="preserve">The current MRI results contrast with an earlier study reporting increased infarct volume in 78% of patients undergoing planned CABG.21</text>
+    </sentence>
+    <sentence charOffset="17772-18095" id="S125" selection="22">
+        <text xml:space="preserve">A key difference that may explain this discrepancy is the detailed patient characterisation in our study with availability of preoperative MRI scans allowing identification of small areas of pre-existing infarct that would be missed by using clinical history, echocardiography or ECGs to screen for pre-existing infarction.</text>
+    </sentence>
+    <sentence charOffset="18102-18244" id="S126" selection="22">
+        <text xml:space="preserve">Our data indicate that with single bolus administration elafin does not confer myocardial protection in the first 48 h following CABG surgery.</text>
+    </sentence>
+    <sentence charOffset="18245-18450" id="S127" selection="">
+        <text xml:space="preserve">This result was unchanged in a secondary analysis excluding patients who had sustained clinical events thought to be unrelated to study drug that would have contributed to large additional cTnI elevations.</text>
+    </sentence>
+    <sentence charOffset="18451-18667" id="S128" selection="22">
+        <text xml:space="preserve">The absence of a convincing beneficial effect conflicts with preclinical ischaemia-reperfusion studies where elafin infusion was associated with a 27% reduction in myocardial infarct size and improved LV performance.</text>
+    </sentence>
+    <sentence charOffset="18668-18889" id="S129" selection="">
+        <text xml:space="preserve">Our clinical CABG model allows recapitulation of a key condition in preclinical models where elafin is administered upfront or expressed in tissues prior to the onset of cardiopulmonary bypass and ischaemic tissue injury.</text>
+    </sentence>
+    <sentence charOffset="18890-19033" id="S130" selection="">
+        <text xml:space="preserve">However, despite this, we were unable to demonstrate clear efficacy using two complementary and highly sensitive measures of myocardial injury.</text>
+    </sentence>
+    <sentence charOffset="19034-19139" id="S131" selection="">
+        <text xml:space="preserve">Post hoc analysis identified a reduction in plasma cTnI concentrations at 6 h in elafin-treated patients.</text>
+    </sentence>
+    <sentence charOffset="19140-19417" id="S132" selection="">
+        <text xml:space="preserve">Preclinical studies used continuous elafin delivery by infusion or gene expression and the reduced cTnI concentration at an early postoperative time point raises the question whether continuous elafin infusion following the bolus may have extended the treatment effect to 48 h.</text>
+    </sentence>
+    <sentence charOffset="19424-19587" id="S133" selection="">
+        <text xml:space="preserve">Elafin is one of several agents targeting inflammatory pathways that have been investigated in ischaemia-reperfusion injury during cardiac surgery without success.</text>
+    </sentence>
+    <sentence charOffset="19588-19809" id="S134" selection="">
+        <text xml:space="preserve">Pexelizumab, a recombinant, single-chain anti-C5 monoclonal antibody, was studied in two multicentre, randomised clinical trials of patients undergoing CABG surgery with or without valve surgery on cardiopulmonary bypass.</text>
+    </sentence>
+    <sentence charOffset="19810-19946" id="S135" selection="">
+        <text xml:space="preserve">There was no difference in the primary outcome of death or myocardial infarction between the pexelizumab and placebo treatment groups.22</text>
+    </sentence>
+    <sentence charOffset="19947-20082" id="S136" selection="22">
+        <text xml:space="preserve">Failure of treatment effect with elafin and pexelizumab may reflect different mechanisms responsible for myocardial injury during CABG.</text>
+    </sentence>
+    <sentence charOffset="20083-20246" id="S137" selection="">
+        <text xml:space="preserve">Myocardial ischaemia and necrosis undoubtedly occur during CABG surgery, and the magnitude of cTnI release is correlated with subsequent morbidity and mortality.23</text>
+    </sentence>
+    <sentence charOffset="20247-20392" id="S138" selection="">
+        <text xml:space="preserve">Mechanism of ischaemia in preclinical models commonly involves complete interruption of coronary blood flow with a ligature to the beating heart.</text>
+    </sentence>
+    <sentence charOffset="20393-20542" id="S139" selection="">
+        <text xml:space="preserve">In CABG surgery, the heart is in a state of circulatory arrest with protective cardioplegia and the impact of blood flow interruption is less severe.</text>
+    </sentence>
+    <sentence charOffset="20543-20756" id="S140" selection="22">
+        <text xml:space="preserve">Despite evidence of neutrophil-mediated inflammatory injury post-CABG, it may be activation of cellular survival pathways within cardiomyocytes that determines the outcome of ischaemia-reperfusion in this setting.</text>
+    </sentence>
+    <sentence charOffset="20757-20915" id="S141" selection="">
+        <text xml:space="preserve">Ischaemic preconditioning refers to resistance to acute myocardial ischaemia reperfusion conferred by the application of brief repeated episodes of ischaemia.</text>
+    </sentence>
+    <sentence charOffset="20916-21006" id="S142" selection="">
+        <text xml:space="preserve">This approach has been used successfully in CABG surgery to limit cardiac marker release.5</text>
+    </sentence>
+    <sentence charOffset="21007-21254" id="S143" selection="22">
+        <text xml:space="preserve">We demonstrated substantial (&gt;50%) inhibition of circulating elastase activity by elafin following CABG surgery, and our data therefore indicate that neutrophil-derived elastase injury is not a prominent cause of myocardial injury in this setting.</text>
+    </sentence>
+    <sentence charOffset="21261-21447" id="S144" selection="">
+        <text xml:space="preserve">The patients in our study did have evidence of neutrophil activation and degranulation with increased plasma concentrations of the primary granule contents, elastase and myeloperoxidase.</text>
+    </sentence>
+    <sentence charOffset="21448-21599" id="S145" selection="">
+        <text xml:space="preserve">Peak elastase concentrations were reduced in elafin-treated patients, although there was no demonstrable effect on peak myeloperoxidase concentrations.</text>
+    </sentence>
+    <sentence charOffset="21600-21708" id="S146" selection="">
+        <text xml:space="preserve">This discrepancy is explained by differences in the origin of these two neutrophil primary granule proteins.</text>
+    </sentence>
+    <sentence charOffset="21709-21802" id="S147" selection="">
+        <text xml:space="preserve">Circulating human neutrophil elastase is derived largely from acute neutrophil degranulation.</text>
+    </sentence>
+    <sentence charOffset="21803-21905" id="S148" selection="">
+        <text xml:space="preserve">A pool of neutrophil-derived myeloperoxidase is transcytosed and bound to the subendothelial matrix.24</text>
+    </sentence>
+    <sentence charOffset="21906-22028" id="S149" selection="">
+        <text xml:space="preserve">This contributes to the circulating pool and is released following heparin administration during cardiopulmonary bypass.25</text>
+    </sentence>
+    <sentence charOffset="22035-22208" id="S150" selection="">
+        <text xml:space="preserve">Elafin-mediated reductions in elastolytic activity and myeloperoxidase staining (as a marker of neutrophil infiltration) have been consistent findings in preclinical models.</text>
+    </sentence>
+    <sentence charOffset="22209-22356" id="S151" selection="">
+        <text xml:space="preserve">Elafin infusion produced impressive reductions in myocardial inflammation and necrosis in rabbits undergoing heterotopic cardiac transplantation.26</text>
+    </sentence>
+    <sentence charOffset="22357-22461" id="S152" selection="">
+        <text xml:space="preserve">This was associated with a marked attenuation of myocardial elastolytic activity in transplanted hearts.</text>
+    </sentence>
+    <sentence charOffset="22462-22718" id="S153" selection="">
+        <text xml:space="preserve">Transgenic mice overexpressing full-length human elafin under the control of the vascular pre-proendothelin promoter exhibit complete inhibition of tissue elastolytic activity following acute myocardial infarction and carotid arterial wire denudation.12 15</text>
+    </sentence>
+    <sentence charOffset="22719-22864" id="S154" selection="">
+        <text xml:space="preserve">These favourable treatment effects consistently occurred with reduced tissue myeloperoxidase content in keeping with less neutrophil recruitment.</text>
+    </sentence>
+    <sentence charOffset="22865-23224" id="S155" selection="22">
+        <text xml:space="preserve">We were not able to access myocardial tissue for assessment of neutrophil infiltration and elastolytic activity, but the significant reduction in peak elastase concentration leaves open the possibility of an elafin effect on neutrophil activation and degranulation, which, if present, was not large enough to translate into a reduction in AUC elastase at 6 h.</text>
+    </sentence>
+    <sentence charOffset="23231-23416" id="S156" selection="">
+        <text xml:space="preserve">The EMPIRE patients exhibited increased IL-8 and IL-6 production and increased levels of circulating hs-CRP in keeping with a postischaemic inflammatory response following CABG surgery.</text>
+    </sentence>
+    <sentence charOffset="23417-23597" id="S157" selection="">
+        <text xml:space="preserve">A systemic inflammatory response follows CABG surgery driven both by major surgical insult and contact activation of blood with artificial surfaces of the extracorporeal circuit.27</text>
+    </sentence>
+    <sentence charOffset="23598-23747" id="S158" selection="">
+        <text xml:space="preserve">Belief that the magnitude of this response may drive clinical outcome has led to trials examining interventions to reduce postoperative inflammation.</text>
+    </sentence>
+    <sentence charOffset="23748-23829" id="S159" selection="">
+        <text xml:space="preserve">Peak and AUC hs-CRP, IL-6 and IL-8 release were similar between treatment groups.</text>
+    </sentence>
+    <sentence charOffset="23830-23995" id="S160" selection="22">
+        <text xml:space="preserve">This result for elafin contrasts with previous work indicating broad-ranging anti-inflammatory activity in human endothelial cells and monocyte-derived macrophages.8</text>
+    </sentence>
+    <sentence charOffset="23996-24296" id="S161" selection="22">
+        <text xml:space="preserve">The failure of elafin to suppress IL-8 production during CABG surgery may indicate that additional inflammatory pathways are active or that despite impacting on circulating elastase activity elafin is not reaching or is not active in the subcellular space between neutrophils and their target tissue.</text>
+    </sentence>
+    <sentence charOffset="24303-24531" id="S162" selection="22">
+        <text xml:space="preserve">Given lack of a conclusive therapeutic effect on myocardial injury and postischaemic inflammation, it is not surprising that the exploratory clinical end point of postoperative ITU stay was no different between treatment groups.</text>
+    </sentence>
+    <sentence charOffset="24532-24557" id="S163" selection="">
+        <text xml:space="preserve">Elafin infusion was safe.</text>
+    </sentence>
+    <sentence charOffset="24558-24722" id="S164" selection="">
+        <text xml:space="preserve">There were no drug-related adverse events in this high-risk surgical group and no evidence of excessive bleeding, cardiovascular complications or renal dysfunction.</text>
+    </sentence>
+    <sentence charOffset="24729-25048" id="S165" selection="22">
+        <text xml:space="preserve">In conclusion, despite the body of work indicating therapeutic potential from several groups using different models, species and modes of augmentation, elafin's promise as a therapeutic agent to attenuate myocardial ischaemia-reperfusion injury and inflammation was not translated in this first phase II clinical trial.</text>
+    </sentence>
+    <sentence charOffset="25049-25223" id="S166" selection="22">
+        <text xml:space="preserve">Post hoc analysis identified reduced cTnI concentrations at 6 h in elafin-treated patients, and it is possible that a bigger dose could have conferred protection out to 48 h.</text>
+    </sentence>
+    <sentence charOffset="25224-25375" id="S167" selection="">
+        <text xml:space="preserve">Elafin was safe and lack of treatment effect was seen despite achieving high plasma elafin concentrations and halving of circulating elastase activity.</text>
+    </sentence>
+    <sentence charOffset="25376-25504" id="S168" selection="">
+        <text xml:space="preserve">Key messagesWhat is already known on this subject?Ischaemia-reperfusion contributes to myocardial injury during cardiac surgery.</text>
+    </sentence>
+    <sentence charOffset="25505-25588" id="S169" selection="">
+        <text xml:space="preserve">Therapies to reduce injury remain elusive despite promise from preclinical studies.</text>
+    </sentence>
+    <sentence charOffset="25589-25689" id="S170" selection="">
+        <text xml:space="preserve">Elafin is an endogenous neutrophil elastase inhibitor with broad-ranging anti-inflammatory activity.</text>
+    </sentence>
+    <sentence charOffset="25690-25988" id="S171" selection="">
+        <text xml:space="preserve">Elafin reduces myocardial injury and infarct size and is associated with better myocardial function in preclinical models of ischaemia-reperfusion injury.What might this study add?We investigated elafin in myocardial ischaemia-reperfusion injury induced during coronary artery bypass graft surgery.</text>
+    </sentence>
+    <sentence charOffset="25989-26326" id="S172" selection="">
+        <text xml:space="preserve">A single dose of elafin was safe and reduced circulating elastase activity but did not attenuate ischaemia-reperfusion injury or postoperative inflammation following coronary artery bypass surgery.How might this impact on clinical practice?Elafin's promise as a therapeutic agent was not translated in this first phase II clinical trial.</text>
+    </sentence>
+    <sentence charOffset="26327-26430" id="S173" selection="">
+        <text xml:space="preserve">Post hoc analysis revealed reduced myocardial injury at an early time point in elafin-treated patients.</text>
+    </sentence>
+    <sentence charOffset="26431-26599" id="S174" selection="">
+        <text xml:space="preserve">Further studies with continuous infusion and alternative clinical models are needed to elucidate whether elafin can confer protection form ischaemia-reperfusion injury.</text>
+    </sentence>
+    <sentence charOffset="26609-26620" id="S175">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="26637-27103" id="S176" selection="">
+        <text xml:space="preserve">Contributors: SA, DEN and PAH: substantial contributions to the conception or design of the work, or the acquisition, analysis or interpretation of data; drafting the work or revising it critically for important intellectual content; final approval of the version published and agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.</text>
+    </sentence>
+    <sentence charOffset="27104-27260" id="S177" selection="">
+        <text xml:space="preserve">SCL, AK, KG, KO, RH, NMM and CM: drafting the work or revising it critically for important intellectual content and final approval of the version published.</text>
+    </sentence>
+    <sentence charOffset="27261-27547" id="S178" selection="">
+        <text xml:space="preserve">VZ, RP, MRD, LM, ST, SS, OW, CS and SM: substantial contributions to the conception or design of the work, or the acquisition, analysis or interpretation of data; drafting the work or revising it critically for important intellectual content and final approval of the version published.</text>
+    </sentence>
+    <sentence charOffset="27570-27711" id="S179" selection="25">
+        <text xml:space="preserve">Funding: Medical Research Council (UK) Developmental Clinical Studies grant G1001339 and Chest Heart and Stroke Scotland (UK) grant R11/A135.</text>
+    </sentence>
+    <sentence charOffset="27712-27770" id="S180" selection="25">
+        <text xml:space="preserve">DEN is funded by the British Heart Foundation (CH/09/002).</text>
+    </sentence>
+    <sentence charOffset="27771-27857" id="S181" selection="25">
+        <text xml:space="preserve">Proteo Biotech AG supported the study by supplying the elafin required free of charge.</text>
+    </sentence>
+    <sentence charOffset="27858-27982" id="S182" selection="">
+        <text xml:space="preserve">The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript.</text>
+    </sentence>
+    <sentence charOffset="27983-28058" id="S183" selection="">
+        <text xml:space="preserve">The content of this manuscript is solely the responsibility of the authors.</text>
+    </sentence>
+    <sentence charOffset="28081-28116" id="S184" selection="">
+        <text xml:space="preserve">Competing interests: None declared.</text>
+    </sentence>
+    <sentence charOffset="28139-28165" id="S185" selection="">
+        <text xml:space="preserve">Patient consent: Obtained.</text>
+    </sentence>
+    <sentence charOffset="28188-28515" id="S186" selection="">
+        <text xml:space="preserve">Ethics approval: This single-centre clinical trial was performed with the approval of the national research ethics committee (11/MRE00/5), in accordance with the Declaration of Helsinki (2000), under a Clinical Trial Authorisation (27586/0015/001-0001) from the Medicine and Healthcare products Regulatory Authority (MHRA, UK).</text>
+    </sentence>
+    <sentence charOffset="28538-28609" id="S187" selection="">
+        <text xml:space="preserve">Provenance and peer review: Not commissioned; externally peer reviewed.</text>
+    </sentence>
+    <section textSpan="0-134" title="Title" titleSpan="0-5"/>
+    <section textSpan="135-2191" title="Abstract" titleSpan="135-143">
+        <section textSpan="153-510" title="Background" titleSpan="164-174"/>
+        <section textSpan="519-1830" title="Methods and results" titleSpan="530-549"/>
+        <section textSpan="1839-2077" title="Conclusions" titleSpan="1850-1861"/>
+        <section textSpan="2086-2183" title="Trial registration number" titleSpan="2097-2122"/>
+    </section>
+    <section textSpan="2197-5334" title="Introduction" titleSpan="2204-2216"/>
+    <section textSpan="5339-11312" title="Methods" titleSpan="5346-5353">
+        <section textSpan="5360-6185" title="Trial population" titleSpan="5369-5385"/>
+        <section textSpan="6192-7395" title="Study drug and randomisation" titleSpan="6201-6229"/>
+        <section textSpan="7402-7918" title="Anaesthesia and coronary artery bypass surgery" titleSpan="7411-7457"/>
+        <section textSpan="7925-8628" title="Blood samples" titleSpan="7934-7947"/>
+        <section textSpan="8635-9093" title="Cardiac MRI and analysis" titleSpan="8644-8668"/>
+        <section textSpan="9100-11307" title="Statistical analysis" titleSpan="9109-9129"/>
+    </section>
+    <section textSpan="11317-15336" title="Results" titleSpan="11324-11331"/>
+    <section textSpan="15341-26604" title="Discussion" titleSpan="15348-15358">
+        <section textSpan="25388-25844" title="What is already known on this subject?" titleSpan="25388-25426"/>
+        <section textSpan="25844-26186" title="What might this study add?" titleSpan="25844-25870"/>
+        <section textSpan="26186-26599" title="How might this impact on clinical practice?" titleSpan="26186-26229"/>
+    </section>
+    <section textSpan="26609-28622" title="Back matter" titleSpan="26609-26620"/>
+</document>

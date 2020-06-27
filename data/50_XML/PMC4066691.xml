@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC4066691" note="">
+    <text xml:space="preserve">Title
+Tiotropium Respimat® in asthma: a double-blind, randomised, dose-ranging study in adult patients with moderate asthma
+Abstract
+
+        
+          Background
+          Tiotropium, a once-daily long-acting anticholinergic bronchodilator, when administered via Respimat® SoftMist™ inhaler (tiotropium Respimat®) significantly reduces the risk of severe exacerbations and improves lung function in patients with severe persistent asthma that is not fully controlled despite using inhaled corticosteroids (ICS) and long-acting β2-agonists. To further explore the dose–response curve in asthma, we investigated the efficacy and safety of three different doses of tiotropium Respimat® as add-on to ICS in symptomatic patients with moderate persistent asthma.
+        
+        
+          Methods
+          In this randomised, double-blind, placebo-controlled, four-way crossover study, patients were randomised to tiotropium Respimat® 5 μg, 2.5 μg or 1.25 μg or placebo Respimat®, once daily in the evening. Each treatment was administered for 4 weeks, without washout between treatment periods. Eligibility criteria included ≥60% and ≤90% of predicted normal forced expiratory volume in 1 second (FEV1) and seven-question Asthma Control Questionnaire mean score of ≥1.5. Patients were required to continue maintenance treatment with stable medium-dose ICS for at least 4 weeks prior to and during the treatment period. Long-acting β2-agonists were not permitted during the treatment phase. The primary efficacy end point was peak FEV1 measured within 3 hours after dosing (peak FEV1(0-3h)) at the end of each 4-week period, analysed as a response (change from study baseline).
+        
+        
+          Results
+          In total, 149 patients were randomised and 141 completed the study. Statistically significant improvements in peak FEV1(0-3h) response were observed with each tiotropium Respimat® dose versus placebo (all P &lt; 0.0001). The largest difference from placebo was with tiotropium Respimat® 5 μg (188 mL). Trough FEV1 and FEV1 area under the curve (AUC)(0-3h) responses were greater with each tiotropium Respimat® dose than with placebo (all P &lt; 0.0001), and both were greatest with 5 μg. Peak forced vital capacity (FVC)(0-3h), trough FVC and FVC AUC(0-3h) responses, versus placebo, were greatest with tiotropium Respimat® 5 μg (P &lt; 0.0001, P = 0.0012 and P &lt; 0.0001, respectively). Incidence of adverse events was comparable between placebo and all tiotropium Respimat® groups.
+        
+        
+          Conclusions
+          Once-daily tiotropium Respimat® add-on to medium-dose ICS improves lung function in symptomatic patients with moderate asthma. Overall, improvements were largest with tiotropium Respimat® 5 μg.
+        
+        
+          Trial registration
+          ClinicalTrials.gov identifier NCT01233284.
+        
+      
+
+
+    
+      Background
+      Currently, inhaled corticosteroids (ICS) are the de facto first-line therapy for the management of poorly controlled, persistent asthma. In accordance with the Global Initiative for Asthma guidelines [1], for patients with moderate asthma who remain symptomatic despite using ICS, therapy is typically ‘stepped up’ by increasing the ICS dose and/or adding a long-acting β2-agonist (LABA) to the maintenance treatment regimen. Leukotriene modifiers or sustained-release theophylline, added on to low-dose ICS, are alternative options for these patients. Despite this range of therapeutic choices, at least 40% of patients with asthma have poorly controlled disease [2-4]. Further, in patients who fail to gain control with an ICS + LABA fixed-dose combination, the remaining options, such as further upwards titration of ICS, systemic glucocorticosteroids and anti-immunoglobulin E therapy, may have several limitations with respect to side effects, risk:benefit ratio, convenience and efficacy [1,5,6].
+      Tiotropium, a once-daily long-acting anticholinergic bronchodilator, is the established first-line maintenance bronchodilator for the management of chronic obstructive pulmonary disease [7,8]. Recently, a number of clinical trials have investigated tiotropium as add-on to at least ICS for the long-term control of asthma, across a range of severities. In the investigator-led TALC trial (Tiotropium Bromide as an Alternative to Increased Inhaled Glucocorticoid in Patients Inadequately Controlled on a Lower Dose of Inhaled Corticosteroid; three-way crossover, 14 weeks per treatment, 210 patients), improvements in lung function in patients with asthma treated with tiotropium (via HandiHaler®; Boehringer Ingelheim Pharma GmbH &amp; Co. KG, Ingelheim am Rhein, Germany) plus beclomethasone (two puffs of 40 μg, twice daily) were shown to be superior to a doubling of the ICS dose and similar to the addition of salmeterol [9]. In a 16-week proof-of-concept trial in B16-Arg/Arg patients with symptomatic moderate asthma already receiving ICS, tiotropium 5 μg (administered via the Respimat® SoftMist™ inhaler [hereinafter referred to as tiotropium Respimat®; Boehringer Ingelheim Pharma GmbH &amp; Co. KG]) was superior to placebo Respimat® and non-inferior to salmeterol [10]. A second proof-of-concept study (three-way crossover, 8 weeks per treatment) in patients with more severe disease – severe persistent asthma, and receiving ICS + LABA – demonstrated that lung function improved significantly with tiotropium Respimat® 10 μg or 5 μg [11]. Slightly higher peak forced expiratory volume in 1 second (FEV1) responses were observed in the 10 μg arm [11], and there were statistically significant improvements in pre-dose morning and evening peak expiratory flow (PEFam and PEFpm) with 10 μg versus 5 μg. Kerstjens and colleagues subsequently reported results from two long-term, replicate, 1-year Phase III trials of tiotropium Respimat® 5 μg, also in patients with symptomatic severe asthma despite using ICS + LABA. In this cohort of 912 patients, tiotropium Respimat® 5 μg, administered as add-on to ICS + LABA, significantly reduced the risk of severe exacerbations and improved lung function, compared with placebo Respimat® as add-on to ICS + LABA [12].
+      In light of the findings with the 10 μg and 5 μg doses of tiotropium Respimat® (outlined above), the aim of the present study was to further explore the dose–response curve by comparing the efficacy and tolerability of once-daily evening dosing of tiotropium Respimat® 5 μg, 2.5 μg or 1.25 μg, versus placebo Respimat®, each added on to medium-dose ICS, in adult patients with symptomatic moderate asthma.
+    
+    
+      Methods
+      This was a Phase II, randomised, double-blind, placebo-controlled, crossover study to investigate the efficacy and safety of three doses of once-daily tiotropium Respimat®. The study was conducted in 19 sites in three European countries (Germany, Austria and Ukraine; ClinicalTrials.gov identifier NCT01233284), and was carried out in accordance with the principles of the Declaration of Helsinki and the International Conference on Harmonisation Good Clinical Practice Guidelines. All patients provided written, informed consent.
+      
+        Study design
+        After an initial screening visit and a 4-week run-in period, patients were randomised to one of four treatment sequences, during which they received each of the four treatments (tiotropium 5 μg, 2.5 μg or 1.25 μg or placebo, all delivered via the Respimat® SoftMist™ inhaler) (Figure  1). Each treatment was administered for 4 weeks, and there was no washout between treatment periods as pharmacodynamic steady state with tiotropium is known to be achieved after 3 weeks in chronic obstructive pulmonary disease [13,14]. Seven clinic visits were scheduled: at screening (Visit 0); prior to the 4-week run-in (Visit 1); at randomisation (after the 4-week run-in [Visit 2]); every 4 weeks at the end of each treatment period (Visits 3–6); and 21 days following the end of the final treatment period (Visit 7).
+         Figure 1 Study design. 
+        Tiotropium Respimat® (two puffs) or placebo Respimat® (two puffs) was administered once daily in the evening between 18:00 and 20:00. All patients were required to continue maintenance treatment with stable medium-dose ICS (400–800 μg budesonide or equivalent) for at least 4 weeks prior to Visit 1 and until Visit 7. Patients using ICS plus short-acting β2-agonist or ICS + LABA fixed-dose combinations were switched to the same dose of ICS mono-product at least 8 or 24 hours, respectively, prior to Visit 1. Study medication was to be taken immediately after ICS inhalation if normal ICS dosing was in the evening. Concomitant use of the following was not permitted for maintenance treatment: systemic oral or depot corticosteroids; anticholinergics other than tiotropium; LABAs; ICS plus short-acting β2-agonist or ICS + LABA fixed-dose combinations; leukotriene modifiers; anti-immunoglobulin E treatment; chromone; methylxanthines; and phosphodiesterase-4 inhibitors. Salbutamol hydrofluoroalkane metered-dose inhaler was provided by the sponsor as rescue medication for use as needed. Permitted medication for the treatment of acute asthma exacerbations included salbutamol hydrofluoroalkane metered-dose inhaler, systemic corticosteroids and short-acting theophylline preparations.
+        
+          Randomisation
+          Each patient received all treatments. Eligible patients were randomly allocated to one of the four treatment sequences at Visit 2 (Figure  1). The randomisation list was generated by Boehringer Ingelheim Pharma GmbH &amp; Co. KG, Biberach an der Riss, Germany, using a validated pseudo-random number generator and a supplied seed number. A fixed block randomisation, with a block size of 4, was used to ensure balanced and equal assignment.
+        
+      
+      
+        Study patients
+        Male or female patients aged 18–75 years, with at least a 3-month history of asthma at the time of enrolment and an initial diagnosis of asthma made before the age of 40 years, were included in the study. Patients were required to have been on maintenance treatment with stable medium-dose ICS (400–800 μg budesonide or equivalent), alone or in a fixed-dose combination with a LABA or short-acting β2-agonist, for at least 4 weeks prior to Visit 1. A diagnosis of asthma confirmed at Visit 1 was required, with bronchodilator reversibility (15–30 minutes after 400 μg salbutamol) of ≥12% and ≥200 mL. Patients were required to have a seven-question Asthma Control Questionnaire (ACQ-7) mean score of ≥1.5 at Visits 1 and 2, to have a pre-bronchodilator FEV1 of ≥60% and ≤90% of predicted normal FEV1 at Visit 1, and to demonstrate absolute FEV1 variability within 30% between Visits 1 and 2. Patients were required never to have smoked, or to be ex-smokers who had stopped smoking at least 1 year prior to enrolment and had a smoking history of less than 10 pack-years. Patients were excluded for any of the following reasons: a diagnosis of chronic obstructive pulmonary disease or any respiratory disease other than asthma; myocardial infarction within the last 6 months; hospitalisation due to cardiac failure or unstable cardiac arrhythmia within the past year; treatment with anti-immunoglobulin E antibodies within 6 months prior to Visit 1.
+      
+      
+        Study end points
+        All end points were determined at the end of each 4-week treatment period (Visits 3–6) and analysed as a response defined as change from study baseline (pre-treatment value measured at Visit 2 in the evening). The primary efficacy end point was peak FEV1 measured within the first 3 hours after dosing (peak FEV1(0-3h)). The following secondary efficacy end points were investigated: trough FEV1; peak forced vital capacity (FVC) within the first 3 hours after dosing (FVC)(0-3h); trough FVC; FEV1 area under the curve (AUC) within the first 3 hours after dosing (FEV1 AUC(0-3h)); FVC AUC(0-3h); pre-dose PEFam and PEFpm using the Asthma Monitor2+ device (AM2+®; ERT, Philadelphia, Pennsylvania, USA) based on the mean of the final week of each treatment period. Control of asthma, as assessed by ACQ-7 self-administered at the end of each 4-week treatment period, was an additional exploratory end point. Safety and tolerability were assessed based on the incidence and intensity of adverse events, and on changes in vital signs.
+      
+      
+        Study assessments
+        Spirometric lung function tests were conducted at all in-clinic visits (Visits 1–6). Pre-dose lung function tests were scheduled between 18:00 and 20:00. At Visits 2–6, lung function tests were performed 10 minutes prior to and up to 3 hours after dosing of study treatment. ACQ-7 was self-administered at Visits 1–6 prior to lung function tests. Measurement of PEFam and PEFpm was to be performed prior to ICS and study treatment inhalation, at approximately the same time each day, from 06:00 to 08:00 for PEFam and from 18:00 to 20:00 for PEFpm. Adverse events and concomitant medications were recorded on the electronic case report form at each visit. Vital signs were measured and recorded in conjunction with lung function tests at Visits 2–6.
+      
+      
+        Statistical analyses
+        Efficacy data are reported for the full analysis set, which was defined as all randomised patients who were treated with at least one dose of study medication, had baseline data and had at least one on-treatment efficacy measurement after 4 weeks of treatment within a period. Data are presented as adjusted mean change from baseline after 4 weeks of treatment (defined as response), unless noted otherwise.
+        Evaluation of safety and tolerability was performed on the treated set, defined as all randomised patients who received at least one dose of study medication. Analysis of adverse events and vital signs was descriptive in nature.
+        To control the probability of a type I error in the primary efficacy analysis, stepwise testing of the null hypothesis was used to test the efficacy of tiotropium Respimat® 5 μg, then 2.5 μg and then 1.25 μg, each over placebo Respimat®. If the previous step was not successful, analysis of the current step was to be considered descriptive. To detect a treatment difference of 80 mL for peak FEV1(0-3h) with 90% power, and assuming a standard deviation of 228 mL, it was calculated that 88 completed patients were required. Testing was performed with α = 0.025 (one-sided).
+        The pre-specified hypotheses were tested using a mixed effects model with repeated measures. The statistical model included ‘treatment’ and ‘period’ as fixed effects and ‘patient’ as a random effect. Study baseline, defined as pre-treatment values measured at Visit 2 in the evening, was included as covariate.
+      
+    
+    
+      Results
+      
+        Baseline demographics and disposition
+        A total of 149 patients were randomised to the study, and 141 patients completed the study. The treated set comprised all 149 patients and the full analysis set comprised 148 patients (one patient had missing efficacy data and was lost to follow-up after Visit 2) (Figure  2). In the treated set, slightly more patients were female (55.0%) than male (45.0%), mean age was 49.3 years and mean body mass index was 26.9 kg/m2 (Table  1). Of the small proportion of patients who had previously smoked (19.5%; n = 29), the mean number of pack-years was 5.6. The remainder of the study population had never smoked (80.5%; n = 120) (Table  1).
+         Figure 2 Patient disposition. 
+         Table 1 Baseline and demographic characteristics (treated set) 
+      
+      
+        Efficacy
+        
+          Primary analysis
+          The addition of tiotropium Respimat® 5 μg, 2.5 μg or 1.25 μg to stable medium-dose ICS therapy was associated with improved lung function: at the end of the 4-week treatment period, statistically significant differences from placebo Respimat® in adjusted mean peak FEV1(0-3h) responses were observed for all doses of tiotropium Respimat® (P &lt; 0.0001 at all doses) (Figure  3). The largest adjusted mean difference from placebo Respimat® was observed with tiotropium Respimat® 5 μg (188 mL, 95% confidence interval: 140, 236).
+           Figure 3 Adjusted mean differences in lung function responses. (A) Peak FEV1(0-3h) response; (B) Trough FEV1 response; (C) Peak FVC(0-3h) response; (D) Trough FVC response. Response defined as change from study baseline (pre-treatment value measured at Visit 2 in the evening). Adjusted mean difference from placebo Respimat®: *P &lt; 0.001; **P &lt; 0.01; ***P &lt; 0.05. Bars: standard error. FEV1, forced expiratory volume in 1 second; FVC, forced vital capacity; NS, not significant; peak FEV1(0-3h), peak forced expiratory volume in 1 second measured within the first 3 hours after dosing; peak FVC(0-3h), peak forced vital capacity measured within the first 3 hours after dosing. 
+        
+        
+          Secondary analyses
+          Trough FEV1, FEV1 AUC(0-3h), peak FVC(0-3h), trough FVC and FVC AUC(0-3h) responses with all doses of tiotropium Respimat® were larger than the responses observed with placebo Respimat®, and all were statistically significant except for trough FVC in the 1.25 μg group (Figure  3, Additional file 1: Table S1). Responses for each of these end points were all largest in the 5 μg group (Figure  3, Additional file 1: Table S1).
+          Exploratory analysis of the difference in response between tiotropium Respimat® doses found that peak FEV1(0-3h), FEV1 AUC(0-3h), peak FVC(0-3h) and FVC AUC(0-3h) responses were all statistically significantly greater with tiotropium Respimat® 5 μg than with either of the two lower doses (Table  2).
+           Table 2 Adjusted mean differences in lung function responses between tiotropium Respimat® doses 
+          At the end of each 4-week treatment period, there was a statistically significant improvement in ACQ-7 score with all three tiotropium Respimat® doses (Additional file 1: Table S1).
+          Higher mean pre-dose PEFam responses (measured with the AM2+® device) were observed with all three tiotropium Respimat® treatments compared with placebo Respimat® (difference from placebo: 5 μg, 20.846 L/min; 2.5 μg, 17.895 L/min; 1.25 μg, 18.550 L/min; all P &lt; 0.0001). Higher mean pre-dose PEFpm responses were also observed with all three tiotropium Respimat® treatments compared with placebo Respimat® (difference from placebo: 5 μg, 21.581 L/min; 2.5 μg, 14.577 L/min; 1.25 μg, 21.251 L/min; all P &lt; 0.0001). No significant differences in PEFam or PEFpm responses were observed between the different tiotropium Respimat® doses.
+        
+      
+      
+        Safety and tolerability
+        Overall incidence of adverse events was comparable between placebo Respimat® and the three tiotropium Respimat® treatment doses (Table  3). Serious adverse events were reported for two patients (in the tiotropium Respimat® 5 μg group). Neither was considered to be drug-related. One patient was reported with alcohol abuse and panic attack, which led to hospitalisation. Both of this patient’s adverse events accounted for discontinuation of the study drug (the only case of discontinuation during the trial). The other patient was reported with inguinal hernia, which led to hospitalisation.
+         Table 3 Summary of adverse events in the treated set 
+        The most commonly reported adverse events by preferred term were asthma exacerbation and nasopharyngitis. In the tiotropium Respimat® 5 μg group, one patient reported dry mouth. No clinically relevant change in mean vital sign values was associated with tiotropium Respimat®.
+      
+    
+    
+      Discussion
+      In this dose-ranging study, tiotropium Respimat® was found to be an effective once-daily bronchodilator as add-on maintenance therapy in patients with symptomatic moderate asthma despite treatment with ICS. Once-daily doses of tiotropium Respimat® 5 μg, 2.5 μg or 1.25 μg, administered for 4 weeks per treatment, were each associated with statistically significant improvements in lung function compared with placebo Respimat®. Serious adverse events were rare and considered unrelated to treatment, and overall adverse-event incidence was comparable between all treatment groups.
+      All three doses of tiotropium Respimat® produced statistically significant improvements in the primary end point (peak FEV1(0-3h) response) compared with placebo Respimat®. However, the response to 5 μg was larger than the responses to 2.5 μg and 1.25 μg, both of which were similar in magnitude. Further, in all other lung function parameters that were assessed, responses were consistently largest with tiotropium Respimat® 5 μg. Peak FEV1(0-3h), FEV1 AUC(0-3h), peak FVC(0-3h) and FVC AUC(0-3h) responses were statistically significantly greater with tiotropium Respimat® 5 μg versus either of the lower doses. The adverse-event profile for 5 μg was comparable with that for lower doses and placebo Respimat®.
+      In exploratory analyses, we observed a statistically significant reduction in ACQ-7 scores at the end of each 4-week treatment period with each of the three tiotropium Respimat® doses. However, the crossover design and the relatively short, 4-week, treatment periods are limitations with respect to drawing conclusions from the ACQ-7 score analysis.
+      The lung function and tolerability findings of the present trial are in accordance with those from previously published studies of tiotropium Respimat® as add-on to ICS ± LABA in patients with symptomatic asthma [10-12]. We await the results of two larger, replicate, Phase III, 24-week, randomised, double-blind trials in patients receiving moderate-dose ICS (NCT01172808 and NCT01172821).
+    
+    
+      Conclusions
+      We have reported the first investigation of three different doses of tiotropium Respimat® (5 μg, 2.5 μg or 1.25 μg) in a patient population with symptomatic asthma treated with medium-dose ICS maintenance therapy. Tiotropium Respimat® 5 μg was found to be the most effective and consistent dose, with a safety profile comparable with that of placebo, thereby providing support for further investigation of tiotropium Respimat® in larger and longer-term Phase III trials in this population.
+    
+    
+      Abbreviations
+      ACQ-7: Seven-question Asthma Control Questionnaire; AM2+®: Asthma Monitor2+ device; AUC: Area under the curve; CI: Confidence interval; FEV1: Forced expiratory volume in 1 second; FEV1 AUC(0-3h): Forced expiratory volume in 1 second area under the curve measured within the first 3 hours after dosing; FVC: Forced vital capacity; FVC AUC(0-3h): Forced vital capacity area under the curve measured within the first 3 hours after dosing; ICS: Inhaled corticosteroids; LABA: Long-acting β2-agonist; Peak FEV1(0-3h): Peak forced expiratory volume in 1 second measured within the first 3 hours after dosing; Peak FVC(0-3h): Peak forced vital capacity measured within the first 3 hours after dosing; PEFam: Morning peak expiratory flow; PEFpm: Evening peak expiratory flow; SE: Standard error; TALC: Tiotropium Bromide as an Alternative to Increased Inhaled Glucocorticoid in Patients Inadequately Controlled on a Lower Dose of Inhaled Corticosteroid.
+    
+    
+      Competing interests
+      KMB has received compensation for organising or participating in advisory boards for Almirall Hermal, AstraZeneca, Boehringer Ingelheim, Cytos, Chiesi, Mundipharma, Novartis and Revotar Biopharmaceuticals, and in the past 3 years has participated as a speaker in scientific meetings or courses supported by Almirall Hermal, AstraZeneca, Boehringer Ingelheim, Novartis, Pfizer and Takeda. KMB has also received consulting fees from Ablynx, Apellis Pharmaceuticals, Chiesi and Cytos. The institution where KMB is employed has received compensation for the design, performance or participation in single- or multicentre clinical trials in the past 3 years from several companies, including Almirall, Boehringer Ingelheim, Cytos, GlaxoSmithKline, Mundipharma, Novartis, Pfizer, Revotar Biopharmaceuticals, Sterna AG and TEVA.
+      SK has received reimbursement for attending scientific conferences and fees for speaking or consulting from AstraZeneca, Boehringer Ingelheim, Chiesi, GlaxoSmithKline, MSD, Novartis and Nycomed. PMZ, AU, ZH and ME are employees of Boehringer Ingelheim. OA has received reimbursement for speaking from Boehringer Ingelheim, GlaxoSmithKline and Menarini.
+    
+    
+      Authors’ contributions
+      KMB was the international coordinating investigator of the trial, contributed to the design of the study, recruited patients to the trial and contributed to the interpretation of data. PMZ, ME, ZH and AU each contributed to the study design, implementation, management and data analysis. SK and OA contributed to acquisition and interpretation of the data. All authors revised the article critically for intellectual content. All authors provided final approval of the article prior to submission.
+    
+    
+      Supplementary Material
+      
+        
+          Additional file 1: Table S1
+          Adjusted mean differences in lung function and ACQ-7 score between tiotropium Respimat® and placebo Respimat®.
+        
+        
+          
+            Click here for file
+          
+        
+      
+    
+  
+
+Back matter
+
+      Acknowledgements
+      The authors meet criteria for authorship as recommended by the International Committee of Medical Journal Editors. They take full responsibility for the scope, direction, content of and editorial decisions relating to the manuscript, were involved at all stages of development and have approved the submitted manuscript. The authors received no compensation related to the development of the manuscript. This work was supported by Boehringer Ingelheim. Medical writing assistance was provided by Sam Yarwood, PhD, of Complete HealthVizion, which was contracted and compensated by Boehringer Ingelheim Pharma GmbH &amp; Co. KG.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-123" id="S2" selection="1a">
+        <text xml:space="preserve">Tiotropium Respimat® in asthma: a double-blind, randomised, dose-ranging study in adult patients with moderate asthma</text>
+    </sentence>
+    <sentence charOffset="124-132" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="153-163" id="S4" selection="">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="174-541" id="S5" selection="1b">
+        <text xml:space="preserve">Tiotropium, a once-daily long-acting anticholinergic bronchodilator, when administered via Respimat® SoftMist™ inhaler (tiotropium Respimat®) significantly reduces the risk of severe exacerbations and improves lung function in patients with severe persistent asthma that is not fully controlled despite using inhaled corticosteroids (ICS) and long-acting β2-agonists.</text>
+    </sentence>
+    <sentence charOffset="542-758" id="S6" selection="">
+        <text xml:space="preserve">To further explore the dose–response curve in asthma, we investigated the efficacy and safety of three different doses of tiotropium Respimat® as add-on to ICS in symptomatic patients with moderate persistent asthma.</text>
+    </sentence>
+    <sentence charOffset="787-794" id="S7" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="805-1006" id="S8" selection="">
+        <text xml:space="preserve">In this randomised, double-blind, placebo-controlled, four-way crossover study, patients were randomised to tiotropium Respimat® 5 μg, 2.5 μg or 1.25 μg or placebo Respimat®, once daily in the evening.</text>
+    </sentence>
+    <sentence charOffset="1007-1094" id="S9" selection="">
+        <text xml:space="preserve">Each treatment was administered for 4 weeks, without washout between treatment periods.</text>
+    </sentence>
+    <sentence charOffset="1095-1270" id="S10" selection="">
+        <text xml:space="preserve">Eligibility criteria included ≥60% and ≤90% of predicted normal forced expiratory volume in 1 second (FEV1) and seven-question Asthma Control Questionnaire mean score of ≥1.5.</text>
+    </sentence>
+    <sentence charOffset="1271-1418" id="S11" selection="">
+        <text xml:space="preserve">Patients were required to continue maintenance treatment with stable medium-dose ICS for at least 4 weeks prior to and during the treatment period.</text>
+    </sentence>
+    <sentence charOffset="1419-1489" id="S12" selection="">
+        <text xml:space="preserve">Long-acting β2-agonists were not permitted during the treatment phase.</text>
+    </sentence>
+    <sentence charOffset="1490-1676" id="S13" selection="">
+        <text xml:space="preserve">The primary efficacy end point was peak FEV1 measured within 3 hours after dosing (peak FEV1(0-3h)) at the end of each 4-week period, analysed as a response (change from study baseline).</text>
+    </sentence>
+    <sentence charOffset="1705-1712" id="S14" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="1723-1790" id="S15" selection="">
+        <text xml:space="preserve">In total, 149 patients were randomised and 141 completed the study.</text>
+    </sentence>
+    <sentence charOffset="1791-1940" id="S16" selection="">
+        <text xml:space="preserve">Statistically significant improvements in peak FEV1(0-3h) response were observed with each tiotropium Respimat® dose versus placebo (all P &lt; 0.0001).</text>
+    </sentence>
+    <sentence charOffset="1941-2021" id="S17" selection="">
+        <text xml:space="preserve">The largest difference from placebo was with tiotropium Respimat® 5 μg (188 mL).</text>
+    </sentence>
+    <sentence charOffset="2022-2204" id="S18" selection="">
+        <text xml:space="preserve">Trough FEV1 and FEV1 area under the curve (AUC)(0-3h) responses were greater with each tiotropium Respimat® dose than with placebo (all P &lt; 0.0001), and both were greatest with 5 μg.</text>
+    </sentence>
+    <sentence charOffset="2205-2400" id="S19" selection="">
+        <text xml:space="preserve">Peak forced vital capacity (FVC)(0-3h), trough FVC and FVC AUC(0-3h) responses, versus placebo, were greatest with tiotropium Respimat® 5 μg (P &lt; 0.0001, P = 0.0012 and P &lt; 0.0001, respectively).</text>
+    </sentence>
+    <sentence charOffset="2401-2496" id="S20" selection="">
+        <text xml:space="preserve">Incidence of adverse events was comparable between placebo and all tiotropium Respimat® groups.</text>
+    </sentence>
+    <sentence charOffset="2525-2536" id="S21" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="2547-2673" id="S22" selection="">
+        <text xml:space="preserve">Once-daily tiotropium Respimat® add-on to medium-dose ICS improves lung function in symptomatic patients with moderate asthma.</text>
+    </sentence>
+    <sentence charOffset="2674-2740" id="S23" selection="">
+        <text xml:space="preserve">Overall, improvements were largest with tiotropium Respimat® 5 μg.</text>
+    </sentence>
+    <sentence charOffset="2769-2787" id="S24" selection="">
+        <text xml:space="preserve">Trial registration</text>
+    </sentence>
+    <sentence charOffset="2798-2840" id="S25" selection="23">
+        <text xml:space="preserve">ClinicalTrials.gov identifier NCT01233284.</text>
+    </sentence>
+    <sentence charOffset="2870-2880" id="S26">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="2887-3023" id="S27" selection="">
+        <text xml:space="preserve">Currently, inhaled corticosteroids (ICS) are the de facto first-line therapy for the management of poorly controlled, persistent asthma.</text>
+    </sentence>
+    <sentence charOffset="3024-3312" id="S28" selection="">
+        <text xml:space="preserve">In accordance with the Global Initiative for Asthma guidelines [1], for patients with moderate asthma who remain symptomatic despite using ICS, therapy is typically ‘stepped up’ by increasing the ICS dose and/or adding a long-acting β2-agonist (LABA) to the maintenance treatment regimen.</text>
+    </sentence>
+    <sentence charOffset="3313-3439" id="S29" selection="">
+        <text xml:space="preserve">Leukotriene modifiers or sustained-release theophylline, added on to low-dose ICS, are alternative options for these patients.</text>
+    </sentence>
+    <sentence charOffset="3440-3557" id="S30" selection="">
+        <text xml:space="preserve">Despite this range of therapeutic choices, at least 40% of patients with asthma have poorly controlled disease [2-4].</text>
+    </sentence>
+    <sentence charOffset="3558-3889" id="S31" selection="">
+        <text xml:space="preserve">Further, in patients who fail to gain control with an ICS + LABA fixed-dose combination, the remaining options, such as further upwards titration of ICS, systemic glucocorticosteroids and anti-immunoglobulin E therapy, may have several limitations with respect to side effects, risk:benefit ratio, convenience and efficacy [1,5,6].</text>
+    </sentence>
+    <sentence charOffset="3896-4088" id="S32" selection="2a">
+        <text xml:space="preserve">Tiotropium, a once-daily long-acting anticholinergic bronchodilator, is the established first-line maintenance bronchodilator for the management of chronic obstructive pulmonary disease [7,8].</text>
+    </sentence>
+    <sentence charOffset="4089-4248" id="S33" selection="2a">
+        <text xml:space="preserve">Recently, a number of clinical trials have investigated tiotropium as add-on to at least ICS for the long-term control of asthma, across a range of severities.</text>
+    </sentence>
+    <sentence charOffset="4249-4821" id="S34" selection="">
+        <text xml:space="preserve">In the investigator-led TALC trial (Tiotropium Bromide as an Alternative to Increased Inhaled Glucocorticoid in Patients Inadequately Controlled on a Lower Dose of Inhaled Corticosteroid; three-way crossover, 14 weeks per treatment, 210 patients), improvements in lung function in patients with asthma treated with tiotropium (via HandiHaler®; Boehringer Ingelheim Pharma GmbH &amp; Co. KG, Ingelheim am Rhein, Germany) plus beclomethasone (two puffs of 40 μg, twice daily) were shown to be superior to a doubling of the ICS dose and similar to the addition of salmeterol [9].</text>
+    </sentence>
+    <sentence charOffset="4822-5168" id="S35" selection="">
+        <text xml:space="preserve">In a 16-week proof-of-concept trial in B16-Arg/Arg patients with symptomatic moderate asthma already receiving ICS, tiotropium 5 μg (administered via the Respimat® SoftMist™ inhaler [hereinafter referred to as tiotropium Respimat®; Boehringer Ingelheim Pharma GmbH &amp; Co. KG]) was superior to placebo Respimat® and non-inferior to salmeterol [10].</text>
+    </sentence>
+    <sentence charOffset="5169-5438" id="S36" selection="">
+        <text xml:space="preserve">A second proof-of-concept study (three-way crossover, 8 weeks per treatment) in patients with more severe disease – severe persistent asthma, and receiving ICS + LABA – demonstrated that lung function improved significantly with tiotropium Respimat® 10 μg or 5 μg [11].</text>
+    </sentence>
+    <sentence charOffset="5439-5699" id="S37" selection="">
+        <text xml:space="preserve">Slightly higher peak forced expiratory volume in 1 second (FEV1) responses were observed in the 10 μg arm [11], and there were statistically significant improvements in pre-dose morning and evening peak expiratory flow (PEFam and PEFpm) with 10 μg versus 5 μg.</text>
+    </sentence>
+    <sentence charOffset="5700-5913" id="S38" selection="">
+        <text xml:space="preserve">Kerstjens and colleagues subsequently reported results from two long-term, replicate, 1-year Phase III trials of tiotropium Respimat® 5 μg, also in patients with symptomatic severe asthma despite using ICS + LABA.</text>
+    </sentence>
+    <sentence charOffset="5914-6155" id="S39" selection="">
+        <text xml:space="preserve">In this cohort of 912 patients, tiotropium Respimat® 5 μg, administered as add-on to ICS + LABA, significantly reduced the risk of severe exacerbations and improved lung function, compared with placebo Respimat® as add-on to ICS + LABA [12].</text>
+    </sentence>
+    <sentence charOffset="6162-6567" id="S40" selection="2b">
+        <text xml:space="preserve">In light of the findings with the 10 μg and 5 μg doses of tiotropium Respimat® (outlined above), the aim of the present study was to further explore the dose–response curve by comparing the efficacy and tolerability of once-daily evening dosing of tiotropium Respimat® 5 μg, 2.5 μg or 1.25 μg, versus placebo Respimat®, each added on to medium-dose ICS, in adult patients with symptomatic moderate asthma.</text>
+    </sentence>
+    <sentence charOffset="6584-6591" id="S41">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="6598-6770" id="S42" selection="3a">
+        <text xml:space="preserve">This was a Phase II, randomised, double-blind, placebo-controlled, crossover study to investigate the efficacy and safety of three doses of once-daily tiotropium Respimat®.</text>
+    </sentence>
+    <sentence charOffset="6771-7079" id="S43" selection="4b,23">
+        <text xml:space="preserve">The study was conducted in 19 sites in three European countries (Germany, Austria and Ukraine; ClinicalTrials.gov identifier NCT01233284), and was carried out in accordance with the principles of the Declaration of Helsinki and the International Conference on Harmonisation Good Clinical Practice Guidelines.</text>
+    </sentence>
+    <sentence charOffset="7080-7128" id="S44" selection="">
+        <text xml:space="preserve">All patients provided written, informed consent.</text>
+    </sentence>
+    <sentence charOffset="7144-7156" id="S45" selection="">
+        <text xml:space="preserve">Study design</text>
+    </sentence>
+    <sentence charOffset="7165-7453" id="S46" selection="5,3a">
+        <text xml:space="preserve">After an initial screening visit and a 4-week run-in period, patients were randomised to one of four treatment sequences, during which they received each of the four treatments (tiotropium 5 μg, 2.5 μg or 1.25 μg or placebo, all delivered via the Respimat® SoftMist™ inhaler) (Figure  1).</text>
+    </sentence>
+    <sentence charOffset="7454-7685" id="S47" selection="5">
+        <text xml:space="preserve">Each treatment was administered for 4 weeks, and there was no washout between treatment periods as pharmacodynamic steady state with tiotropium is known to be achieved after 3 weeks in chronic obstructive pulmonary disease [13,14].</text>
+    </sentence>
+    <sentence charOffset="7686-7972" id="S48" selection="">
+        <text xml:space="preserve">Seven clinic visits were scheduled: at screening (Visit 0); prior to the 4-week run-in (Visit 1); at randomisation (after the 4-week run-in [Visit 2]); every 4 weeks at the end of each treatment period (Visits 3–6); and 21 days following the end of the final treatment period (Visit 7).</text>
+    </sentence>
+    <sentence charOffset="7982-8004" id="S49" selection="3a">
+        <text xml:space="preserve">Figure 1 Study design.</text>
+    </sentence>
+    <sentence charOffset="8014-8147" id="S50" selection="5">
+        <text xml:space="preserve">Tiotropium Respimat® (two puffs) or placebo Respimat® (two puffs) was administered once daily in the evening between 18:00 and 20:00.</text>
+    </sentence>
+    <sentence charOffset="8148-8331" id="S51" selection="5">
+        <text xml:space="preserve">All patients were required to continue maintenance treatment with stable medium-dose ICS (400–800 μg budesonide or equivalent) for at least 4 weeks prior to Visit 1 and until Visit 7.</text>
+    </sentence>
+    <sentence charOffset="8332-8524" id="S52" selection="5">
+        <text xml:space="preserve">Patients using ICS plus short-acting β2-agonist or ICS + LABA fixed-dose combinations were switched to the same dose of ICS mono-product at least 8 or 24 hours, respectively, prior to Visit 1.</text>
+    </sentence>
+    <sentence charOffset="8525-8631" id="S53" selection="5">
+        <text xml:space="preserve">Study medication was to be taken immediately after ICS inhalation if normal ICS dosing was in the evening.</text>
+    </sentence>
+    <sentence charOffset="8632-8987" id="S54" selection="5">
+        <text xml:space="preserve">Concomitant use of the following was not permitted for maintenance treatment: systemic oral or depot corticosteroids; anticholinergics other than tiotropium; LABAs; ICS plus short-acting β2-agonist or ICS + LABA fixed-dose combinations; leukotriene modifiers; anti-immunoglobulin E treatment; chromone; methylxanthines; and phosphodiesterase-4 inhibitors.</text>
+    </sentence>
+    <sentence charOffset="8988-9105" id="S55" selection="5">
+        <text xml:space="preserve">Salbutamol hydrofluoroalkane metered-dose inhaler was provided by the sponsor as rescue medication for use as needed.</text>
+    </sentence>
+    <sentence charOffset="9106-9303" id="S56" selection="5">
+        <text xml:space="preserve">Permitted medication for the treatment of acute asthma exacerbations included salbutamol hydrofluoroalkane metered-dose inhaler, systemic corticosteroids and short-acting theophylline preparations.</text>
+    </sentence>
+    <sentence charOffset="9323-9336" id="S57" selection="">
+        <text xml:space="preserve">Randomisation</text>
+    </sentence>
+    <sentence charOffset="9347-9384" id="S58" selection="5">
+        <text xml:space="preserve">Each patient received all treatments.</text>
+    </sentence>
+    <sentence charOffset="9385-9489" id="S59" selection="">
+        <text xml:space="preserve">Eligible patients were randomly allocated to one of the four treatment sequences at Visit 2 (Figure  1).</text>
+    </sentence>
+    <sentence charOffset="9490-9680" id="S60" selection="8a">
+        <text xml:space="preserve">The randomisation list was generated by Boehringer Ingelheim Pharma GmbH &amp; Co. KG, Biberach an der Riss, Germany, using a validated pseudo-random number generator and a supplied seed number.</text>
+    </sentence>
+    <sentence charOffset="9681-9783" id="S61" selection="8b">
+        <text xml:space="preserve">A fixed block randomisation, with a block size of 4, was used to ensure balanced and equal assignment.</text>
+    </sentence>
+    <sentence charOffset="9815-9829" id="S62" selection="">
+        <text xml:space="preserve">Study patients</text>
+    </sentence>
+    <sentence charOffset="9838-10042" id="S63" selection="4a">
+        <text xml:space="preserve">Male or female patients aged 18–75 years, with at least a 3-month history of asthma at the time of enrolment and an initial diagnosis of asthma made before the age of 40 years, were included in the study.</text>
+    </sentence>
+    <sentence charOffset="10043-10286" id="S64" selection="4a">
+        <text xml:space="preserve">Patients were required to have been on maintenance treatment with stable medium-dose ICS (400–800 μg budesonide or equivalent), alone or in a fixed-dose combination with a LABA or short-acting β2-agonist, for at least 4 weeks prior to Visit 1.</text>
+    </sentence>
+    <sentence charOffset="10287-10438" id="S65" selection="4a">
+        <text xml:space="preserve">A diagnosis of asthma confirmed at Visit 1 was required, with bronchodilator reversibility (15–30 minutes after 400 μg salbutamol) of ≥12% and ≥200 mL.</text>
+    </sentence>
+    <sentence charOffset="10439-10729" id="S66" selection="4a">
+        <text xml:space="preserve">Patients were required to have a seven-question Asthma Control Questionnaire (ACQ-7) mean score of ≥1.5 at Visits 1 and 2, to have a pre-bronchodilator FEV1 of ≥60% and ≤90% of predicted normal FEV1 at Visit 1, and to demonstrate absolute FEV1 variability within 30% between Visits 1 and 2.</text>
+    </sentence>
+    <sentence charOffset="10730-10907" id="S67" selection="4a">
+        <text xml:space="preserve">Patients were required never to have smoked, or to be ex-smokers who had stopped smoking at least 1 year prior to enrolment and had a smoking history of less than 10 pack-years.</text>
+    </sentence>
+    <sentence charOffset="10908-11285" id="S68" selection="4a">
+        <text xml:space="preserve">Patients were excluded for any of the following reasons: a diagnosis of chronic obstructive pulmonary disease or any respiratory disease other than asthma; myocardial infarction within the last 6 months; hospitalisation due to cardiac failure or unstable cardiac arrhythmia within the past year; treatment with anti-immunoglobulin E antibodies within 6 months prior to Visit 1.</text>
+    </sentence>
+    <sentence charOffset="11308-11324" id="S69" selection="">
+        <text xml:space="preserve">Study end points</text>
+    </sentence>
+    <sentence charOffset="11333-11542" id="S70" selection="6a">
+        <text xml:space="preserve">All end points were determined at the end of each 4-week treatment period (Visits 3–6) and analysed as a response defined as change from study baseline (pre-treatment value measured at Visit 2 in the evening).</text>
+    </sentence>
+    <sentence charOffset="11543-11653" id="S71" selection="6a">
+        <text xml:space="preserve">The primary efficacy end point was peak FEV1 measured within the first 3 hours after dosing (peak FEV1(0-3h)).</text>
+    </sentence>
+    <sentence charOffset="11654-12095" id="S72" selection="6a">
+        <text xml:space="preserve">The following secondary efficacy end points were investigated: trough FEV1; peak forced vital capacity (FVC) within the first 3 hours after dosing (FVC)(0-3h); trough FVC; FEV1 area under the curve (AUC) within the first 3 hours after dosing (FEV1 AUC(0-3h)); FVC AUC(0-3h); pre-dose PEFam and PEFpm using the Asthma Monitor2+ device (AM2+®; ERT, Philadelphia, Pennsylvania, USA) based on the mean of the final week of each treatment period.</text>
+    </sentence>
+    <sentence charOffset="12096-12238" id="S73" selection="6a">
+        <text xml:space="preserve">Control of asthma, as assessed by ACQ-7 self-administered at the end of each 4-week treatment period, was an additional exploratory end point.</text>
+    </sentence>
+    <sentence charOffset="12239-12363" id="S74" selection="6a">
+        <text xml:space="preserve">Safety and tolerability were assessed based on the incidence and intensity of adverse events, and on changes in vital signs.</text>
+    </sentence>
+    <sentence charOffset="12386-12403" id="S75" selection="">
+        <text xml:space="preserve">Study assessments</text>
+    </sentence>
+    <sentence charOffset="12412-12496" id="S76" selection="6a">
+        <text xml:space="preserve">Spirometric lung function tests were conducted at all in-clinic visits (Visits 1–6).</text>
+    </sentence>
+    <sentence charOffset="12497-12565" id="S77" selection="6a">
+        <text xml:space="preserve">Pre-dose lung function tests were scheduled between 18:00 and 20:00.</text>
+    </sentence>
+    <sentence charOffset="12566-12686" id="S78" selection="6a">
+        <text xml:space="preserve">At Visits 2–6, lung function tests were performed 10 minutes prior to and up to 3 hours after dosing of study treatment.</text>
+    </sentence>
+    <sentence charOffset="12687-12758" id="S79" selection="6a">
+        <text xml:space="preserve">ACQ-7 was self-administered at Visits 1–6 prior to lung function tests.</text>
+    </sentence>
+    <sentence charOffset="12759-12960" id="S80" selection="6a">
+        <text xml:space="preserve">Measurement of PEFam and PEFpm was to be performed prior to ICS and study treatment inhalation, at approximately the same time each day, from 06:00 to 08:00 for PEFam and from 18:00 to 20:00 for PEFpm.</text>
+    </sentence>
+    <sentence charOffset="12961-13067" id="S81" selection="6a">
+        <text xml:space="preserve">Adverse events and concomitant medications were recorded on the electronic case report form at each visit.</text>
+    </sentence>
+    <sentence charOffset="13068-13161" id="S82" selection="6a">
+        <text xml:space="preserve">Vital signs were measured and recorded in conjunction with lung function tests at Visits 2–6.</text>
+    </sentence>
+    <sentence charOffset="13184-13204" id="S83" selection="">
+        <text xml:space="preserve">Statistical analyses</text>
+    </sentence>
+    <sentence charOffset="13213-13489" id="S84" selection="">
+        <text xml:space="preserve">Efficacy data are reported for the full analysis set, which was defined as all randomised patients who were treated with at least one dose of study medication, had baseline data and had at least one on-treatment efficacy measurement after 4 weeks of treatment within a period.</text>
+    </sentence>
+    <sentence charOffset="13490-13620" id="S85" selection="">
+        <text xml:space="preserve">Data are presented as adjusted mean change from baseline after 4 weeks of treatment (defined as response), unless noted otherwise.</text>
+    </sentence>
+    <sentence charOffset="13629-13787" id="S86" selection="">
+        <text xml:space="preserve">Evaluation of safety and tolerability was performed on the treated set, defined as all randomised patients who received at least one dose of study medication.</text>
+    </sentence>
+    <sentence charOffset="13788-13857" id="S87" selection="">
+        <text xml:space="preserve">Analysis of adverse events and vital signs was descriptive in nature.</text>
+    </sentence>
+    <sentence charOffset="13866-14103" id="S88" selection="12a">
+        <text xml:space="preserve">To control the probability of a type I error in the primary efficacy analysis, stepwise testing of the null hypothesis was used to test the efficacy of tiotropium Respimat® 5 μg, then 2.5 μg and then 1.25 μg, each over placebo Respimat®.</text>
+    </sentence>
+    <sentence charOffset="14104-14207" id="S89" selection="">
+        <text xml:space="preserve">If the previous step was not successful, analysis of the current step was to be considered descriptive.</text>
+    </sentence>
+    <sentence charOffset="14208-14390" id="S90" selection="7a">
+        <text xml:space="preserve">To detect a treatment difference of 80 mL for peak FEV1(0-3h) with 90% power, and assuming a standard deviation of 228 mL, it was calculated that 88 completed patients were required.</text>
+    </sentence>
+    <sentence charOffset="14391-14440" id="S91" selection="12a">
+        <text xml:space="preserve">Testing was performed with α = 0.025 (one-sided).</text>
+    </sentence>
+    <sentence charOffset="14449-14541" id="S92" selection="12a">
+        <text xml:space="preserve">The pre-specified hypotheses were tested using a mixed effects model with repeated measures.</text>
+    </sentence>
+    <sentence charOffset="14542-14648" id="S93" selection="12a">
+        <text xml:space="preserve">The statistical model included ‘treatment’ and ‘period’ as fixed effects and ‘patient’ as a random effect.</text>
+    </sentence>
+    <sentence charOffset="14649-14759" id="S94" selection="12a">
+        <text xml:space="preserve">Study baseline, defined as pre-treatment values measured at Visit 2 in the evening, was included as covariate.</text>
+    </sentence>
+    <sentence charOffset="14783-14790" id="S95">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="14806-14843" id="S96" selection="">
+        <text xml:space="preserve">Baseline demographics and disposition</text>
+    </sentence>
+    <sentence charOffset="14852-14943" id="S97" selection="16">
+        <text xml:space="preserve">A total of 149 patients were randomised to the study, and 141 patients completed the study.</text>
+    </sentence>
+    <sentence charOffset="14944-15128" id="S98" selection="13a,13b">
+        <text xml:space="preserve">The treated set comprised all 149 patients and the full analysis set comprised 148 patients (one patient had missing efficacy data and was lost to follow-up after Visit 2) (Figure  2).</text>
+    </sentence>
+    <sentence charOffset="15129-15286" id="S99" selection="15">
+        <text xml:space="preserve">In the treated set, slightly more patients were female (55.0%) than male (45.0%), mean age was 49.3 years and mean body mass index was 26.9 kg/m2 (Table  1).</text>
+    </sentence>
+    <sentence charOffset="15287-15404" id="S100" selection="15">
+        <text xml:space="preserve">Of the small proportion of patients who had previously smoked (19.5%; n = 29), the mean number of pack-years was 5.6.</text>
+    </sentence>
+    <sentence charOffset="15405-15488" id="S101" selection="15">
+        <text xml:space="preserve">The remainder of the study population had never smoked (80.5%; n = 120) (Table  1).</text>
+    </sentence>
+    <sentence charOffset="15498-15527" id="S102" selection="13a,13b,16">
+        <text xml:space="preserve">Figure 2 Patient disposition.</text>
+    </sentence>
+    <sentence charOffset="15538-15600" id="S103" selection="15">
+        <text xml:space="preserve">Table 1 Baseline and demographic characteristics (treated set)</text>
+    </sentence>
+    <sentence charOffset="15624-15632" id="S104" selection="">
+        <text xml:space="preserve">Efficacy</text>
+    </sentence>
+    <sentence charOffset="15652-15668" id="S105" selection="">
+        <text xml:space="preserve">Primary analysis</text>
+    </sentence>
+    <sentence charOffset="15679-16055" id="S106" selection="17a">
+        <text xml:space="preserve">The addition of tiotropium Respimat® 5 μg, 2.5 μg or 1.25 μg to stable medium-dose ICS therapy was associated with improved lung function: at the end of the 4-week treatment period, statistically significant differences from placebo Respimat® in adjusted mean peak FEV1(0-3h) responses were observed for all doses of tiotropium Respimat® (P &lt; 0.0001 at all doses) (Figure  3).</text>
+    </sentence>
+    <sentence charOffset="16056-16204" id="S107" selection="17a">
+        <text xml:space="preserve">The largest adjusted mean difference from placebo Respimat® was observed with tiotropium Respimat® 5 μg (188 mL, 95% confidence interval: 140, 236).</text>
+    </sentence>
+    <sentence charOffset="16216-16278" id="S108" selection="17a">
+        <text xml:space="preserve">Figure 3 Adjusted mean differences in lung function responses.</text>
+    </sentence>
+    <sentence charOffset="16279-16388" id="S109" selection="">
+        <text xml:space="preserve">(A) Peak FEV1(0-3h) response; (B) Trough FEV1 response; (C) Peak FVC(0-3h) response; (D) Trough FVC response.</text>
+    </sentence>
+    <sentence charOffset="16389-16493" id="S110" selection="17a">
+        <text xml:space="preserve">Response defined as change from study baseline (pre-treatment value measured at Visit 2 in the evening).</text>
+    </sentence>
+    <sentence charOffset="16494-16579" id="S111" selection="">
+        <text xml:space="preserve">Adjusted mean difference from placebo Respimat®: *P &lt; 0.001; **P &lt; 0.01; ***P &lt; 0.05.</text>
+    </sentence>
+    <sentence charOffset="16580-16601" id="S112" selection="">
+        <text xml:space="preserve">Bars: standard error.</text>
+    </sentence>
+    <sentence charOffset="16602-16892" id="S113" selection="">
+        <text xml:space="preserve">FEV1, forced expiratory volume in 1 second; FVC, forced vital capacity; NS, not significant; peak FEV1(0-3h), peak forced expiratory volume in 1 second measured within the first 3 hours after dosing; peak FVC(0-3h), peak forced vital capacity measured within the first 3 hours after dosing.</text>
+    </sentence>
+    <sentence charOffset="16922-16940" id="S114" selection="">
+        <text xml:space="preserve">Secondary analyses</text>
+    </sentence>
+    <sentence charOffset="16951-17261" id="S115" selection="17a">
+        <text xml:space="preserve">Trough FEV1, FEV1 AUC(0-3h), peak FVC(0-3h), trough FVC and FVC AUC(0-3h) responses with all doses of tiotropium Respimat® were larger than the responses observed with placebo Respimat®, and all were statistically significant except for trough FVC in the 1.25 μg group (Figure  3, Additional file 1: Table S1).</text>
+    </sentence>
+    <sentence charOffset="17262-17377" id="S116" selection="17a">
+        <text xml:space="preserve">Responses for each of these end points were all largest in the 5 μg group (Figure  3, Additional file 1: Table S1).</text>
+    </sentence>
+    <sentence charOffset="17388-17688" id="S117" selection="18">
+        <text xml:space="preserve">Exploratory analysis of the difference in response between tiotropium Respimat® doses found that peak FEV1(0-3h), FEV1 AUC(0-3h), peak FVC(0-3h) and FVC AUC(0-3h) responses were all statistically significantly greater with tiotropium Respimat® 5 μg than with either of the two lower doses (Table  2).</text>
+    </sentence>
+    <sentence charOffset="17700-17795" id="S118" selection="18">
+        <text xml:space="preserve">Table 2 Adjusted mean differences in lung function responses between tiotropium Respimat® doses</text>
+    </sentence>
+    <sentence charOffset="17807-17988" id="S119" selection="18">
+        <text xml:space="preserve">At the end of each 4-week treatment period, there was a statistically significant improvement in ACQ-7 score with all three tiotropium Respimat® doses (Additional file 1: Table S1).</text>
+    </sentence>
+    <sentence charOffset="17999-18269" id="S120" selection="17a">
+        <text xml:space="preserve">Higher mean pre-dose PEFam responses (measured with the AM2+® device) were observed with all three tiotropium Respimat® treatments compared with placebo Respimat® (difference from placebo: 5 μg, 20.846 L/min; 2.5 μg, 17.895 L/min; 1.25 μg, 18.550 L/min; all P &lt; 0.0001).</text>
+    </sentence>
+    <sentence charOffset="18270-18512" id="S121" selection="17a">
+        <text xml:space="preserve">Higher mean pre-dose PEFpm responses were also observed with all three tiotropium Respimat® treatments compared with placebo Respimat® (difference from placebo: 5 μg, 21.581 L/min; 2.5 μg, 14.577 L/min; 1.25 μg, 21.251 L/min; all P &lt; 0.0001).</text>
+    </sentence>
+    <sentence charOffset="18513-18631" id="S122" selection="17a">
+        <text xml:space="preserve">No significant differences in PEFam or PEFpm responses were observed between the different tiotropium Respimat® doses.</text>
+    </sentence>
+    <sentence charOffset="18663-18686" id="S123" selection="">
+        <text xml:space="preserve">Safety and tolerability</text>
+    </sentence>
+    <sentence charOffset="18695-18834" id="S124" selection="18">
+        <text xml:space="preserve">Overall incidence of adverse events was comparable between placebo Respimat® and the three tiotropium Respimat® treatment doses (Table  3).</text>
+    </sentence>
+    <sentence charOffset="18835-18930" id="S125" selection="">
+        <text xml:space="preserve">Serious adverse events were reported for two patients (in the tiotropium Respimat® 5 μg group).</text>
+    </sentence>
+    <sentence charOffset="18931-18973" id="S126" selection="">
+        <text xml:space="preserve">Neither was considered to be drug-related.</text>
+    </sentence>
+    <sentence charOffset="18974-19065" id="S127" selection="19">
+        <text xml:space="preserve">One patient was reported with alcohol abuse and panic attack, which led to hospitalisation.</text>
+    </sentence>
+    <sentence charOffset="19066-19204" id="S128" selection="13b">
+        <text xml:space="preserve">Both of this patient’s adverse events accounted for discontinuation of the study drug (the only case of discontinuation during the trial).</text>
+    </sentence>
+    <sentence charOffset="19205-19287" id="S129" selection="19">
+        <text xml:space="preserve">The other patient was reported with inguinal hernia, which led to hospitalisation.</text>
+    </sentence>
+    <sentence charOffset="19297-19349" id="S130" selection="19">
+        <text xml:space="preserve">Table 3 Summary of adverse events in the treated set</text>
+    </sentence>
+    <sentence charOffset="19359-19464" id="S131" selection="19">
+        <text xml:space="preserve">The most commonly reported adverse events by preferred term were asthma exacerbation and nasopharyngitis.</text>
+    </sentence>
+    <sentence charOffset="19465-19536" id="S132" selection="19">
+        <text xml:space="preserve">In the tiotropium Respimat® 5 μg group, one patient reported dry mouth.</text>
+    </sentence>
+    <sentence charOffset="19537-19634" id="S133" selection="">
+        <text xml:space="preserve">No clinically relevant change in mean vital sign values was associated with tiotropium Respimat®.</text>
+    </sentence>
+    <sentence charOffset="19658-19668" id="S134">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="19675-19881" id="S135" selection="22">
+        <text xml:space="preserve">In this dose-ranging study, tiotropium Respimat® was found to be an effective once-daily bronchodilator as add-on maintenance therapy in patients with symptomatic moderate asthma despite treatment with ICS.</text>
+    </sentence>
+    <sentence charOffset="19882-20102" id="S136" selection="">
+        <text xml:space="preserve">Once-daily doses of tiotropium Respimat® 5 μg, 2.5 μg or 1.25 μg, administered for 4 weeks per treatment, were each associated with statistically significant improvements in lung function compared with placebo Respimat®.</text>
+    </sentence>
+    <sentence charOffset="20103-20255" id="S137" selection="">
+        <text xml:space="preserve">Serious adverse events were rare and considered unrelated to treatment, and overall adverse-event incidence was comparable between all treatment groups.</text>
+    </sentence>
+    <sentence charOffset="20262-20434" id="S138" selection="22">
+        <text xml:space="preserve">All three doses of tiotropium Respimat® produced statistically significant improvements in the primary end point (peak FEV1(0-3h) response) compared with placebo Respimat®.</text>
+    </sentence>
+    <sentence charOffset="20435-20558" id="S139" selection="">
+        <text xml:space="preserve">However, the response to 5 μg was larger than the responses to 2.5 μg and 1.25 μg, both of which were similar in magnitude.</text>
+    </sentence>
+    <sentence charOffset="20559-20693" id="S140" selection="22">
+        <text xml:space="preserve">Further, in all other lung function parameters that were assessed, responses were consistently largest with tiotropium Respimat® 5 μg.</text>
+    </sentence>
+    <sentence charOffset="20694-20875" id="S141" selection="">
+        <text xml:space="preserve">Peak FEV1(0-3h), FEV1 AUC(0-3h), peak FVC(0-3h) and FVC AUC(0-3h) responses were statistically significantly greater with tiotropium Respimat® 5 μg versus either of the lower doses.</text>
+    </sentence>
+    <sentence charOffset="20876-20974" id="S142" selection="">
+        <text xml:space="preserve">The adverse-event profile for 5 μg was comparable with that for lower doses and placebo Respimat®.</text>
+    </sentence>
+    <sentence charOffset="20981-21165" id="S143" selection="">
+        <text xml:space="preserve">In exploratory analyses, we observed a statistically significant reduction in ACQ-7 scores at the end of each 4-week treatment period with each of the three tiotropium Respimat® doses.</text>
+    </sentence>
+    <sentence charOffset="21166-21330" id="S144" selection="20">
+        <text xml:space="preserve">However, the crossover design and the relatively short, 4-week, treatment periods are limitations with respect to drawing conclusions from the ACQ-7 score analysis.</text>
+    </sentence>
+    <sentence charOffset="21337-21557" id="S145" selection="22">
+        <text xml:space="preserve">The lung function and tolerability findings of the present trial are in accordance with those from previously published studies of tiotropium Respimat® as add-on to ICS ± LABA in patients with symptomatic asthma [10-12].</text>
+    </sentence>
+    <sentence charOffset="21558-21727" id="S146" selection="">
+        <text xml:space="preserve">We await the results of two larger, replicate, Phase III, 24-week, randomised, double-blind trials in patients receiving moderate-dose ICS (NCT01172808 and NCT01172821).</text>
+    </sentence>
+    <sentence charOffset="21744-21755" id="S147">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="21762-21975" id="S148" selection="">
+        <text xml:space="preserve">We have reported the first investigation of three different doses of tiotropium Respimat® (5 μg, 2.5 μg or 1.25 μg) in a patient population with symptomatic asthma treated with medium-dose ICS maintenance therapy.</text>
+    </sentence>
+    <sentence charOffset="21976-22251" id="S149" selection="22">
+        <text xml:space="preserve">Tiotropium Respimat® 5 μg was found to be the most effective and consistent dose, with a safety profile comparable with that of placebo, thereby providing support for further investigation of tiotropium Respimat® in larger and longer-term Phase III trials in this population.</text>
+    </sentence>
+    <sentence charOffset="22268-22281" id="S150">
+        <text xml:space="preserve">Abbreviations</text>
+    </sentence>
+    <sentence charOffset="22288-23233" id="S151" selection="">
+        <text xml:space="preserve">ACQ-7: Seven-question Asthma Control Questionnaire; AM2+®: Asthma Monitor2+ device; AUC: Area under the curve; CI: Confidence interval; FEV1: Forced expiratory volume in 1 second; FEV1 AUC(0-3h): Forced expiratory volume in 1 second area under the curve measured within the first 3 hours after dosing; FVC: Forced vital capacity; FVC AUC(0-3h): Forced vital capacity area under the curve measured within the first 3 hours after dosing; ICS: Inhaled corticosteroids; LABA: Long-acting β2-agonist; Peak FEV1(0-3h): Peak forced expiratory volume in 1 second measured within the first 3 hours after dosing; Peak FVC(0-3h): Peak forced vital capacity measured within the first 3 hours after dosing; PEFam: Morning peak expiratory flow; PEFpm: Evening peak expiratory flow; SE: Standard error; TALC: Tiotropium Bromide as an Alternative to Increased Inhaled Glucocorticoid in Patients Inadequately Controlled on a Lower Dose of Inhaled Corticosteroid.</text>
+    </sentence>
+    <sentence charOffset="23250-23269" id="S152">
+        <text xml:space="preserve">Competing interests</text>
+    </sentence>
+    <sentence charOffset="23276-23663" id="S153" selection="">
+        <text xml:space="preserve">KMB has received compensation for organising or participating in advisory boards for Almirall Hermal, AstraZeneca, Boehringer Ingelheim, Cytos, Chiesi, Mundipharma, Novartis and Revotar Biopharmaceuticals, and in the past 3 years has participated as a speaker in scientific meetings or courses supported by Almirall Hermal, AstraZeneca, Boehringer Ingelheim, Novartis, Pfizer and Takeda.</text>
+    </sentence>
+    <sentence charOffset="23664-23757" id="S154" selection="">
+        <text xml:space="preserve">KMB has also received consulting fees from Ablynx, Apellis Pharmaceuticals, Chiesi and Cytos.</text>
+    </sentence>
+    <sentence charOffset="23758-24097" id="S155" selection="">
+        <text xml:space="preserve">The institution where KMB is employed has received compensation for the design, performance or participation in single- or multicentre clinical trials in the past 3 years from several companies, including Almirall, Boehringer Ingelheim, Cytos, GlaxoSmithKline, Mundipharma, Novartis, Pfizer, Revotar Biopharmaceuticals, Sterna AG and TEVA.</text>
+    </sentence>
+    <sentence charOffset="24104-24298" id="S156" selection="">
+        <text xml:space="preserve">SK has received reimbursement for attending scientific conferences and fees for speaking or consulting from AstraZeneca, Boehringer Ingelheim, Chiesi, GlaxoSmithKline, MSD, Novartis and Nycomed.</text>
+    </sentence>
+    <sentence charOffset="24299-24356" id="S157" selection="">
+        <text xml:space="preserve">PMZ, AU, ZH and ME are employees of Boehringer Ingelheim.</text>
+    </sentence>
+    <sentence charOffset="24357-24456" id="S158" selection="">
+        <text xml:space="preserve">OA has received reimbursement for speaking from Boehringer Ingelheim, GlaxoSmithKline and Menarini.</text>
+    </sentence>
+    <sentence charOffset="24473-24495" id="S159">
+        <text xml:space="preserve">Authors’ contributions</text>
+    </sentence>
+    <sentence charOffset="24502-24686" id="S160" selection="">
+        <text xml:space="preserve">KMB was the international coordinating investigator of the trial, contributed to the design of the study, recruited patients to the trial and contributed to the interpretation of data.</text>
+    </sentence>
+    <sentence charOffset="24687-24789" id="S161" selection="">
+        <text xml:space="preserve">PMZ, ME, ZH and AU each contributed to the study design, implementation, management and data analysis.</text>
+    </sentence>
+    <sentence charOffset="24790-24858" id="S162" selection="">
+        <text xml:space="preserve">SK and OA contributed to acquisition and interpretation of the data.</text>
+    </sentence>
+    <sentence charOffset="24859-24927" id="S163" selection="">
+        <text xml:space="preserve">All authors revised the article critically for intellectual content.</text>
+    </sentence>
+    <sentence charOffset="24928-24999" id="S164" selection="">
+        <text xml:space="preserve">All authors provided final approval of the article prior to submission.</text>
+    </sentence>
+    <sentence charOffset="25016-25038" id="S165">
+        <text xml:space="preserve">Supplementary Material</text>
+    </sentence>
+    <sentence charOffset="25065-25092" id="S166" selection="">
+        <text xml:space="preserve">Additional file 1: Table S1</text>
+    </sentence>
+    <sentence charOffset="25103-25213" id="S167" selection="">
+        <text xml:space="preserve">Adjusted mean differences in lung function and ACQ-7 score between tiotropium Respimat® and placebo Respimat®.</text>
+    </sentence>
+    <sentence charOffset="25255-25274" id="S168" selection="">
+        <text xml:space="preserve">Click here for file</text>
+    </sentence>
+    <sentence charOffset="25311-25322" id="S169">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="25330-25346" id="S170" selection="">
+        <text xml:space="preserve">Acknowledgements</text>
+    </sentence>
+    <sentence charOffset="25353-25467" id="S171" selection="">
+        <text xml:space="preserve">The authors meet criteria for authorship as recommended by the International Committee of Medical Journal Editors.</text>
+    </sentence>
+    <sentence charOffset="25468-25673" id="S172" selection="">
+        <text xml:space="preserve">They take full responsibility for the scope, direction, content of and editorial decisions relating to the manuscript, were involved at all stages of development and have approved the submitted manuscript.</text>
+    </sentence>
+    <sentence charOffset="25674-25756" id="S173" selection="">
+        <text xml:space="preserve">The authors received no compensation related to the development of the manuscript.</text>
+    </sentence>
+    <sentence charOffset="25757-25805" id="S174" selection="25">
+        <text xml:space="preserve">This work was supported by Boehringer Ingelheim.</text>
+    </sentence>
+    <sentence charOffset="25806-25975" id="S175" selection="">
+        <text xml:space="preserve">Medical writing assistance was provided by Sam Yarwood, PhD, of Complete HealthVizion, which was contracted and compensated by Boehringer Ingelheim Pharma GmbH &amp; Co. KG.</text>
+    </sentence>
+    <section textSpan="0-123" title="Title" titleSpan="0-5"/>
+    <section textSpan="124-2857" title="Abstract" titleSpan="124-132">
+        <section textSpan="142-767" title="Background" titleSpan="153-163"/>
+        <section textSpan="776-1685" title="Methods" titleSpan="787-794"/>
+        <section textSpan="1694-2505" title="Results" titleSpan="1705-1712"/>
+        <section textSpan="2514-2749" title="Conclusions" titleSpan="2525-2536"/>
+        <section textSpan="2758-2849" title="Trial registration" titleSpan="2769-2787"/>
+    </section>
+    <section textSpan="2863-6572" title="Background" titleSpan="2870-2880"/>
+    <section textSpan="6577-14771" title="Methods" titleSpan="6584-6591">
+        <section textSpan="7135-9799" title="Study design" titleSpan="7144-7156">
+            <section textSpan="9312-9792" title="Randomisation" titleSpan="9323-9336"/>
+        </section>
+        <section textSpan="9806-11292" title="Study patients" titleSpan="9815-9829"/>
+        <section textSpan="11299-12370" title="Study end points" titleSpan="11308-11324"/>
+        <section textSpan="12377-13168" title="Study assessments" titleSpan="12386-12403"/>
+        <section textSpan="13175-14766" title="Statistical analyses" titleSpan="13184-13204"/>
+    </section>
+    <section textSpan="14776-19646" title="Results" titleSpan="14783-14790">
+        <section textSpan="14797-15608" title="Baseline demographics and disposition" titleSpan="14806-14843"/>
+        <section textSpan="15615-18647" title="Efficacy" titleSpan="15624-15632">
+            <section textSpan="15641-16902" title="Primary analysis" titleSpan="15652-15668"/>
+            <section textSpan="16911-18640" title="Secondary analyses" titleSpan="16922-16940"/>
+        </section>
+        <section textSpan="18654-19641" title="Safety and tolerability" titleSpan="18663-18686"/>
+    </section>
+    <section textSpan="19651-21732" title="Discussion" titleSpan="19658-19668"/>
+    <section textSpan="21737-22256" title="Conclusions" titleSpan="21744-21755"/>
+    <section textSpan="22261-23238" title="Abbreviations" titleSpan="22268-22281"/>
+    <section textSpan="23243-24461" title="Competing interests" titleSpan="23250-23269"/>
+    <section textSpan="24466-25004" title="Authors’ contributions" titleSpan="24473-24495"/>
+    <section textSpan="25009-25306" title="Supplementary Material" titleSpan="25016-25038"/>
+    <section textSpan="25311-25981" title="Back matter" titleSpan="25311-25322"/>
+</document>

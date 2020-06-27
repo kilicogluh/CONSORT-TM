@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC5064025" note="">
+    <text xml:space="preserve">Title
+Arterial Effects of Canakinumab in Patients With Atherosclerosis and Type 2 Diabetes or Glucose Intolerance
+Abstract
+
+        
+          Background
+          Evidence suggests that interleukin (IL)-1β is important in the pathogenesis of atherosclerosis and its complications and that inhibiting IL-1β may favorably affect vascular disease progression.
+        
+        
+          Objectives
+          The goal of this study was to evaluate the effects of IL-1β inhibition with canakinumab versus placebo on arterial structure and function, determined by magnetic resonance imaging.
+        
+        
+          Methods
+          Patients (N = 189) with atherosclerotic disease and either type 2 diabetes mellitus or impaired glucose tolerance were randomized to receive placebo (n = 94) or canakinumab 150 mg monthly (n = 95) for 12 months. They underwent magnetic resonance imaging of the carotid arteries and aorta.
+        
+        
+          Results
+          There were no statistically significant differences between canakinumab compared with placebo in the primary efficacy and safety endpoints. There was no statistically significant change in mean carotid wall area and no effect on aortic distensibility, measured at 3 separate anatomic sites. The change in mean carotid artery wall area was –3.37 mm2 after 12 months with canakinumab versus placebo. High-sensitivity C-reactive protein was significantly reduced by canakinumab compared with placebo at 3 months (geometric mean ratio [GMR]: 0.568; 95% confidence interval [CI]: 0.436 to 0.740; p &lt; 0.0001) and 12 months (GMR: 0.56; 95% CI: 0.414 to 0.758; p = 0.0002). Lipoprotein(a) levels were reduced by canakinumab compared with placebo (–4.30 mg/dl [range: –8.5 to –0.55 mg/dl]; p = 0.025] at 12 months), but triglyceride levels increased (GMR: 1.20; 95% CI: 1.046 to 1.380; p = 0.01). In these patients with type 2 diabetes mellitus or impaired glucose tolerance, canakinumab had no effect compared with placebo on any of the measures assessed by using a standard oral glucose tolerance test.
+        
+        
+          Conclusions
+          There were no statistically significant effects of canakinumab on measures of vascular structure or function. Canakinumab reduced markers of inflammation (high-sensitivity C-reactive protein and interleukin-6), and there were modest increases in levels of total cholesterol and triglycerides. (Safety &amp; Effectiveness on Vascular Structure and Function of ACZ885 in Atherosclerosis and Either T2DM or IGT Patients; NCT00995930)
+        
+      
+
+
+    Atherosclerosis is well-established as a disease with an important inflammatory component 1, 2, 3. Systemic markers of inflammation such as C-reactive protein and serum amyloid A are strongly related to cardiovascular prognosis in various populations and clinical settings 4, 5. Furthermore, therapeutic interventions that reduce cardiovascular risk have also been associated with a reduction in systemic inflammatory markers 6, 7. However, whether specifically targeting inflammation reduces cardiovascular risk remains unknown.
+    Interleukins are important mediators of inflammation, both locally and systemically. Macrophages are key cellular components of atherosclerotic plaque and produce interleukin (IL)-1β (8), which is also promoted by cellular cholesterol activation of inflammasomes (9). IL-1β and interleukin-1α exert proinflammatory effects that are inhibited by the endogenous antagonist interleukin-1 receptor antagonist (IL-1RA). Atherosclerosis-prone mice that are deficient in IL-1β develop smaller lesions (10), and administration of IL-1RA reduces early atherogenesis in mice (11). IL-1RA–deficient mice have shown increased atherosclerosis (12) and vascular inflammation, associated with destruction of elastic tissues (13).
+    Therefore, given the key role for IL-1β as a mediator of innate immunity and the effects of interleukin inhibition in experimental atherosclerosis, interventions to reduce inflammation through IL-1β have been proposed to treat atherosclerosis. Although evidence of benefit to vascular disease in humans remain sparse, administration of the IL-1RA anakinra to patients with rheumatoid arthritis improved several measures of vascular function, including aortic distensibility, flow-mediated vasodilation, and coronary flow reserve (14).
+    In addition to its key role in vascular disease, IL-1β has been implicated in the pathogenesis of type 2 diabetes mellitus (T2DM). IL-1RA expression is reduced in pancreatic islets of patients with T2DM, and high glucose concentrations induce the production of IL-1β in human pancreatic beta cells, leading to impaired insulin secretion, decreased cell proliferation, and apoptosis (15). Blockade of the interleukin-1 receptor with anakinra improved glycemia and beta-cell secretory function and reduced markers of systemic inflammation in patients with T2DM (16). Patients with T2DM are at high risk for cardiovascular disease (17) and have evidence of both increased plaque inflammation (18) and reduced arterial distensibility (19). This group might, therefore, derive “metabolic” and “vascular” benefits from targeting IL-1β, including reduced risk of atherothrombotic complications.
+    A human monoclonal anti-human IL-1β antibody of the immunoglobulin G1/k isotype canakinumab functionally neutralizes IL-1β through steric hindrance of its receptor interaction. It is effective in reducing systemic markers of inflammation, including C-reactive protein and IL-6 (20). Its effects on cardiovascular outcomes are under investigation in the CANTOS (Canakinumab Anti-inflammatory Thrombosis Outcomes Study) trial (21).
+    Vascular magnetic resonance imaging (MRI) has emerged as a precise, highly reproducible, and versatile tool to assess both vascular structure and function at multiple arterial loci 22, 23, 24, 25. Accordingly, we designed a randomized, placebo-controlled Phase II clinical trial to test the effects of IL-1β inhibition, using canakinumab, on: 1) MRI-derived measures of vascular structure and function; 2) measures of diabetes control; and 3) indicators of systemic inflammation in patients with atherosclerotic vascular disease and impaired glucose tolerance (IGT) or T2DM.
+    
+      Methods
+      Novartis Pharmaceuticals (Cambridge, Massachusetts) initiated this Phase II, double-blind, randomized, placebo-controlled trial, with the final study protocol designed in collaboration with the investigators (R.P.C., J.-C.T., and Z.A.F.), based on their previously published methods 19, 23, 24. The study was undertaken at 9 centers in Canada, the United Kingdom, the United States, Germany, and Israel, in compliance with the principles of the Declaration of Helsinki and according to Good Clinical Practice guidelines. The protocol was reviewed and approved by the institutional review board, or equivalent, for each center. All participants provided written informed consent before undertaking any study procedures.
+      
+        Patients
+        Patients (ages 18 to 74 years) were eligible for inclusion if they had clinically evident atherosclerotic vascular disease: previous myocardial infarction; history of angina; carotid stenosis (&gt;30%); peripheral vascular disease (ankle–brachial index &lt;0.9); endarterectomy &gt;3 months previously; or transient ischemic attack or stroke. In addition, patients must also have had either T2DM (for ≤14 years and glycosylated hemoglobin [HbA1c] levels between 6% and 10%) or IGT (defined as a peak 2-h glucose reading ≥140 mg/dl but &lt;200 mg/dl after an oral glucose tolerance test during screening). Patients were to have been on stable statin therapy for a period of ≥6 weeks before screening (or have physician-documented statin intolerance).
+        After consent, eligible patients were randomized (1:1) to receive canakinumab 150 mg or placebo, subcutaneously, monthly for 12 months. Exclusion criteria included: pregnancy; systemic steroid use; baseline high-sensitivity C-reactive protein (hs-CRP) levels &gt;30 mg/l; history of significant multiple drug allergies; history or evidence of chronic infection, including tuberculosis and liver disease; or a standard contraindication to MRI. Randomization occurred between December 2009 and November 2012. Patient groups were assigned centrally according to a validated computer-generated randomization code, stratified according to glycemic status (T2DM or IGT).
+      
+      
+        Imaging procedures
+        An integrated vascular MRI was performed at baseline and after 3 and 12 months of treatment. If the imaging data did not meet an evaluable standard at any time point, the patient was rescanned. Randomization required an evaluable baseline scan. The imaging procedure comprised measures of aortic wall area and distensibility, as well as carotid wall area bilaterally. The imaging protocol was adapted from Lee et al. (19), and staff at each imaging site underwent individualized training to ensure consistency of method and data acquisition. All trial sites used a 3.0-T whole-body MRI scanner, including Trio, TIM Trio, or Verio (Siemens Medical Solutions USA, Inc., Malvern, Pennsylvania) or Achieva (Philips, Amsterdam, the Netherlands) platforms. For carotid imaging, a bilateral 4-channel carotid array (Machnet B.V., Roden, the Netherlands) was used on the Siemens scanners and an equivalent multi-channel (4 to 8) phased array carotid coil (Shanghai Medical, Shanghai, China) was used on the Philips scanners.
+        Detailed information regarding imaging protocols and analysis is available in the Online Appendix.
+        The velocity at which the arterial pulse propagates is termed pulsed wave velocity (PWV). A measure of arterial stiffness, it is an independent predictor of mortality in both T2DM and IGT (26). The Sphygmocor platform (AtCor Medical Pty. Ltd., West Ryde, Australia) was applied immediately before MRI scanning to acquire the aortic central pulse pressure from radial artery applanation tonometry and the PWV from the carotid-femoral pulse waves.
+      
+      
+        Safety assessments
+        Monitoring of vital signs, electrocardiogram, standard hematology, and biochemistry (including measurement of lipoproteins, liver function, and creatine kinase) were conducted throughout the study. A data monitoring committee oversaw subject safety on an ongoing basis. In addition, 3 adjudication committees made blinded assessments of adverse events in relation to cardiac, malignant, and infection-related events.
+      
+      
+        Endpoints
+        The primary efficacy objectives were the effects of the drug on aortic distensibility and total plaque burden in the aorta and carotid arteries; the primary safety objective was the safety and tolerability of canakinumab in this population. Secondary objectives included the effects of canakinumab on aortic PWV; hs-CRP; HbA1c; homeostasis model assessment (HOMA)–insulin resistance; and peak blood glucose level 2 h after an oral glucose challenge. Exploratory analyses of peripheral biomarkers of inflammation (including IL-6, serum amyloid A, and plasma lipoproteins) were also performed.
+      
+      
+        Statistical analyses
+        Sample size was calculated from the study of Lee et al. (19). To detect a 35% change in aortic distensibility or an 11% change in plaque burden at 12 months to achieve a power of 0.8 and nominal p &lt; 0.05 (2-sided), 60 patients per group were required. To ensure 120 datasets with 12-month follow-up data, it was planned to randomize 190 patients. Given the exploratory nature of the study, corrections were not made for the multiplicity of statistical tests. As defined by the protocol, patients were included in the 3-month data analysis if they had no missing doses at 3 months; for the 12-month analysis, participants were required to have no missing doses by 3 months and 1 or no missing doses between 3 and 12 months.
+        To compare treatment with placebo, we conducted an analysis of covariance on change from baseline, including the glycemic status as a factor and the baseline as a covariate at 3 and 12 months. All data were checked for normality and log-transformed, if appropriate. When a log transformation of the change from baseline was not possible because of negative values, an analysis of covariance was conducted on the log-transformed 3- and 12-month data, including glycemic index status as a factor and the log-transformed baseline as a covariate. We considered a p value &lt;0.05 as significant. Results are reported as means with 95% confidence limits. Two interim analyses were pre-specified, when n = 60 and all patients had completed 3 months of treatment, respectively, with the intention of halting the study if adverse measures were identified or for futility but not for interim positive efficacy. The interim analyses were performed by independent personnel not directly associated with the study’s conduct.
+        The study sponsor and funder (Novartis) participated in discussions about the design and conduct of this study; they also provided the drugs used in the trial and logistical support for its execution. The trial design, endpoints, and statistical analyses were largely derived from the academic investigators’ previously published studies 19, 23, 24. Following the final database lock, all patient data were analyzed independently by the Centre for Statistics in Medicine, Oxford (J.B.). The manuscript was drafted by the academic investigators (R.P.C., J.S.B., J.-C.T., and Z.A.F.), in accordance with the written agreement between Novartis and the academic institutions, and reviewed and revised by the writing committee. All authors had full access to all the data in the study and assume responsibility for publication.
+        All statistical analyses were performed by using Stata 14 (StataCorp LP, College Station, Texas).
+      
+    
+    
+      Results
+       Table 2 Subject Disposition 
+ Table 1 Baseline Characteristics 
+Of 450 patients screened, 189 were randomized to receive either placebo (n = 94) or canakinumab 150 mg (n = 95). The proportions of patients with diabetes, duration of diabetes, and glycemic control (estimated from HbA1c) were similar in the groups, and there was a high prevalence for each of hypertension, dyslipidemia, and background coronary artery disease (Table 1); the latter was slightly higher proportionately in the placebo group. There was no significant difference between the canakinumab group compared with the placebo group for the overall rate of completion of the study, which was 70.5% with canakinumab versus 77.7% for placebo (risk ratio: 1.32; 95% confidence interval [CI]: 0.81 to 2.15; p = 0.26) or the rate of discontinuation due to adverse events (14.7% vs. 11.7%; risk ratio: 1.26; 95% CI: 0.60 to 2.63; p = 0.54) (Table 2). The most common cause for discontinuation was for adverse events. A full list of adverse events is provided in Online Table 1. Seven patients withdrew consent, and 7 patients were excluded from analysis due to significant protocol deviation.
+       Figure 1 Changes in Carotid Wall Area
+        We evaluated 12-month change from baseline in wall area as an indicator of atherosclerosis progression. (A) In both left and right carotid arteries, canakinumab retarded progression of wall area compared with placebo. Consistent in magnitude and direction, the changes did not reach statistical significance in the mean carotid wall area (pre-stated endpoint) or in either carotid artery analyzed separately. Bars = means with 95% confidence intervals. (B) Within the same patient, there was a striking concordance of change in wall area between left- and right-sided arteries, which was maintained in both treatment groups (p &lt; 0.0001 for each). Upper right quadrant = patients with progression in both carotid arteries. 
+ Table 3 Change From Baseline in MRI Measures 
+As a biomarker of atherosclerotic plaque burden, vessel wall area was quantified in the aorta and carotid arteries (Table 3). There was no statistically significant difference in mean carotid wall area between these 2 groups at either time point. Baseline mean carotid wall areas were 27.7 ± 9.79 mm2 and 27.1 ± 9.6 mm2 (p = NS) for the canakinumab and placebo groups, respectively. Change in mean carotid artery wall area was –3.37 mm2 (p = 0.06) after 12 months for canakinumab versus placebo. There was an increase (12 months vs. baseline) in wall area for each of the left and right carotid arteries (and mean of the left and right) with placebo but, on average, neither progression nor regression in the canakinumab group (Figure 1A). Change from baseline at 12 months was compared for individual patients between the left and right carotid arteries for both treatment groups. In each, there were strong correlations between changes in the left and right carotid arteries for canakinumab and placebo, respectively (p &lt; 0.0001 for both) (Figure 1B). The vessel lumen area was not changed by canakinumab treatment. There was no statistically significant difference in wall area between canakinumab treatment and placebo at any of the 3 aortic sites at either 3 or 12 months.
+      Aortic distensibility was calculated from measurements made at 3 sites in the aorta. There were no statistically significant differences between canakinumab treatment and placebo for change in aortic distensibility, and no significant changes occurred in systolic or diastolic blood pressure at either 3 or 12 months of treatment versus baseline. There were also no significant differences in measures of PWV between these 2 groups at either time point (Table 3).
+       Table 4 Blood Measures for Lipids, Diabetes Control, and Markers of Inflammation 
+ Figure 2 Changes in Lipids and C-Reactive Protein
+        Absolute level or change from baseline at 3 and 12 months are shown for (A) C-reactive protein; (B) lipoprotein(a) (Lp[a]); (C) total cholesterol; (D) high-density lipoprotein (HDL) cholesterol; and (E) triglycerides. 
+Compared with placebo, canakinumab reduced hs-CRP at 3 months (geometric mean ratio [GMR]: 0.568; 95% CI: 0.436 to 0.740; p &lt; 0.0001) and 12 months (GMR: 0.56; 95% CI: 0.414 to 0.758; p = 0.0002) (Figure 2). Similarly, IL-6 was reduced by canakinumab at the 3-month time point (GMR: 0.580; 95% CI: 0.483 to 0.697; p &lt; 0.0001). Neither serum amyloid A nor adiponectin changed significantly in response to canakinumab treatment compared with placebo (Table 4).
+      In this study population of patients with T2DM or IGT and near-universal statin use, canakinumab had no effect on either plasma low-density lipoprotein or high-density lipoprotein cholesterol levels compared with placebo at either of the 3- or 12-month time points. Levels of total plasma cholesterol were mildly elevated from baseline in the canakinumab-treated patients at 3 months compared with the placebo group (GMR: 1.120; 95% CI: 1.050 to 1.195; p = 0.0008) but not at 12 months (GMR: 1.084; 95% CI: 0.991 to 1.185; p = 0.08). The elevation in total cholesterol level most likely reflected an elevation in triglyceride-rich lipoproteins, given the coinciding elevation in triglyceride level that also accompanied canakinumab treatment compared with placebo at 3 months (GMR: 1.21; 95% CI: 1.082 to 1.358; p = 0.001) and 12 months (GMR: 1.20; 95% CI: 1.046 to 1.380; p = 0.01).
+      Lipoprotein(a) levels were reduced by canakinumab compared with placebo. Changes from baseline values were as follows: at 3 months, mean change was –3.719 mg/dl (95% CI: –6.809 to –0.628; p = 0.02); at 12 months, mean change was –4.300 mg/dl (95% CI: –8.052 to –0.548; p = 0.025).
+      In this population of patients with T2DM (86%) or IGT (14%) and with median baseline HbA1c levels &lt;7%, canakinumab also had no significant effect compared with placebo on fasting blood glucose, HbA1c, HOMA–insulin resistance or HOMA-β, or 2-h glucose, obtained as part of an oral glucose tolerance test.
+       Table 5 MACE 
+Major adverse cardiovascular events occurred in 9.0% of patients, with no significant difference between the active treatment group (11%) compared with the placebo group (7%) (risk ratio: 1.41; 95% CI: 0.56 to 3.56; p = 0.46) (Table 5). A full list of adverse events is given in Online Table 1.
+    
+    
+      Discussion
+      Inflammation contributes to the pathogenesis of vascular dysfunction and atherogenesis, as well as to the complications of atherosclerosis (1). Data from preclinical studies have suggested that inhibiting IL-1β may directly affect atherosclerosis and vascular inflammation (10).
+       Central Illustration Effects of IL-1β Inhibition
+        Interleukin (IL)-1β seems important in the pathogenesis of atherosclerosis. In this placebo-controlled trial in patients with evidence of clinical atherosclerosis and either type 2 diabetes mellitus or impaired glucose tolerance, the IL-1β inhibitor canakinumab reduced measures of inflammation but did not significantly affect measures of vascular structure or function. LDL = low-density lipoprotein. 
+In the present randomized clinical trial of IL-1β inhibition in patients with T2DM or IGT, canakinumab 150 mg monthly reduced blood levels of IL-6 and hs-CRP (Central Illustration). Similar reductions in inflammatory indexes have been reported previously in patients with T2DM (20). Significantly, given the target population, the present study showed that this effect persists even with near-universal statin use. Canakinumab had no effect on fasting glucose, HbA1c, or measures of insulin sensitivity.
+      In common with earlier studies 19, 23, 24, atherosclerosis burden was quantified in the common carotid arteries and the aorta. We found no statistically significant effect of 12 months’ treatment with canakinumab on magnetic resonance–derived measures of vascular structure or function. However, in each of the common carotid arteries individually, and in the combined vessel average, there was a suggestion of possible retarded progression of atherosclerotic burden.
+      Because atherosclerosis is a systemic disease, we performed a further analysis, comparing changes in the right and left carotid arteries within individual patients. There were strong relationships between changes in the left- versus right-sided vessels evident in both the canakinumab and the placebo groups but with a tendency toward progression bilaterally in the placebo group. As detailed earlier, analyses of wall area were conducted by operators who were blinded to the timing and treatment allocation of the images. Moreover, measurements were made separately on individual slices, but the data presented are for whole arteries. Given this high level of analytical stringency, these consistent correlations supported the technical robustness of the measurements.
+      In common with previous studies, we chose to quantify vessel wall area in the tubular carotid arteries because they are less susceptible to error in serial measurements due to “volume averaging” effects. Previously described techniques allow plaque lipid quantification with the use of T2 mapping, but these were not current at the time of protocol design (27). Lipid elements may be the most readily mobilized components of atherosclerotic plaque, although the mechanisms by which IL-1β inhibition might affect plaque lipid are not clear. Vascular 18fludeoxyglucose positron emission tomography has been used effectively to evaluate carotid and aortic plaque macrophage activity in clinical trials, and this test may have been an alternative imaging modality 23, 28, 29. However, changes in macrophage function are associated with changes in substrate utilization and mode of energy generation (30). Therefore, using 18fludeoxyglucose positron emission tomography to identify macrophages on the basis of their glycolytic activity may provide only partial insight into the relevant biology with respect to IL-1β inhibition, and could even be misleading (31).
+      This study focused on changes in vessel wall structure and function. In doing so, we intended to obtain insights into the possible effects of canakinumab on different manifestations, or stages, of vessel wall pathology. Despite this expansive approach, we observed no significant effects on the vessel wall. Given the discordance with animal studies, one should also consider the possibility that previously observed beneficial effects of IL-1β inhibition need not have been realized directly at the arterial level. Accumulating evidence suggests roles for peripheral monocytes in accelerating atherosclerosis in response to inflammatory stimuli (32). Indeed, IL-1β enhances hematopoietic stem cell proliferation and leukocyte production after acute myocardial infarction in mice and is reduced by administration of anti–IL-1β antibodies (33).
+      In mice, most studies of IL-1β inhibition have shown reduced atherosclerosis and/or plaque inflammation; however, 1 study found that inactivation of IL-1 signaling through loss of the IL-1 receptor type 1 in apolipoprotein E–/– mice promoted multiple indexes of atherosclerotic plaque instability, including reduced plaque smooth muscle cell content, reduced plaque collagen content, and impaired outward vessel remodeling, leading to reduced lumen size (34). Our study in humans found no evidence of changes in aortic characteristics according to distensibility measures at multiple sites. In theory, it would be possible for changes in lumen area/outward remodeling to be present despite no change in wall area, because wall area is derived by subtracting the lumen area from the total vessel area. Examining these measures individually provides information on tendencies for luminal constriction or outward remodeling. In human atherosclerosis, we found no change in lumen area or adverse effect on outward vessel remodeling.
+      Canakinumab had no effect on fasting glucose, HbA1c, or measures of insulin sensitivity in the present study. This outcome does not agree with the findings of Larsen et al. (16), who used the IL-1RA anakinra. The apparent discrepancy may reflect better glycemic control at baseline in our study, in which &gt;50% of patients had HbA1c levels &lt;7% compared with a mean HbA1c level &gt;8.5% in the treatment arm of the anakinra trial. However, canakinumab administration did result in an increase in plasma triglyceride levels, as reported previously for this agent (20). The underlying mechanism is not clear. Other treatments targeting inflammation have also been associated with elevated levels of very-low-density lipoprotein triglycerides (35). There was also a marginal but statistically significant elevation in total cholesterol levels, with an increase by 18.5 mg/dl after 3 months’ treatment. Conversely, lipoprotein(a) was significantly reduced by canakinumab at both time points.
+      
+        Study limitations
+        This study did not evaluate atherosclerosis at the carotid bifurcation, where the burden of disease is often greatest, nor did it quantify plaque lipid content. Although MRI scans provide highly reproducible measures of plaque structure and vessel function, they offer no direct measure of plaque inflammation. It is possible for drugs to markedly affect plaque biology without altering plaque size, particularly on short-term follow-up (36). In this study, no attempt was made to select subjects on the basis of inflammatory status. More refined patient selection may enhance the effectiveness of drugs that are directed toward specific processes and pathways. Finally, we cannot exclude the possibility that the dose of canakinumab was not high enough to generate a maximal effect on atherosclerotic burden, although the dose was sufficient to lower both hs-CRP and IL-6 levels.
+        There were no significant differences in adverse events between the 2 groups, nor were any unexpected adverse outcomes identified. However, this small study cannot thoroughly or systematically evaluate the safety of canakinumab. The question of clinical efficacy clearly remains open. This question will be answered by the Phase III trial, CANTOS, which randomized &gt;10,000 patients with hs-CRP ≥2 mg/l to treatment in a secondary prevention population; the goal is to evaluate the composite primary endpoint of nonfatal myocardial infarction, nonfatal stroke, or cardiovascular death 20, 21.
+      
+    
+    
+      Conclusions
+      In patients with T2DM and established cardiovascular disease, canakinumab reduced markers of inflammation (hs-CRP and IL-6) compared with placebo. Treatment with canakinumab also increased levels of triglycerides and total cholesterol but reduced lipoprotein(a) levels. Despite measurable effects on systemic markers of inflammation, there was no statistically significant effect on measures of vascular structure or function. Effects of canakinumab on plaque inflammation or on leukocyte function elsewhere may be undetectable with current imaging technologies. The results of this Phase II trial leave open the important question of clinical efficacy, which will be addressed by the multinational Phase III trial CANTOS.PerspectivesCOMPETENCY IN MEDICAL KNOWLEDGE: Markers of inflammation such as C-reactive protein and serum amyloid A are related to cardiovascular prognosis in patients with atherosclerosis. Canakinumab, a monoclonal antibody that inhibits IL-1β, reduces these markers without measurable effects on arterial structure or function.TRANSLATIONAL OUTLOOK: The therapeutic efficacy of canakinumab in patients with vascular disease and T2DM or glucose intolerance will be assessed in a multicenter clinical trial.
+    
+  
+
+Back matter
+
+      Appendix
+                     Online Data               Online Data         
+    
+
+      Acknowledgments
+      The authors acknowledge with gratitude the contributions of Dr. Kimberley Bailey, Dr. Peter Bernhardt, Dr. Thomas Forst, Ms. Megan Gaston, Ms. Jamie Hutchinson, Dr. Tomas Jax, Dr. Alistair Lindsay, Dr. Nirmala Nanguneri, Dr. Eli Rothj, and Dr. Dain Wahl.
+    
+
+      
+        This work was funded by Novartis. Dr. Choudhury has received honoraria/consultancy fees from Amgen, AstraZeneca, Boehringer Ingelheim, Isis Pharmaceuticals, GlaxoSmithKline, Merck, Roche, and Sanofi. Dr. Mani has received grant support from Novartis, Daiichi-Sankyo, Amgen, and Aegerion; has received honoraria from Aegerion; and he has served as a consultant for MedLion Inc. Dr. McLaughlin has received research support from AbbVie. Drs. Basson, Svensson, Zhang, and Yates are employees of and hold equity shares in Novartis. Dr. Tardif has received research support from Novartis, AstraZeneca, Merck, Eli Lilly, Sanofi, DalCor, and Pharmascience; has received honoraria from Servier, Thrasos and DalCor; and holds equity interest in DalCor. Dr. Schecter is an employee of Baxalta and Shire; during the study; and was an employee of Novartis. Dr. Fayad has received research support from Novartis. Prof. Choudhury was a Wellcome Trust Senior Research Fellow in Clinical Science. Dr. Tardif holds the Canada Research Chair in translational and personalized medicine and the University of Montreal endowed research chair in atherosclerosis. This work was also supported by the National Institute for Health Research Oxford Biomedical Research Centre (Drs. Choudhury, Biasiolli, and Robson and Ms. Birks). All other authors have reported that they have no relationships relevant to the contents of this paper to disclose. Chun Yuan, PhD, served as Guest Editor for this paper.
+      
+      
+        Listen to this manuscript's audio summary by JACC Editor-in-Chief Dr. Valentin Fuster.
+      
+      
+        For detailed information regarding imaging protocols and analysis as well as a supplemental table, please see the online version of this article.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-113" id="S2" selection="">
+        <text xml:space="preserve">Arterial Effects of Canakinumab in Patients With Atherosclerosis and Type 2 Diabetes or Glucose Intolerance</text>
+    </sentence>
+    <sentence charOffset="114-122" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="143-153" id="S4" selection="">
+        <text xml:space="preserve">Background</text>
+    </sentence>
+    <sentence charOffset="164-357" id="S5" selection="1b">
+        <text xml:space="preserve">Evidence suggests that interleukin (IL)-1β is important in the pathogenesis of atherosclerosis and its complications and that inhibiting IL-1β may favorably affect vascular disease progression.</text>
+    </sentence>
+    <sentence charOffset="386-396" id="S6" selection="">
+        <text xml:space="preserve">Objectives</text>
+    </sentence>
+    <sentence charOffset="407-587" id="S7" selection="">
+        <text xml:space="preserve">The goal of this study was to evaluate the effects of IL-1β inhibition with canakinumab versus placebo on arterial structure and function, determined by magnetic resonance imaging.</text>
+    </sentence>
+    <sentence charOffset="616-623" id="S8" selection="">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="634-845" id="S9" selection="">
+        <text xml:space="preserve">Patients (N = 189) with atherosclerotic disease and either type 2 diabetes mellitus or impaired glucose tolerance were randomized to receive placebo (n = 94) or canakinumab 150 mg monthly (n = 95) for 12 months.</text>
+    </sentence>
+    <sentence charOffset="846-922" id="S10" selection="">
+        <text xml:space="preserve">They underwent magnetic resonance imaging of the carotid arteries and aorta.</text>
+    </sentence>
+    <sentence charOffset="951-958" id="S11" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="969-1108" id="S12" selection="">
+        <text xml:space="preserve">There were no statistically significant differences between canakinumab compared with placebo in the primary efficacy and safety endpoints.</text>
+    </sentence>
+    <sentence charOffset="1109-1259" id="S13" selection="">
+        <text xml:space="preserve">There was no statistically significant change in mean carotid wall area and no effect on aortic distensibility, measured at 3 separate anatomic sites.</text>
+    </sentence>
+    <sentence charOffset="1260-1366" id="S14" selection="">
+        <text xml:space="preserve">The change in mean carotid artery wall area was –3.37 mm2 after 12 months with canakinumab versus placebo.</text>
+    </sentence>
+    <sentence charOffset="1367-1634" id="S15" selection="">
+        <text xml:space="preserve">High-sensitivity C-reactive protein was significantly reduced by canakinumab compared with placebo at 3 months (geometric mean ratio [GMR]: 0.568; 95% confidence interval [CI]: 0.436 to 0.740; p &lt; 0.0001) and 12 months (GMR: 0.56; 95% CI: 0.414 to 0.758; p = 0.0002).</text>
+    </sentence>
+    <sentence charOffset="1635-1856" id="S16" selection="">
+        <text xml:space="preserve">Lipoprotein(a) levels were reduced by canakinumab compared with placebo (–4.30 mg/dl [range: –8.5 to –0.55 mg/dl]; p = 0.025] at 12 months), but triglyceride levels increased (GMR: 1.20; 95% CI: 1.046 to 1.380; p = 0.01).</text>
+    </sentence>
+    <sentence charOffset="1857-2064" id="S17" selection="">
+        <text xml:space="preserve">In these patients with type 2 diabetes mellitus or impaired glucose tolerance, canakinumab had no effect compared with placebo on any of the measures assessed by using a standard oral glucose tolerance test.</text>
+    </sentence>
+    <sentence charOffset="2093-2104" id="S18" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="2115-2224" id="S19" selection="">
+        <text xml:space="preserve">There were no statistically significant effects of canakinumab on measures of vascular structure or function.</text>
+    </sentence>
+    <sentence charOffset="2225-2407" id="S20" selection="">
+        <text xml:space="preserve">Canakinumab reduced markers of inflammation (high-sensitivity C-reactive protein and interleukin-6), and there were modest increases in levels of total cholesterol and triglycerides.</text>
+    </sentence>
+    <sentence charOffset="2408-2541" id="S21" selection="23">
+        <text xml:space="preserve">(Safety &amp; Effectiveness on Vascular Structure and Function of ACZ885 in Atherosclerosis and Either T2DM or IGT Patients; NCT00995930)</text>
+    </sentence>
+    <sentence charOffset="2564-2662" id="S22" selection="">
+        <text xml:space="preserve">Atherosclerosis is well-established as a disease with an important inflammatory component 1, 2, 3.</text>
+    </sentence>
+    <sentence charOffset="2663-2842" id="S23" selection="">
+        <text xml:space="preserve">Systemic markers of inflammation such as C-reactive protein and serum amyloid A are strongly related to cardiovascular prognosis in various populations and clinical settings 4, 5.</text>
+    </sentence>
+    <sentence charOffset="2843-2995" id="S24" selection="">
+        <text xml:space="preserve">Furthermore, therapeutic interventions that reduce cardiovascular risk have also been associated with a reduction in systemic inflammatory markers 6, 7.</text>
+    </sentence>
+    <sentence charOffset="2996-3093" id="S25" selection="">
+        <text xml:space="preserve">However, whether specifically targeting inflammation reduces cardiovascular risk remains unknown.</text>
+    </sentence>
+    <sentence charOffset="3098-3182" id="S26" selection="">
+        <text xml:space="preserve">Interleukins are important mediators of inflammation, both locally and systemically.</text>
+    </sentence>
+    <sentence charOffset="3183-3365" id="S27" selection="">
+        <text xml:space="preserve">Macrophages are key cellular components of atherosclerotic plaque and produce interleukin (IL)-1β (8), which is also promoted by cellular cholesterol activation of inflammasomes (9).</text>
+    </sentence>
+    <sentence charOffset="3366-3512" id="S28" selection="">
+        <text xml:space="preserve">IL-1β and interleukin-1α exert proinflammatory effects that are inhibited by the endogenous antagonist interleukin-1 receptor antagonist (IL-1RA).</text>
+    </sentence>
+    <sentence charOffset="3513-3668" id="S29" selection="">
+        <text xml:space="preserve">Atherosclerosis-prone mice that are deficient in IL-1β develop smaller lesions (10), and administration of IL-1RA reduces early atherogenesis in mice (11).</text>
+    </sentence>
+    <sentence charOffset="3669-3812" id="S30" selection="">
+        <text xml:space="preserve">IL-1RA–deficient mice have shown increased atherosclerosis (12) and vascular inflammation, associated with destruction of elastic tissues (13).</text>
+    </sentence>
+    <sentence charOffset="3817-4060" id="S31" selection="">
+        <text xml:space="preserve">Therefore, given the key role for IL-1β as a mediator of innate immunity and the effects of interleukin inhibition in experimental atherosclerosis, interventions to reduce inflammation through IL-1β have been proposed to treat atherosclerosis.</text>
+    </sentence>
+    <sentence charOffset="4061-4351" id="S32" selection="">
+        <text xml:space="preserve">Although evidence of benefit to vascular disease in humans remain sparse, administration of the IL-1RA anakinra to patients with rheumatoid arthritis improved several measures of vascular function, including aortic distensibility, flow-mediated vasodilation, and coronary flow reserve (14).</text>
+    </sentence>
+    <sentence charOffset="4356-4486" id="S33" selection="2a">
+        <text xml:space="preserve">In addition to its key role in vascular disease, IL-1β has been implicated in the pathogenesis of type 2 diabetes mellitus (T2DM).</text>
+    </sentence>
+    <sentence charOffset="4487-4743" id="S34" selection="">
+        <text xml:space="preserve">IL-1RA expression is reduced in pancreatic islets of patients with T2DM, and high glucose concentrations induce the production of IL-1β in human pancreatic beta cells, leading to impaired insulin secretion, decreased cell proliferation, and apoptosis (15).</text>
+    </sentence>
+    <sentence charOffset="4744-4920" id="S35" selection="">
+        <text xml:space="preserve">Blockade of the interleukin-1 receptor with anakinra improved glycemia and beta-cell secretory function and reduced markers of systemic inflammation in patients with T2DM (16).</text>
+    </sentence>
+    <sentence charOffset="4921-5091" id="S36" selection="">
+        <text xml:space="preserve">Patients with T2DM are at high risk for cardiovascular disease (17) and have evidence of both increased plaque inflammation (18) and reduced arterial distensibility (19).</text>
+    </sentence>
+    <sentence charOffset="5092-5243" id="S37" selection="">
+        <text xml:space="preserve">This group might, therefore, derive “metabolic” and “vascular” benefits from targeting IL-1β, including reduced risk of atherothrombotic complications.</text>
+    </sentence>
+    <sentence charOffset="5248-5424" id="S38" selection="2a">
+        <text xml:space="preserve">A human monoclonal anti-human IL-1β antibody of the immunoglobulin G1/k isotype canakinumab functionally neutralizes IL-1β through steric hindrance of its receptor interaction.</text>
+    </sentence>
+    <sentence charOffset="5425-5530" id="S39" selection="">
+        <text xml:space="preserve">It is effective in reducing systemic markers of inflammation, including C-reactive protein and IL-6 (20).</text>
+    </sentence>
+    <sentence charOffset="5531-5677" id="S40" selection="">
+        <text xml:space="preserve">Its effects on cardiovascular outcomes are under investigation in the CANTOS (Canakinumab Anti-inflammatory Thrombosis Outcomes Study) trial (21).</text>
+    </sentence>
+    <sentence charOffset="5682-5878" id="S41" selection="">
+        <text xml:space="preserve">Vascular magnetic resonance imaging (MRI) has emerged as a precise, highly reproducible, and versatile tool to assess both vascular structure and function at multiple arterial loci 22, 23, 24, 25.</text>
+    </sentence>
+    <sentence charOffset="5879-6256" id="S42" selection="2b">
+        <text xml:space="preserve">Accordingly, we designed a randomized, placebo-controlled Phase II clinical trial to test the effects of IL-1β inhibition, using canakinumab, on: 1) MRI-derived measures of vascular structure and function; 2) measures of diabetes control; and 3) indicators of systemic inflammation in patients with atherosclerotic vascular disease and impaired glucose tolerance (IGT) or T2DM.</text>
+    </sentence>
+    <sentence charOffset="6268-6275" id="S43">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="6282-6576" id="S44" selection="3a">
+        <text xml:space="preserve">Novartis Pharmaceuticals (Cambridge, Massachusetts) initiated this Phase II, double-blind, randomized, placebo-controlled trial, with the final study protocol designed in collaboration with the investigators (R.P.C., J.-C.T., and Z.A.F.), based on their previously published methods 19, 23, 24.</text>
+    </sentence>
+    <sentence charOffset="6577-6802" id="S45" selection="4b">
+        <text xml:space="preserve">The study was undertaken at 9 centers in Canada, the United Kingdom, the United States, Germany, and Israel, in compliance with the principles of the Declaration of Helsinki and according to Good Clinical Practice guidelines.</text>
+    </sentence>
+    <sentence charOffset="6803-6908" id="S46" selection="">
+        <text xml:space="preserve">The protocol was reviewed and approved by the institutional review board, or equivalent, for each center.</text>
+    </sentence>
+    <sentence charOffset="6909-7000" id="S47" selection="">
+        <text xml:space="preserve">All participants provided written informed consent before undertaking any study procedures.</text>
+    </sentence>
+    <sentence charOffset="7016-7024" id="S48" selection="">
+        <text xml:space="preserve">Patients</text>
+    </sentence>
+    <sentence charOffset="7033-7366" id="S49" selection="4a">
+        <text xml:space="preserve">Patients (ages 18 to 74 years) were eligible for inclusion if they had clinically evident atherosclerotic vascular disease: previous myocardial infarction; history of angina; carotid stenosis (&gt;30%); peripheral vascular disease (ankle–brachial index &lt;0.9); endarterectomy &gt;3 months previously; or transient ischemic attack or stroke.</text>
+    </sentence>
+    <sentence charOffset="7367-7625" id="S50" selection="4a">
+        <text xml:space="preserve">In addition, patients must also have had either T2DM (for ≤14 years and glycosylated hemoglobin [HbA1c] levels between 6% and 10%) or IGT (defined as a peak 2-h glucose reading ≥140 mg/dl but &lt;200 mg/dl after an oral glucose tolerance test during screening).</text>
+    </sentence>
+    <sentence charOffset="7626-7770" id="S51" selection="4a">
+        <text xml:space="preserve">Patients were to have been on stable statin therapy for a period of ≥6 weeks before screening (or have physician-documented statin intolerance).</text>
+    </sentence>
+    <sentence charOffset="7779-7914" id="S52" selection="5">
+        <text xml:space="preserve">After consent, eligible patients were randomized (1:1) to receive canakinumab 150 mg or placebo, subcutaneously, monthly for 12 months.</text>
+    </sentence>
+    <sentence charOffset="7915-8218" id="S53" selection="4a">
+        <text xml:space="preserve">Exclusion criteria included: pregnancy; systemic steroid use; baseline high-sensitivity C-reactive protein (hs-CRP) levels &gt;30 mg/l; history of significant multiple drug allergies; history or evidence of chronic infection, including tuberculosis and liver disease; or a standard contraindication to MRI.</text>
+    </sentence>
+    <sentence charOffset="8219-8282" id="S54" selection="14a">
+        <text xml:space="preserve">Randomization occurred between December 2009 and November 2012.</text>
+    </sentence>
+    <sentence charOffset="8283-8440" id="S55" selection="8a,8b,10">
+        <text xml:space="preserve">Patient groups were assigned centrally according to a validated computer-generated randomization code, stratified according to glycemic status (T2DM or IGT).</text>
+    </sentence>
+    <sentence charOffset="8463-8481" id="S56" selection="">
+        <text xml:space="preserve">Imaging procedures</text>
+    </sentence>
+    <sentence charOffset="8490-8582" id="S57" selection="6a">
+        <text xml:space="preserve">An integrated vascular MRI was performed at baseline and after 3 and 12 months of treatment.</text>
+    </sentence>
+    <sentence charOffset="8583-8683" id="S58" selection="">
+        <text xml:space="preserve">If the imaging data did not meet an evaluable standard at any time point, the patient was rescanned.</text>
+    </sentence>
+    <sentence charOffset="8684-8734" id="S59" selection="">
+        <text xml:space="preserve">Randomization required an evaluable baseline scan.</text>
+    </sentence>
+    <sentence charOffset="8735-8857" id="S60" selection="6a">
+        <text xml:space="preserve">The imaging procedure comprised measures of aortic wall area and distensibility, as well as carotid wall area bilaterally.</text>
+    </sentence>
+    <sentence charOffset="8858-9031" id="S61" selection="">
+        <text xml:space="preserve">The imaging protocol was adapted from Lee et al. (19), and staff at each imaging site underwent individualized training to ensure consistency of method and data acquisition.</text>
+    </sentence>
+    <sentence charOffset="9032-9240" id="S62" selection="6a">
+        <text xml:space="preserve">All trial sites used a 3.0-T whole-body MRI scanner, including Trio, TIM Trio, or Verio (Siemens Medical Solutions USA, Inc., Malvern, Pennsylvania) or Achieva (Philips, Amsterdam, the Netherlands) platforms.</text>
+    </sentence>
+    <sentence charOffset="9241-9506" id="S63" selection="6a">
+        <text xml:space="preserve">For carotid imaging, a bilateral 4-channel carotid array (Machnet B.V., Roden, the Netherlands) was used on the Siemens scanners and an equivalent multi-channel (4 to 8) phased array carotid coil (Shanghai Medical, Shanghai, China) was used on the Philips scanners.</text>
+    </sentence>
+    <sentence charOffset="9515-9613" id="S64" selection="">
+        <text xml:space="preserve">Detailed information regarding imaging protocols and analysis is available in the Online Appendix.</text>
+    </sentence>
+    <sentence charOffset="9622-9711" id="S65" selection="">
+        <text xml:space="preserve">The velocity at which the arterial pulse propagates is termed pulsed wave velocity (PWV).</text>
+    </sentence>
+    <sentence charOffset="9712-9815" id="S66" selection="">
+        <text xml:space="preserve">A measure of arterial stiffness, it is an independent predictor of mortality in both T2DM and IGT (26).</text>
+    </sentence>
+    <sentence charOffset="9816-9859" id="S67" selection="6a">
+        <text xml:space="preserve">The Sphygmocor platform (AtCor Medical Pty.</text>
+    </sentence>
+    <sentence charOffset="9860-10067" id="S68" selection="6a">
+        <text xml:space="preserve">Ltd., West Ryde, Australia) was applied immediately before MRI scanning to acquire the aortic central pulse pressure from radial artery applanation tonometry and the PWV from the carotid-femoral pulse waves.</text>
+    </sentence>
+    <sentence charOffset="10090-10108" id="S69" selection="">
+        <text xml:space="preserve">Safety assessments</text>
+    </sentence>
+    <sentence charOffset="10117-10314" id="S70" selection="6a">
+        <text xml:space="preserve">Monitoring of vital signs, electrocardiogram, standard hematology, and biochemistry (including measurement of lipoproteins, liver function, and creatine kinase) were conducted throughout the study.</text>
+    </sentence>
+    <sentence charOffset="10315-10386" id="S71" selection="">
+        <text xml:space="preserve">A data monitoring committee oversaw subject safety on an ongoing basis.</text>
+    </sentence>
+    <sentence charOffset="10387-10533" id="S72" selection="6a,11a">
+        <text xml:space="preserve">In addition, 3 adjudication committees made blinded assessments of adverse events in relation to cardiac, malignant, and infection-related events.</text>
+    </sentence>
+    <sentence charOffset="10556-10565" id="S73" selection="">
+        <text xml:space="preserve">Endpoints</text>
+    </sentence>
+    <sentence charOffset="10574-10814" id="S74" selection="6a">
+        <text xml:space="preserve">The primary efficacy objectives were the effects of the drug on aortic distensibility and total plaque burden in the aorta and carotid arteries; the primary safety objective was the safety and tolerability of canakinumab in this population.</text>
+    </sentence>
+    <sentence charOffset="10815-11023" id="S75" selection="6a">
+        <text xml:space="preserve">Secondary objectives included the effects of canakinumab on aortic PWV; hs-CRP; HbA1c; homeostasis model assessment (HOMA)–insulin resistance; and peak blood glucose level 2 h after an oral glucose challenge.</text>
+    </sentence>
+    <sentence charOffset="11024-11165" id="S76" selection="6a">
+        <text xml:space="preserve">Exploratory analyses of peripheral biomarkers of inflammation (including IL-6, serum amyloid A, and plasma lipoproteins) were also performed.</text>
+    </sentence>
+    <sentence charOffset="11188-11208" id="S77" selection="">
+        <text xml:space="preserve">Statistical analyses</text>
+    </sentence>
+    <sentence charOffset="11217-11278" id="S78" selection="">
+        <text xml:space="preserve">Sample size was calculated from the study of Lee et al. (19).</text>
+    </sentence>
+    <sentence charOffset="11279-11468" id="S79" selection="7a">
+        <text xml:space="preserve">To detect a 35% change in aortic distensibility or an 11% change in plaque burden at 12 months to achieve a power of 0.8 and nominal p &lt; 0.05 (2-sided), 60 patients per group were required.</text>
+    </sentence>
+    <sentence charOffset="11469-11563" id="S80" selection="7a">
+        <text xml:space="preserve">To ensure 120 datasets with 12-month follow-up data, it was planned to randomize 190 patients.</text>
+    </sentence>
+    <sentence charOffset="11564-11675" id="S81" selection="12a">
+        <text xml:space="preserve">Given the exploratory nature of the study, corrections were not made for the multiplicity of statistical tests.</text>
+    </sentence>
+    <sentence charOffset="11676-11939" id="S82" selection="">
+        <text xml:space="preserve">As defined by the protocol, patients were included in the 3-month data analysis if they had no missing doses at 3 months; for the 12-month analysis, participants were required to have no missing doses by 3 months and 1 or no missing doses between 3 and 12 months.</text>
+    </sentence>
+    <sentence charOffset="11948-12140" id="S83" selection="12b">
+        <text xml:space="preserve">To compare treatment with placebo, we conducted an analysis of covariance on change from baseline, including the glycemic status as a factor and the baseline as a covariate at 3 and 12 months.</text>
+    </sentence>
+    <sentence charOffset="12141-12213" id="S84" selection="12a">
+        <text xml:space="preserve">All data were checked for normality and log-transformed, if appropriate.</text>
+    </sentence>
+    <sentence charOffset="12214-12490" id="S85" selection="12b">
+        <text xml:space="preserve">When a log transformation of the change from baseline was not possible because of negative values, an analysis of covariance was conducted on the log-transformed 3- and 12-month data, including glycemic index status as a factor and the log-transformed baseline as a covariate.</text>
+    </sentence>
+    <sentence charOffset="12491-12536" id="S86" selection="">
+        <text xml:space="preserve">We considered a p value &lt;0.05 as significant.</text>
+    </sentence>
+    <sentence charOffset="12537-12594" id="S87" selection="">
+        <text xml:space="preserve">Results are reported as means with 95% confidence limits.</text>
+    </sentence>
+    <sentence charOffset="12595-12846" id="S88" selection="7b">
+        <text xml:space="preserve">Two interim analyses were pre-specified, when n = 60 and all patients had completed 3 months of treatment, respectively, with the intention of halting the study if adverse measures were identified or for futility but not for interim positive efficacy.</text>
+    </sentence>
+    <sentence charOffset="12847-12957" id="S89" selection="7b">
+        <text xml:space="preserve">The interim analyses were performed by independent personnel not directly associated with the study’s conduct.</text>
+    </sentence>
+    <sentence charOffset="12966-13166" id="S90" selection="25">
+        <text xml:space="preserve">The study sponsor and funder (Novartis) participated in discussions about the design and conduct of this study; they also provided the drugs used in the trial and logistical support for its execution.</text>
+    </sentence>
+    <sentence charOffset="13167-13315" id="S91" selection="">
+        <text xml:space="preserve">The trial design, endpoints, and statistical analyses were largely derived from the academic investigators’ previously published studies 19, 23, 24.</text>
+    </sentence>
+    <sentence charOffset="13316-13452" id="S92" selection="">
+        <text xml:space="preserve">Following the final database lock, all patient data were analyzed independently by the Centre for Statistics in Medicine, Oxford (J.B.).</text>
+    </sentence>
+    <sentence charOffset="13453-13688" id="S93" selection="">
+        <text xml:space="preserve">The manuscript was drafted by the academic investigators (R.P.C., J.S.B., J.-C.T., and Z.A.F.), in accordance with the written agreement between Novartis and the academic institutions, and reviewed and revised by the writing committee.</text>
+    </sentence>
+    <sentence charOffset="13689-13788" id="S94" selection="">
+        <text xml:space="preserve">All authors had full access to all the data in the study and assume responsibility for publication.</text>
+    </sentence>
+    <sentence charOffset="13797-13894" id="S95" selection="12a">
+        <text xml:space="preserve">All statistical analyses were performed by using Stata 14 (StataCorp LP, College Station, Texas).</text>
+    </sentence>
+    <sentence charOffset="13918-13925" id="S96">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="13933-13960" id="S97" selection="13a,16,13b">
+        <text xml:space="preserve">Table 2 Subject Disposition</text>
+    </sentence>
+    <sentence charOffset="13963-13995" id="S98" selection="15">
+        <text xml:space="preserve">Table 1 Baseline Characteristics</text>
+    </sentence>
+    <sentence charOffset="13997-14109" id="S99" selection="15">
+        <text xml:space="preserve">Of 450 patients screened, 189 were randomized to receive either placebo (n = 94) or canakinumab 150 mg (n = 95).</text>
+    </sentence>
+    <sentence charOffset="14110-14437" id="S100" selection="15">
+        <text xml:space="preserve">The proportions of patients with diabetes, duration of diabetes, and glycemic control (estimated from HbA1c) were similar in the groups, and there was a high prevalence for each of hypertension, dyslipidemia, and background coronary artery disease (Table 1); the latter was slightly higher proportionately in the placebo group.</text>
+    </sentence>
+    <sentence charOffset="14438-14847" id="S101" selection="15,16">
+        <text xml:space="preserve">There was no significant difference between the canakinumab group compared with the placebo group for the overall rate of completion of the study, which was 70.5% with canakinumab versus 77.7% for placebo (risk ratio: 1.32; 95% confidence interval [CI]: 0.81 to 2.15; p = 0.26) or the rate of discontinuation due to adverse events (14.7% vs. 11.7%; risk ratio: 1.26; 95% CI: 0.60 to 2.63; p = 0.54) (Table 2).</text>
+    </sentence>
+    <sentence charOffset="14848-14913" id="S102" selection="13b">
+        <text xml:space="preserve">The most common cause for discontinuation was for adverse events.</text>
+    </sentence>
+    <sentence charOffset="14914-14974" id="S103" selection="19">
+        <text xml:space="preserve">A full list of adverse events is provided in Online Table 1.</text>
+    </sentence>
+    <sentence charOffset="14975-15089" id="S104" selection="13b">
+        <text xml:space="preserve">Seven patients withdrew consent, and 7 patients were excluded from analysis due to significant protocol deviation.</text>
+    </sentence>
+    <sentence charOffset="15097-15134" id="S105" selection="17a">
+        <text xml:space="preserve">Figure 1 Changes in Carotid Wall Area</text>
+    </sentence>
+    <sentence charOffset="15143-15246" id="S106" selection="">
+        <text xml:space="preserve">We evaluated 12-month change from baseline in wall area as an indicator of atherosclerosis progression.</text>
+    </sentence>
+    <sentence charOffset="15247-15360" id="S107" selection="17a">
+        <text xml:space="preserve">(A) In both left and right carotid arteries, canakinumab retarded progression of wall area compared with placebo.</text>
+    </sentence>
+    <sentence charOffset="15361-15551" id="S108" selection="17a">
+        <text xml:space="preserve">Consistent in magnitude and direction, the changes did not reach statistical significance in the mean carotid wall area (pre-stated endpoint) or in either carotid artery analyzed separately.</text>
+    </sentence>
+    <sentence charOffset="15552-15595" id="S109" selection="">
+        <text xml:space="preserve">Bars = means with 95% confidence intervals.</text>
+    </sentence>
+    <sentence charOffset="15596-15789" id="S110" selection="17a">
+        <text xml:space="preserve">(B) Within the same patient, there was a striking concordance of change in wall area between left- and right-sided arteries, which was maintained in both treatment groups (p &lt; 0.0001 for each).</text>
+    </sentence>
+    <sentence charOffset="15790-15864" id="S111" selection="">
+        <text xml:space="preserve">Upper right quadrant = patients with progression in both carotid arteries.</text>
+    </sentence>
+    <sentence charOffset="15867-15911" id="S112" selection="17a">
+        <text xml:space="preserve">Table 3 Change From Baseline in MRI Measures</text>
+    </sentence>
+    <sentence charOffset="15913-16038" id="S113" selection="">
+        <text xml:space="preserve">As a biomarker of atherosclerotic plaque burden, vessel wall area was quantified in the aorta and carotid arteries (Table 3).</text>
+    </sentence>
+    <sentence charOffset="16039-16159" id="S114" selection="17a">
+        <text xml:space="preserve">There was no statistically significant difference in mean carotid wall area between these 2 groups at either time point.</text>
+    </sentence>
+    <sentence charOffset="16160-16295" id="S115" selection="15">
+        <text xml:space="preserve">Baseline mean carotid wall areas were 27.7 ± 9.79 mm2 and 27.1 ± 9.6 mm2 (p = NS) for the canakinumab and placebo groups, respectively.</text>
+    </sentence>
+    <sentence charOffset="16296-16408" id="S116" selection="17a">
+        <text xml:space="preserve">Change in mean carotid artery wall area was –3.37 mm2 (p = 0.06) after 12 months for canakinumab versus placebo.</text>
+    </sentence>
+    <sentence charOffset="16409-16652" id="S117" selection="17a">
+        <text xml:space="preserve">There was an increase (12 months vs. baseline) in wall area for each of the left and right carotid arteries (and mean of the left and right) with placebo but, on average, neither progression nor regression in the canakinumab group (Figure 1A).</text>
+    </sentence>
+    <sentence charOffset="16653-16794" id="S118" selection="">
+        <text xml:space="preserve">Change from baseline at 12 months was compared for individual patients between the left and right carotid arteries for both treatment groups.</text>
+    </sentence>
+    <sentence charOffset="16795-16966" id="S119" selection="17a">
+        <text xml:space="preserve">In each, there were strong correlations between changes in the left and right carotid arteries for canakinumab and placebo, respectively (p &lt; 0.0001 for both) (Figure 1B).</text>
+    </sentence>
+    <sentence charOffset="16967-17030" id="S120" selection="17a">
+        <text xml:space="preserve">The vessel lumen area was not changed by canakinumab treatment.</text>
+    </sentence>
+    <sentence charOffset="17031-17190" id="S121" selection="17a">
+        <text xml:space="preserve">There was no statistically significant difference in wall area between canakinumab treatment and placebo at any of the 3 aortic sites at either 3 or 12 months.</text>
+    </sentence>
+    <sentence charOffset="17197-17281" id="S122" selection="">
+        <text xml:space="preserve">Aortic distensibility was calculated from measurements made at 3 sites in the aorta.</text>
+    </sentence>
+    <sentence charOffset="17282-17543" id="S123" selection="17a">
+        <text xml:space="preserve">There were no statistically significant differences between canakinumab treatment and placebo for change in aortic distensibility, and no significant changes occurred in systolic or diastolic blood pressure at either 3 or 12 months of treatment versus baseline.</text>
+    </sentence>
+    <sentence charOffset="17544-17660" id="S124" selection="17a">
+        <text xml:space="preserve">There were also no significant differences in measures of PWV between these 2 groups at either time point (Table 3).</text>
+    </sentence>
+    <sentence charOffset="17668-17748" id="S125" selection="18">
+        <text xml:space="preserve">Table 4 Blood Measures for Lipids, Diabetes Control, and Markers of Inflammation</text>
+    </sentence>
+    <sentence charOffset="17751-17800" id="S126" selection="18">
+        <text xml:space="preserve">Figure 2 Changes in Lipids and C-Reactive Protein</text>
+    </sentence>
+    <sentence charOffset="17809-18026" id="S127" selection="">
+        <text xml:space="preserve">Absolute level or change from baseline at 3 and 12 months are shown for (A) C-reactive protein; (B) lipoprotein(a) (Lp[a]); (C) total cholesterol; (D) high-density lipoprotein (HDL) cholesterol; and (E) triglycerides.</text>
+    </sentence>
+    <sentence charOffset="18028-18235" id="S128" selection="18">
+        <text xml:space="preserve">Compared with placebo, canakinumab reduced hs-CRP at 3 months (geometric mean ratio [GMR]: 0.568; 95% CI: 0.436 to 0.740; p &lt; 0.0001) and 12 months (GMR: 0.56; 95% CI: 0.414 to 0.758; p = 0.0002) (Figure 2).</text>
+    </sentence>
+    <sentence charOffset="18236-18354" id="S129" selection="18">
+        <text xml:space="preserve">Similarly, IL-6 was reduced by canakinumab at the 3-month time point (GMR: 0.580; 95% CI: 0.483 to 0.697; p &lt; 0.0001).</text>
+    </sentence>
+    <sentence charOffset="18355-18486" id="S130" selection="18">
+        <text xml:space="preserve">Neither serum amyloid A nor adiponectin changed significantly in response to canakinumab treatment compared with placebo (Table 4).</text>
+    </sentence>
+    <sentence charOffset="18493-18758" id="S131" selection="18">
+        <text xml:space="preserve">In this study population of patients with T2DM or IGT and near-universal statin use, canakinumab had no effect on either plasma low-density lipoprotein or high-density lipoprotein cholesterol levels compared with placebo at either of the 3- or 12-month time points.</text>
+    </sentence>
+    <sentence charOffset="18759-19026" id="S132" selection="18">
+        <text xml:space="preserve">Levels of total plasma cholesterol were mildly elevated from baseline in the canakinumab-treated patients at 3 months compared with the placebo group (GMR: 1.120; 95% CI: 1.050 to 1.195; p = 0.0008) but not at 12 months (GMR: 1.084; 95% CI: 0.991 to 1.185; p = 0.08).</text>
+    </sentence>
+    <sentence charOffset="19027-19376" id="S133" selection="18">
+        <text xml:space="preserve">The elevation in total cholesterol level most likely reflected an elevation in triglyceride-rich lipoproteins, given the coinciding elevation in triglyceride level that also accompanied canakinumab treatment compared with placebo at 3 months (GMR: 1.21; 95% CI: 1.082 to 1.358; p = 0.001) and 12 months (GMR: 1.20; 95% CI: 1.046 to 1.380; p = 0.01).</text>
+    </sentence>
+    <sentence charOffset="19383-19455" id="S134" selection="18">
+        <text xml:space="preserve">Lipoprotein(a) levels were reduced by canakinumab compared with placebo.</text>
+    </sentence>
+    <sentence charOffset="19456-19663" id="S135" selection="18">
+        <text xml:space="preserve">Changes from baseline values were as follows: at 3 months, mean change was –3.719 mg/dl (95% CI: –6.809 to –0.628; p = 0.02); at 12 months, mean change was –4.300 mg/dl (95% CI: –8.052 to –0.548; p = 0.025).</text>
+    </sentence>
+    <sentence charOffset="19670-19973" id="S136" selection="18">
+        <text xml:space="preserve">In this population of patients with T2DM (86%) or IGT (14%) and with median baseline HbA1c levels &lt;7%, canakinumab also had no significant effect compared with placebo on fasting blood glucose, HbA1c, HOMA–insulin resistance or HOMA-β, or 2-h glucose, obtained as part of an oral glucose tolerance test.</text>
+    </sentence>
+    <sentence charOffset="19981-19993" id="S137" selection="19">
+        <text xml:space="preserve">Table 5 MACE</text>
+    </sentence>
+    <sentence charOffset="19995-20231" id="S138" selection="19">
+        <text xml:space="preserve">Major adverse cardiovascular events occurred in 9.0% of patients, with no significant difference between the active treatment group (11%) compared with the placebo group (7%) (risk ratio: 1.41; 95% CI: 0.56 to 3.56; p = 0.46) (Table 5).</text>
+    </sentence>
+    <sentence charOffset="20232-20289" id="S139" selection="19">
+        <text xml:space="preserve">A full list of adverse events is given in Online Table 1.</text>
+    </sentence>
+    <sentence charOffset="20306-20316" id="S140">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="20323-20466" id="S141" selection="">
+        <text xml:space="preserve">Inflammation contributes to the pathogenesis of vascular dysfunction and atherogenesis, as well as to the complications of atherosclerosis (1).</text>
+    </sentence>
+    <sentence charOffset="20467-20601" id="S142" selection="">
+        <text xml:space="preserve">Data from preclinical studies have suggested that inhibiting IL-1β may directly affect atherosclerosis and vascular inflammation (10).</text>
+    </sentence>
+    <sentence charOffset="20609-20657" id="S143" selection="">
+        <text xml:space="preserve">Central Illustration Effects of IL-1β Inhibition</text>
+    </sentence>
+    <sentence charOffset="20666-20741" id="S144" selection="">
+        <text xml:space="preserve">Interleukin (IL)-1β seems important in the pathogenesis of atherosclerosis.</text>
+    </sentence>
+    <sentence charOffset="20742-21037" id="S145" selection="22">
+        <text xml:space="preserve">In this placebo-controlled trial in patients with evidence of clinical atherosclerosis and either type 2 diabetes mellitus or impaired glucose tolerance, the IL-1β inhibitor canakinumab reduced measures of inflammation but did not significantly affect measures of vascular structure or function.</text>
+    </sentence>
+    <sentence charOffset="21038-21068" id="S146" selection="">
+        <text xml:space="preserve">LDL = low-density lipoprotein.</text>
+    </sentence>
+    <sentence charOffset="21070-21251" id="S147" selection="">
+        <text xml:space="preserve">In the present randomized clinical trial of IL-1β inhibition in patients with T2DM or IGT, canakinumab 150 mg monthly reduced blood levels of IL-6 and hs-CRP (Central Illustration).</text>
+    </sentence>
+    <sentence charOffset="21252-21352" id="S148" selection="22">
+        <text xml:space="preserve">Similar reductions in inflammatory indexes have been reported previously in patients with T2DM (20).</text>
+    </sentence>
+    <sentence charOffset="21353-21484" id="S149" selection="22">
+        <text xml:space="preserve">Significantly, given the target population, the present study showed that this effect persists even with near-universal statin use.</text>
+    </sentence>
+    <sentence charOffset="21485-21573" id="S150" selection="">
+        <text xml:space="preserve">Canakinumab had no effect on fasting glucose, HbA1c, or measures of insulin sensitivity.</text>
+    </sentence>
+    <sentence charOffset="21580-21706" id="S151" selection="">
+        <text xml:space="preserve">In common with earlier studies 19, 23, 24, atherosclerosis burden was quantified in the common carotid arteries and the aorta.</text>
+    </sentence>
+    <sentence charOffset="21707-21866" id="S152" selection="22">
+        <text xml:space="preserve">We found no statistically significant effect of 12 months’ treatment with canakinumab on magnetic resonance–derived measures of vascular structure or function.</text>
+    </sentence>
+    <sentence charOffset="21867-22047" id="S153" selection="22">
+        <text xml:space="preserve">However, in each of the common carotid arteries individually, and in the combined vessel average, there was a suggestion of possible retarded progression of atherosclerotic burden.</text>
+    </sentence>
+    <sentence charOffset="22054-22218" id="S154" selection="">
+        <text xml:space="preserve">Because atherosclerosis is a systemic disease, we performed a further analysis, comparing changes in the right and left carotid arteries within individual patients.</text>
+    </sentence>
+    <sentence charOffset="22219-22434" id="S155" selection="22">
+        <text xml:space="preserve">There were strong relationships between changes in the left- versus right-sided vessels evident in both the canakinumab and the placebo groups but with a tendency toward progression bilaterally in the placebo group.</text>
+    </sentence>
+    <sentence charOffset="22435-22576" id="S156" selection="">
+        <text xml:space="preserve">As detailed earlier, analyses of wall area were conducted by operators who were blinded to the timing and treatment allocation of the images.</text>
+    </sentence>
+    <sentence charOffset="22577-22689" id="S157" selection="">
+        <text xml:space="preserve">Moreover, measurements were made separately on individual slices, but the data presented are for whole arteries.</text>
+    </sentence>
+    <sentence charOffset="22690-22823" id="S158" selection="22">
+        <text xml:space="preserve">Given this high level of analytical stringency, these consistent correlations supported the technical robustness of the measurements.</text>
+    </sentence>
+    <sentence charOffset="22830-23033" id="S159" selection="">
+        <text xml:space="preserve">In common with previous studies, we chose to quantify vessel wall area in the tubular carotid arteries because they are less susceptible to error in serial measurements due to “volume averaging” effects.</text>
+    </sentence>
+    <sentence charOffset="23034-23191" id="S160" selection="">
+        <text xml:space="preserve">Previously described techniques allow plaque lipid quantification with the use of T2 mapping, but these were not current at the time of protocol design (27).</text>
+    </sentence>
+    <sentence charOffset="23192-23369" id="S161" selection="">
+        <text xml:space="preserve">Lipid elements may be the most readily mobilized components of atherosclerotic plaque, although the mechanisms by which IL-1β inhibition might affect plaque lipid are not clear.</text>
+    </sentence>
+    <sentence charOffset="23370-23601" id="S162" selection="">
+        <text xml:space="preserve">Vascular 18fludeoxyglucose positron emission tomography has been used effectively to evaluate carotid and aortic plaque macrophage activity in clinical trials, and this test may have been an alternative imaging modality 23, 28, 29.</text>
+    </sentence>
+    <sentence charOffset="23602-23730" id="S163" selection="">
+        <text xml:space="preserve">However, changes in macrophage function are associated with changes in substrate utilization and mode of energy generation (30).</text>
+    </sentence>
+    <sentence charOffset="23731-23988" id="S164" selection="">
+        <text xml:space="preserve">Therefore, using 18fludeoxyglucose positron emission tomography to identify macrophages on the basis of their glycolytic activity may provide only partial insight into the relevant biology with respect to IL-1β inhibition, and could even be misleading (31).</text>
+    </sentence>
+    <sentence charOffset="23995-24063" id="S165" selection="">
+        <text xml:space="preserve">This study focused on changes in vessel wall structure and function.</text>
+    </sentence>
+    <sentence charOffset="24064-24214" id="S166" selection="">
+        <text xml:space="preserve">In doing so, we intended to obtain insights into the possible effects of canakinumab on different manifestations, or stages, of vessel wall pathology.</text>
+    </sentence>
+    <sentence charOffset="24215-24302" id="S167" selection="22">
+        <text xml:space="preserve">Despite this expansive approach, we observed no significant effects on the vessel wall.</text>
+    </sentence>
+    <sentence charOffset="24303-24510" id="S168" selection="22">
+        <text xml:space="preserve">Given the discordance with animal studies, one should also consider the possibility that previously observed beneficial effects of IL-1β inhibition need not have been realized directly at the arterial level.</text>
+    </sentence>
+    <sentence charOffset="24511-24646" id="S169" selection="">
+        <text xml:space="preserve">Accumulating evidence suggests roles for peripheral monocytes in accelerating atherosclerosis in response to inflammatory stimuli (32).</text>
+    </sentence>
+    <sentence charOffset="24647-24838" id="S170" selection="">
+        <text xml:space="preserve">Indeed, IL-1β enhances hematopoietic stem cell proliferation and leukocyte production after acute myocardial infarction in mice and is reduced by administration of anti–IL-1β antibodies (33).</text>
+    </sentence>
+    <sentence charOffset="24845-25304" id="S171" selection="">
+        <text xml:space="preserve">In mice, most studies of IL-1β inhibition have shown reduced atherosclerosis and/or plaque inflammation; however, 1 study found that inactivation of IL-1 signaling through loss of the IL-1 receptor type 1 in apolipoprotein E–/– mice promoted multiple indexes of atherosclerotic plaque instability, including reduced plaque smooth muscle cell content, reduced plaque collagen content, and impaired outward vessel remodeling, leading to reduced lumen size (34).</text>
+    </sentence>
+    <sentence charOffset="25305-25435" id="S172" selection="22">
+        <text xml:space="preserve">Our study in humans found no evidence of changes in aortic characteristics according to distensibility measures at multiple sites.</text>
+    </sentence>
+    <sentence charOffset="25436-25645" id="S173" selection="">
+        <text xml:space="preserve">In theory, it would be possible for changes in lumen area/outward remodeling to be present despite no change in wall area, because wall area is derived by subtracting the lumen area from the total vessel area.</text>
+    </sentence>
+    <sentence charOffset="25646-25766" id="S174" selection="">
+        <text xml:space="preserve">Examining these measures individually provides information on tendencies for luminal constriction or outward remodeling.</text>
+    </sentence>
+    <sentence charOffset="25767-25873" id="S175" selection="">
+        <text xml:space="preserve">In human atherosclerosis, we found no change in lumen area or adverse effect on outward vessel remodeling.</text>
+    </sentence>
+    <sentence charOffset="25880-25989" id="S176" selection="">
+        <text xml:space="preserve">Canakinumab had no effect on fasting glucose, HbA1c, or measures of insulin sensitivity in the present study.</text>
+    </sentence>
+    <sentence charOffset="25990-26088" id="S177" selection="22">
+        <text xml:space="preserve">This outcome does not agree with the findings of Larsen et al. (16), who used the IL-1RA anakinra.</text>
+    </sentence>
+    <sentence charOffset="26089-26305" id="S178" selection="22">
+        <text xml:space="preserve">The apparent discrepancy may reflect better glycemic control at baseline in our study, in which &gt;50% of patients had HbA1c levels &lt;7% compared with a mean HbA1c level &gt;8.5% in the treatment arm of the anakinra trial.</text>
+    </sentence>
+    <sentence charOffset="26306-26442" id="S179" selection="22">
+        <text xml:space="preserve">However, canakinumab administration did result in an increase in plasma triglyceride levels, as reported previously for this agent (20).</text>
+    </sentence>
+    <sentence charOffset="26443-26481" id="S180" selection="">
+        <text xml:space="preserve">The underlying mechanism is not clear.</text>
+    </sentence>
+    <sentence charOffset="26482-26620" id="S181" selection="">
+        <text xml:space="preserve">Other treatments targeting inflammation have also been associated with elevated levels of very-low-density lipoprotein triglycerides (35).</text>
+    </sentence>
+    <sentence charOffset="26621-26773" id="S182" selection="">
+        <text xml:space="preserve">There was also a marginal but statistically significant elevation in total cholesterol levels, with an increase by 18.5 mg/dl after 3 months’ treatment.</text>
+    </sentence>
+    <sentence charOffset="26774-26862" id="S183" selection="">
+        <text xml:space="preserve">Conversely, lipoprotein(a) was significantly reduced by canakinumab at both time points.</text>
+    </sentence>
+    <sentence charOffset="26878-26895" id="S184" selection="">
+        <text xml:space="preserve">Study limitations</text>
+    </sentence>
+    <sentence charOffset="26904-27064" id="S185" selection="20">
+        <text xml:space="preserve">This study did not evaluate atherosclerosis at the carotid bifurcation, where the burden of disease is often greatest, nor did it quantify plaque lipid content.</text>
+    </sentence>
+    <sentence charOffset="27065-27214" id="S186" selection="20">
+        <text xml:space="preserve">Although MRI scans provide highly reproducible measures of plaque structure and vessel function, they offer no direct measure of plaque inflammation.</text>
+    </sentence>
+    <sentence charOffset="27215-27346" id="S187" selection="">
+        <text xml:space="preserve">It is possible for drugs to markedly affect plaque biology without altering plaque size, particularly on short-term follow-up (36).</text>
+    </sentence>
+    <sentence charOffset="27347-27437" id="S188" selection="20">
+        <text xml:space="preserve">In this study, no attempt was made to select subjects on the basis of inflammatory status.</text>
+    </sentence>
+    <sentence charOffset="27438-27565" id="S189" selection="">
+        <text xml:space="preserve">More refined patient selection may enhance the effectiveness of drugs that are directed toward specific processes and pathways.</text>
+    </sentence>
+    <sentence charOffset="27566-27784" id="S190" selection="20">
+        <text xml:space="preserve">Finally, we cannot exclude the possibility that the dose of canakinumab was not high enough to generate a maximal effect on atherosclerotic burden, although the dose was sufficient to lower both hs-CRP and IL-6 levels.</text>
+    </sentence>
+    <sentence charOffset="27793-27923" id="S191" selection="">
+        <text xml:space="preserve">There were no significant differences in adverse events between the 2 groups, nor were any unexpected adverse outcomes identified.</text>
+    </sentence>
+    <sentence charOffset="27924-28021" id="S192" selection="20">
+        <text xml:space="preserve">However, this small study cannot thoroughly or systematically evaluate the safety of canakinumab.</text>
+    </sentence>
+    <sentence charOffset="28022-28077" id="S193" selection="22">
+        <text xml:space="preserve">The question of clinical efficacy clearly remains open.</text>
+    </sentence>
+    <sentence charOffset="28078-28384" id="S194" selection="">
+        <text xml:space="preserve">This question will be answered by the Phase III trial, CANTOS, which randomized &gt;10,000 patients with hs-CRP ≥2 mg/l to treatment in a secondary prevention population; the goal is to evaluate the composite primary endpoint of nonfatal myocardial infarction, nonfatal stroke, or cardiovascular death 20, 21.</text>
+    </sentence>
+    <sentence charOffset="28408-28419" id="S195">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="28426-28572" id="S196" selection="22">
+        <text xml:space="preserve">In patients with T2DM and established cardiovascular disease, canakinumab reduced markers of inflammation (hs-CRP and IL-6) compared with placebo.</text>
+    </sentence>
+    <sentence charOffset="28573-28695" id="S197" selection="">
+        <text xml:space="preserve">Treatment with canakinumab also increased levels of triglycerides and total cholesterol but reduced lipoprotein(a) levels.</text>
+    </sentence>
+    <sentence charOffset="28696-28852" id="S198" selection="22">
+        <text xml:space="preserve">Despite measurable effects on systemic markers of inflammation, there was no statistically significant effect on measures of vascular structure or function.</text>
+    </sentence>
+    <sentence charOffset="28853-28988" id="S199" selection="22">
+        <text xml:space="preserve">Effects of canakinumab on plaque inflammation or on leukocyte function elsewhere may be undetectable with current imaging technologies.</text>
+    </sentence>
+    <sentence charOffset="28989-29337" id="S200" selection="">
+        <text xml:space="preserve">The results of this Phase II trial leave open the important question of clinical efficacy, which will be addressed by the multinational Phase III trial CANTOS.PerspectivesCOMPETENCY IN MEDICAL KNOWLEDGE: Markers of inflammation such as C-reactive protein and serum amyloid A are related to cardiovascular prognosis in patients with atherosclerosis.</text>
+    </sentence>
+    <sentence charOffset="29338-29655" id="S201" selection="">
+        <text xml:space="preserve">Canakinumab, a monoclonal antibody that inhibits IL-1β, reduces these markers without measurable effects on arterial structure or function.TRANSLATIONAL OUTLOOK: The therapeutic efficacy of canakinumab in patients with vascular disease and T2DM or glucose intolerance will be assessed in a multicenter clinical trial.</text>
+    </sentence>
+    <sentence charOffset="29665-29676" id="S202">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="29684-29692" id="S203" selection="">
+        <text xml:space="preserve">Appendix</text>
+    </sentence>
+    <sentence charOffset="29714-29751" id="S204" selection="">
+        <text xml:space="preserve">Online Data               Online Data</text>
+    </sentence>
+    <sentence charOffset="29773-29788" id="S205" selection="">
+        <text xml:space="preserve">Acknowledgments</text>
+    </sentence>
+    <sentence charOffset="29795-29919" id="S206" selection="">
+        <text xml:space="preserve">The authors acknowledge with gratitude the contributions of Dr. Kimberley Bailey, Dr. Peter Bernhardt, Dr. Thomas Forst, Ms.</text>
+    </sentence>
+    <sentence charOffset="29920-29937" id="S207" selection="">
+        <text xml:space="preserve">Megan Gaston, Ms.</text>
+    </sentence>
+    <sentence charOffset="29938-30049" id="S208" selection="">
+        <text xml:space="preserve">Jamie Hutchinson, Dr. Tomas Jax, Dr. Alistair Lindsay, Dr. Nirmala Nanguneri, Dr. Eli Rothj, and Dr. Dain Wahl.</text>
+    </sentence>
+    <sentence charOffset="30071-30104" id="S209" selection="25">
+        <text xml:space="preserve">This work was funded by Novartis.</text>
+    </sentence>
+    <sentence charOffset="30105-30270" id="S210" selection="">
+        <text xml:space="preserve">Dr. Choudhury has received honoraria/consultancy fees from Amgen, AstraZeneca, Boehringer Ingelheim, Isis Pharmaceuticals, GlaxoSmithKline, Merck, Roche, and Sanofi.</text>
+    </sentence>
+    <sentence charOffset="30271-30505" id="S211" selection="25">
+        <text xml:space="preserve">Dr. Mani has received grant support from Novartis, Daiichi-Sankyo, Amgen, and Aegerion; has received honoraria from Aegerion; and he has served as a consultant for MedLion Inc. Dr. McLaughlin has received research support from AbbVie.</text>
+    </sentence>
+    <sentence charOffset="30506-30510" id="S212" selection="">
+        <text xml:space="preserve">Drs.</text>
+    </sentence>
+    <sentence charOffset="30511-30598" id="S213" selection="">
+        <text xml:space="preserve">Basson, Svensson, Zhang, and Yates are employees of and hold equity shares in Novartis.</text>
+    </sentence>
+    <sentence charOffset="30599-30814" id="S214" selection="25">
+        <text xml:space="preserve">Dr. Tardif has received research support from Novartis, AstraZeneca, Merck, Eli Lilly, Sanofi, DalCor, and Pharmascience; has received honoraria from Servier, Thrasos and DalCor; and holds equity interest in DalCor.</text>
+    </sentence>
+    <sentence charOffset="30815-30915" id="S215" selection="">
+        <text xml:space="preserve">Dr. Schecter is an employee of Baxalta and Shire; during the study; and was an employee of Novartis.</text>
+    </sentence>
+    <sentence charOffset="30916-30970" id="S216" selection="25">
+        <text xml:space="preserve">Dr. Fayad has received research support from Novartis.</text>
+    </sentence>
+    <sentence charOffset="30971-30976" id="S217" selection="">
+        <text xml:space="preserve">Prof.</text>
+    </sentence>
+    <sentence charOffset="30977-31051" id="S218" selection="">
+        <text xml:space="preserve">Choudhury was a Wellcome Trust Senior Research Fellow in Clinical Science.</text>
+    </sentence>
+    <sentence charOffset="31052-31211" id="S219" selection="">
+        <text xml:space="preserve">Dr. Tardif holds the Canada Research Chair in translational and personalized medicine and the University of Montreal endowed research chair in atherosclerosis.</text>
+    </sentence>
+    <sentence charOffset="31212-31326" id="S220" selection="25">
+        <text xml:space="preserve">This work was also supported by the National Institute for Health Research Oxford Biomedical Research Centre (Drs.</text>
+    </sentence>
+    <sentence charOffset="31327-31367" id="S221" selection="">
+        <text xml:space="preserve">Choudhury, Biasiolli, and Robson and Ms.</text>
+    </sentence>
+    <sentence charOffset="31368-31375" id="S222" selection="">
+        <text xml:space="preserve">Birks).</text>
+    </sentence>
+    <sentence charOffset="31376-31491" id="S223" selection="">
+        <text xml:space="preserve">All other authors have reported that they have no relationships relevant to the contents of this paper to disclose.</text>
+    </sentence>
+    <sentence charOffset="31492-31546" id="S224" selection="">
+        <text xml:space="preserve">Chun Yuan, PhD, served as Guest Editor for this paper.</text>
+    </sentence>
+    <sentence charOffset="31569-31655" id="S225" selection="">
+        <text xml:space="preserve">Listen to this manuscript's audio summary by JACC Editor-in-Chief Dr. Valentin Fuster.</text>
+    </sentence>
+    <sentence charOffset="31678-31823" id="S226" selection="">
+        <text xml:space="preserve">For detailed information regarding imaging protocols and analysis as well as a supplemental table, please see the online version of this article.</text>
+    </sentence>
+    <section textSpan="0-113" title="Title" titleSpan="0-5"/>
+    <section textSpan="114-2558" title="Abstract" titleSpan="114-122">
+        <section textSpan="132-366" title="Background" titleSpan="143-153"/>
+        <section textSpan="375-596" title="Objectives" titleSpan="386-396"/>
+        <section textSpan="605-931" title="Methods" titleSpan="616-623"/>
+        <section textSpan="940-2073" title="Results" titleSpan="951-958"/>
+        <section textSpan="2082-2550" title="Conclusions" titleSpan="2093-2104"/>
+    </section>
+    <section textSpan="6261-13906" title="Methods" titleSpan="6268-6275">
+        <section textSpan="7007-8447" title="Patients" titleSpan="7016-7024"/>
+        <section textSpan="8454-10074" title="Imaging procedures" titleSpan="8463-8481"/>
+        <section textSpan="10081-10540" title="Safety assessments" titleSpan="10090-10108"/>
+        <section textSpan="10547-11172" title="Endpoints" titleSpan="10556-10565"/>
+        <section textSpan="11179-13901" title="Statistical analyses" titleSpan="11188-11208"/>
+    </section>
+    <section textSpan="13911-20294" title="Results" titleSpan="13918-13925"/>
+    <section textSpan="20299-28396" title="Discussion" titleSpan="20306-20316">
+        <section textSpan="26869-28391" title="Study limitations" titleSpan="26878-26895"/>
+    </section>
+    <section textSpan="28401-29660" title="Conclusions" titleSpan="28408-28419"/>
+    <section textSpan="29665-31836" title="Back matter" titleSpan="29665-29676"/>
+</document>

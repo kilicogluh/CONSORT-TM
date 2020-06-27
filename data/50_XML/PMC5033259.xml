@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC5033259" note="">
+    <text xml:space="preserve">Title
+Lorcaserin Administration Decreases Activation of Brain Centers in Response to Food Cues and These Emotion- and Salience-Related Changes Correlate With Weight Loss Effects: A 4-Week-Long Randomized, Placebo-Controlled, Double-Blind Clinical Trial
+Abstract
+
+        Lorcaserin is a serotonin 5-hydroxytryptamine 2c receptor agonist effective in treating obesity. Studies in rodents have shown that lorcaserin acts in the brain to exert its weight-reducing effects, but this has not yet been studied in humans. We performed a randomized, placebo-controlled, double-blind trial with 48 obese participants and used functional MRI to study the effects of lorcaserin on the brain. Subjects taking lorcaserin had decreased brain activations in the attention-related parietal and visual cortices in response to highly palatable food cues at 1 week in the fasting state and in the parietal cortex in response to any food cues at 4 weeks in the fed state. Decreases in emotion- and salience-related limbic activity, including the insula and amygdala, were attenuated at 4 weeks. Decreases in caloric intake, weight, and BMI correlated with activations in the amygdala, parietal, and visual cortices at baseline. These data suggest that lorcaserin exerts its weight-reducing effects by decreasing attention-related brain activations to food cues (parietal and visual cortices) and emotional and limbic activity (insula, amygdala). Results indicating that baseline activation of the amygdala relates to increased efficacy suggest that lorcaserin would be of particular benefit to emotional eaters.
+      
+
+
+    
+      Introduction
+      Obesity is a growing problem in industrialized countries, where approximately one-third of the population is obese, and has been associated with a number of health problems, including diabetes, heart disease, different types of cancer, and decreased life expectancy (1). Thus, there is a clear need for the development of new treatments for obesity. One such recent treatment is lorcaserin, a selective serotonin 5-hydroxytryptamine 2c (5-HT2c) receptor agonist.
+      Previous use of serotonergic agonists, such as fenfluramine, was linked to nonselective activation of 5-HT2 receptors that led to various cardiac problems (2). However, because a 5-HT2c receptor antagonist blocked the weight-reducing effects of fenfluramine, the more selective activation of 5-HT2c receptors by lorcaserin would produce this antiobesity benefit seemingly without cardiac risk (3). Knockout mice for the 5-HT2c receptors have a higher body weight as a result of abnormal food consumption, further confirming the role of this receptor in obesity (4). These animals exhibit changes in metabolic hormones, developing insulin and leptin resistance and, moreover, impaired glucose tolerance in addition to prolonged meal duration and frequency (4,5). A similar mechanism may contribute to the significant improvement in the levels of fasting serum glucose, total cholesterol, triglycerides, and blood pressure seen in patients treated with lorcaserin (6–8).
+      5-HT2c receptors are located almost exclusively in the central nervous system (CNS), including the thalamus and hypothalamus, areas that are known to be involved in feeding regulation, but also in more cortical areas involved in higher thought and top-down processes (9–11). Activation of 5-HT2c receptors in the rodent brain, predominantly in the hypothalamus, initiates a cascade that stimulates release of α-melanocortin−stimulating hormone, which acts on melanocortin-4 receptors to regulate appetite (12–14). This pathway may also activate cortical areas, because there is evidence of melanocortin-4 receptors acting in the cortex of mice to reduce food intake (15,16).
+      The exact mechanisms underlying weight loss from lorcaserin have not yet been fully elucidated in humans. Several large studies have demonstrated that lorcaserin is an effective weight-loss agent, with total body mass loss averaging greater than 5% (6,17), but significant interindividual variability exists in the magnitude of the weight lost. Because 5-HT2c receptors are a novel target for obesity, further work is required to determine whether the weight-reducing effects of lorcaserin are caused by actions in the CNS, and if yes, which specific brain centers are involved. Furthermore, whether there are CNS centers whose activation may predict which individuals respond the most to lorcaserin, and thus provide additional clinical insight, is not yet known.
+      We performed a randomized, placebo-controlled, double-blind study to examine potential CNS targets for lorcaserin by using functional MRI (fMRI) to study how lorcaserin alters brain center activations in response to food images in the short-term (1 week) and longer-term (4 weeks). In addition, we explored how individual differences in the brain’s response to food cues at baseline may predict the magnitude of future weight loss and decreased caloric intake with lorcaserin therapy.
+    
+    
+      Research Design and Methods
+      Forty-eight men and women provided written informed consent to participate in this randomized, placebo-controlled, double-blind study (full details are available in Supplementary Fig. 1). Participants first had a screening visit at the Beth Israel Deaconess Medical Center Clinical Research Center to ensure that they met the inclusion and exclusion criteria for the study. No prior studies with lorcaserin in the human brain existed on which to base power calculations. We thus enrolled 48 subjects, with an a priori plan to replace up to 8 subjects that would drop out (assuming up to 20% attrition). Sample size was selected to be similar to prior randomized trials of other pharmaceuticals studied using similar neuroimaging protocols. With 80% power and 2 groups of 20 participants, we estimated that we would be able to detect an effect size difference of 0.9 at the α = 0.05 level.
+      After the screening visit, participants were randomized 1:1 to receive oral lorcaserin (10 mg, twice daily) or placebo, which was identical in appearance to lorcaserin. Randomization tables were produced by the Harvard Catalyst biostatisticians with SAS using blocks of four and delivered directly to the Research Pharmacy for use such that study staff would remain blinded. The study took place over 4 weeks; participants visited the Clinical Research Center on weeks 0, 1, 2, and 4. The first study visit was a baseline overnight visit, which consisted of at least a 12-h fast, followed by a blood draw, vital signs, physical examination, anthropometry (waist and hip measurements), resting metabolic rate (measured with SensorMedics Vmax Spectra), two fMRI scans (one in the fasting state and another in the fed state), and neurocognitive testing. In addition, at each visit, all participants were given the standard of care for obesity, where they met with a registered dietitian to be counseled about weight loss, with the recommendation of decreasing caloric intake by 500 kcal/day and exercising 30 min 3 days/week. Patients were also given the Modified Scale for Suicidal Ideation (MSSI) by a physician at each visit to ensure they did not develop suicidal thoughts, because manipulating serotonin levels could potentially lead to changes in mood and suicidal ideation. They returned after 1 and 4 weeks for the same overnight visits.
+      Participants also attended an outpatient follow-up visit at 2 weeks, which consisted of a physical examination and blood draw. In between visits, patients continued to take their medication at home and kept a detailed food diary, which was discussed with the patients at each visit and analyzed by registered dietitians. Fasting blood was drawn by venipuncture by a registered nurse. Samples were analyzed by LabCorp, a Clinical Laboratory Improvement Amendments–certified laboratory.
+      
+        Data Analysis
+        Data were analyzed using SPSS 19 software and first summarized with descriptive statistics. Data for categorical variables are presented as numbers and/or percentages. Kolmogorov-Smirnov test and frequency histograms were used to check the normality of distribution of the continuous variables. Repeated-measures ANOVA were performed across time points with lorcaserin or placebo as a between-subjects factor. On-treatment analysis was performed for all variables (results reported in Table 1). Intention-to-treat analysis was done with the anthropometric data only, to confirm on-treatment analysis, using the last observation carried forward method (results reported in Table 2).
+         Table 1 Results from study visits over 1 month for the lorcaserin (n = 17) and placebo (n = 19) groups 
+         Table 2 Results from study visits over 1 month for the lorcaserin (n = 24) and placebo (n = 24) groups using intent-to-treat methods 
+      
+      
+        fMRI Protocol and Analysis
+        Participants viewed food and nonfood items within a 3-Tesla GE MRI scanner at the MRI center at Beth Israel Deaconess Medical Center in the fasting and fed states with an InVivo Therapeutics 8-channel high-definition receiver head coil. Scanning was done using a protocol similar to that previously described (18). First, in each of the scanning sessions, a T1-weighted magnetization prepared rapid gradient echo structural MRI was acquired. Next, five 7-min gradient-echo T2-weighted echo planar images depicting blood oxygenation level–dependent (BOLD) contrast were acquired from noncontiguous near axial planes (repetition time = 3.5 s, echo time = 25 ms, in-plane resolution = 2.5 × 2.5 mm, matrix size = 96 × 96, field of view = 24 × 24 cm, voxel bandwidth = 83.33 kHz, slice thickness = 3 mm). E-Prime software controlled stimulus presentation. Images were presented in blocks, and each block was presented in a counterbalanced order and interspersed with periods of visual fixation.
+        The fMRI protocol consisted of five runs, during which subjects viewed blocks of highly desirable (high-calorie or high-fat images such as cakes, onion rings, and other similar foods), less desirable (low-calorie or low-fat images such as vegetables and fruits), or nonfood images (examples included flowers, rocks, and trees) and provided responses on how well they could imagine or visualize each image using a response box held in their right hand, as previously described (19,20). Approximately 150 images were used in randomized order, presented during both the fasting and fed states. Blocks consisted of 5 images each, where each image was shown for 3 s (15 s total for each block), with 10 s of fixation/rest between blocks, and 16 blocks were shown during each of the 5 runs.
+        BOLD data were preprocessed using SPM8 software (Statistical Parametric Mapping; The Wellcome Trust Centre of Neuroimaging, London, U.K.). Briefly, images of each individual subject were flipped, realigned (motion-corrected), normalized to an EPI template with affine registration, followed by nonlinear transformation, and smoothed with a Gaussian kernel of 6 mm. A general linear model was constructed for each subject, using the onsets of the food or nonfood image blocks with realignment parameters in six dimensions. The data were high-pass filtered to remove low-frequency signal drifts. The contrast images (highly desirable &gt; less desirable food images; all food (highly and less desirable) &gt; nonfood images) of the first-level analysis were used for the second-level group statistics. Flexible factorials were used to compare the two groups at weeks 1 and 4, controlling for baselines (week 0). Whole-brain regressions were used to examine how brain activations at baseline (week 0) related to changes in weight, BMI, and caloric intake. Given the multiple areas studied, activations that passed a corrected threshold of P &lt; 0.05, family-wise error (FWE) corrected for multiple comparisons for the cluster, and/or peak activation are reported.
+        On the basis of an a priori hypothesis for the hypothalamus, owing to findings in rodents of lorcaserin’s weight-reducing efficacy being mediated by the hypothalamus, we performed a region of interest analysis for the hypothalamus using a 10-mm radius sphere, as defined previously (19). Effect size data for hypothalamus and for activations, which were significantly different for week 1 &gt; week 0 and for week 1 &gt; week 4, contrasts were extracted using MarsBaR (http://marsbar.sourceforge.net/). Effect sizes were examined between groups and over time for the hypothalamus. Effect sizes from contrasts were correlated with changes in BMI and caloric intake using Pearson correlations.
+      
+    
+    
+      Results
+      The study enrolled 48 participants, of whom 24 were assigned to placebo (11 women and 13 men; age, 49.4 ± 2.7 years) and 24 were assigned to lorcaserin (14 women and 11 men; age, 45.5 ± 3.0 years). There were no significant differences in sex (P &lt; 0.386) or age (P &lt; 0.339). Of the enrolled 48 participants, 36 completed 4 visits over a 1-month period, of whom 19 were in the placebo group (8 women and 11 men; age, 50.4 ± 3.1 years) and 17 were in the lorcaserin group (10 women and 7 men; age, 49.6 ± 2.9 years). Reasons for dropout included family emergencies, meeting exclusion criterion at visit 1, unexpected move, and discomfort/claustrophobia in the MRI at visit 1 (Supplementary Fig. 1). Headaches were reported as an adverse effect from the medication at 1 week in three patients in the lorcaserin and in one patient in the placebo group, which were not significantly different (χ2 = 1.3932; P &lt; 0.24). No patients in either group reported headaches at 4 weeks. No patients in either group reported cognitive impairments at any time during the study. Suicidality, as measured by a physician with the MSSI, was 0 for all patients at all time points.
+      Participants did show a significant difference in BMI at baseline, despite randomization (t34 = 3.11; P &lt; 0.004). Thus, baseline BMI was controlled in subsequent analyses. Although participants did not show weight loss at 1 week, they did show significant BMI reductions in the lorcaserin group at 4 weeks (P &lt; 0.006) (Table 1). Total caloric intake decreased over time in the lorcaserin group (week 1: 2,085 ± 224 kcal/day; week 4: 1,551 ± 266 kcal/day) compared with the placebo group (week 1: 1,940 ± 202 kcal/day; week 4: 2,106 ± 244 kcal/day; P &lt; 0.015). Clinical and metabolic outcomes similarly improved, as expected, in response to lorcaserin treatment (Table 1). There were no differences in neurocognitive testing between the two groups (Table 1). Similar results were observed with intention-to-treat analyses (anthropometric data reported in Table 2).
+      
+        Changes in Brain Activations With Lorcaserin Over Time
+        There were no functional differences between the two groups at baseline with a two-sample t test. Using a factorial design, we observed that after 1 week in the fasting state, participants who received lorcaserin showed less activation in the cuneus, precuneus, temporoparietal junction, and the occipital cortex to highly palatable compared with less palatable food cues (Table 3 and Fig. 1A). There were no changes for all food cues compared with nonfood images at 1 week. We observed that after 4 weeks in the fed state, participants who received lorcaserin showed less activation in the parietal cortex (Table 3 and Fig. 1B); no significant differences were found at 4 weeks in the fasting state. There were no changes for highly desirable compared with less desirable food cues at 4 weeks. In a comparison of short- and long-term (1 vs. 4 weeks) treatment, participants who received lorcaserin showed less activations in the insula, parietal cortex, visual cortices, hippocampus, and amygdala in the fasting state at 1 week than at 4 weeks, suggesting attenuation at 4 weeks (Table 3 and Fig. 1C). There were no differences in activation for the hypothalamus, as was suggested by previous studies in rodents to be the site of action for lorcaserin in the brain, but this, similar to prior studies in humans, may have been caused by artifacts in the fMRI and/or its small size (see discussion).
+         Table 3 Brain activations from whole-brain factorial analyses for placebo &gt; lorcaserin† 
+         Figure 1 Changes in brain activations over time with lorcaserin. Shown are brain activations for placebo &gt; lorcaserin to highly desirable compared with less desirable food images in the fasting state after 1 week (A), to all food compared with nonfood images in the fed state after 4 weeks (B), and to highly desirable images compared with less desirable food images in the fasting state for short-term (1 week) compared with long-term (4 weeks) treatments (C). BOLD contrasts are superimposed on a T1 structural image in axial sections from z = −15 to z = 60, in neurological orientation. 
+        Across participants, changes in activation in the cuneus between week 1 and week 0 and between week 1 and week 4 in the fasting state to highly desirable compared with less desirable food cues correlated with changes in BMI at 4 weeks (r = 0.60, P &lt; 0.0001; r = 0.37, P &lt; 0.023, respectively). Changes in the visual cortices in the fasting state to highly desirable compared with less desirable food cues at week 1–week 0 also correlated with changes in BMI (r = 0.35, P &lt; 0.039). Reported changes in caloric intake did not significantly correlate with changes in brain activations.
+        When we examine those individuals in the lorcaserin group, changes in activation in the cuneus between week 1 and week 0 in the fasting state to highly desirable compared with less desirable food cues correlated with changes in BMI at 4 weeks (r = 0.58, P &lt; 0.014). Changes in the parietal cortices in the fasting state to highly desirable compared with less desirable food cues at week 1–week 4 also correlated with changes in BMI (r = 0.57, P &lt; 0.016). Changes in caloric intake correlated with changes in the visual and parietal cortices and insula at week 1–week 0 (r = 0.64, P &lt; 0.005; r = 0.53, P &lt; 0.029; r = 0.70, P &lt; 0.002, respectively) and with changes in the precuneus, temporoparietal junction, visual and parietal cortices, and insula at week 1–week 4 (r = 0.81, P &lt; 0.0001; r = 0.88, P &lt; 0.0001; r = 0.86, P &lt; 0.0001; r = 0.77, P &lt; 0.0001; r = 0.67, P &lt; 0.003, respectively).
+      
+      
+        Baseline Predictors of Efficacy With Lorcaserin
+        To determine whether there are baseline predictors of the efficacy of lorcaserin, we performed whole-brain regressions with baseline brain activations to food cues and the metrics of efficacy, including weight loss, decreases in BMI, and decreases in caloric intake. Greater weight lost at 4 weeks is correlated with activation of the amygdala to highly desirable compared with less desirable food cues during the fed state in a regression analysis on the brain of the patients who received lorcaserin (n = 17) at baseline (cluster size = 2,663 mm3; peak at −20, −10, −18; z = 4.58) (Fig. 2A). Activations in visual cortices of the occipital lobe during the fed state to highly desirable compared with less desirable food images correlate significantly with decreases in BMI (cluster size = 40,200 mm3; peak at 8, −38, −4; z = 4.45) (Fig. 2B), as well as the amygdala, which does not reach a corrected threshold (cluster size = 2,438 mm3; peak at −18, −8, −16; z = 3.55). For participants on lorcaserin who submitted their detailed food logs (n = 13), we observe that baseline activation in the prefrontal cortex to all food images compared with nonfood images during the fed state indicating lower baseline activations are associated with more decreases in total caloric consumption (cluster size = 13,069 mm3; peak at −6, 58, 10; z = 4.26) (Fig. 2C).
+         Figure 2 Baseline predictors of efficacy with lorcaserin. Shown are results from a whole-brain regression analysis with weight loss (A), BMI decrease (B), and caloric intake (C) at 4 weeks with brain activations at baseline (week 0). Greater activation of areas shown in red at baseline (week 0) are correlated with greater weight loss, BMI decreases, or decreases in caloric intake at 4 weeks. BOLD contrasts are superimposed on a T1 structural image in axial sections from z = −15 to z = 60, in neurological orientation. 
+      
+    
+    
+      Discussion
+      We report decreases in brain activations to food cues with relatively short-term (1 week) and longer-term (4 weeks) therapy with lorcaserin. More specifically, we report deactivations with lorcaserin at 1 week during the fasting state and before weight loss with decreased attention-related parietal and visual activations to highly desirable food cues. In a direct comparison between 1 and 4 weeks, we see significant decreases with lorcaserin at 1 week to highly desirable food cues in attention-related brain areas and the amygdala compared with the longer-term 4-week time point, indicating attenuation of deactivations by lorcaserin over time. After 4 weeks and modest weight loss, we report decreases in the attention-related parietal cortex in the fed state.
+      When baseline predictors of success with lorcaserin were examined, weight loss at 4 weeks correlated with baseline activation of amygdala, part of the emotional/limbic system, to highly desirable food cues after a meal in a whole-brain regression analysis, suggesting that increased activation of the amygdala indicates which participants would benefit most from the use of lorcaserin. Decreases in BMI correlated with amygdala and occipital activations at baseline for the lorcaserin group in the fed state, suggesting that lorcaserin may be helpful for individuals who find highly desirable and less healthful food cues more salient. Decreases in total caloric consumption correlated inversely with activations in the prefrontal cortex to all food cues compared with nonfood cues during the fed state, suggesting poorer baseline cognitive control may suggest later benefit of lorcaserin on reported caloric consumption. Altogether, our findings suggest that lorcaserin decreases cortical and limbic activations to food cues over time, with greater effects in the short-term or 1 week. Furthermore, the regressions with changes in weight and BMI suggest that lorcaserin may be of the most benefit to emotional eaters or those who have dysfunctional activations at baseline.
+      
+        Changes in Brain Activations With Lorcaserin Over Time
+        At 1 week, we observe decreased activation in the parietal cortex, cuneus, precuneus, and visual cortices to highly desirable food cues. These areas are involved in many cognitive processes but may be representing changes in attention and saliency; that is, attending to cues of relative importance, processing, indicating that short-term treatment with lorcaserin decreases the importance and attention to highly palatable foods. In the fasting state, activations of areas involved in salience and attention to high-calorie compared with low-calorie food cues have been previously observed in participants without obesity because these are generally more attention-grabbing foods (21). Other studies have also shown similarly increased activation in the occipital cortex for food images (22,23). These typically increased activations are due to the inherent importance and emotional value of food cues; indeed, others have shown that higher occipital lobe activation is linked with exposure to emotional images (24,25). The parietal cortex is a well-known component of the attention and salience system that increases activity to important stimuli (26–28). Thus, our data indicate that highly desirable food cues appear less important with lorcaserin treatment. Altogether, these results suggest that lorcaserin decreases the emotional significance of highly desirable food cues, which leads to the observed decrease in food consumption.
+        Regarding changes over time, we report attenuation of brain deactivations between 1 and 4 weeks of lorcaserin therapy, where there is less deactivation of attention-related circuitry at 4 weeks than at 1 week. Indeed, a direct comparison showed the same visual and parietal cortices as well as the insula and amygdala, which may also be involved in the saliency network, are more deactivated at 1 week than at 4 weeks for lorcaserin compared with placebo. Among their involvement in other CNS systems, the insula and amygdala are both involved in salience and emotional processing (29–33). Although the insula is also involved in proprioception and taste (34), its activation in this study could be related to salience or to changes in gut motility and cue priming to involve the enteric nervous system resulting from the posterior location of the activation (35). This relative increase between 1 and 4 weeks may represent attenuation at 4 weeks, where brain activations begin to return to control/baseline levels. Indeed, at 4 weeks compared with baseline, we observe only decreased activation of the parietal cortex to food cues, regardless of desirability, in the fed state. This likely demonstrates a continued decreasing “value” of food cues with lorcaserin treatment in the longer-term, which has become less pronounced or attenuated over time.
+        Unlike studies with rodents, we did not observe any changes in hypothalamic activation with lorcaserin (9–11). Rodents and humans have a different brain structure. Eating behaviors in rodents are primarily controlled by the homeostatic system (hypothalamus), and the rodent cortex is not comparable in structure or function to the cortex controlling food intake in humans. Indeed, in humans, eating is often controlled by higher cortical processes, including reward, saliency, and other networks, and not simply the homeostatic processes of the hypothalamus (36). The lack of a finding in the hypothalamus may also be due to the limitations of fMRI, because the hypothalamus is small and susceptible to artifacts from its proximity to the sinuses (36). Thus, hypothalamic activation by lorcaserin should not be ruled out but cannot be confirmed from this fMRI study in humans.
+        It could be argued that differences in brain activations over time may indicate confounding effects, such as interacting changes with weight loss over time and/or habituation to the effects of the medication. That patients could have habituated to the task over time is also possible. Considering that participants in the placebo group had the same number of fMRI scans, these potential confounders should have been adequately controlled.
+      
+      
+        Baseline Predictors of Efficacy With Lorcaserin
+        Given the variability of responses to lorcaserin in the clinic and to determine predictors of efficacy with lorcaserin, we performed whole-brain regression analyses of baseline activations with metrics of clinical success, including weight loss, BMI changes, and caloric intake. We observed that the activation of the amygdala at baseline in response to highly desirable food cues, an indicator of emotional eating, correlated with greater weight lost at 4 weeks. The amygdala is a component of the saliency network, particularly responding to emotionally salient stimuli (31–33), that has also been implicated directly in the emotional eating system (37,38). Thus, individuals who find highly palatable foods emotionally more salient would be the ones to mainly obtain the most weight loss/change in brain activations over time when treated with lorcaserin. This also indicates that lorcaserin may be most helpful for individuals who are emotional eaters and will need to be confirmed with further studies, including not only fMRIs but also questionnaires specific for emotional eating. In addition, we report that decreases in BMI correlate not only with activation of the amygdala but also with occipital activations at baseline for the lorcaserin group in the fed state. This provides further support for the notion that lorcaserin may be helpful for individuals who find highly desirable and less healthful food cues more salient. Furthermore, prefrontal activation during the fed state to all food cues compared with nonfood cues correlates inversely with decreases in total caloric consumption. Prefrontal activations may indicate a number of cognitive processes, including emotion, salience, memory, and top-down processes (39). Most frequently with regards to food cues, prefrontal activations are thought to be related to cognitive control and to an individual’s ability to stop him- or herself from eating in excess or eating unhealthy foods (29,40,41). Thus, individuals who had less cognitive control–related prefrontal activations at baseline showed less decreases in caloric intake, indicating that participants who already have less cortical inhibition to food cues receive the greatest benefit from lorcaserin in food consumption. This is a plausible hypothesis, because these individuals would have the most room for improvement. This needs to be tested by future specifically designed studies focusing on emotional eaters and any differences in the efficacy and brain responses to food with lorcaserin.
+      
+      
+        Strengths, Limitations, and Other Considerations
+        Although we do not observe any changes in cognition with up to 1 month of lorcaserin treatment, animal studies suggest that there may be cognitive benefits. Whether the effects observed previously in mice were a result of changes in body weight or the medication per se remain unclear, because they are not confirmed in our study with participants on the medication before significant weight loss. A prior study in mice demonstrated decreased spatial/working memory with diet-induced obesity, which was improved with lorcaserin therapy (42), but this may simply highlight effects of weight loss or simply the differences between rodent and human brains. Weight loss itself typically results in improved performance on cognitive tasks in humans, including memory and executive function (43,44). Because we do not observe any changes on cognition with lorcaserin in this study, this may indicate that any longer-term benefits may be the result of weight loss and not the medication itself and/or that such changes may be weaker or take longer to manifest in humans. Longer-term studies would be required to determine whether this might be the case. One could argue that it is a limitation of the study that our randomization did not eliminate differences in BMI between the two groups at baseline. However, we controlled for such baseline differences in our analyses and observed no differences in brain activations to food cues between the two groups at baseline. One would also question, given that no prior data exist on which to base power calculations, whether an adequate number of participants was included. The number of participants was similar to recent studies with other medications and MRI (45,46). Furthermore, although we have examined multiple fMRI contrasts over time, we report results that reach a threshold corrected for multiple comparisons with FWE corrections, according to the standard with fMRI studies. Thus, multiple comparisons should not have affected our findings.
+        Studies of longer duration would also be warranted to look at continued success and longer-term effects on food cue processing, such as at 12 weeks, when weight loss is expected to plateau. Indeed, studies have shown that weight loss by week 12 with lorcaserin is a strong predictor of longer-term (52 weeks) success (47), which may indicate a good time at which to determine individual differences in response to lorcaserin. Overall, these results are strong and indicate clear changes in brain responses to food cues with lorcaserin therapy. In addition, we observe baseline differences in activation that correlate to behavioral changes in response to lorcaserin and that may suggest that lorcaserin is of particular benefit to individuals who are emotional eaters and/or place importance on high-calorie or high-fat foods. This is of particular importance in the clinic, given the variable responses observed to lorcaserin therapy. If confirmed and correlated with appropriately designed questionnaire data, these findings can not only provide mechanistic explanations but also lead to developments of clinical tools to select which individuals would respond best clinically to treatment with lorcaserin.
+      
+    
+  
+
+Back matter
+
+      
+        Clinical trial reg. no. NCT02400359, clinicaltrials.gov.
+      
+      
+        This article contains Supplementary Data online at http://diabetes.diabetesjournals.org/lookup/suppl/doi:10.2337/db16-0635/-/DC1.
+      
+      
+        This article is featured in a podcast available at http://www.diabetesjournals.org/content/diabetes-core-update-podcasts.
+      
+    
+
+      Article Information
+      Acknowledgments. Drug supply (lorcaserin and placebo) was provided by Arena Pharmaceuticals GmbH through Eisai, Inc., to investigators.
+      Funding. Eisai, Inc., supported the study through an investigator-initiated study grant. Eisai, Inc., approved the design of the study but had no role in study design; conduct of the study; collection, management, analysis, and interpretation of the data; or the preparation, review, or approval of the manuscript. The project was supported by National Institute of Child Health and Human Development and Harvard Clinical and Translational Science Center grant UL1-RR-025758 from the National Center for Research Resources. O.M.F. is supported by 5T32HD052961. This study is also partly supported by National Institutes of Health grant DK-081913.
+      Duality of Interest. No potential conflicts of interest relevant to this article were reported.
+      Author Contributions. O.M.F. and C.S.M. designed the experiment. O.M.F., J.U., A.G., M.C., H.Ka., H.M., M.V., A.K., H.Ki., A.S., A.M., and C.S.M. conducted the experiments and acquired data. O.M.F. and N.S. analyzed the data. O.M.F. wrote the manuscript with input from all of the other authors. O.M.F. is the guarantor of this work and, as such, had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-252" id="S2" selection="1a">
+        <text xml:space="preserve">Lorcaserin Administration Decreases Activation of Brain Centers in Response to Food Cues and These Emotion- and Salience-Related Changes Correlate With Weight Loss Effects: A 4-Week-Long Randomized, Placebo-Controlled, Double-Blind Clinical Trial</text>
+    </sentence>
+    <sentence charOffset="253-261" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="271-367" id="S4" selection="">
+        <text xml:space="preserve">Lorcaserin is a serotonin 5-hydroxytryptamine 2c receptor agonist effective in treating obesity.</text>
+    </sentence>
+    <sentence charOffset="368-514" id="S5" selection="">
+        <text xml:space="preserve">Studies in rodents have shown that lorcaserin acts in the brain to exert its weight-reducing effects, but this has not yet been studied in humans.</text>
+    </sentence>
+    <sentence charOffset="515-680" id="S6" selection="">
+        <text xml:space="preserve">We performed a randomized, placebo-controlled, double-blind trial with 48 obese participants and used functional MRI to study the effects of lorcaserin on the brain.</text>
+    </sentence>
+    <sentence charOffset="681-951" id="S7" selection="">
+        <text xml:space="preserve">Subjects taking lorcaserin had decreased brain activations in the attention-related parietal and visual cortices in response to highly palatable food cues at 1 week in the fasting state and in the parietal cortex in response to any food cues at 4 weeks in the fed state.</text>
+    </sentence>
+    <sentence charOffset="952-1074" id="S8" selection="">
+        <text xml:space="preserve">Decreases in emotion- and salience-related limbic activity, including the insula and amygdala, were attenuated at 4 weeks.</text>
+    </sentence>
+    <sentence charOffset="1075-1207" id="S9" selection="">
+        <text xml:space="preserve">Decreases in caloric intake, weight, and BMI correlated with activations in the amygdala, parietal, and visual cortices at baseline.</text>
+    </sentence>
+    <sentence charOffset="1208-1425" id="S10" selection="">
+        <text xml:space="preserve">These data suggest that lorcaserin exerts its weight-reducing effects by decreasing attention-related brain activations to food cues (parietal and visual cortices) and emotional and limbic activity (insula, amygdala).</text>
+    </sentence>
+    <sentence charOffset="1426-1591" id="S11" selection="">
+        <text xml:space="preserve">Results indicating that baseline activation of the amygdala relates to increased efficacy suggest that lorcaserin would be of particular benefit to emotional eaters.</text>
+    </sentence>
+    <sentence charOffset="1612-1624" id="S12">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="1631-1901" id="S13" selection="">
+        <text xml:space="preserve">Obesity is a growing problem in industrialized countries, where approximately one-third of the population is obese, and has been associated with a number of health problems, including diabetes, heart disease, different types of cancer, and decreased life expectancy (1).</text>
+    </sentence>
+    <sentence charOffset="1902-1980" id="S14" selection="">
+        <text xml:space="preserve">Thus, there is a clear need for the development of new treatments for obesity.</text>
+    </sentence>
+    <sentence charOffset="1981-2093" id="S15" selection="">
+        <text xml:space="preserve">One such recent treatment is lorcaserin, a selective serotonin 5-hydroxytryptamine 2c (5-HT2c) receptor agonist.</text>
+    </sentence>
+    <sentence charOffset="2100-2259" id="S16" selection="">
+        <text xml:space="preserve">Previous use of serotonergic agonists, such as fenfluramine, was linked to nonselective activation of 5-HT2 receptors that led to various cardiac problems (2).</text>
+    </sentence>
+    <sentence charOffset="2260-2497" id="S17" selection="">
+        <text xml:space="preserve">However, because a 5-HT2c receptor antagonist blocked the weight-reducing effects of fenfluramine, the more selective activation of 5-HT2c receptors by lorcaserin would produce this antiobesity benefit seemingly without cardiac risk (3).</text>
+    </sentence>
+    <sentence charOffset="2498-2665" id="S18" selection="">
+        <text xml:space="preserve">Knockout mice for the 5-HT2c receptors have a higher body weight as a result of abnormal food consumption, further confirming the role of this receptor in obesity (4).</text>
+    </sentence>
+    <sentence charOffset="2666-2861" id="S19" selection="">
+        <text xml:space="preserve">These animals exhibit changes in metabolic hormones, developing insulin and leptin resistance and, moreover, impaired glucose tolerance in addition to prolonged meal duration and frequency (4,5).</text>
+    </sentence>
+    <sentence charOffset="2862-3068" id="S20" selection="">
+        <text xml:space="preserve">A similar mechanism may contribute to the significant improvement in the levels of fasting serum glucose, total cholesterol, triglycerides, and blood pressure seen in patients treated with lorcaserin (6–8).</text>
+    </sentence>
+    <sentence charOffset="3075-3349" id="S21" selection="">
+        <text xml:space="preserve">5-HT2c receptors are located almost exclusively in the central nervous system (CNS), including the thalamus and hypothalamus, areas that are known to be involved in feeding regulation, but also in more cortical areas involved in higher thought and top-down processes (9–11).</text>
+    </sentence>
+    <sentence charOffset="3350-3588" id="S22" selection="">
+        <text xml:space="preserve">Activation of 5-HT2c receptors in the rodent brain, predominantly in the hypothalamus, initiates a cascade that stimulates release of α-melanocortin−stimulating hormone, which acts on melanocortin-4 receptors to regulate appetite (12–14).</text>
+    </sentence>
+    <sentence charOffset="3589-3749" id="S23" selection="">
+        <text xml:space="preserve">This pathway may also activate cortical areas, because there is evidence of melanocortin-4 receptors acting in the cortex of mice to reduce food intake (15,16).</text>
+    </sentence>
+    <sentence charOffset="3756-3861" id="S24" selection="">
+        <text xml:space="preserve">The exact mechanisms underlying weight loss from lorcaserin have not yet been fully elucidated in humans.</text>
+    </sentence>
+    <sentence charOffset="3862-4100" id="S25" selection="2a">
+        <text xml:space="preserve">Several large studies have demonstrated that lorcaserin is an effective weight-loss agent, with total body mass loss averaging greater than 5% (6,17), but significant interindividual variability exists in the magnitude of the weight lost.</text>
+    </sentence>
+    <sentence charOffset="4101-4334" id="S26" selection="2a">
+        <text xml:space="preserve">Because 5-HT2c receptors are a novel target for obesity, further work is required to determine whether the weight-reducing effects of lorcaserin are caused by actions in the CNS, and if yes, which specific brain centers are involved.</text>
+    </sentence>
+    <sentence charOffset="4335-4520" id="S27" selection="">
+        <text xml:space="preserve">Furthermore, whether there are CNS centers whose activation may predict which individuals respond the most to lorcaserin, and thus provide additional clinical insight, is not yet known.</text>
+    </sentence>
+    <sentence charOffset="4527-4808" id="S28" selection="2b">
+        <text xml:space="preserve">We performed a randomized, placebo-controlled, double-blind study to examine potential CNS targets for lorcaserin by using functional MRI (fMRI) to study how lorcaserin alters brain center activations in response to food images in the short-term (1 week) and longer-term (4 weeks).</text>
+    </sentence>
+    <sentence charOffset="4809-5011" id="S29" selection="2b">
+        <text xml:space="preserve">In addition, we explored how individual differences in the brain’s response to food cues at baseline may predict the magnitude of future weight loss and decreased caloric intake with lorcaserin therapy.</text>
+    </sentence>
+    <sentence charOffset="5028-5055" id="S30">
+        <text xml:space="preserve">Research Design and Methods</text>
+    </sentence>
+    <sentence charOffset="5062-5249" id="S31" selection="3a">
+        <text xml:space="preserve">Forty-eight men and women provided written informed consent to participate in this randomized, placebo-controlled, double-blind study (full details are available in Supplementary Fig. 1).</text>
+    </sentence>
+    <sentence charOffset="5250-5435" id="S32" selection="4b">
+        <text xml:space="preserve">Participants first had a screening visit at the Beth Israel Deaconess Medical Center Clinical Research Center to ensure that they met the inclusion and exclusion criteria for the study.</text>
+    </sentence>
+    <sentence charOffset="5436-5532" id="S33" selection="7a">
+        <text xml:space="preserve">No prior studies with lorcaserin in the human brain existed on which to base power calculations.</text>
+    </sentence>
+    <sentence charOffset="5533-5664" id="S34" selection="7a">
+        <text xml:space="preserve">We thus enrolled 48 subjects, with an a priori plan to replace up to 8 subjects that would drop out (assuming up to 20% attrition).</text>
+    </sentence>
+    <sentence charOffset="5665-5801" id="S35" selection="7a">
+        <text xml:space="preserve">Sample size was selected to be similar to prior randomized trials of other pharmaceuticals studied using similar neuroimaging protocols.</text>
+    </sentence>
+    <sentence charOffset="5802-5950" id="S36" selection="7a">
+        <text xml:space="preserve">With 80% power and 2 groups of 20 participants, we estimated that we would be able to detect an effect size difference of 0.9 at the α = 0.05 level.</text>
+    </sentence>
+    <sentence charOffset="5957-6125" id="S37" selection="11b,5">
+        <text xml:space="preserve">After the screening visit, participants were randomized 1:1 to receive oral lorcaserin (10 mg, twice daily) or placebo, which was identical in appearance to lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="6126-6331" id="S38" selection="8a,8b,11a,10">
+        <text xml:space="preserve">Randomization tables were produced by the Harvard Catalyst biostatisticians with SAS using blocks of four and delivered directly to the Research Pharmacy for use such that study staff would remain blinded.</text>
+    </sentence>
+    <sentence charOffset="6332-6441" id="S39" selection="4b,14a">
+        <text xml:space="preserve">The study took place over 4 weeks; participants visited the Clinical Research Center on weeks 0, 1, 2, and 4.</text>
+    </sentence>
+    <sentence charOffset="6442-6807" id="S40" selection="6a">
+        <text xml:space="preserve">The first study visit was a baseline overnight visit, which consisted of at least a 12-h fast, followed by a blood draw, vital signs, physical examination, anthropometry (waist and hip measurements), resting metabolic rate (measured with SensorMedics Vmax Spectra), two fMRI scans (one in the fasting state and another in the fed state), and neurocognitive testing.</text>
+    </sentence>
+    <sentence charOffset="6808-7079" id="S41" selection="5">
+        <text xml:space="preserve">In addition, at each visit, all participants were given the standard of care for obesity, where they met with a registered dietitian to be counseled about weight loss, with the recommendation of decreasing caloric intake by 500 kcal/day and exercising 30 min 3 days/week.</text>
+    </sentence>
+    <sentence charOffset="7080-7334" id="S42" selection="6a">
+        <text xml:space="preserve">Patients were also given the Modified Scale for Suicidal Ideation (MSSI) by a physician at each visit to ensure they did not develop suicidal thoughts, because manipulating serotonin levels could potentially lead to changes in mood and suicidal ideation.</text>
+    </sentence>
+    <sentence charOffset="7335-7399" id="S43" selection="6a">
+        <text xml:space="preserve">They returned after 1 and 4 weeks for the same overnight visits.</text>
+    </sentence>
+    <sentence charOffset="7406-7532" id="S44" selection="6a">
+        <text xml:space="preserve">Participants also attended an outpatient follow-up visit at 2 weeks, which consisted of a physical examination and blood draw.</text>
+    </sentence>
+    <sentence charOffset="7533-7726" id="S45" selection="5">
+        <text xml:space="preserve">In between visits, patients continued to take their medication at home and kept a detailed food diary, which was discussed with the patients at each visit and analyzed by registered dietitians.</text>
+    </sentence>
+    <sentence charOffset="7727-7789" id="S46" selection="6a">
+        <text xml:space="preserve">Fasting blood was drawn by venipuncture by a registered nurse.</text>
+    </sentence>
+    <sentence charOffset="7790-7890" id="S47" selection="6a">
+        <text xml:space="preserve">Samples were analyzed by LabCorp, a Clinical Laboratory Improvement Amendments–certified laboratory.</text>
+    </sentence>
+    <sentence charOffset="7906-7919" id="S48" selection="">
+        <text xml:space="preserve">Data Analysis</text>
+    </sentence>
+    <sentence charOffset="7928-8019" id="S49" selection="12a">
+        <text xml:space="preserve">Data were analyzed using SPSS 19 software and first summarized with descriptive statistics.</text>
+    </sentence>
+    <sentence charOffset="8020-8095" id="S50" selection="">
+        <text xml:space="preserve">Data for categorical variables are presented as numbers and/or percentages.</text>
+    </sentence>
+    <sentence charOffset="8096-8222" id="S51" selection="12a">
+        <text xml:space="preserve">Kolmogorov-Smirnov test and frequency histograms were used to check the normality of distribution of the continuous variables.</text>
+    </sentence>
+    <sentence charOffset="8223-8337" id="S52" selection="12a">
+        <text xml:space="preserve">Repeated-measures ANOVA were performed across time points with lorcaserin or placebo as a between-subjects factor.</text>
+    </sentence>
+    <sentence charOffset="8338-8422" id="S53" selection="">
+        <text xml:space="preserve">On-treatment analysis was performed for all variables (results reported in Table 1).</text>
+    </sentence>
+    <sentence charOffset="8423-8609" id="S54" selection="12b">
+        <text xml:space="preserve">Intention-to-treat analysis was done with the anthropometric data only, to confirm on-treatment analysis, using the last observation carried forward method (results reported in Table 2).</text>
+    </sentence>
+    <sentence charOffset="8619-8721" id="S55" selection="17a">
+        <text xml:space="preserve">Table 1 Results from study visits over 1 month for the lorcaserin (n = 17) and placebo (n = 19) groups</text>
+    </sentence>
+    <sentence charOffset="8732-8864" id="S56" selection="17a">
+        <text xml:space="preserve">Table 2 Results from study visits over 1 month for the lorcaserin (n = 24) and placebo (n = 24) groups using intent-to-treat methods</text>
+    </sentence>
+    <sentence charOffset="8888-8914" id="S57" selection="">
+        <text xml:space="preserve">fMRI Protocol and Analysis</text>
+    </sentence>
+    <sentence charOffset="8923-9159" id="S58" selection="6a">
+        <text xml:space="preserve">Participants viewed food and nonfood items within a 3-Tesla GE MRI scanner at the MRI center at Beth Israel Deaconess Medical Center in the fasting and fed states with an InVivo Therapeutics 8-channel high-definition receiver head coil.</text>
+    </sentence>
+    <sentence charOffset="9160-9237" id="S59" selection="6a">
+        <text xml:space="preserve">Scanning was done using a protocol similar to that previously described (18).</text>
+    </sentence>
+    <sentence charOffset="9238-9364" id="S60" selection="6a">
+        <text xml:space="preserve">First, in each of the scanning sessions, a T1-weighted magnetization prepared rapid gradient echo structural MRI was acquired.</text>
+    </sentence>
+    <sentence charOffset="9365-9723" id="S61" selection="6a">
+        <text xml:space="preserve">Next, five 7-min gradient-echo T2-weighted echo planar images depicting blood oxygenation level–dependent (BOLD) contrast were acquired from noncontiguous near axial planes (repetition time = 3.5 s, echo time = 25 ms, in-plane resolution = 2.5 × 2.5 mm, matrix size = 96 × 96, field of view = 24 × 24 cm, voxel bandwidth = 83.33 kHz, slice thickness = 3 mm).</text>
+    </sentence>
+    <sentence charOffset="9724-9774" id="S62" selection="6a">
+        <text xml:space="preserve">E-Prime software controlled stimulus presentation.</text>
+    </sentence>
+    <sentence charOffset="9775-9913" id="S63" selection="6a">
+        <text xml:space="preserve">Images were presented in blocks, and each block was presented in a counterbalanced order and interspersed with periods of visual fixation.</text>
+    </sentence>
+    <sentence charOffset="9922-10406" id="S64" selection="6a">
+        <text xml:space="preserve">The fMRI protocol consisted of five runs, during which subjects viewed blocks of highly desirable (high-calorie or high-fat images such as cakes, onion rings, and other similar foods), less desirable (low-calorie or low-fat images such as vegetables and fruits), or nonfood images (examples included flowers, rocks, and trees) and provided responses on how well they could imagine or visualize each image using a response box held in their right hand, as previously described (19,20).</text>
+    </sentence>
+    <sentence charOffset="10407-10512" id="S65" selection="6a">
+        <text xml:space="preserve">Approximately 150 images were used in randomized order, presented during both the fasting and fed states.</text>
+    </sentence>
+    <sentence charOffset="10513-10706" id="S66" selection="6a">
+        <text xml:space="preserve">Blocks consisted of 5 images each, where each image was shown for 3 s (15 s total for each block), with 10 s of fixation/rest between blocks, and 16 blocks were shown during each of the 5 runs.</text>
+    </sentence>
+    <sentence charOffset="10715-10853" id="S67" selection="6a">
+        <text xml:space="preserve">BOLD data were preprocessed using SPM8 software (Statistical Parametric Mapping; The Wellcome Trust Centre of Neuroimaging, London, U.K.).</text>
+    </sentence>
+    <sentence charOffset="10854-11079" id="S68" selection="6a">
+        <text xml:space="preserve">Briefly, images of each individual subject were flipped, realigned (motion-corrected), normalized to an EPI template with affine registration, followed by nonlinear transformation, and smoothed with a Gaussian kernel of 6 mm.</text>
+    </sentence>
+    <sentence charOffset="11080-11236" id="S69" selection="12a">
+        <text xml:space="preserve">A general linear model was constructed for each subject, using the onsets of the food or nonfood image blocks with realignment parameters in six dimensions.</text>
+    </sentence>
+    <sentence charOffset="11237-11308" id="S70" selection="6a">
+        <text xml:space="preserve">The data were high-pass filtered to remove low-frequency signal drifts.</text>
+    </sentence>
+    <sentence charOffset="11309-11508" id="S71" selection="6a">
+        <text xml:space="preserve">The contrast images (highly desirable &gt; less desirable food images; all food (highly and less desirable) &gt; nonfood images) of the first-level analysis were used for the second-level group statistics.</text>
+    </sentence>
+    <sentence charOffset="11509-11618" id="S72" selection="12a">
+        <text xml:space="preserve">Flexible factorials were used to compare the two groups at weeks 1 and 4, controlling for baselines (week 0).</text>
+    </sentence>
+    <sentence charOffset="11619-11761" id="S73" selection="12a">
+        <text xml:space="preserve">Whole-brain regressions were used to examine how brain activations at baseline (week 0) related to changes in weight, BMI, and caloric intake.</text>
+    </sentence>
+    <sentence charOffset="11762-11967" id="S74" selection="6a">
+        <text xml:space="preserve">Given the multiple areas studied, activations that passed a corrected threshold of P &lt; 0.05, family-wise error (FWE) corrected for multiple comparisons for the cluster, and/or peak activation are reported.</text>
+    </sentence>
+    <sentence charOffset="11976-12263" id="S75" selection="6a">
+        <text xml:space="preserve">On the basis of an a priori hypothesis for the hypothalamus, owing to findings in rodents of lorcaserin’s weight-reducing efficacy being mediated by the hypothalamus, we performed a region of interest analysis for the hypothalamus using a 10-mm radius sphere, as defined previously (19).</text>
+    </sentence>
+    <sentence charOffset="12264-12472" id="S76" selection="6a">
+        <text xml:space="preserve">Effect size data for hypothalamus and for activations, which were significantly different for week 1 &gt; week 0 and for week 1 &gt; week 4, contrasts were extracted using MarsBaR (http://marsbar.sourceforge.net/).</text>
+    </sentence>
+    <sentence charOffset="12473-12550" id="S77" selection="6a">
+        <text xml:space="preserve">Effect sizes were examined between groups and over time for the hypothalamus.</text>
+    </sentence>
+    <sentence charOffset="12551-12661" id="S78" selection="12b">
+        <text xml:space="preserve">Effect sizes from contrasts were correlated with changes in BMI and caloric intake using Pearson correlations.</text>
+    </sentence>
+    <sentence charOffset="12685-12692" id="S79">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="12699-12896" id="S80" selection="13a">
+        <text xml:space="preserve">The study enrolled 48 participants, of whom 24 were assigned to placebo (11 women and 13 men; age, 49.4 ± 2.7 years) and 24 were assigned to lorcaserin (14 women and 11 men; age, 45.5 ± 3.0 years).</text>
+    </sentence>
+    <sentence charOffset="12897-12973" id="S81" selection="15">
+        <text xml:space="preserve">There were no significant differences in sex (P &lt; 0.386) or age (P &lt; 0.339).</text>
+    </sentence>
+    <sentence charOffset="12974-13213" id="S82" selection="16,15">
+        <text xml:space="preserve">Of the enrolled 48 participants, 36 completed 4 visits over a 1-month period, of whom 19 were in the placebo group (8 women and 11 men; age, 50.4 ± 3.1 years) and 17 were in the lorcaserin group (10 women and 7 men; age, 49.6 ± 2.9 years).</text>
+    </sentence>
+    <sentence charOffset="13214-13395" id="S83" selection="13b">
+        <text xml:space="preserve">Reasons for dropout included family emergencies, meeting exclusion criterion at visit 1, unexpected move, and discomfort/claustrophobia in the MRI at visit 1 (Supplementary Fig. 1).</text>
+    </sentence>
+    <sentence charOffset="13396-13611" id="S84" selection="19">
+        <text xml:space="preserve">Headaches were reported as an adverse effect from the medication at 1 week in three patients in the lorcaserin and in one patient in the placebo group, which were not significantly different (χ2 = 1.3932; P &lt; 0.24).</text>
+    </sentence>
+    <sentence charOffset="13612-13670" id="S85" selection="">
+        <text xml:space="preserve">No patients in either group reported headaches at 4 weeks.</text>
+    </sentence>
+    <sentence charOffset="13671-13759" id="S86" selection="">
+        <text xml:space="preserve">No patients in either group reported cognitive impairments at any time during the study.</text>
+    </sentence>
+    <sentence charOffset="13760-13857" id="S87" selection="">
+        <text xml:space="preserve">Suicidality, as measured by a physician with the MSSI, was 0 for all patients at all time points.</text>
+    </sentence>
+    <sentence charOffset="13864-13977" id="S88" selection="15">
+        <text xml:space="preserve">Participants did show a significant difference in BMI at baseline, despite randomization (t34 = 3.11; P &lt; 0.004).</text>
+    </sentence>
+    <sentence charOffset="13978-14035" id="S89" selection="">
+        <text xml:space="preserve">Thus, baseline BMI was controlled in subsequent analyses.</text>
+    </sentence>
+    <sentence charOffset="14036-14192" id="S90" selection="17a">
+        <text xml:space="preserve">Although participants did not show weight loss at 1 week, they did show significant BMI reductions in the lorcaserin group at 4 weeks (P &lt; 0.006) (Table 1).</text>
+    </sentence>
+    <sentence charOffset="14193-14423" id="S91" selection="17a">
+        <text xml:space="preserve">Total caloric intake decreased over time in the lorcaserin group (week 1: 2,085 ± 224 kcal/day; week 4: 1,551 ± 266 kcal/day) compared with the placebo group (week 1: 1,940 ± 202 kcal/day; week 4: 2,106 ± 244 kcal/day; P &lt; 0.015).</text>
+    </sentence>
+    <sentence charOffset="14424-14535" id="S92" selection="17a">
+        <text xml:space="preserve">Clinical and metabolic outcomes similarly improved, as expected, in response to lorcaserin treatment (Table 1).</text>
+    </sentence>
+    <sentence charOffset="14536-14621" id="S93" selection="17a">
+        <text xml:space="preserve">There were no differences in neurocognitive testing between the two groups (Table 1).</text>
+    </sentence>
+    <sentence charOffset="14622-14727" id="S94" selection="17a">
+        <text xml:space="preserve">Similar results were observed with intention-to-treat analyses (anthropometric data reported in Table 2).</text>
+    </sentence>
+    <sentence charOffset="14743-14797" id="S95" selection="">
+        <text xml:space="preserve">Changes in Brain Activations With Lorcaserin Over Time</text>
+    </sentence>
+    <sentence charOffset="14806-14903" id="S96" selection="15">
+        <text xml:space="preserve">There were no functional differences between the two groups at baseline with a two-sample t test.</text>
+    </sentence>
+    <sentence charOffset="14904-15200" id="S97" selection="17a">
+        <text xml:space="preserve">Using a factorial design, we observed that after 1 week in the fasting state, participants who received lorcaserin showed less activation in the cuneus, precuneus, temporoparietal junction, and the occipital cortex to highly palatable compared with less palatable food cues (Table 3 and Fig. 1A).</text>
+    </sentence>
+    <sentence charOffset="15201-15280" id="S98" selection="17a">
+        <text xml:space="preserve">There were no changes for all food cues compared with nonfood images at 1 week.</text>
+    </sentence>
+    <sentence charOffset="15281-15506" id="S99" selection="17a">
+        <text xml:space="preserve">We observed that after 4 weeks in the fed state, participants who received lorcaserin showed less activation in the parietal cortex (Table 3 and Fig. 1B); no significant differences were found at 4 weeks in the fasting state.</text>
+    </sentence>
+    <sentence charOffset="15507-15600" id="S100" selection="17a">
+        <text xml:space="preserve">There were no changes for highly desirable compared with less desirable food cues at 4 weeks.</text>
+    </sentence>
+    <sentence charOffset="15601-15908" id="S101" selection="17a">
+        <text xml:space="preserve">In a comparison of short- and long-term (1 vs. 4 weeks) treatment, participants who received lorcaserin showed less activations in the insula, parietal cortex, visual cortices, hippocampus, and amygdala in the fasting state at 1 week than at 4 weeks, suggesting attenuation at 4 weeks (Table 3 and Fig. 1C).</text>
+    </sentence>
+    <sentence charOffset="15909-16204" id="S102" selection="17a">
+        <text xml:space="preserve">There were no differences in activation for the hypothalamus, as was suggested by previous studies in rodents to be the site of action for lorcaserin in the brain, but this, similar to prior studies in humans, may have been caused by artifacts in the fMRI and/or its small size (see discussion).</text>
+    </sentence>
+    <sentence charOffset="16214-16301" id="S103" selection="17a">
+        <text xml:space="preserve">Table 3 Brain activations from whole-brain factorial analyses for placebo &gt; lorcaserin†</text>
+    </sentence>
+    <sentence charOffset="16312-16376" id="S104" selection="17a">
+        <text xml:space="preserve">Figure 1 Changes in brain activations over time with lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="16377-16773" id="S105" selection="">
+        <text xml:space="preserve">Shown are brain activations for placebo &gt; lorcaserin to highly desirable compared with less desirable food images in the fasting state after 1 week (A), to all food compared with nonfood images in the fed state after 4 weeks (B), and to highly desirable images compared with less desirable food images in the fasting state for short-term (1 week) compared with long-term (4 weeks) treatments (C).</text>
+    </sentence>
+    <sentence charOffset="16774-16901" id="S106" selection="">
+        <text xml:space="preserve">BOLD contrasts are superimposed on a T1 structural image in axial sections from z = −15 to z = 60, in neurological orientation.</text>
+    </sentence>
+    <sentence charOffset="16911-17204" id="S107" selection="17a">
+        <text xml:space="preserve">Across participants, changes in activation in the cuneus between week 1 and week 0 and between week 1 and week 4 in the fasting state to highly desirable compared with less desirable food cues correlated with changes in BMI at 4 weeks (r = 0.60, P &lt; 0.0001; r = 0.37, P &lt; 0.023, respectively).</text>
+    </sentence>
+    <sentence charOffset="17205-17391" id="S108" selection="17a">
+        <text xml:space="preserve">Changes in the visual cortices in the fasting state to highly desirable compared with less desirable food cues at week 1–week 0 also correlated with changes in BMI (r = 0.35, P &lt; 0.039).</text>
+    </sentence>
+    <sentence charOffset="17392-17493" id="S109" selection="17a">
+        <text xml:space="preserve">Reported changes in caloric intake did not significantly correlate with changes in brain activations.</text>
+    </sentence>
+    <sentence charOffset="17502-17767" id="S110" selection="17a">
+        <text xml:space="preserve">When we examine those individuals in the lorcaserin group, changes in activation in the cuneus between week 1 and week 0 in the fasting state to highly desirable compared with less desirable food cues correlated with changes in BMI at 4 weeks (r = 0.58, P &lt; 0.014).</text>
+    </sentence>
+    <sentence charOffset="17768-17956" id="S111" selection="17a">
+        <text xml:space="preserve">Changes in the parietal cortices in the fasting state to highly desirable compared with less desirable food cues at week 1–week 4 also correlated with changes in BMI (r = 0.57, P &lt; 0.016).</text>
+    </sentence>
+    <sentence charOffset="17957-18392" id="S112" selection="17a">
+        <text xml:space="preserve">Changes in caloric intake correlated with changes in the visual and parietal cortices and insula at week 1–week 0 (r = 0.64, P &lt; 0.005; r = 0.53, P &lt; 0.029; r = 0.70, P &lt; 0.002, respectively) and with changes in the precuneus, temporoparietal junction, visual and parietal cortices, and insula at week 1–week 4 (r = 0.81, P &lt; 0.0001; r = 0.88, P &lt; 0.0001; r = 0.86, P &lt; 0.0001; r = 0.77, P &lt; 0.0001; r = 0.67, P &lt; 0.003, respectively).</text>
+    </sentence>
+    <sentence charOffset="18415-18462" id="S113" selection="">
+        <text xml:space="preserve">Baseline Predictors of Efficacy With Lorcaserin</text>
+    </sentence>
+    <sentence charOffset="18471-18737" id="S114" selection="">
+        <text xml:space="preserve">To determine whether there are baseline predictors of the efficacy of lorcaserin, we performed whole-brain regressions with baseline brain activations to food cues and the metrics of efficacy, including weight loss, decreases in BMI, and decreases in caloric intake.</text>
+    </sentence>
+    <sentence charOffset="18738-19064" id="S115" selection="18">
+        <text xml:space="preserve">Greater weight lost at 4 weeks is correlated with activation of the amygdala to highly desirable compared with less desirable food cues during the fed state in a regression analysis on the brain of the patients who received lorcaserin (n = 17) at baseline (cluster size = 2,663 mm3; peak at −20, −10, −18; z = 4.58) (Fig. 2A).</text>
+    </sentence>
+    <sentence charOffset="19065-19442" id="S116" selection="18">
+        <text xml:space="preserve">Activations in visual cortices of the occipital lobe during the fed state to highly desirable compared with less desirable food images correlate significantly with decreases in BMI (cluster size = 40,200 mm3; peak at 8, −38, −4; z = 4.45) (Fig. 2B), as well as the amygdala, which does not reach a corrected threshold (cluster size = 2,438 mm3; peak at −18, −8, −16; z = 3.55).</text>
+    </sentence>
+    <sentence charOffset="19443-19823" id="S117" selection="18">
+        <text xml:space="preserve">For participants on lorcaserin who submitted their detailed food logs (n = 13), we observe that baseline activation in the prefrontal cortex to all food images compared with nonfood images during the fed state indicating lower baseline activations are associated with more decreases in total caloric consumption (cluster size = 13,069 mm3; peak at −6, 58, 10; z = 4.26) (Fig. 2C).</text>
+    </sentence>
+    <sentence charOffset="19833-19890" id="S118" selection="18">
+        <text xml:space="preserve">Figure 2 Baseline predictors of efficacy with lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="19891-20066" id="S119" selection="">
+        <text xml:space="preserve">Shown are results from a whole-brain regression analysis with weight loss (A), BMI decrease (B), and caloric intake (C) at 4 weeks with brain activations at baseline (week 0).</text>
+    </sentence>
+    <sentence charOffset="20067-20227" id="S120" selection="">
+        <text xml:space="preserve">Greater activation of areas shown in red at baseline (week 0) are correlated with greater weight loss, BMI decreases, or decreases in caloric intake at 4 weeks.</text>
+    </sentence>
+    <sentence charOffset="20228-20355" id="S121" selection="">
+        <text xml:space="preserve">BOLD contrasts are superimposed on a T1 structural image in axial sections from z = −15 to z = 60, in neurological orientation.</text>
+    </sentence>
+    <sentence charOffset="20380-20390" id="S122">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="20397-20537" id="S123" selection="">
+        <text xml:space="preserve">We report decreases in brain activations to food cues with relatively short-term (1 week) and longer-term (4 weeks) therapy with lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="20538-20750" id="S124" selection="">
+        <text xml:space="preserve">More specifically, we report deactivations with lorcaserin at 1 week during the fasting state and before weight loss with decreased attention-related parietal and visual activations to highly desirable food cues.</text>
+    </sentence>
+    <sentence charOffset="20751-21045" id="S125" selection="22">
+        <text xml:space="preserve">In a direct comparison between 1 and 4 weeks, we see significant decreases with lorcaserin at 1 week to highly desirable food cues in attention-related brain areas and the amygdala compared with the longer-term 4-week time point, indicating attenuation of deactivations by lorcaserin over time.</text>
+    </sentence>
+    <sentence charOffset="21046-21162" id="S126" selection="">
+        <text xml:space="preserve">After 4 weeks and modest weight loss, we report decreases in the attention-related parietal cortex in the fed state.</text>
+    </sentence>
+    <sentence charOffset="21169-21554" id="S127" selection="22">
+        <text xml:space="preserve">When baseline predictors of success with lorcaserin were examined, weight loss at 4 weeks correlated with baseline activation of amygdala, part of the emotional/limbic system, to highly desirable food cues after a meal in a whole-brain regression analysis, suggesting that increased activation of the amygdala indicates which participants would benefit most from the use of lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="21555-21804" id="S128" selection="22">
+        <text xml:space="preserve">Decreases in BMI correlated with amygdala and occipital activations at baseline for the lorcaserin group in the fed state, suggesting that lorcaserin may be helpful for individuals who find highly desirable and less healthful food cues more salient.</text>
+    </sentence>
+    <sentence charOffset="21805-22090" id="S129" selection="22">
+        <text xml:space="preserve">Decreases in total caloric consumption correlated inversely with activations in the prefrontal cortex to all food cues compared with nonfood cues during the fed state, suggesting poorer baseline cognitive control may suggest later benefit of lorcaserin on reported caloric consumption.</text>
+    </sentence>
+    <sentence charOffset="22091-22255" id="S130" selection="22">
+        <text xml:space="preserve">Altogether, our findings suggest that lorcaserin decreases cortical and limbic activations to food cues over time, with greater effects in the short-term or 1 week.</text>
+    </sentence>
+    <sentence charOffset="22256-22443" id="S131" selection="22">
+        <text xml:space="preserve">Furthermore, the regressions with changes in weight and BMI suggest that lorcaserin may be of the most benefit to emotional eaters or those who have dysfunctional activations at baseline.</text>
+    </sentence>
+    <sentence charOffset="22459-22513" id="S132" selection="">
+        <text xml:space="preserve">Changes in Brain Activations With Lorcaserin Over Time</text>
+    </sentence>
+    <sentence charOffset="22522-22658" id="S133" selection="">
+        <text xml:space="preserve">At 1 week, we observe decreased activation in the parietal cortex, cuneus, precuneus, and visual cortices to highly desirable food cues.</text>
+    </sentence>
+    <sentence charOffset="22659-22952" id="S134" selection="22">
+        <text xml:space="preserve">These areas are involved in many cognitive processes but may be representing changes in attention and saliency; that is, attending to cues of relative importance, processing, indicating that short-term treatment with lorcaserin decreases the importance and attention to highly palatable foods.</text>
+    </sentence>
+    <sentence charOffset="22953-23208" id="S135" selection="">
+        <text xml:space="preserve">In the fasting state, activations of areas involved in salience and attention to high-calorie compared with low-calorie food cues have been previously observed in participants without obesity because these are generally more attention-grabbing foods (21).</text>
+    </sentence>
+    <sentence charOffset="23209-23318" id="S136" selection="">
+        <text xml:space="preserve">Other studies have also shown similarly increased activation in the occipital cortex for food images (22,23).</text>
+    </sentence>
+    <sentence charOffset="23319-23542" id="S137" selection="22">
+        <text xml:space="preserve">These typically increased activations are due to the inherent importance and emotional value of food cues; indeed, others have shown that higher occipital lobe activation is linked with exposure to emotional images (24,25).</text>
+    </sentence>
+    <sentence charOffset="23543-23679" id="S138" selection="">
+        <text xml:space="preserve">The parietal cortex is a well-known component of the attention and salience system that increases activity to important stimuli (26–28).</text>
+    </sentence>
+    <sentence charOffset="23680-23784" id="S139" selection="22">
+        <text xml:space="preserve">Thus, our data indicate that highly desirable food cues appear less important with lorcaserin treatment.</text>
+    </sentence>
+    <sentence charOffset="23785-23960" id="S140" selection="22">
+        <text xml:space="preserve">Altogether, these results suggest that lorcaserin decreases the emotional significance of highly desirable food cues, which leads to the observed decrease in food consumption.</text>
+    </sentence>
+    <sentence charOffset="23969-24178" id="S141" selection="">
+        <text xml:space="preserve">Regarding changes over time, we report attenuation of brain deactivations between 1 and 4 weeks of lorcaserin therapy, where there is less deactivation of attention-related circuitry at 4 weeks than at 1 week.</text>
+    </sentence>
+    <sentence charOffset="24179-24424" id="S142" selection="">
+        <text xml:space="preserve">Indeed, a direct comparison showed the same visual and parietal cortices as well as the insula and amygdala, which may also be involved in the saliency network, are more deactivated at 1 week than at 4 weeks for lorcaserin compared with placebo.</text>
+    </sentence>
+    <sentence charOffset="24425-24558" id="S143" selection="">
+        <text xml:space="preserve">Among their involvement in other CNS systems, the insula and amygdala are both involved in salience and emotional processing (29–33).</text>
+    </sentence>
+    <sentence charOffset="24559-24833" id="S144" selection="22">
+        <text xml:space="preserve">Although the insula is also involved in proprioception and taste (34), its activation in this study could be related to salience or to changes in gut motility and cue priming to involve the enteric nervous system resulting from the posterior location of the activation (35).</text>
+    </sentence>
+    <sentence charOffset="24834-24984" id="S145" selection="22">
+        <text xml:space="preserve">This relative increase between 1 and 4 weeks may represent attenuation at 4 weeks, where brain activations begin to return to control/baseline levels.</text>
+    </sentence>
+    <sentence charOffset="24985-25147" id="S146" selection="">
+        <text xml:space="preserve">Indeed, at 4 weeks compared with baseline, we observe only decreased activation of the parietal cortex to food cues, regardless of desirability, in the fed state.</text>
+    </sentence>
+    <sentence charOffset="25148-25320" id="S147" selection="22">
+        <text xml:space="preserve">This likely demonstrates a continued decreasing “value” of food cues with lorcaserin treatment in the longer-term, which has become less pronounced or attenuated over time.</text>
+    </sentence>
+    <sentence charOffset="25329-25439" id="S148" selection="">
+        <text xml:space="preserve">Unlike studies with rodents, we did not observe any changes in hypothalamic activation with lorcaserin (9–11).</text>
+    </sentence>
+    <sentence charOffset="25440-25492" id="S149" selection="">
+        <text xml:space="preserve">Rodents and humans have a different brain structure.</text>
+    </sentence>
+    <sentence charOffset="25493-25701" id="S150" selection="">
+        <text xml:space="preserve">Eating behaviors in rodents are primarily controlled by the homeostatic system (hypothalamus), and the rodent cortex is not comparable in structure or function to the cortex controlling food intake in humans.</text>
+    </sentence>
+    <sentence charOffset="25702-25892" id="S151" selection="">
+        <text xml:space="preserve">Indeed, in humans, eating is often controlled by higher cortical processes, including reward, saliency, and other networks, and not simply the homeostatic processes of the hypothalamus (36).</text>
+    </sentence>
+    <sentence charOffset="25893-26081" id="S152" selection="20">
+        <text xml:space="preserve">The lack of a finding in the hypothalamus may also be due to the limitations of fMRI, because the hypothalamus is small and susceptible to artifacts from its proximity to the sinuses (36).</text>
+    </sentence>
+    <sentence charOffset="26082-26205" id="S153" selection="22">
+        <text xml:space="preserve">Thus, hypothalamic activation by lorcaserin should not be ruled out but cannot be confirmed from this fMRI study in humans.</text>
+    </sentence>
+    <sentence charOffset="26214-26422" id="S154" selection="20">
+        <text xml:space="preserve">It could be argued that differences in brain activations over time may indicate confounding effects, such as interacting changes with weight loss over time and/or habituation to the effects of the medication.</text>
+    </sentence>
+    <sentence charOffset="26423-26498" id="S155" selection="20">
+        <text xml:space="preserve">That patients could have habituated to the task over time is also possible.</text>
+    </sentence>
+    <sentence charOffset="26499-26652" id="S156" selection="">
+        <text xml:space="preserve">Considering that participants in the placebo group had the same number of fMRI scans, these potential confounders should have been adequately controlled.</text>
+    </sentence>
+    <sentence charOffset="26675-26722" id="S157" selection="">
+        <text xml:space="preserve">Baseline Predictors of Efficacy With Lorcaserin</text>
+    </sentence>
+    <sentence charOffset="26731-27009" id="S158" selection="">
+        <text xml:space="preserve">Given the variability of responses to lorcaserin in the clinic and to determine predictors of efficacy with lorcaserin, we performed whole-brain regression analyses of baseline activations with metrics of clinical success, including weight loss, BMI changes, and caloric intake.</text>
+    </sentence>
+    <sentence charOffset="27010-27194" id="S159" selection="">
+        <text xml:space="preserve">We observed that the activation of the amygdala at baseline in response to highly desirable food cues, an indicator of emotional eating, correlated with greater weight lost at 4 weeks.</text>
+    </sentence>
+    <sentence charOffset="27195-27390" id="S160" selection="">
+        <text xml:space="preserve">The amygdala is a component of the saliency network, particularly responding to emotionally salient stimuli (31–33), that has also been implicated directly in the emotional eating system (37,38).</text>
+    </sentence>
+    <sentence charOffset="27391-27589" id="S161" selection="22">
+        <text xml:space="preserve">Thus, individuals who find highly palatable foods emotionally more salient would be the ones to mainly obtain the most weight loss/change in brain activations over time when treated with lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="27590-27818" id="S162" selection="">
+        <text xml:space="preserve">This also indicates that lorcaserin may be most helpful for individuals who are emotional eaters and will need to be confirmed with further studies, including not only fMRIs but also questionnaires specific for emotional eating.</text>
+    </sentence>
+    <sentence charOffset="27819-28005" id="S163" selection="">
+        <text xml:space="preserve">In addition, we report that decreases in BMI correlate not only with activation of the amygdala but also with occipital activations at baseline for the lorcaserin group in the fed state.</text>
+    </sentence>
+    <sentence charOffset="28006-28166" id="S164" selection="22">
+        <text xml:space="preserve">This provides further support for the notion that lorcaserin may be helpful for individuals who find highly desirable and less healthful food cues more salient.</text>
+    </sentence>
+    <sentence charOffset="28167-28332" id="S165" selection="">
+        <text xml:space="preserve">Furthermore, prefrontal activation during the fed state to all food cues compared with nonfood cues correlates inversely with decreases in total caloric consumption.</text>
+    </sentence>
+    <sentence charOffset="28333-28467" id="S166" selection="">
+        <text xml:space="preserve">Prefrontal activations may indicate a number of cognitive processes, including emotion, salience, memory, and top-down processes (39).</text>
+    </sentence>
+    <sentence charOffset="28468-28695" id="S167" selection="">
+        <text xml:space="preserve">Most frequently with regards to food cues, prefrontal activations are thought to be related to cognitive control and to an individual’s ability to stop him- or herself from eating in excess or eating unhealthy foods (29,40,41).</text>
+    </sentence>
+    <sentence charOffset="28696-28978" id="S168" selection="22">
+        <text xml:space="preserve">Thus, individuals who had less cognitive control–related prefrontal activations at baseline showed less decreases in caloric intake, indicating that participants who already have less cortical inhibition to food cues receive the greatest benefit from lorcaserin in food consumption.</text>
+    </sentence>
+    <sentence charOffset="28979-29078" id="S169" selection="">
+        <text xml:space="preserve">This is a plausible hypothesis, because these individuals would have the most room for improvement.</text>
+    </sentence>
+    <sentence charOffset="29079-29252" id="S170" selection="">
+        <text xml:space="preserve">This needs to be tested by future specifically designed studies focusing on emotional eaters and any differences in the efficacy and brain responses to food with lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="29275-29323" id="S171" selection="">
+        <text xml:space="preserve">Strengths, Limitations, and Other Considerations</text>
+    </sentence>
+    <sentence charOffset="29332-29488" id="S172" selection="">
+        <text xml:space="preserve">Although we do not observe any changes in cognition with up to 1 month of lorcaserin treatment, animal studies suggest that there may be cognitive benefits.</text>
+    </sentence>
+    <sentence charOffset="29489-29729" id="S173" selection="">
+        <text xml:space="preserve">Whether the effects observed previously in mice were a result of changes in body weight or the medication per se remain unclear, because they are not confirmed in our study with participants on the medication before significant weight loss.</text>
+    </sentence>
+    <sentence charOffset="29730-29985" id="S174" selection="22">
+        <text xml:space="preserve">A prior study in mice demonstrated decreased spatial/working memory with diet-induced obesity, which was improved with lorcaserin therapy (42), but this may simply highlight effects of weight loss or simply the differences between rodent and human brains.</text>
+    </sentence>
+    <sentence charOffset="29986-30125" id="S175" selection="">
+        <text xml:space="preserve">Weight loss itself typically results in improved performance on cognitive tasks in humans, including memory and executive function (43,44).</text>
+    </sentence>
+    <sentence charOffset="30126-30395" id="S176" selection="22">
+        <text xml:space="preserve">Because we do not observe any changes on cognition with lorcaserin in this study, this may indicate that any longer-term benefits may be the result of weight loss and not the medication itself and/or that such changes may be weaker or take longer to manifest in humans.</text>
+    </sentence>
+    <sentence charOffset="30396-30478" id="S177" selection="">
+        <text xml:space="preserve">Longer-term studies would be required to determine whether this might be the case.</text>
+    </sentence>
+    <sentence charOffset="30479-30627" id="S178" selection="20">
+        <text xml:space="preserve">One could argue that it is a limitation of the study that our randomization did not eliminate differences in BMI between the two groups at baseline.</text>
+    </sentence>
+    <sentence charOffset="30628-30794" id="S179" selection="">
+        <text xml:space="preserve">However, we controlled for such baseline differences in our analyses and observed no differences in brain activations to food cues between the two groups at baseline.</text>
+    </sentence>
+    <sentence charOffset="30795-30944" id="S180" selection="20">
+        <text xml:space="preserve">One would also question, given that no prior data exist on which to base power calculations, whether an adequate number of participants was included.</text>
+    </sentence>
+    <sentence charOffset="30945-31041" id="S181" selection="">
+        <text xml:space="preserve">The number of participants was similar to recent studies with other medications and MRI (45,46).</text>
+    </sentence>
+    <sentence charOffset="31042-31258" id="S182" selection="">
+        <text xml:space="preserve">Furthermore, although we have examined multiple fMRI contrasts over time, we report results that reach a threshold corrected for multiple comparisons with FWE corrections, according to the standard with fMRI studies.</text>
+    </sentence>
+    <sentence charOffset="31259-31324" id="S183" selection="">
+        <text xml:space="preserve">Thus, multiple comparisons should not have affected our findings.</text>
+    </sentence>
+    <sentence charOffset="31333-31522" id="S184" selection="20">
+        <text xml:space="preserve">Studies of longer duration would also be warranted to look at continued success and longer-term effects on food cue processing, such as at 12 weeks, when weight loss is expected to plateau.</text>
+    </sentence>
+    <sentence charOffset="31523-31758" id="S185" selection="">
+        <text xml:space="preserve">Indeed, studies have shown that weight loss by week 12 with lorcaserin is a strong predictor of longer-term (52 weeks) success (47), which may indicate a good time at which to determine individual differences in response to lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="31759-31876" id="S186" selection="22">
+        <text xml:space="preserve">Overall, these results are strong and indicate clear changes in brain responses to food cues with lorcaserin therapy.</text>
+    </sentence>
+    <sentence charOffset="31877-32159" id="S187" selection="22">
+        <text xml:space="preserve">In addition, we observe baseline differences in activation that correlate to behavioral changes in response to lorcaserin and that may suggest that lorcaserin is of particular benefit to individuals who are emotional eaters and/or place importance on high-calorie or high-fat foods.</text>
+    </sentence>
+    <sentence charOffset="32160-32268" id="S188" selection="22">
+        <text xml:space="preserve">This is of particular importance in the clinic, given the variable responses observed to lorcaserin therapy.</text>
+    </sentence>
+    <sentence charOffset="32269-32541" id="S189" selection="22">
+        <text xml:space="preserve">If confirmed and correlated with appropriately designed questionnaire data, these findings can not only provide mechanistic explanations but also lead to developments of clinical tools to select which individuals would respond best clinically to treatment with lorcaserin.</text>
+    </sentence>
+    <sentence charOffset="32558-32569" id="S190">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="32586-32605" id="S191" selection="23">
+        <text xml:space="preserve">Clinical trial reg.</text>
+    </sentence>
+    <sentence charOffset="32606-32642" id="S192" selection="23">
+        <text xml:space="preserve">no. NCT02400359, clinicaltrials.gov.</text>
+    </sentence>
+    <sentence charOffset="32665-32794" id="S193" selection="">
+        <text xml:space="preserve">This article contains Supplementary Data online at http://diabetes.diabetesjournals.org/lookup/suppl/doi:10.2337/db16-0635/-/DC1.</text>
+    </sentence>
+    <sentence charOffset="32817-32938" id="S194" selection="">
+        <text xml:space="preserve">This article is featured in a podcast available at http://www.diabetesjournals.org/content/diabetes-core-update-podcasts.</text>
+    </sentence>
+    <sentence charOffset="32958-32977" id="S195" selection="">
+        <text xml:space="preserve">Article Information</text>
+    </sentence>
+    <sentence charOffset="32984-33000" id="S196" selection="">
+        <text xml:space="preserve">Acknowledgments.</text>
+    </sentence>
+    <sentence charOffset="33001-33119" id="S197" selection="25">
+        <text xml:space="preserve">Drug supply (lorcaserin and placebo) was provided by Arena Pharmaceuticals GmbH through Eisai, Inc., to investigators.</text>
+    </sentence>
+    <sentence charOffset="33126-33134" id="S198" selection="">
+        <text xml:space="preserve">Funding.</text>
+    </sentence>
+    <sentence charOffset="33135-33214" id="S199" selection="25">
+        <text xml:space="preserve">Eisai, Inc., supported the study through an investigator-initiated study grant.</text>
+    </sentence>
+    <sentence charOffset="33215-33440" id="S200" selection="25">
+        <text xml:space="preserve">Eisai, Inc., approved the design of the study but had no role in study design; conduct of the study; collection, management, analysis, and interpretation of the data; or the preparation, review, or approval of the manuscript.</text>
+    </sentence>
+    <sentence charOffset="33441-33649" id="S201" selection="25">
+        <text xml:space="preserve">The project was supported by National Institute of Child Health and Human Development and Harvard Clinical and Translational Science Center grant UL1-RR-025758 from the National Center for Research Resources.</text>
+    </sentence>
+    <sentence charOffset="33650-33686" id="S202" selection="25">
+        <text xml:space="preserve">O.M.F. is supported by 5T32HD052961.</text>
+    </sentence>
+    <sentence charOffset="33687-33772" id="S203" selection="25">
+        <text xml:space="preserve">This study is also partly supported by National Institutes of Health grant DK-081913.</text>
+    </sentence>
+    <sentence charOffset="33779-33799" id="S204" selection="">
+        <text xml:space="preserve">Duality of Interest.</text>
+    </sentence>
+    <sentence charOffset="33800-33874" id="S205" selection="">
+        <text xml:space="preserve">No potential conflicts of interest relevant to this article were reported.</text>
+    </sentence>
+    <sentence charOffset="33881-33902" id="S206" selection="">
+        <text xml:space="preserve">Author Contributions.</text>
+    </sentence>
+    <sentence charOffset="33903-33945" id="S207" selection="">
+        <text xml:space="preserve">O.M.F. and C.S.M. designed the experiment.</text>
+    </sentence>
+    <sentence charOffset="33946-34071" id="S208" selection="">
+        <text xml:space="preserve">O.M.F., J.U., A.G., M.C., H.Ka., H.M., M.V., A.K., H.Ki., A.S., A.M., and C.S.M. conducted the experiments and acquired data.</text>
+    </sentence>
+    <sentence charOffset="34072-34106" id="S209" selection="">
+        <text xml:space="preserve">O.M.F. and N.S. analyzed the data.</text>
+    </sentence>
+    <sentence charOffset="34107-34176" id="S210" selection="">
+        <text xml:space="preserve">O.M.F. wrote the manuscript with input from all of the other authors.</text>
+    </sentence>
+    <sentence charOffset="34177-34366" id="S211" selection="">
+        <text xml:space="preserve">O.M.F. is the guarantor of this work and, as such, had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</text>
+    </sentence>
+    <section textSpan="0-252" title="Title" titleSpan="0-5"/>
+    <section textSpan="253-1599" title="Abstract" titleSpan="253-261"/>
+    <section textSpan="1605-5016" title="Introduction" titleSpan="1612-1624"/>
+    <section textSpan="5021-12673" title="Research Design and Methods" titleSpan="5028-5055">
+        <section textSpan="7897-8872" title="Data Analysis" titleSpan="7906-7919"/>
+        <section textSpan="8879-12668" title="fMRI Protocol and Analysis" titleSpan="8888-8914"/>
+    </section>
+    <section textSpan="12678-20368" title="Results" titleSpan="12685-12692">
+        <section textSpan="14734-18399" title="Changes in Brain Activations With Lorcaserin Over Time" titleSpan="14743-14797"/>
+        <section textSpan="18406-20363" title="Baseline Predictors of Efficacy With Lorcaserin" titleSpan="18415-18462"/>
+    </section>
+    <section textSpan="20373-32553" title="Discussion" titleSpan="20380-20390">
+        <section textSpan="22450-26659" title="Changes in Brain Activations With Lorcaserin Over Time" titleSpan="22459-22513"/>
+        <section textSpan="26666-29259" title="Baseline Predictors of Efficacy With Lorcaserin" titleSpan="26675-26722"/>
+        <section textSpan="29266-32548" title="Strengths, Limitations, and Other Considerations" titleSpan="29275-29323"/>
+    </section>
+    <section textSpan="32558-34372" title="Back matter" titleSpan="32558-32569"/>
+</document>

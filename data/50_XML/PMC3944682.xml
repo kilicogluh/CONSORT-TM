@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3944682" note="">
+    <text xml:space="preserve">Title
+Delayed antibiotic prescribing strategies for respiratory tract infections in primary care: pragmatic, factorial, randomised controlled trial
+Abstract
+
+        Objective To estimate the effectiveness of different strategies involving delayed antibiotic prescription for acute respiratory tract infections.
+        Design Open, pragmatic, parallel group, factorial, randomised controlled trial.
+        Setting Primary care in the United Kingdom.
+        Patients 889 patients aged 3 years and over with acute respiratory tract infection, recruited between 3 March 2010 and 28 March 2012 by 53 health professionals in 25 practices.
+        Interventions Patients judged not to need immediate antibiotics were randomised to undergo four strategies of delayed prescription: recontact for a prescription, post-dated prescription, collection of the prescription, and be given the prescription (patient led). During the trial, a strategy of no antibiotic prescription was added as another randomised comparison. Analysis was intention to treat.
+        Main outcome measures Mean symptom severity (0-6 scale) at days 2-4 (primary outcome), antibiotic use, and patients’ beliefs in the effectiveness of antibiotic use. Secondary analysis included comparison with immediate use of antibiotics.
+        Results Mean symptom severity had minimal differences between the strategies involving no prescription and delayed prescription (recontact, post-date, collection, patient led; 1.62, 1.60, 1.82, 1.68, 1.75, respectively; likelihood ratio test χ2 2.61, P=0.625). Duration of symptoms rated moderately bad or worse also did not differ between no prescription and delayed prescription strategies combined (median 3 days v 4 days; 4.29, P=0.368). There were modest and non-significant differences in patients very satisfied with the consultation between the randomised groups (79%, 74%, 80%, 88%, 89%, respectively; likelihood ratio test χ2 2.38, P=0.667), belief in antibiotics (71%, 74%, 73%, 72%, 66%; 1.62, P=0.805), or antibiotic use (26%, 37%, 37%, 33%, 39%; 4.96, P=0.292). By contrast, most patients given immediate antibiotics used antibiotics (97%) and strongly believed in them (93%), but with no benefit for symptom severity (score 1.76) or duration (median 4 days).
+        Conclusion Strategies of no prescription or delayed antibiotic prescription result in fewer than 40% of patients using antibiotics, and are associated with less strong beliefs in antibiotics, and similar symptomatic outcomes to immediate prescription. If clear advice is given to patients, there is probably little to choose between the different strategies of delayed prescription.
+        Trial registration ISRCTN38551726.
+      
+
+
+    
+      Introduction
+      Acute respiratory tract infections are the commonest acute conditions managed in primary care, and the control of symptoms is a central concern of patients and parents of young patients.1 2 Patients’ expectations and practitioners’ perceptions of those expectations have helped fuel prescribing, and antibiotic use in primary care is rising progressively again after a reduction that followed a peak in the late 1990s (www.dh.gov.uk/health/2012/11/eaad-resources). This is a key driver for antibiotic resistance,3 4 potentially leading to major infections becoming untreatable.5 6
+      Delayed prescription is recommended in international guidance, and the National Institute for Health and Care Excellence currently recommends using a strategy of either no antibiotic prescriptions or a delayed antibiotic prescription for dealing with uncomplicated acute sore throats and other respiratory infections.7 Systematic reviews of delayed prescription—where the patient is advised to wait for at least the expected natural history of the illness before using the prescription—have concluded that the strategy is an effective way of reducing antibiotic use but could result in poor symptom control.8 9 10 There has also been recent debate about whether no prescription of antibiotics is better than delayed prescription, because it results in slightly lower antibiotic use.8 Trial data for acute sore throat and chest infections have suggested that an immediate prescription and particularly delayed antibiotic prescription could reduce reconsultation compared with a no prescription strategy,11 12 but the trials were underpowered to compare strategies and detect complications. There has also been no direct comparison of the different methods used to delay antibiotic prescription, which could have different rates of antibiotic use.8 9 10 These methods include recontacting the clinic to request prescription by phone (recontact), post-dating the prescription (post-date), allowing patients to collect the prescription from the clinic themselves (collection), and giving prescriptions to patients and asking them to wait (patient led).
+      This study reports the likely effect of different strategies of antibiotic prescribing on symptom control and antibiotic use when controlling for commonly used analgesic advice and advice to inhale with steam that could plausibly affect symptom control.
+    
+    
+      Methods
+      
+        Summary of study design and trial groups
+        This study was a pragmatic open factorial trial of delayed antibiotic strategies, controlling for symptomatic advice regarding analgesia and steam, with a parallel observational component for patients judged to need immediate antibiotics. 
+        Health professionals, who were mainly doctors but also some practice nurses, decided in negotiation with patients whether immediate antibiotics were needed. If antibiotics were not needed, patients were randomised to one of four delayed prescribing groups: recontact for a prescription, post-dated prescription, collection of the prescription, or patient led (that is, the patient was given the prescription). The figure and web appendix 1 provides more detail on these groups.
+         CONSORT flow diagram. Of 889 patients considered, 556 were judged not to require immediate antibiotics and were randomised. *Numbers based on general practitioner reports
+        Each group was randomised further into 12 subgroups according to three factors. These factors were antipyretic regimens (ibuprofen, paracetamol, or both combined), regular antipyretic versus “as required” dosing, and steam inhalation advice versus no advice to inhale with steam. The web figure uses an example group (no prescription) to illustrate this randomisation process. During the trial (from January 2011), a strategy of no antibiotic prescription was added as a randomised comparison, bringing the total number of randomised groups to five (fig 1).
+      
+      
+        Summary of rationales
+        
+          Factorial design
+          We chose a factorial design for the analgesic and steam components to deal with the management of symptoms, and the antibiotic component particularly to deal with antibiotic use and beliefs in antibiotics. The factorial design is not only efficient in assessing multiple interventions, but also provides better control of symptomatic advice (regarding analgesia or steam) that could plausibly affect symptom control in the antibiotic groups.
+          A non-randomised immediate prescription group was chosen to allow all patients to enter the study and provide two important opportunities. Firstly, to observe how often immediate antibiotics are thought necessary by clinicians, and secondly, to be able to compare patient outcomes in those prescribed and not prescribed antibiotics.
+          During the study, it became clear from systematic reviews that delayed prescribing might result in higher antibiotic use than no initial prescription.8 We therefore added a no prescription group to facilitate interpretation of the effect of delayed prescription compared with the alternatives strategies, particularly because both the delayed and no prescription groups in the current study had higher antibiotic use than in previous studies.
+        
+        
+          Randomisation
+          A statistician independent of the study team coordinated the randomisation using computer generated random numbers. If the doctor thought that immediate antibiotics were definitely required, they prescribed antibiotics, otherwise patients were randomised to one of four methods of delayed antibiotic prescribing. We assessed evidence of subversion of randomisation by monitoring the order of use of envelopes (there was no evidence of selective envelope use) and the baseline table (which showed that the groups were well balanced).
+          A key concern in complex pragmatic factorial trials is keeping the logistics simple and avoiding errors at the point of intervention delivery. We made it very simple to execute randomisation and delivery because the health professional took the next pack off the shelf that contained pre-randomised advice sheets (that is, there was no requirement—and hence no error—in finding and using the correct advice sheets). With careful attention to practitioner equipoise, this method of randomisation to different advice strategies has proved successful in previous trials.11 13 14 There was no evidence of subversion in the current study—either for selective envelope use or bias in patient characteristics.
+        
+        
+          Inclusion and exclusion criteria
+          The study included patients aged 3 years and over presenting to a health professional (a general practitioner or nurse). Patients had to present in a general practice setting with a respiratory tract infection diagnosed by the health professional (acute cold, influenza, sore throat, otitis media, sinusitis, croup, or lower respiratory tract infection). Patient or parental written consent was given.
+          Patients were excluded if they were asthmatic (unless ibuprofen or aspirin previously provided no problems), had active or previous peptic ulceration, were hypersensitive to analgesics, and were unable to complete outcome measures (for example, they were visually impaired, had psychosis, or were severely depressed). Exclusion also applied to patients who required hospital admission (for example, for meningitis, severe pneumonia, epiglottitis, or Kawasaki disease), had a known immune deficiency, or were pregnant or breastfeeding.
+        
+      
+      
+        Outcomes
+        The primary outcome was symptom severity measured at the end of each day during days 2-4 of a two week symptom diary (days 2-4 are when symptoms of all respiratory infections are at their worst11 14). We chose symptom severity as a key outcome because the most recent systematic review documented worse symptom control with delayed prescription.8 The diary was completed by patients (or children) until symptoms returned to normal. It used previously validated formats11 15 for rating symptoms (0=no problem, 6=as bad as it could be). Symptoms included feeling generally unwell, sleep disturbance, fever, interference with normal activities, sore throat, cough, short of breath, facial or sinus pain, earache, and runny or blocked nose. Symptom resolution was a secondary outcome because duration differs according to the particular respiratory infection.7
+        Patients were telephoned (on days 2-3) to check for any problems with diary completion. If no diary was received after two weeks, one mailed reminder was sent and then a phone call made as necessary to document key outcomes using a brief questionnaire—which we have shown to be reliable.13
+        Secondary outcomes were:
+        
+          
+            Any antibiotic use in the 14 days after recruitment, as documented in the diary or the brief questionnaire
+          
+          
+            Side effects (rash, diarrhoea, vomiting, or abdominal pain) documented in the diary
+          
+          
+            Mean temperature readings in the morning and evening using tempadot thermometers (orally where possible)
+          
+          
+            Duration of symptoms: rated moderately bad or worse
+          
+          
+            Return with new or worsening symptoms or complications of intervention—that is, a patient returning with a symptom or diagnosis of respiratory tract infection recorded using a structured proforma by a member of the research team. Complications were defined as a new consultation documented in the notes within one month with otitis media, sinusitis, pneumonia, quinsy, cervical adenitis, meningitis, or septicaemia
+          
+          
+            Belief in the effectiveness of antibiotics and satisfaction, measured in the main diary using previously developed questions13
+          
+        
+        General practitioners were asked to complete non-recruitment logs and a questionnaire at the end of the study documenting the common reasons for non-recruitment of eligible patients and for eligible patients who declined.
+      
+      
+        Sample size calculation 
+        We calculated the sample size based on an α value of 0.05 and β value of 0.2 using the NQuery program for multiple group sample sizes. There were two elements to the calculation, firstly for symptom control (the primary outcome), and secondly for antibiotic use. We assumed a standard deviation of 1.1 for our primary outcome.11 13 15 Assuming that one analgesic group had symptom control that was 0.5 standard deviations better than one of the other groups (that is, a moderate effect size), 228 patients were needed to allow for 12 groups and 80% follow-up, or 504 patients for 0.33 standard deviations. This effect size was equivalent to one in three people rating symptoms as mild rather than moderate, agreed as a modest effect size by the trial steering committee of a Medical Research Council funded trial of prescribing strategies for acute cough11). 
+        For the antibiotic outcome of the antibiotic strategies (a key outcome for this component of the study), we compared the difference in antibiotic use between the delayed strategies and no antibiotic prescription. Seventy two patients per group or 450 in total were needed in the groups with no prescription or delayed prescription, allowing for 20% loss to follow-up. These numbers also assumed 15% use of antibiotics in the no antibiotic group, and 20-35% use in the delayed prescription groups (20%, 25%, 35%, and 35% for recontact, post-date, collection, and patient led, respectively). We estimated that 72 patients per group would provide 80% power to detect a difference of 0.5 standard deviations in symptom control between delayed prescription groups and the no prescription group.
+      
+      
+        Analysis
+        We performed an analysis of the randomised groups and a secondary analysis that included the non-randomised immediate group. We used analysis of covariance for a factorial study for the main continuous outcomes, controlling for stratification, analgesic and steam strategies, and confounders if appropriate. Logistic regression was used for antibiotic use and return to the surgery, and Cox regression was used for the duration of symptoms. Odds ratios were converted to risk ratios using standard formulas.16 The effect of antibiotic strategies, and interactions, were assessed using the likelihood ratio χ2 test. The likelihood ratio test is particularly useful for assessing the effect of variables with multiple levels (for example, the delayed prescribing factor, with five levels), and provides an overall test of whether the variable makes a significant difference to the statistical model. Analysis was intention to treat (that is, practitioners or patients were analysed in their intended randomisation groups, whether or not they complied), but we did not impute missing values, there was no interim analysis, and no clinical subgroups for antibiotic prescribing strategies were specified in advance.
+      
+    
+    
+      Results
+      A total of 889 patients were recruited between 3 March 2010 and 28 March 2012 by 53 health professionals in 25 practices. Of these patients, 333 (37%) were prescribed immediate antibiotics and 556 (63%) entered the randomised trial. Those prescribed immediate antibiotics had slightly more severe symptoms at baseline and were more likely to be labelled as having lower respiratory tract infections and less likely to be labelled as having upper respiratory tract infections. However, controlling for these characteristics did not alter the inferences of comparisons with the delayed and no prescription groups. Baseline characteristics were similar in all randomised groups (table1). All patients were followed up for one month; further follow-up after the initial month was a mean of 0.84 years (standard deviation 0.36) and was similar in all groups. The diary symptom severity scale had acceptable internal reliability for days 2-4 (Cronbach’s α, day 2, 0.72; day 3, 0.79; day 4, 0.79) and was sensitive to change over the week (standardised response mean 1.60). The non-recruitment questionnaire had responses from 20 respondents who recruited most of the patients (n=704). The most common reason (given by 14 recruiters) for eligible patients declining was that the patient was too busy or insufficiently interested, followed by concern about the proposed treatment, and the patient being too unwell. The most common reason given (by 18 of 19 recruiters) for not approaching eligible patients was insufficient time.
+      Table 1  Baseline characteristic of groups
+      
+        Attrition bias
+        The characteristics of patients where the primary outcome was not documented were similar to those followed up (n=751) for baseline symptom score (1.0 v 0.98), female sex (82/136 (60%) v 458/744 (62%)), age 16 years or less (31/136 (23%) v 200/744 (27%)). The two groups were similar in diagnosis of lower respiratory tract infections (22/135 (16%) v 113/742 (15%)) and otitis media (16/134 (12%) v 66/740 (9%)).
+      
+      
+        Performance bias: compliance with delaying antibiotics
+        For the 264 patients who completed the main diary and who documented taking antibiotics, the median day that antibiotics were started was day 4 for all the delayed prescription strategies and day 1 for the immediate prescription strategy.
+      
+      
+        Outcomes
+        For symptom severity, we saw no evidence of a significant interaction between antibiotic strategy and analgesia use (likelihood ratio test χ2 7.7, P=0.47; web appendix 4), nor dosing (4.1, P=0.39) or steam (5.3, P=0.26). There was also no evidence that the effect of antibiotic strategy differed after adaptation of the trial to include a no prescription arm, for either symptom severity (3.20, P=0.362) or antibiotic use (1.25, P=0.740).
+      
+      
+        Main results
+        In the randomised groups (no prescription and delayed prescription strategies), there was no significant effect of strategy on symptom severity (likelihood ratio test χ2 2.61, P=0.625), duration (4.29, P=0.368), and small differences of 0.1°C in temperature control (10.37, P=0.035; table 2 shows individual group comparisons). Antibiotic use did not differ significantly between strategies (4.96, P=0.292), with the lowest use (26%; 26/99) reported in the no prescription arm, an average 37% (134/367) in the delayed arms (varying from 33% (28/85) in the collection arm to 39% (35/89) in the patient led arm). Belief in the effectiveness of antibiotics was strong but not significantly different between groups (1.62, P=0.805). Higher levels of satisfaction were reported for the patient led and collection approaches, although the limited sample size for this outcome resulted in no significant differences overall (2.38, P=0.667). Reconsultations in the following month were similar (2.97, P=0.563) and were not significantly different after the first month (4.11, P=0.391).
+        Table 2  Effectiveness of antibiotic strategies (randomised groups only)
+        After including the non-randomised immediate prescription group, there was no significant effect of antibiotic prescribing strategy on symptom severity (likelihood ratio test, χ2 4.05, P=0.543), duration (4.94, P=0.424), or temperature (7.66, P=0.176; web appendix 2 shows individual group comparisons). Antibiotic use differed significantly (326, P&lt;0.001) with 97% (270/278) of patients reporting antibiotic use in the immediate arm, and more patients believed antibiotics were very effective (93% (168/180); 36.4, P&lt;0.01) despite immediate antibiotics having no effect on symptom control or duration.
+      
+      
+        Harms
+        Complications were slightly more common in the no prescription group (3/122 (2.5%)) than in the delayed strategy groups (average 6/432 (1.4%)) and similar to the immediate group 8/326 (2.5%; web appendix 3). In multivariate analysis controlling for baseline symptoms, smoking, and diagnostic group, there were fewer complications in both the delayed and immediate groups but this difference was not significant (adjusted risk ratio 0.56 (95% confidence interval 0.13 to 2.37); 0.66 (0.15 to 2.88)). We saw little difference in other side effects reported between groups (web appendix 3).
+      
+    
+    
+      Discussion
+      To our knowledge, this is one of the largest studies so far to assess the effect of different antibiotic prescribing strategies on symptom control and antibiotic use, and the only trial so far to compare several commonly used methods of delaying antibiotic prescription. It shows little difference in symptom control between strategies involving no prescription, immediate prescription, or delayed prescription. This finding contrasts both health professionals’ behaviour in commonly requiring immediate antibiotics, and the persistently strong beliefs patients have in the effectiveness of antibiotics. The different ways of using delayed prescription, when the same structured approach is used, had more similar outcomes than previous trial data suggest, although the collection approach performed well on most criteria.
+      
+        Study limitations and strengths
+        The trial adapted the delayed prescribing strategies during the trial, in response to ongoing debate comparing no prescription with delayed prescription, to include a no prescription group, but there was no evidence of a difference in estimates as a result of the adaptation. The patient group were broadly defined, comprising a range of respiratory infections, and thus the heterogenous population increases variance, making type II errors more likely. However, delayed prescribing strategies apply to all infections (that is, this was the meaningful target population), and randomisation groups were well balanced for the main diagnoses. Participants in the non-randomised group (being prescribed antibiotics immediately) had slightly more severe symptoms at baseline; therefore, comparisons with this group may have been confounded, but controlling for baseline symptoms or other potential confounders did not alter the inferences. The study was not powered to detect a range of antibiotic use that was less than 20% (between 15% and 35%) when comparing the delayed prescribing and no prescribing strategies. The primary outcome (symptom severity in the first days) should apply in all acute infections, and was reasonably reliable and sensitive to change in this patient group. 
+        Recruitment was slow considering the incidence of respiratory infections, but feedback during and after the study indicated that this study was very easy to recruit to, and that recruitment was limited to time pressures in busy winter clinics as in previous studies,11 13 hence non-recruitment logs were poorly completed. This problem raises questions of generalisability. However, there was no evidence that patients with more severe symptoms were excluded, because comparisons to recent large, simple observational studies and trials showed patients with slightly more severe symptoms in the current study. On a scale of 0-3 for mean severity of sore throat at baseline, patients scored 2.4 in the current study versus 2.0 in the DESCARTE study17 18; for mean severity of cough at baseline, patients scored 2.6 in the current study versus 2.2 in the GRACE study.19 20 The results controlled for potential confounders, but since estimates were not meaningfully altered, the effect of any potential confounding was likely to be limited. 
+        This study was pragmatic so that patients were free not to comply with advice, but in fact compliance was probably reasonable. Most patients who were asked to delay using antibiotics did not use antibiotics, and those who did use antibiotics on average delayed for several days. The trial was adequately powered for symptom control but was not specifically powered to assess complications. 
+        A strength of the study was that we controlled for symptomatic advice, and we assessed interactions between such advice and antibiotic prescribing strategies: such advice is not normally measured nor assessed in trials of antibiotic strategies. However, the trial was not formally powered to detect interactions, and thus there was limited precision of the estimates for interactions. The estimates of interaction must be viewed with caution for several reasons. Firstly, the estimates for the main effects of the other interventions (analgesia, dosing, steam) suggested no effect of these interventions (therefore a ceiling effect resulting in a negative interaction was unlikely). Secondly, no interactions were postulated on theoretical grounds in advance. And thirdly, the spread of the estimates of interactions was consistent with chance. It was not possible for all outcomes to be included in the follow-ups to collect key outcome data, resulting in less power for outcomes that were only measured in the main diary, such as belief in antibiotics and satisfaction.
+      
+      
+        Main findings
+        We have confirmed that the use of delayed prescriptions is likely to be associated with fewer than 40% of patients using antibiotics. This finding is consistent with the systematic reviews,8 9 10 but unlike the systematic reviews, we did not confirm poor symptom control with delayed prescribing. The good symptom control in the current study could indicate that all patients were given structured advice about analgesic use. The delayed groups reported slightly higher antibiotic use than the no prescription group, in line with previous evidence.8 9 10 About a quarter of patients not initially prescribed antibiotics ended up using them, as opposed to a little more than a third of patients given a delayed prescription. The previous systematic reviews of delayed prescription documented variation between the antibiotic redemption rates for different strategies of delayed prescription,8 9 10 with higher redemption rates for some studies using the patient led approach. We documented similar outcomes in our study, but had the advantage of the same approach to advice for each strategy. Therefore, the larger differences observed between previous studies may not reflect differences in the methods of delayed prescribing themselves. 
+        Complications occurred in about 2-3% of patients given no antibiotic prescription compared with 1% of the delayed groups. The current study was not designed to detect differences in complications, but a recent large observational study of antibiotic prescribing strategies for sore throat (DESCARTE study, n=14 610, led by PL17) has confirmed significant reductions in complication rates using delayed or immediate prescriptions of the same order as the current study.18 There was little to choose between the different groups of delayed prescribing, but there may be marginal preference for the collection group, which had the most data from previous trials. In the current study, patients randomised to the collection strategy had a slightly lower use of antibiotics than the other delayed strategies—presumably due to the hurdle of having to return to the surgery for the prescription—as well as higher satisfaction rates and the lowest reconsultation rates.
+        
+          
+            What is already known on this topic
+            
+              
+                Strategies involving no antibiotic prescription or delayed antibiotic prescription are common in managing respiratory tract infections
+              
+              
+                But systematic reviews have suggested that delayed prescription could result in worse symptom control than immediate use of antibiotics, and could lead to higher antibiotic use than a no prescription strategy
+              
+              
+                Different methods of delaying prescriptions (such as giving prescriptions with instructions, leaving prescriptions for collection, post-dating prescriptions, or requesting recontact) have been used but not directly compared
+              
+            
+          
+          
+            What this study adds
+            
+              
+                There is probably little difference in symptom control in the short term between strategies of delayed prescription, no prescription, or immediate prescription, despite strong belief in the effectiveness of antibiotics among patients
+              
+              
+                Both no and delayed antibiotic prescription result in the minority of patients using antibiotics 
+              
+              
+                With clear guidance, any strategy of delayed prescribing is likely to result in fewer than 40% of patients using antibiotics
+              
+            
+          
+        
+      
+    
+  
+
+Back matter
+
+      
+        
+          We thank the general practitioners, practice nurses, and particularly the patients who gave their time to this study. The views expressed are those of the authors and not necessarily those of the National Health Service, National Institute for Health Research, or Department of Health. 
+        
+        
+          PIPS Investigators: Paul Little, Michael Moore, Jo Kelly, Ian Williamson, Geraldine Leydon, Lisa McDermott, Mark Mullee, Beth Stuart, Karen Middleton, Julie Hooper, Katherine Salisbury, Emily Edwards, Jennifer White, Adam Nicholls, Amanda Nagle, Susannah Gant. 
+        
+        
+          Contributors: All authors and Daniel Lane contributed to the development of the protocol. All authors contributed to overseeing the management of the study, agreeing the analysis plan, and to the write-up of the paper. KS, EE, JW, AN, HE, and SG developed and piloted the initial study documents supervised by the trial team; PL led the grant application and the initial drafting of the paper, and is the guarantor of the paper. PL, MM, and BS performed the analysis. JK and JH performed day to day management of the study, supervised by PL. Alastair Hay provided helpful comments on the analysis approach and the manuscript. All authors had full access to all of the data (including statistical reports and tables) in the study and can take responsibility for the integrity of the data and the accuracy of the data analysis. 
+        
+        
+          Funding: This article presents independent research funded by the National Institute for Health Research under its Programme Grants for Applied Research programme (grant reference no RP-PG-0407-10098). The National Institute for Health Research did not interfere in the research, nor have input into the analysis, interpretation, or writing of the paper. 
+        
+        
+          Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare: support from the National Institute for Health Research for the submitted work; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; and no other relationships or activities that could appear to have influenced the submitted work.
+        
+        
+          Ethical approval: Ethical approval was given by the Southampton and Southwest Multi Centre Research Ethics Committee (no 06/Q1702/154). 
+        
+        
+          Data sharing: No further data are available.
+        
+        
+          Transparency: The lead author (the manuscript’s guarantor) affirms that this manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned (and, if relevant, registered) have been explained.
+        
+      
+    
+
+      Cite this as: BMJ 2014;348:g1606</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-147" id="S2" selection="1a">
+        <text xml:space="preserve">Delayed antibiotic prescribing strategies for respiratory tract infections in primary care: pragmatic, factorial, randomised controlled trial</text>
+    </sentence>
+    <sentence charOffset="148-156" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="166-311" id="S4" selection="1b">
+        <text xml:space="preserve">Objective To estimate the effectiveness of different strategies involving delayed antibiotic prescription for acute respiratory tract infections.</text>
+    </sentence>
+    <sentence charOffset="320-399" id="S5" selection="">
+        <text xml:space="preserve">Design Open, pragmatic, parallel group, factorial, randomised controlled trial.</text>
+    </sentence>
+    <sentence charOffset="408-451" id="S6" selection="4b">
+        <text xml:space="preserve">Setting Primary care in the United Kingdom.</text>
+    </sentence>
+    <sentence charOffset="460-636" id="S7" selection="">
+        <text xml:space="preserve">Patients 889 patients aged 3 years and over with acute respiratory tract infection, recruited between 3 March 2010 and 28 March 2012 by 53 health professionals in 25 practices.</text>
+    </sentence>
+    <sentence charOffset="645-908" id="S8" selection="">
+        <text xml:space="preserve">Interventions Patients judged not to need immediate antibiotics were randomised to undergo four strategies of delayed prescription: recontact for a prescription, post-dated prescription, collection of the prescription, and be given the prescription (patient led).</text>
+    </sentence>
+    <sentence charOffset="909-1011" id="S9" selection="">
+        <text xml:space="preserve">During the trial, a strategy of no antibiotic prescription was added as another randomised comparison.</text>
+    </sentence>
+    <sentence charOffset="1012-1044" id="S10" selection="">
+        <text xml:space="preserve">Analysis was intention to treat.</text>
+    </sentence>
+    <sentence charOffset="1053-1217" id="S11" selection="">
+        <text xml:space="preserve">Main outcome measures Mean symptom severity (0-6 scale) at days 2-4 (primary outcome), antibiotic use, and patients’ beliefs in the effectiveness of antibiotic use.</text>
+    </sentence>
+    <sentence charOffset="1218-1291" id="S12" selection="">
+        <text xml:space="preserve">Secondary analysis included comparison with immediate use of antibiotics.</text>
+    </sentence>
+    <sentence charOffset="1300-1560" id="S13" selection="">
+        <text xml:space="preserve">Results Mean symptom severity had minimal differences between the strategies involving no prescription and delayed prescription (recontact, post-date, collection, patient led; 1.62, 1.60, 1.82, 1.68, 1.75, respectively; likelihood ratio test χ2 2.61, P=0.625).</text>
+    </sentence>
+    <sentence charOffset="1561-1741" id="S14" selection="">
+        <text xml:space="preserve">Duration of symptoms rated moderately bad or worse also did not differ between no prescription and delayed prescription strategies combined (median 3 days v 4 days; 4.29, P=0.368).</text>
+    </sentence>
+    <sentence charOffset="1742-2075" id="S15" selection="">
+        <text xml:space="preserve">There were modest and non-significant differences in patients very satisfied with the consultation between the randomised groups (79%, 74%, 80%, 88%, 89%, respectively; likelihood ratio test χ2 2.38, P=0.667), belief in antibiotics (71%, 74%, 73%, 72%, 66%; 1.62, P=0.805), or antibiotic use (26%, 37%, 37%, 33%, 39%; 4.96, P=0.292).</text>
+    </sentence>
+    <sentence charOffset="2076-2273" id="S16" selection="">
+        <text xml:space="preserve">By contrast, most patients given immediate antibiotics used antibiotics (97%) and strongly believed in them (93%), but with no benefit for symptom severity (score 1.76) or duration (median 4 days).</text>
+    </sentence>
+    <sentence charOffset="2282-2533" id="S17" selection="">
+        <text xml:space="preserve">Conclusion Strategies of no prescription or delayed antibiotic prescription result in fewer than 40% of patients using antibiotics, and are associated with less strong beliefs in antibiotics, and similar symptomatic outcomes to immediate prescription.</text>
+    </sentence>
+    <sentence charOffset="2534-2664" id="S18" selection="">
+        <text xml:space="preserve">If clear advice is given to patients, there is probably little to choose between the different strategies of delayed prescription.</text>
+    </sentence>
+    <sentence charOffset="2673-2707" id="S19" selection="23">
+        <text xml:space="preserve">Trial registration ISRCTN38551726.</text>
+    </sentence>
+    <sentence charOffset="2728-2740" id="S20">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2747-2936" id="S21" selection="">
+        <text xml:space="preserve">Acute respiratory tract infections are the commonest acute conditions managed in primary care, and the control of symptoms is a central concern of patients and parents of young patients.1 2</text>
+    </sentence>
+    <sentence charOffset="2937-3211" id="S22" selection="">
+        <text xml:space="preserve">Patients’ expectations and practitioners’ perceptions of those expectations have helped fuel prescribing, and antibiotic use in primary care is rising progressively again after a reduction that followed a peak in the late 1990s (www.dh.gov.uk/health/2012/11/eaad-resources).</text>
+    </sentence>
+    <sentence charOffset="3212-3327" id="S23" selection="">
+        <text xml:space="preserve">This is a key driver for antibiotic resistance,3 4 potentially leading to major infections becoming untreatable.5 6</text>
+    </sentence>
+    <sentence charOffset="3334-3652" id="S24" selection="">
+        <text xml:space="preserve">Delayed prescription is recommended in international guidance, and the National Institute for Health and Care Excellence currently recommends using a strategy of either no antibiotic prescriptions or a delayed antibiotic prescription for dealing with uncomplicated acute sore throats and other respiratory infections.7</text>
+    </sentence>
+    <sentence charOffset="3653-3947" id="S25" selection="2a">
+        <text xml:space="preserve">Systematic reviews of delayed prescription—where the patient is advised to wait for at least the expected natural history of the illness before using the prescription—have concluded that the strategy is an effective way of reducing antibiotic use but could result in poor symptom control.8 9 10</text>
+    </sentence>
+    <sentence charOffset="3948-4117" id="S26" selection="">
+        <text xml:space="preserve">There has also been recent debate about whether no prescription of antibiotics is better than delayed prescription, because it results in slightly lower antibiotic use.8</text>
+    </sentence>
+    <sentence charOffset="4118-4422" id="S27" selection="2a">
+        <text xml:space="preserve">Trial data for acute sore throat and chest infections have suggested that an immediate prescription and particularly delayed antibiotic prescription could reduce reconsultation compared with a no prescription strategy,11 12 but the trials were underpowered to compare strategies and detect complications.</text>
+    </sentence>
+    <sentence charOffset="4423-4585" id="S28" selection="">
+        <text xml:space="preserve">There has also been no direct comparison of the different methods used to delay antibiotic prescription, which could have different rates of antibiotic use.8 9 10</text>
+    </sentence>
+    <sentence charOffset="4586-4882" id="S29" selection="">
+        <text xml:space="preserve">These methods include recontacting the clinic to request prescription by phone (recontact), post-dating the prescription (post-date), allowing patients to collect the prescription from the clinic themselves (collection), and giving prescriptions to patients and asking them to wait (patient led).</text>
+    </sentence>
+    <sentence charOffset="4889-5142" id="S30" selection="2b">
+        <text xml:space="preserve">This study reports the likely effect of different strategies of antibiotic prescribing on symptom control and antibiotic use when controlling for commonly used analgesic advice and advice to inhale with steam that could plausibly affect symptom control.</text>
+    </sentence>
+    <sentence charOffset="5159-5166" id="S31">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="5182-5222" id="S32" selection="">
+        <text xml:space="preserve">Summary of study design and trial groups</text>
+    </sentence>
+    <sentence charOffset="5231-5469" id="S33" selection="3a">
+        <text xml:space="preserve">This study was a pragmatic open factorial trial of delayed antibiotic strategies, controlling for symptomatic advice regarding analgesia and steam, with a parallel observational component for patients judged to need immediate antibiotics.</text>
+    </sentence>
+    <sentence charOffset="5479-5635" id="S34" selection="">
+        <text xml:space="preserve">Health professionals, who were mainly doctors but also some practice nurses, decided in negotiation with patients whether immediate antibiotics were needed.</text>
+    </sentence>
+    <sentence charOffset="5636-5888" id="S35" selection="5">
+        <text xml:space="preserve">If antibiotics were not needed, patients were randomised to one of four delayed prescribing groups: recontact for a prescription, post-dated prescription, collection of the prescription, or patient led (that is, the patient was given the prescription).</text>
+    </sentence>
+    <sentence charOffset="5889-5956" id="S36" selection="13a">
+        <text xml:space="preserve">The figure and web appendix 1 provides more detail on these groups.</text>
+    </sentence>
+    <sentence charOffset="5966-5987" id="S37" selection="13a">
+        <text xml:space="preserve">CONSORT flow diagram.</text>
+    </sentence>
+    <sentence charOffset="5988-6089" id="S38" selection="13a">
+        <text xml:space="preserve">Of 889 patients considered, 556 were judged not to require immediate antibiotics and were randomised.</text>
+    </sentence>
+    <sentence charOffset="6090-6136" id="S39" selection="">
+        <text xml:space="preserve">*Numbers based on general practitioner reports</text>
+    </sentence>
+    <sentence charOffset="6145-6224" id="S40" selection="8b">
+        <text xml:space="preserve">Each group was randomised further into 12 subgroups according to three factors.</text>
+    </sentence>
+    <sentence charOffset="6225-6424" id="S41" selection="8b">
+        <text xml:space="preserve">These factors were antipyretic regimens (ibuprofen, paracetamol, or both combined), regular antipyretic versus “as required” dosing, and steam inhalation advice versus no advice to inhale with steam.</text>
+    </sentence>
+    <sentence charOffset="6425-6521" id="S42" selection="">
+        <text xml:space="preserve">The web figure uses an example group (no prescription) to illustrate this randomisation process.</text>
+    </sentence>
+    <sentence charOffset="6522-6702" id="S43" selection="3b">
+        <text xml:space="preserve">During the trial (from January 2011), a strategy of no antibiotic prescription was added as a randomised comparison, bringing the total number of randomised groups to five (fig 1).</text>
+    </sentence>
+    <sentence charOffset="6725-6746" id="S44" selection="">
+        <text xml:space="preserve">Summary of rationales</text>
+    </sentence>
+    <sentence charOffset="6766-6782" id="S45" selection="">
+        <text xml:space="preserve">Factorial design</text>
+    </sentence>
+    <sentence charOffset="6793-6998" id="S46" selection="">
+        <text xml:space="preserve">We chose a factorial design for the analgesic and steam components to deal with the management of symptoms, and the antibiotic component particularly to deal with antibiotic use and beliefs in antibiotics.</text>
+    </sentence>
+    <sentence charOffset="6999-7234" id="S47" selection="">
+        <text xml:space="preserve">The factorial design is not only efficient in assessing multiple interventions, but also provides better control of symptomatic advice (regarding analgesia or steam) that could plausibly affect symptom control in the antibiotic groups.</text>
+    </sentence>
+    <sentence charOffset="7245-7383" id="S48" selection="">
+        <text xml:space="preserve">A non-randomised immediate prescription group was chosen to allow all patients to enter the study and provide two important opportunities.</text>
+    </sentence>
+    <sentence charOffset="7384-7577" id="S49" selection="">
+        <text xml:space="preserve">Firstly, to observe how often immediate antibiotics are thought necessary by clinicians, and secondly, to be able to compare patient outcomes in those prescribed and not prescribed antibiotics.</text>
+    </sentence>
+    <sentence charOffset="7588-7739" id="S50" selection="3b">
+        <text xml:space="preserve">During the study, it became clear from systematic reviews that delayed prescribing might result in higher antibiotic use than no initial prescription.8</text>
+    </sentence>
+    <sentence charOffset="7740-8030" id="S51" selection="3b">
+        <text xml:space="preserve">We therefore added a no prescription group to facilitate interpretation of the effect of delayed prescription compared with the alternatives strategies, particularly because both the delayed and no prescription groups in the current study had higher antibiotic use than in previous studies.</text>
+    </sentence>
+    <sentence charOffset="8059-8072" id="S52" selection="">
+        <text xml:space="preserve">Randomisation</text>
+    </sentence>
+    <sentence charOffset="8083-8198" id="S53" selection="8a,10">
+        <text xml:space="preserve">A statistician independent of the study team coordinated the randomisation using computer generated random numbers.</text>
+    </sentence>
+    <sentence charOffset="8199-8395" id="S54" selection="10">
+        <text xml:space="preserve">If the doctor thought that immediate antibiotics were definitely required, they prescribed antibiotics, otherwise patients were randomised to one of four methods of delayed antibiotic prescribing.</text>
+    </sentence>
+    <sentence charOffset="8396-8615" id="S55" selection="10">
+        <text xml:space="preserve">We assessed evidence of subversion of randomisation by monitoring the order of use of envelopes (there was no evidence of selective envelope use) and the baseline table (which showed that the groups were well balanced).</text>
+    </sentence>
+    <sentence charOffset="8626-8768" id="S56" selection="">
+        <text xml:space="preserve">A key concern in complex pragmatic factorial trials is keeping the logistics simple and avoiding errors at the point of intervention delivery.</text>
+    </sentence>
+    <sentence charOffset="8769-9041" id="S57" selection="9">
+        <text xml:space="preserve">We made it very simple to execute randomisation and delivery because the health professional took the next pack off the shelf that contained pre-randomised advice sheets (that is, there was no requirement—and hence no error—in finding and using the correct advice sheets).</text>
+    </sentence>
+    <sentence charOffset="9042-9201" id="S58" selection="">
+        <text xml:space="preserve">With careful attention to practitioner equipoise, this method of randomisation to different advice strategies has proved successful in previous trials.11 13 14</text>
+    </sentence>
+    <sentence charOffset="9202-9328" id="S59" selection="">
+        <text xml:space="preserve">There was no evidence of subversion in the current study—either for selective envelope use or bias in patient characteristics.</text>
+    </sentence>
+    <sentence charOffset="9357-9389" id="S60" selection="">
+        <text xml:space="preserve">Inclusion and exclusion criteria</text>
+    </sentence>
+    <sentence charOffset="9400-9520" id="S61" selection="4a">
+        <text xml:space="preserve">The study included patients aged 3 years and over presenting to a health professional (a general practitioner or nurse).</text>
+    </sentence>
+    <sentence charOffset="9521-9754" id="S62" selection="4a">
+        <text xml:space="preserve">Patients had to present in a general practice setting with a respiratory tract infection diagnosed by the health professional (acute cold, influenza, sore throat, otitis media, sinusitis, croup, or lower respiratory tract infection).</text>
+    </sentence>
+    <sentence charOffset="9755-9801" id="S63" selection="">
+        <text xml:space="preserve">Patient or parental written consent was given.</text>
+    </sentence>
+    <sentence charOffset="9812-10129" id="S64" selection="4a">
+        <text xml:space="preserve">Patients were excluded if they were asthmatic (unless ibuprofen or aspirin previously provided no problems), had active or previous peptic ulceration, were hypersensitive to analgesics, and were unable to complete outcome measures (for example, they were visually impaired, had psychosis, or were severely depressed).</text>
+    </sentence>
+    <sentence charOffset="10130-10346" id="S65" selection="4a">
+        <text xml:space="preserve">Exclusion also applied to patients who required hospital admission (for example, for meningitis, severe pneumonia, epiglottitis, or Kawasaki disease), had a known immune deficiency, or were pregnant or breastfeeding.</text>
+    </sentence>
+    <sentence charOffset="10378-10386" id="S66" selection="">
+        <text xml:space="preserve">Outcomes</text>
+    </sentence>
+    <sentence charOffset="10395-10595" id="S67" selection="6a">
+        <text xml:space="preserve">The primary outcome was symptom severity measured at the end of each day during days 2-4 of a two week symptom diary (days 2-4 are when symptoms of all respiratory infections are at their worst11 14).</text>
+    </sentence>
+    <sentence charOffset="10596-10741" id="S68" selection="">
+        <text xml:space="preserve">We chose symptom severity as a key outcome because the most recent systematic review documented worse symptom control with delayed prescription.8</text>
+    </sentence>
+    <sentence charOffset="10742-10826" id="S69" selection="6a">
+        <text xml:space="preserve">The diary was completed by patients (or children) until symptoms returned to normal.</text>
+    </sentence>
+    <sentence charOffset="10827-10929" id="S70" selection="6a">
+        <text xml:space="preserve">It used previously validated formats11 15 for rating symptoms (0=no problem, 6=as bad as it could be).</text>
+    </sentence>
+    <sentence charOffset="10930-11131" id="S71" selection="6a">
+        <text xml:space="preserve">Symptoms included feeling generally unwell, sleep disturbance, fever, interference with normal activities, sore throat, cough, short of breath, facial or sinus pain, earache, and runny or blocked nose.</text>
+    </sentence>
+    <sentence charOffset="11132-11251" id="S72" selection="6a">
+        <text xml:space="preserve">Symptom resolution was a secondary outcome because duration differs according to the particular respiratory infection.7</text>
+    </sentence>
+    <sentence charOffset="11260-11347" id="S73" selection="6a">
+        <text xml:space="preserve">Patients were telephoned (on days 2-3) to check for any problems with diary completion.</text>
+    </sentence>
+    <sentence charOffset="11348-11549" id="S74" selection="5">
+        <text xml:space="preserve">If no diary was received after two weeks, one mailed reminder was sent and then a phone call made as necessary to document key outcomes using a brief questionnaire—which we have shown to be reliable.13</text>
+    </sentence>
+    <sentence charOffset="11558-11582" id="S75" selection="">
+        <text xml:space="preserve">Secondary outcomes were:</text>
+    </sentence>
+    <sentence charOffset="11615-11721" id="S76" selection="6a">
+        <text xml:space="preserve">Any antibiotic use in the 14 days after recruitment, as documented in the diary or the brief questionnaire</text>
+    </sentence>
+    <sentence charOffset="11756-11839" id="S77" selection="6a">
+        <text xml:space="preserve">Side effects (rash, diarrhoea, vomiting, or abdominal pain) documented in the diary</text>
+    </sentence>
+    <sentence charOffset="11874-11978" id="S78" selection="6a">
+        <text xml:space="preserve">Mean temperature readings in the morning and evening using tempadot thermometers (orally where possible)</text>
+    </sentence>
+    <sentence charOffset="12013-12064" id="S79" selection="6a">
+        <text xml:space="preserve">Duration of symptoms: rated moderately bad or worse</text>
+    </sentence>
+    <sentence charOffset="12099-12328" id="S80" selection="6a">
+        <text xml:space="preserve">Return with new or worsening symptoms or complications of intervention—that is, a patient returning with a symptom or diagnosis of respiratory tract infection recorded using a structured proforma by a member of the research team.</text>
+    </sentence>
+    <sentence charOffset="12329-12513" id="S81" selection="6a">
+        <text xml:space="preserve">Complications were defined as a new consultation documented in the notes within one month with otitis media, sinusitis, pneumonia, quinsy, cervical adenitis, meningitis, or septicaemia</text>
+    </sentence>
+    <sentence charOffset="12548-12674" id="S82" selection="6a">
+        <text xml:space="preserve">Belief in the effectiveness of antibiotics and satisfaction, measured in the main diary using previously developed questions13</text>
+    </sentence>
+    <sentence charOffset="12703-12924" id="S83" selection="6a">
+        <text xml:space="preserve">General practitioners were asked to complete non-recruitment logs and a questionnaire at the end of the study documenting the common reasons for non-recruitment of eligible patients and for eligible patients who declined.</text>
+    </sentence>
+    <sentence charOffset="12947-12970" id="S84" selection="">
+        <text xml:space="preserve">Sample size calculation</text>
+    </sentence>
+    <sentence charOffset="12980-13114" id="S85" selection="7a">
+        <text xml:space="preserve">We calculated the sample size based on an α value of 0.05 and β value of 0.2 using the NQuery program for multiple group sample sizes.</text>
+    </sentence>
+    <sentence charOffset="13115-13242" id="S86" selection="7a">
+        <text xml:space="preserve">There were two elements to the calculation, firstly for symptom control (the primary outcome), and secondly for antibiotic use.</text>
+    </sentence>
+    <sentence charOffset="13243-13314" id="S87" selection="7a">
+        <text xml:space="preserve">We assumed a standard deviation of 1.1 for our primary outcome.11 13 15</text>
+    </sentence>
+    <sentence charOffset="13315-13585" id="S88" selection="7a">
+        <text xml:space="preserve">Assuming that one analgesic group had symptom control that was 0.5 standard deviations better than one of the other groups (that is, a moderate effect size), 228 patients were needed to allow for 12 groups and 80% follow-up, or 504 patients for 0.33 standard deviations.</text>
+    </sentence>
+    <sentence charOffset="13586-13838" id="S89" selection="7a">
+        <text xml:space="preserve">This effect size was equivalent to one in three people rating symptoms as mild rather than moderate, agreed as a modest effect size by the trial steering committee of a Medical Research Council funded trial of prescribing strategies for acute cough11).</text>
+    </sentence>
+    <sentence charOffset="13848-14060" id="S90" selection="6a">
+        <text xml:space="preserve">For the antibiotic outcome of the antibiotic strategies (a key outcome for this component of the study), we compared the difference in antibiotic use between the delayed strategies and no antibiotic prescription.</text>
+    </sentence>
+    <sentence charOffset="14061-14215" id="S91" selection="7a">
+        <text xml:space="preserve">Seventy two patients per group or 450 in total were needed in the groups with no prescription or delayed prescription, allowing for 20% loss to follow-up.</text>
+    </sentence>
+    <sentence charOffset="14216-14437" id="S92" selection="7a">
+        <text xml:space="preserve">These numbers also assumed 15% use of antibiotics in the no antibiotic group, and 20-35% use in the delayed prescription groups (20%, 25%, 35%, and 35% for recontact, post-date, collection, and patient led, respectively).</text>
+    </sentence>
+    <sentence charOffset="14438-14637" id="S93" selection="7a">
+        <text xml:space="preserve">We estimated that 72 patients per group would provide 80% power to detect a difference of 0.5 standard deviations in symptom control between delayed prescription groups and the no prescription group.</text>
+    </sentence>
+    <sentence charOffset="14660-14668" id="S94" selection="">
+        <text xml:space="preserve">Analysis</text>
+    </sentence>
+    <sentence charOffset="14677-14801" id="S95" selection="12a">
+        <text xml:space="preserve">We performed an analysis of the randomised groups and a secondary analysis that included the non-randomised immediate group.</text>
+    </sentence>
+    <sentence charOffset="14802-14984" id="S96" selection="12a,12b">
+        <text xml:space="preserve">We used analysis of covariance for a factorial study for the main continuous outcomes, controlling for stratification, analgesic and steam strategies, and confounders if appropriate.</text>
+    </sentence>
+    <sentence charOffset="14985-15117" id="S97" selection="12a">
+        <text xml:space="preserve">Logistic regression was used for antibiotic use and return to the surgery, and Cox regression was used for the duration of symptoms.</text>
+    </sentence>
+    <sentence charOffset="15118-15186" id="S98" selection="12a">
+        <text xml:space="preserve">Odds ratios were converted to risk ratios using standard formulas.16</text>
+    </sentence>
+    <sentence charOffset="15187-15291" id="S99" selection="12a">
+        <text xml:space="preserve">The effect of antibiotic strategies, and interactions, were assessed using the likelihood ratio χ2 test.</text>
+    </sentence>
+    <sentence charOffset="15292-15574" id="S100" selection="">
+        <text xml:space="preserve">The likelihood ratio test is particularly useful for assessing the effect of variables with multiple levels (for example, the delayed prescribing factor, with five levels), and provides an overall test of whether the variable makes a significant difference to the statistical model.</text>
+    </sentence>
+    <sentence charOffset="15575-15887" id="S101" selection="12a,7b,16">
+        <text xml:space="preserve">Analysis was intention to treat (that is, practitioners or patients were analysed in their intended randomisation groups, whether or not they complied), but we did not impute missing values, there was no interim analysis, and no clinical subgroups for antibiotic prescribing strategies were specified in advance.</text>
+    </sentence>
+    <sentence charOffset="15911-15918" id="S102">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="15925-16046" id="S103" selection="13a,14a">
+        <text xml:space="preserve">A total of 889 patients were recruited between 3 March 2010 and 28 March 2012 by 53 health professionals in 25 practices.</text>
+    </sentence>
+    <sentence charOffset="16047-16157" id="S104" selection="13a,16">
+        <text xml:space="preserve">Of these patients, 333 (37%) were prescribed immediate antibiotics and 556 (63%) entered the randomised trial.</text>
+    </sentence>
+    <sentence charOffset="16158-16400" id="S105" selection="15">
+        <text xml:space="preserve">Those prescribed immediate antibiotics had slightly more severe symptoms at baseline and were more likely to be labelled as having lower respiratory tract infections and less likely to be labelled as having upper respiratory tract infections.</text>
+    </sentence>
+    <sentence charOffset="16401-16536" id="S106" selection="">
+        <text xml:space="preserve">However, controlling for these characteristics did not alter the inferences of comparisons with the delayed and no prescription groups.</text>
+    </sentence>
+    <sentence charOffset="16537-16609" id="S107" selection="15">
+        <text xml:space="preserve">Baseline characteristics were similar in all randomised groups (table1).</text>
+    </sentence>
+    <sentence charOffset="16610-16778" id="S108" selection="14a">
+        <text xml:space="preserve">All patients were followed up for one month; further follow-up after the initial month was a mean of 0.84 years (standard deviation 0.36) and was similar in all groups.</text>
+    </sentence>
+    <sentence charOffset="16779-16991" id="S109" selection="">
+        <text xml:space="preserve">The diary symptom severity scale had acceptable internal reliability for days 2-4 (Cronbach’s α, day 2, 0.72; day 3, 0.79; day 4, 0.79) and was sensitive to change over the week (standardised response mean 1.60).</text>
+    </sentence>
+    <sentence charOffset="16992-17103" id="S110" selection="18">
+        <text xml:space="preserve">The non-recruitment questionnaire had responses from 20 respondents who recruited most of the patients (n=704).</text>
+    </sentence>
+    <sentence charOffset="17104-17331" id="S111" selection="18">
+        <text xml:space="preserve">The most common reason (given by 14 recruiters) for eligible patients declining was that the patient was too busy or insufficiently interested, followed by concern about the proposed treatment, and the patient being too unwell.</text>
+    </sentence>
+    <sentence charOffset="17332-17446" id="S112" selection="18">
+        <text xml:space="preserve">The most common reason given (by 18 of 19 recruiters) for not approaching eligible patients was insufficient time.</text>
+    </sentence>
+    <sentence charOffset="17453-17495" id="S113" selection="15">
+        <text xml:space="preserve">Table 1  Baseline characteristic of groups</text>
+    </sentence>
+    <sentence charOffset="17511-17525" id="S114" selection="">
+        <text xml:space="preserve">Attrition bias</text>
+    </sentence>
+    <sentence charOffset="17534-17789" id="S115" selection="13b">
+        <text xml:space="preserve">The characteristics of patients where the primary outcome was not documented were similar to those followed up (n=751) for baseline symptom score (1.0 v 0.98), female sex (82/136 (60%) v 458/744 (62%)), age 16 years or less (31/136 (23%) v 200/744 (27%)).</text>
+    </sentence>
+    <sentence charOffset="17790-17946" id="S116" selection="13b">
+        <text xml:space="preserve">The two groups were similar in diagnosis of lower respiratory tract infections (22/135 (16%) v 113/742 (15%)) and otitis media (16/134 (12%) v 66/740 (9%)).</text>
+    </sentence>
+    <sentence charOffset="17969-18023" id="S117" selection="">
+        <text xml:space="preserve">Performance bias: compliance with delaying antibiotics</text>
+    </sentence>
+    <sentence charOffset="18032-18270" id="S118" selection="17a">
+        <text xml:space="preserve">For the 264 patients who completed the main diary and who documented taking antibiotics, the median day that antibiotics were started was day 4 for all the delayed prescription strategies and day 1 for the immediate prescription strategy.</text>
+    </sentence>
+    <sentence charOffset="18293-18301" id="S119" selection="">
+        <text xml:space="preserve">Outcomes</text>
+    </sentence>
+    <sentence charOffset="18310-18530" id="S120" selection="17b">
+        <text xml:space="preserve">For symptom severity, we saw no evidence of a significant interaction between antibiotic strategy and analgesia use (likelihood ratio test χ2 7.7, P=0.47; web appendix 4), nor dosing (4.1, P=0.39) or steam (5.3, P=0.26).</text>
+    </sentence>
+    <sentence charOffset="18531-18748" id="S121" selection="17b">
+        <text xml:space="preserve">There was also no evidence that the effect of antibiotic strategy differed after adaptation of the trial to include a no prescription arm, for either symptom severity (3.20, P=0.362) or antibiotic use (1.25, P=0.740).</text>
+    </sentence>
+    <sentence charOffset="18771-18783" id="S122" selection="">
+        <text xml:space="preserve">Main results</text>
+    </sentence>
+    <sentence charOffset="18792-19119" id="S123" selection="17a">
+        <text xml:space="preserve">In the randomised groups (no prescription and delayed prescription strategies), there was no significant effect of strategy on symptom severity (likelihood ratio test χ2 2.61, P=0.625), duration (4.29, P=0.368), and small differences of 0.1°C in temperature control (10.37, P=0.035; table 2 shows individual group comparisons).</text>
+    </sentence>
+    <sentence charOffset="19120-19402" id="S124" selection="17b">
+        <text xml:space="preserve">Antibiotic use did not differ significantly between strategies (4.96, P=0.292), with the lowest use (26%; 26/99) reported in the no prescription arm, an average 37% (134/367) in the delayed arms (varying from 33% (28/85) in the collection arm to 39% (35/89) in the patient led arm).</text>
+    </sentence>
+    <sentence charOffset="19403-19520" id="S125" selection="17b">
+        <text xml:space="preserve">Belief in the effectiveness of antibiotics was strong but not significantly different between groups (1.62, P=0.805).</text>
+    </sentence>
+    <sentence charOffset="19521-19725" id="S126" selection="17b">
+        <text xml:space="preserve">Higher levels of satisfaction were reported for the patient led and collection approaches, although the limited sample size for this outcome resulted in no significant differences overall (2.38, P=0.667).</text>
+    </sentence>
+    <sentence charOffset="19726-19869" id="S127" selection="17b">
+        <text xml:space="preserve">Reconsultations in the following month were similar (2.97, P=0.563) and were not significantly different after the first month (4.11, P=0.391).</text>
+    </sentence>
+    <sentence charOffset="19878-19950" id="S128" selection="17a,17b">
+        <text xml:space="preserve">Table 2  Effectiveness of antibiotic strategies (randomised groups only)</text>
+    </sentence>
+    <sentence charOffset="19959-20262" id="S129" selection="17a">
+        <text xml:space="preserve">After including the non-randomised immediate prescription group, there was no significant effect of antibiotic prescribing strategy on symptom severity (likelihood ratio test, χ2 4.05, P=0.543), duration (4.94, P=0.424), or temperature (7.66, P=0.176; web appendix 2 shows individual group comparisons).</text>
+    </sentence>
+    <sentence charOffset="20263-20561" id="S130" selection="17b">
+        <text xml:space="preserve">Antibiotic use differed significantly (326, P&lt;0.001) with 97% (270/278) of patients reporting antibiotic use in the immediate arm, and more patients believed antibiotics were very effective (93% (168/180); 36.4, P&lt;0.01) despite immediate antibiotics having no effect on symptom control or duration.</text>
+    </sentence>
+    <sentence charOffset="20584-20589" id="S131" selection="">
+        <text xml:space="preserve">Harms</text>
+    </sentence>
+    <sentence charOffset="20598-20805" id="S132" selection="17b,19">
+        <text xml:space="preserve">Complications were slightly more common in the no prescription group (3/122 (2.5%)) than in the delayed strategy groups (average 6/432 (1.4%)) and similar to the immediate group 8/326 (2.5%; web appendix 3).</text>
+    </sentence>
+    <sentence charOffset="20806-21096" id="S133" selection="18,19">
+        <text xml:space="preserve">In multivariate analysis controlling for baseline symptoms, smoking, and diagnostic group, there were fewer complications in both the delayed and immediate groups but this difference was not significant (adjusted risk ratio 0.56 (95% confidence interval 0.13 to 2.37); 0.66 (0.15 to 2.88)).</text>
+    </sentence>
+    <sentence charOffset="21097-21185" id="S134" selection="17b,19">
+        <text xml:space="preserve">We saw little difference in other side effects reported between groups (web appendix 3).</text>
+    </sentence>
+    <sentence charOffset="21209-21219" id="S135">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="21226-21496" id="S136" selection="">
+        <text xml:space="preserve">To our knowledge, this is one of the largest studies so far to assess the effect of different antibiotic prescribing strategies on symptom control and antibiotic use, and the only trial so far to compare several commonly used methods of delaying antibiotic prescription.</text>
+    </sentence>
+    <sentence charOffset="21497-21637" id="S137" selection="22">
+        <text xml:space="preserve">It shows little difference in symptom control between strategies involving no prescription, immediate prescription, or delayed prescription.</text>
+    </sentence>
+    <sentence charOffset="21638-21829" id="S138" selection="22">
+        <text xml:space="preserve">This finding contrasts both health professionals’ behaviour in commonly requiring immediate antibiotics, and the persistently strong beliefs patients have in the effectiveness of antibiotics.</text>
+    </sentence>
+    <sentence charOffset="21830-22048" id="S139" selection="22">
+        <text xml:space="preserve">The different ways of using delayed prescription, when the same structured approach is used, had more similar outcomes than previous trial data suggest, although the collection approach performed well on most criteria.</text>
+    </sentence>
+    <sentence charOffset="22064-22095" id="S140" selection="">
+        <text xml:space="preserve">Study limitations and strengths</text>
+    </sentence>
+    <sentence charOffset="22104-22379" id="S141" selection="">
+        <text xml:space="preserve">The trial adapted the delayed prescribing strategies during the trial, in response to ongoing debate comparing no prescription with delayed prescription, to include a no prescription group, but there was no evidence of a difference in estimates as a result of the adaptation.</text>
+    </sentence>
+    <sentence charOffset="22380-22557" id="S142" selection="20">
+        <text xml:space="preserve">The patient group were broadly defined, comprising a range of respiratory infections, and thus the heterogenous population increases variance, making type II errors more likely.</text>
+    </sentence>
+    <sentence charOffset="22558-22743" id="S143" selection="">
+        <text xml:space="preserve">However, delayed prescribing strategies apply to all infections (that is, this was the meaningful target population), and randomisation groups were well balanced for the main diagnoses.</text>
+    </sentence>
+    <sentence charOffset="22744-23038" id="S144" selection="20">
+        <text xml:space="preserve">Participants in the non-randomised group (being prescribed antibiotics immediately) had slightly more severe symptoms at baseline; therefore, comparisons with this group may have been confounded, but controlling for baseline symptoms or other potential confounders did not alter the inferences.</text>
+    </sentence>
+    <sentence charOffset="23039-23215" id="S145" selection="20">
+        <text xml:space="preserve">The study was not powered to detect a range of antibiotic use that was less than 20% (between 15% and 35%) when comparing the delayed prescribing and no prescribing strategies.</text>
+    </sentence>
+    <sentence charOffset="23216-23385" id="S146" selection="">
+        <text xml:space="preserve">The primary outcome (symptom severity in the first days) should apply in all acute infections, and was reasonably reliable and sensitive to change in this patient group.</text>
+    </sentence>
+    <sentence charOffset="23395-23716" id="S147" selection="20">
+        <text xml:space="preserve">Recruitment was slow considering the incidence of respiratory infections, but feedback during and after the study indicated that this study was very easy to recruit to, and that recruitment was limited to time pressures in busy winter clinics as in previous studies,11 13 hence non-recruitment logs were poorly completed.</text>
+    </sentence>
+    <sentence charOffset="23717-23767" id="S148" selection="">
+        <text xml:space="preserve">This problem raises questions of generalisability.</text>
+    </sentence>
+    <sentence charOffset="23768-24003" id="S149" selection="">
+        <text xml:space="preserve">However, there was no evidence that patients with more severe symptoms were excluded, because comparisons to recent large, simple observational studies and trials showed patients with slightly more severe symptoms in the current study.</text>
+    </sentence>
+    <sentence charOffset="24004-24264" id="S150" selection="">
+        <text xml:space="preserve">On a scale of 0-3 for mean severity of sore throat at baseline, patients scored 2.4 in the current study versus 2.0 in the DESCARTE study17 18; for mean severity of cough at baseline, patients scored 2.6 in the current study versus 2.2 in the GRACE study.19 20</text>
+    </sentence>
+    <sentence charOffset="24265-24431" id="S151" selection="">
+        <text xml:space="preserve">The results controlled for potential confounders, but since estimates were not meaningfully altered, the effect of any potential confounding was likely to be limited.</text>
+    </sentence>
+    <sentence charOffset="24441-24567" id="S152" selection="">
+        <text xml:space="preserve">This study was pragmatic so that patients were free not to comply with advice, but in fact compliance was probably reasonable.</text>
+    </sentence>
+    <sentence charOffset="24568-24719" id="S153" selection="">
+        <text xml:space="preserve">Most patients who were asked to delay using antibiotics did not use antibiotics, and those who did use antibiotics on average delayed for several days.</text>
+    </sentence>
+    <sentence charOffset="24720-24830" id="S154" selection="20">
+        <text xml:space="preserve">The trial was adequately powered for symptom control but was not specifically powered to assess complications.</text>
+    </sentence>
+    <sentence charOffset="24840-25084" id="S155" selection="">
+        <text xml:space="preserve">A strength of the study was that we controlled for symptomatic advice, and we assessed interactions between such advice and antibiotic prescribing strategies: such advice is not normally measured nor assessed in trials of antibiotic strategies.</text>
+    </sentence>
+    <sentence charOffset="25085-25224" id="S156" selection="20">
+        <text xml:space="preserve">However, the trial was not formally powered to detect interactions, and thus there was limited precision of the estimates for interactions.</text>
+    </sentence>
+    <sentence charOffset="25225-25302" id="S157" selection="">
+        <text xml:space="preserve">The estimates of interaction must be viewed with caution for several reasons.</text>
+    </sentence>
+    <sentence charOffset="25303-25522" id="S158" selection="20">
+        <text xml:space="preserve">Firstly, the estimates for the main effects of the other interventions (analgesia, dosing, steam) suggested no effect of these interventions (therefore a ceiling effect resulting in a negative interaction was unlikely).</text>
+    </sentence>
+    <sentence charOffset="25523-25599" id="S159" selection="20">
+        <text xml:space="preserve">Secondly, no interactions were postulated on theoretical grounds in advance.</text>
+    </sentence>
+    <sentence charOffset="25600-25684" id="S160" selection="20">
+        <text xml:space="preserve">And thirdly, the spread of the estimates of interactions was consistent with chance.</text>
+    </sentence>
+    <sentence charOffset="25685-25911" id="S161" selection="20">
+        <text xml:space="preserve">It was not possible for all outcomes to be included in the follow-ups to collect key outcome data, resulting in less power for outcomes that were only measured in the main diary, such as belief in antibiotics and satisfaction.</text>
+    </sentence>
+    <sentence charOffset="25934-25947" id="S162" selection="">
+        <text xml:space="preserve">Main findings</text>
+    </sentence>
+    <sentence charOffset="25956-26089" id="S163" selection="22,21">
+        <text xml:space="preserve">We have confirmed that the use of delayed prescriptions is likely to be associated with fewer than 40% of patients using antibiotics.</text>
+    </sentence>
+    <sentence charOffset="26090-26252" id="S164" selection="22">
+        <text xml:space="preserve">This finding is consistent with the systematic reviews,8 9 10 but unlike the systematic reviews, we did not confirm poor symptom control with delayed prescribing.</text>
+    </sentence>
+    <sentence charOffset="26253-26381" id="S165" selection="22">
+        <text xml:space="preserve">The good symptom control in the current study could indicate that all patients were given structured advice about analgesic use.</text>
+    </sentence>
+    <sentence charOffset="26382-26510" id="S166" selection="22">
+        <text xml:space="preserve">The delayed groups reported slightly higher antibiotic use than the no prescription group, in line with previous evidence.8 9 10</text>
+    </sentence>
+    <sentence charOffset="26511-26679" id="S167" selection="22">
+        <text xml:space="preserve">About a quarter of patients not initially prescribed antibiotics ended up using them, as opposed to a little more than a third of patients given a delayed prescription.</text>
+    </sentence>
+    <sentence charOffset="26680-26930" id="S168" selection="">
+        <text xml:space="preserve">The previous systematic reviews of delayed prescription documented variation between the antibiotic redemption rates for different strategies of delayed prescription,8 9 10 with higher redemption rates for some studies using the patient led approach.</text>
+    </sentence>
+    <sentence charOffset="26931-27047" id="S169" selection="">
+        <text xml:space="preserve">We documented similar outcomes in our study, but had the advantage of the same approach to advice for each strategy.</text>
+    </sentence>
+    <sentence charOffset="27048-27193" id="S170" selection="">
+        <text xml:space="preserve">Therefore, the larger differences observed between previous studies may not reflect differences in the methods of delayed prescribing themselves.</text>
+    </sentence>
+    <sentence charOffset="27203-27324" id="S171" selection="">
+        <text xml:space="preserve">Complications occurred in about 2-3% of patients given no antibiotic prescription compared with 1% of the delayed groups.</text>
+    </sentence>
+    <sentence charOffset="27325-27673" id="S172" selection="">
+        <text xml:space="preserve">The current study was not designed to detect differences in complications, but a recent large observational study of antibiotic prescribing strategies for sore throat (DESCARTE study, n=14 610, led by PL17) has confirmed significant reductions in complication rates using delayed or immediate prescriptions of the same order as the current study.18</text>
+    </sentence>
+    <sentence charOffset="27674-27862" id="S173" selection="">
+        <text xml:space="preserve">There was little to choose between the different groups of delayed prescribing, but there may be marginal preference for the collection group, which had the most data from previous trials.</text>
+    </sentence>
+    <sentence charOffset="27863-28164" id="S174" selection="22">
+        <text xml:space="preserve">In the current study, patients randomised to the collection strategy had a slightly lower use of antibiotics than the other delayed strategies—presumably due to the hurdle of having to return to the surgery for the prescription—as well as higher satisfaction rates and the lowest reconsultation rates.</text>
+    </sentence>
+    <sentence charOffset="28197-28232" id="S175" selection="">
+        <text xml:space="preserve">What is already known on this topic</text>
+    </sentence>
+    <sentence charOffset="28277-28411" id="S176" selection="">
+        <text xml:space="preserve">Strategies involving no antibiotic prescription or delayed antibiotic prescription are common in managing respiratory tract infections</text>
+    </sentence>
+    <sentence charOffset="28458-28666" id="S177" selection="">
+        <text xml:space="preserve">But systematic reviews have suggested that delayed prescription could result in worse symptom control than immediate use of antibiotics, and could lead to higher antibiotic use than a no prescription strategy</text>
+    </sentence>
+    <sentence charOffset="28713-28936" id="S178" selection="">
+        <text xml:space="preserve">Different methods of delaying prescriptions (such as giving prescriptions with instructions, leaving prescriptions for collection, post-dating prescriptions, or requesting recontact) have been used but not directly compared</text>
+    </sentence>
+    <sentence charOffset="28999-29019" id="S179" selection="">
+        <text xml:space="preserve">What this study adds</text>
+    </sentence>
+    <sentence charOffset="29064-29297" id="S180" selection="">
+        <text xml:space="preserve">There is probably little difference in symptom control in the short term between strategies of delayed prescription, no prescription, or immediate prescription, despite strong belief in the effectiveness of antibiotics among patients</text>
+    </sentence>
+    <sentence charOffset="29344-29440" id="S181" selection="">
+        <text xml:space="preserve">Both no and delayed antibiotic prescription result in the minority of patients using antibiotics</text>
+    </sentence>
+    <sentence charOffset="29488-29612" id="S182" selection="">
+        <text xml:space="preserve">With clear guidance, any strategy of delayed prescribing is likely to result in fewer than 40% of patients using antibiotics</text>
+    </sentence>
+    <sentence charOffset="29677-29688" id="S183">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="29716-29833" id="S184" selection="">
+        <text xml:space="preserve">We thank the general practitioners, practice nurses, and particularly the patients who gave their time to this study.</text>
+    </sentence>
+    <sentence charOffset="29834-30001" id="S185" selection="">
+        <text xml:space="preserve">The views expressed are those of the authors and not necessarily those of the National Health Service, National Institute for Health Research, or Department of Health.</text>
+    </sentence>
+    <sentence charOffset="30031-30291" id="S186" selection="">
+        <text xml:space="preserve">PIPS Investigators: Paul Little, Michael Moore, Jo Kelly, Ian Williamson, Geraldine Leydon, Lisa McDermott, Mark Mullee, Beth Stuart, Karen Middleton, Julie Hooper, Katherine Salisbury, Emily Edwards, Jennifer White, Adam Nicholls, Amanda Nagle, Susannah Gant.</text>
+    </sentence>
+    <sentence charOffset="30321-30410" id="S187" selection="">
+        <text xml:space="preserve">Contributors: All authors and Daniel Lane contributed to the development of the protocol.</text>
+    </sentence>
+    <sentence charOffset="30411-30539" id="S188" selection="">
+        <text xml:space="preserve">All authors contributed to overseeing the management of the study, agreeing the analysis plan, and to the write-up of the paper.</text>
+    </sentence>
+    <sentence charOffset="30540-30749" id="S189" selection="">
+        <text xml:space="preserve">KS, EE, JW, AN, HE, and SG developed and piloted the initial study documents supervised by the trial team; PL led the grant application and the initial drafting of the paper, and is the guarantor of the paper.</text>
+    </sentence>
+    <sentence charOffset="30750-30788" id="S190" selection="">
+        <text xml:space="preserve">PL, MM, and BS performed the analysis.</text>
+    </sentence>
+    <sentence charOffset="30789-30862" id="S191" selection="">
+        <text xml:space="preserve">JK and JH performed day to day management of the study, supervised by PL.</text>
+    </sentence>
+    <sentence charOffset="30863-30946" id="S192" selection="">
+        <text xml:space="preserve">Alastair Hay provided helpful comments on the analysis approach and the manuscript.</text>
+    </sentence>
+    <sentence charOffset="30947-31146" id="S193" selection="">
+        <text xml:space="preserve">All authors had full access to all of the data (including statistical reports and tables) in the study and can take responsibility for the integrity of the data and the accuracy of the data analysis.</text>
+    </sentence>
+    <sentence charOffset="31176-31377" id="S194" selection="25">
+        <text xml:space="preserve">Funding: This article presents independent research funded by the National Institute for Health Research under its Programme Grants for Applied Research programme (grant reference no RP-PG-0407-10098).</text>
+    </sentence>
+    <sentence charOffset="31378-31530" id="S195" selection="">
+        <text xml:space="preserve">The National Institute for Health Research did not interfere in the research, nor have input into the analysis, interpretation, or writing of the paper.</text>
+    </sentence>
+    <sentence charOffset="31560-31997" id="S196" selection="">
+        <text xml:space="preserve">Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare: support from the National Institute for Health Research for the submitted work; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; and no other relationships or activities that could appear to have influenced the submitted work.</text>
+    </sentence>
+    <sentence charOffset="32026-32161" id="S197" selection="">
+        <text xml:space="preserve">Ethical approval: Ethical approval was given by the Southampton and Southwest Multi Centre Research Ethics Committee (no 06/Q1702/154).</text>
+    </sentence>
+    <sentence charOffset="32191-32235" id="S198" selection="">
+        <text xml:space="preserve">Data sharing: No further data are available.</text>
+    </sentence>
+    <sentence charOffset="32264-32591" id="S199" selection="">
+        <text xml:space="preserve">Transparency: The lead author (the manuscript’s guarantor) affirms that this manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned (and, if relevant, registered) have been explained.</text>
+    </sentence>
+    <sentence charOffset="32620-32652" id="S200" selection="">
+        <text xml:space="preserve">Cite this as: BMJ 2014;348:g1606</text>
+    </sentence>
+    <section textSpan="0-147" title="Title" titleSpan="0-5"/>
+    <section textSpan="148-2715" title="Abstract" titleSpan="148-156"/>
+    <section textSpan="2721-5147" title="Introduction" titleSpan="2728-2740"/>
+    <section textSpan="5152-15899" title="Methods" titleSpan="5159-5166">
+        <section textSpan="5173-6709" title="Summary of study design and trial groups" titleSpan="5182-5222"/>
+        <section textSpan="6716-10362" title="Summary of rationales" titleSpan="6725-6746">
+            <section textSpan="6755-8039" title="Factorial design" titleSpan="6766-6782"/>
+            <section textSpan="8048-9337" title="Randomisation" titleSpan="8059-8072"/>
+            <section textSpan="9346-10355" title="Inclusion and exclusion criteria" titleSpan="9357-9389"/>
+        </section>
+        <section textSpan="10369-12931" title="Outcomes" titleSpan="10378-10386"/>
+        <section textSpan="12938-14644" title="Sample size calculation " titleSpan="12947-12971"/>
+        <section textSpan="14651-15894" title="Analysis" titleSpan="14660-14668"/>
+    </section>
+    <section textSpan="15904-21197" title="Results" titleSpan="15911-15918">
+        <section textSpan="17502-17953" title="Attrition bias" titleSpan="17511-17525"/>
+        <section textSpan="17960-18277" title="Performance bias: compliance with delaying antibiotics" titleSpan="17969-18023"/>
+        <section textSpan="18284-18755" title="Outcomes" titleSpan="18293-18301"/>
+        <section textSpan="18762-20568" title="Main results" titleSpan="18771-18783"/>
+        <section textSpan="20575-21192" title="Harms" titleSpan="20584-20589"/>
+    </section>
+    <section textSpan="21202-29672" title="Discussion" titleSpan="21209-21219">
+        <section textSpan="22055-25918" title="Study limitations and strengths" titleSpan="22064-22095"/>
+        <section textSpan="25925-29667" title="Main findings" titleSpan="25934-25947">
+            <section textSpan="28184-28975" title="What is already known on this topic" titleSpan="28197-28232"/>
+            <section textSpan="28986-29651" title="What this study adds" titleSpan="28999-29019"/>
+        </section>
+    </section>
+    <section textSpan="29677-32658" title="Back matter" titleSpan="29677-29688"/>
+</document>

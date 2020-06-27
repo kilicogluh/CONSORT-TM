@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3002834" note="Not clear what to do with 11a for an open label trial. 11a says &quot;If done&quot; -- so I've left this unannotated, but sentence 9 is the best candidate if needed.">
+    <text xml:space="preserve">Title
+Short- and long-term effects of erythropoietin treatment on endothelial progenitor cell levels in patients with cardiorenal syndrome
+Abstract
+
+        
+          Objective
+          Patients with cardiorenal syndrome (CRS) have high cardiovascular morbidity. Endothelial progenitor cells (EPC) constitute an endogenous vascular repairsystem, protecting against atherosclerosis development. Erythropoietin (EPO) treatment may have beneficial effects by mobilizing EPC from the bonemarrow. Our objective is to determine EPC levels and effects of EPO therapy on EPC levels in CRS patients.
+        
+        
+          Design
+          Open-label randomized trial.
+        
+        
+          Setting
+          Part of the EPOCARES-trial, conducted in Utrecht (Netherlands).
+        
+        
+          Patients
+          Patients with CRS and anaemia and healthy controls were included.
+        
+        
+          Interventions
+          Patients were randomized to receive EPO therapy (50 IU/kg/wk) for 52 weeks or no EPO therapy.
+        
+        
+          Main outcome measures
+          CD34+KDR+-EPC, cultured EPC outgrowth and function at baseline, after 18 days and after 52 weeks.
+        
+        
+          Results
+          Patients showed lower CD34+KDR+-cell numbers compared to controls (6(12) vs. 19(19) cells/105 granulocytes; p=0.010), despite increased levels of stromal cell-derived factor-1α; (3.1(0.8) vs 2.6(0.3) ng/ml; p=0.001). EPC outgrowth and function were not different between patients and controls. EPC levels did not change after 18 days with or without EPO treatment. CD34+KDR+-cells significantly declined after 52 weeks in the non-treated group (p=0.028). Long-term EPO therapy did not significantly affect this reduction in CD34+KDR+-EPC levels.
+        
+        
+          Conclusions
+          CRS patients showed reduced CD34+KDR+-EPC levels compared to controls, consistent with a reduced vascular regenerative potential and despite upregulated SDF-1α levels. Over a one-year follow-up period a marked 68% further reduction in EPC levels was observed in the patient group without EPO treatment. In spite of promising experimental studies, our longitudinal, randomized study did not show significant influence of either short- or long-term EPO therapy on reduced EPC levels in CRS patients.
+        
+      
+
+
+    
+      Introduction
+      Patients with the cardiorenal syndrome (CRS)—ie, chronic heart failure (CHF) and chronic kidney disease (CKD), often accompanied by anaemia—have high cardiovascular morbidity and mortality.1 Endothelial dysfunction and impaired endothelial regenerative capacity play a key role in the pathogenesis of atherosclerosic cardiovascular disease (CVD). Bone marrow (BM) derived circulating endothelial progenitor cells (EPC) constitute an endogenous vascular repair system that may protect against atherosclerosis development.2 Reduced EPC availability or function may contribute to the pathogenesis of CVD.
+      Disease conditions with high cardiovascular risk, including end-stage renal disease, have been associated with reduced EPC levels and function.3 Others have not observed such inverse relations or even reported a positive relation between EPC number and vascular risk factors.4 In CHF, a negative correlation between cultured EPC and functional New York Heart Association (NYHA) class has been reported.5 However, others have found higher levels of EPC in mild CHF with increased levels of EPC mobilising factors, whereas EPC in severe disease were decreased, despite similar increases in stromal cell-derived factor-1α (SDF-1α) and vascular endothelial growth factor (VEGF).6 7 This suggests a protective compensatory response to the vascular risk burden in mild CHF, but exhaustion or suppression of BM progenitor cells in advanced CHF. We hypothesised that in CRS, the combined presence of even mild stages of CHF, CKD and anaemia is associated with impaired levels of circulating EPC, due to accumulation of uremic toxins, decreased nitric oxide availability and increased inflammation.
+      Enhancing circulating EPC may enhance vascular protection and reduce the progression of CVD. Beneficial effects of erythropoietin (EPO) on the cardiovascular system have been suggested from animal experiments8 and small clinical studies in patients with CKD9 or CHF,10 although these could not be confirmed in larger randomised trials.11 In patients with myocardial infarction, circulating CD34+ haematopoietic stem cells (HSC) increased after single high-dose EPO injection.8 Regular dose EPO treatment increased EPC levels in advanced CKD12 and improved EPC function in CHF patients in the longer term.13 No randomised controlled studies are available on EPC and regular EPO dose effects in patients with CRS. We hypothesised that EPO treatment can improve EPC levels in CRS patients, which may be related to a reduction in cardiovascular risk.
+      We assessed circulating EPC levels and EPC outgrowth number and function in CRS patients compared to healthy controls, and evaluated whether short-term (18 days) and long-term (52 weeks) EPO therapy improved EPC number and function in patients with CRS.
+    
+    
+      Methods
+      
+        Study subjects
+        We studied a subgroup of CRS patients from the EpoCaReS trial (ClinicalTrials.gov, NCT00356733), and healthy controls of comparable age and gender. A detailed description with inclusion and exclusion criteria of the study has previously been published.14 The protocol was approved by the medical ethics committee and all patients gave informed consent. Procedures were in accordance with the Helsinki Declaration.
+        Patients with mild anaemia (women: 6.4–7.4 mmol/l; men: 6.4–7.8 mmol/l), moderate CKD (estimated creatinine clearance 20–70 ml/min, Cockcroft–Gault formula) and CHF (functional NYHA class II–IV, based on symptoms, signs and objective abnormality on echocardiography,15 reduced ejection fraction (&lt;50%) or left ventricular end-diastolic volume index &lt;97 ml/m2 with evidence of diastolic left ventricular dysfunction16) were included.
+      
+      
+        Study design
+        EPC levels and function were compared between 45 CRS patients at baseline and 20 healthy controls. The effects of EPO treatment were evaluated in an open-label, randomised design. Patients received EPO treatment (50 IU/kg/week; Neorecormon, Roche Pharmaceuticals, Woerden, Netherlands) or standard treatment without EPO for one year. Short-term effects of EPO (n =30) versus no EPO (n =15) were evaluated after 18 days (3 days after third EPO injection), when EPO treatment was not yet expected to result in a haematopoietic response. Long-term (52 week) effects of EPO were assessed in a subgroup of EPO-treated patients, who were allowed to increase haemoglobin (Hb) levels up to 8.5 mmol/l for men and 8.3 mmol/l for women (n =13), and a non EPO-treated group (n =13).
+      
+      
+        Plasma measurements
+        Serum EPO levels were measured by sandwich chemiluminescent immunoassay (IMMULITE 2000 platform, Siemens Healthcare Diagnostics, Breda, Netherlands). Endothelial dysfunction, EPC mobilising factors and inflammation markers were measured using ELISA (E-selectin, vascular cell adhesion molecule-1 (VCAM-1), interleukin (IL)-6, VEGF, SDF-1α (R&amp;D Systems, Minneapolis, Minnesota, USA) and thrombomodulin (Diaclone, Stamford, Connecticut, USA)) or multiplex immunoassay17 (intercellular adhesion molecule-1 (ICAM-1) and monocyte chemotactic protein-1 (MCP-1) (Bio-Rad Laboratories,Hercules, California, USA)). High sensitivity C reactive protein (hsCRP) was determined by particle-enhanced immunonephelometry (standard Cardio-Phase hsCRP for BNII, Dade Behring Holding, Liederbach, Germany). N-terminal prohormone of brain natriuretic peptide (NT-proBNP) was measured using electrochemiluminescense immunoassay (Cobas CA6000, Roche, Mannheim, Germany). Samples were measured in duplicate and averaged for analysis.
+      
+      
+        Circulating EPC levels
+        Circulating EPC were defined as cells positive for haematopoietic stem cell marker CD34 and endothelial marker kinase insert domain receptor (KDR; ie, VEGF receptor-2). This CD34+KDR+-EPC has previously shown clinical importance by predicting cardiovascular events and death in cardiovascular risk populations.18 19 Blood (100 μl) was incubated with anti-CD34-FITC (BD Pharmingen, California, USA), anti-KDR-PE (R&amp;D Systems) and anti-CD45-PE-Cy7 (BD Pharmingen) antibodies for 45 min. Erythrocytes were lysed and analysed by flow cytometry (Beckman Coulter, California, USA). Circulating HSC and EPC were identified as CD34+ and CD34+KDR+ cells in the lymphocyte region of the forward/sideward scatter plot. Cell numbers were quantified relative to 105 granulocytes, identified as CD45+ cells with a typical granulocyte distribution. Measurements were performed in duplicate and results were averaged. Isotype-stained samples served as negative controls.
+      
+      
+        Outgrowth of EPC in culture
+        EPC outgrowth from mononuclear cells (MNC) was assessed as described previously.3 In brief, MNC were isolated from blood using Ficoll density gradient separation (Histopaque 1077, Sigma, St Louis, Missouri, USA). To evaluate EPC outgrowth in culture, 107 MNC/well were seeded on a human fibronectin (Sigma) coated 6-well plate in EGM-2 (Cambrex, Baltimore, Maryland, USA), supplemented with accompanying aliquots, 20% fetal calf serum (Invitrogen, Carlsbad, California, USA), 100 ng/ml recombinant VEGF-165 (R&amp;D Systems) and antibiotics. Medium was changed after 4 days to wash non-adherent cells away. After 7 days, cultured EPC in selected wells were placed on serum free medium (EBM-2 with hEGF, hydrocortisone, GA-1000, R3-IGF-1, ascorbic acid, heparin and antibiotics) overnight. Conditioned medium was stored for functional experiments and cultured EPC were detached by trypsin and cell scraping, and automatically counted using a haemocytometer.
+      
+      
+        In vitro scratch wound assay
+        The potential of EPC outgrowth to excrete paracrine factors that stimulate endothelial cell migration was assessed by in vitro scratch wound assay.20 In brief, EPC outgrowth medium was placed on a mechanically scratched confluent human microvascular endothelial cell layer. After 6 h, the extent of scratch closure relative to the starting width was compared between study groups using light photography. Each sample was measured in two separate wells and two picture fields per well were examined. Results were averaged for data analysis.
+      
+      
+        Statistical analysis
+        Data analysis was performed using SPSS V.15.0 for Windows. Data distribution was tested by the Kolmogorov–Smirnov test. Data are expressed as mean ± SD for parametric data and as median (IQR) for non-parametric data. Differences between groups were analysed using Student's t test or the Mann–Whitney test. Fisher's exact test was used to analyse whether proportions of categories varied by group. Multiple group comparisons were performed using ANOVA with LSD post-hoc testing for which non-parametric data were log-transformed. Correlations were measured by Pearson's or Spearman's correlation coefficient where appropriate. Multivariate determinants of log-transformed progenitor cell counts were identified by stepwise multiple linear regression analysis. A value of p &lt;0.05 was considered statistically significant.
+      
+    
+    
+      Results
+      
+        Baseline characteristics
+        Table 1 summarises baseline characteristics. Patients were mildly anaemic, had reduced creatinine clearance, lower diastolic blood pressure and reduced ejection fraction. CRS patients demonstrated increased hsCRP levels and higher levels of markers for endothelial dysfunction compared to healthy controls.
+        Table 1 Baseline characteristics of study population
+      
+      
+        Haemoglobin levels during the study
+        Short-term EPO did not significantly change Hb levels (7.5 (1.2) vs 7.3 (1.0) mmol/l; p=0.061), but significantly increased reticulocyte count (0.066±0.004 vs 0.045±0.003×1012/l; p&lt;0.001) compared to baseline. Long-term EPO significantly increased Hb levels compared to baseline (8.4 (0.8) vs 6.9 (0.8) mmol/l; p =0.012). Patients not treated with EPO remained anaemic at all time-points (7.4 (0.4) baseline, 7.2 (0.8) 18 days, 7.4 (0.9) mmol/l 52 week; p-value not significant between time-points).
+      
+      
+        Circulating EPC levels are reduced in CRS patients compared to healthy controls
+        CD34+KDR+-EPC were 68% lower in CRS patients at baseline compared to controls (figure 1A). CRS patients tended to have lower CD34+-HSC (38% reduction; figure 1B). No differences were found in EPC outgrowth (figure 1C). In a scratch wound assay, we observed no significant difference between conditioned medium from EPC outgrowth cultures from CRS patients and controls for their capacity to stimulate endothelial cell migration (figure 1D).
+        Figure 1 Progenitor cell levels and function in patients with cardiorenal syndrome (CRS) compared to healthy controls. Comparison of circulating CD34+KDR+-cell levels (A), CD34+-cell levels (B), cultured endothelial progenitor cell (EPC) number (C) and function as determined by scratch wound analysis (D) between CRS patients (n=45) and healthy controls (n=20). NC, negative control.
+        Univariate analysis revealed lower CD34+KDR+-EPC levels in subjects with advanced age (r=−0.352; p=0.007), lower Hb (r=0.362; p=0.005) and estimated creatinine clearance (r=0.328; p=0.012), and higher IL-6 levels (r=−0.302; p=0.044) (supplementary table). CD34+-HSC were also negatively correlated with age (r=−0.273; p=0.038) and IL-6 levels (r=−0.454; p=0.002) and tended to decrease in patients with lower estimated creatinine clearance (r=0.241; p=0.068) and higher serum urea (r=−0.258; p=0.053). CD34+-HSC were increased in patients with higher plasma low density lipoprotein (LDL) (r=0.285; p=0.035). After multivariate regression analysis of log-transformed CD34+KDR+-EPC levels for age, Hb, estimated creatinine clearance and IL-6, only Hb remained an independent predictor of circulating EPC levels (β =0.323; 95% CI 0.021 to 0.538; p=0.034). Only IL-6 (β=−0.443; 95% CI −0.135 to −0.029; p=0.003) was an independent predictor of log-transformed CD34+-HSC in multivariate regression analysis for age, IL-6 and plasma LDL levels.
+        No correlations were found for CD34+- and CD34+KDR+-cells with serum EPO levels. Presence of diabetes, statin use or β-blockade treatment were not associated with circulating progenitor cell counts. CD34+-cell levels tended to correlate negatively with all levels of measured endothelial dysfunction parameters at baseline. Reduced CD34+KDR+-cell levels were also associated with increased VCAM-1 levels, but not with other endothelial dysfunction measures (supplementary table). EPC outgrowth level and function were not associated with any of the markers.
+        SDF-1α levels were significantly enhanced in CRS patients versus controls (3.1 (0.8) vs 2.6 (0.3) pg/ml; p=0.001). SDF-1α levels correlated with estimated creatinine clearance (r=−0.361; p=0.004), serum urea (r=0.527; p&lt;0.001), Hb (r=−0.276; p=0.03) and NT-proBNP (r=0.503; p=0.001), but not with ejection fraction (r=−0.190; p=0.307). SDF-1α levels increased with deterioration of endothelial dysfunction measured by ICAM-1 (r=0.437; p=0.002), VCAM-1 (r=0.553; p&lt;0.001) and thrombomodulin (r=0.494; p&lt;0.001), but not with eSelectin (r=0.203; p=0.162). ICAM-1 (β=0.313; 95% CI 0.000 to 0.002; p=0.041) and VCAM-1 (β=0.441; 95% CI 1.888 to 9.813; p=0.005) remained independent predictors of SDF-1α in multivariate regression analysis for significant univariate determinants.
+        We observed no relation between levels of circulating CD34+KDR+-cells and SDF-1α levels in the total patient population (r=0.127; p=0.352). However, SDF-1α was correlated with CD34+KDR+-cells in patients with milder CHF indicated by low levels (below median) of NT-proBNP (r=0.469; p=0.05) or high (above median) ejection fraction (r=0.651; p=0.022). Correlations were absent or even reversed in more severe CHF (r=0.104; p=0.661 in patients with NT-proBNP levels above median, and r=−0.461; p=0.083 in patients with ejection fraction below median). SDF-1α and CD34+KDR+-cell correlations were absent in patients above as well as below median estimated creatinine clearance. Levels of VEGF were not different between CRS patients and controls (24.8 (16.4) vs 22.5 (7.1) pg/ml; p=0.212).
+      
+      
+        Short-term EPO treatment has no effect on EPC in CRS patients
+        Short-term (18 days) EPO had no effect on levels of CD34+- or CD34+KDR+-cells, EPC outgrowth and migratory function as compared to baseline (figure 2). Progenitor cell levels and function also did not significantly change in the non EPO-treated group as compared to baseline. No significant differences in CD34+- and CD34+KDR+-cells, and EPC outgrowth and function were observed between the EPO-treated and non EPO-treated group.
+        Figure 2 Short-term effects of erythropoietin (EPO) treatment on circulating endothelial progenitor cell (EPC) in patients with cardiorenal syndrome (CRS). Comparison of circulating CD34+KDR+-cell levels (A), CD34+-cell levels (B), cultured EPC number (C) and function as determined by scratch wound analysis (D) between CRS patients treated with EPO for 18 days (n=30, open bars) and non-EPO treated patients (n=15, filled bars).
+      
+      
+        Long-term EPO treatment prevents a decline in EPC in CRS patients
+        Long-term (52 weeks) EPO did not alter CD34+KDR+-EPC, CD34+-HSC levels, EPC outgrowth or function compared to baseline. In patients not treated with EPO a significant decline in CD34+KDR+-EPC was found after 52 weeks (figure 3A). CD34+KDR+-EPC tended to be lower in patients without EPO therapy after 52 weeks compared to those who received EPO therapy (p=0.077), whereas levels were not different between the groups at baseline (p=0.437). No differences in CD34+-HSC, EPC outgrowth and function were observed in the group without EPO treatment after 52 weeks as compared to baseline (figure 3B–D).
+        Figure 3 Long-term effects of erythropoietin (EPO) treatment on circulating endothelial progenitor cell (EPC) in patients with cardiorenal syndrome (CRS). Comparison of circulating CD34+KDR+-cell levels (A), CD34+-cell levels (B), cultured EPC number (C) and function as determined by scratch wound analysis (D) between CRS patients treated with EPO for 52 weeks (n=13, open bars) and non-EPO treated patients (n=13, filled bars).
+      
+    
+    
+      Discussion
+      The present data show that patients with CRS and anaemia who receive standard medication have reduced levels of circulating CD34+KDR+-EPC, despite increased levels of progenitor cell mobilising factor SDF-1α. We observed no effect of short-term, 18 days EPO therapy on EPC levels. In cardiorenal patients not treated with EPO, we observed a marked reduction in CD34+KDR+-EPC levels after one year compared to baseline. Long-term, 52 weeks EPO therapy did not significantly affect this reduction in CD34+KDR+-EPC levels.
+      Our study is the first to report reduced circulating progenitor cells in patients with CRS. Studies on circulating EPC in patients with CHF report variable results.6 7 21 22 We observed that in the presence of CHF, CKD and anaemia, CD34+KDR+-cell levels were decreased independent of cardiac disease severity, as assessed by ejection fraction or NT-proBNP levels. Plasma levels of NT-proBNP may be influenced by renal dysfunction, but remain a powerful reflection of cardiac status.23 At tissue level EPC recruitment depends on ischaemia or endothelial injury induced up-regulation of SDF-1α. In our study, SDF-1α levels correlated with renal function, heart function and endothelial dysfunction markers, indicating that signals for progenitor cell mobilisation are intact. However, this did not result in an efficient EPC increase in CRS. This may be explained by impaired EPC production due to uraemia and other cardiovascular risk factors and/or increased homing to injured endothelium. In agreement with previous results,7 in CRS patients with mild CHF, increased SDF-1α levels were associated with higher CD34+KDR+-EPC levels, suggesting that in milder CHF stages SDF-1α can lead to EPC mobilisation. In contrast, in severe CHF the association between SDF-1α and EPC levels disappeared or even reversed, suggesting an impaired EPC mobilising response to SDF-1α in this stage. This is consistent with the biphasic response reported in severe CHF6 7 and may relate to exhaustion of haematopoietic progenitors at the BM level or inflammatory factors exerting BM suppression in advanced CHF.7 Indeed, our data show a significant inverse relation between IL-6 levels and CD34+-HSC numbers. Inflammatory cytokines are known to exert a suppressive effect on erythropoiesis. Consistently, in our patients with mild anaemia we observed lower Hb levels when hsCRP levels were higher. We observed no correlations between serum EPO levels and either Hb levels or endothelial progenitor cell counts. Interestingly, CD34+KDR+-EPC levels correlated positively with Hb levels, suggesting a common BM suppressive effect on both EPC production or mobilisation and erythropoiesis.
+      In our study short-term EPO administration did not influence HSC or EPC levels. This contrasts with previous reports in CKD or post-myocardial infarction patients.8 12 In part this discrepancy may be explained by differences in EPO dosage, as EPC response to EPO has been shown to be dose-dependent.24 Since the potential clinical problems caused by long-term EPO are presumably dose-related,25 our patients received a relatively low, currently recommended, EPO dosage (50 IU/kg/week). This was sufficient to enhance reticulocyte levels. It could be that our CRS patients were not able to increase EPC levels in response to EPO due to exhaustion or suppression of these progenitors at the BM level.7 26 In line with this hyporesponsiveness of EPC on EPO, we observed no relations between serum EPO and EPC levels, whereas endogenous EPO levels were reported to be positively associated with EPC levels in CHF27 or CKD.28
+      To our knowledge, no previous randomised trials have reported on one-year follow-up of EPC or HSC levels in a high CVD risk population. In patients not treated with EPO, we observed a 68% reduction in CD34+KDR+-EPC levels after one year compared to baseline, whereas HSC levels remained unchanged compared to baseline. This discrepancy may be related to the fact that CRS is associated with impaired NO availability, and that NO and the NO producing enzyme eNOS are essential for EPC mobilisation.29 Our finding that EPC reduced over time whereas HSC were not affected seems consistent with the observation that NO supported mobilisation of EPC but not of HSC in a mouse model.30 Long-term EPO treatment showed a minor and non-significant effect on preserving EPC levels over one year. One previous study reported no difference in EPC levels between EPO and non-EPO treated CHF patients after 2.5 years follow-up. However, this observation may be confounded by the cross-sectional study design and retrospective matching of the control group.13
+      In contrast to circulating CD34+KDR+-EPC, EPC outgrowth and function were not different between CRS patients and controls. It could be that CRS affects mainly the ‘true’ progenitor cells in the haematopoietic/endothelial lineage as it affects progenitors in the erythropoietic lineage in BM. CD34+KDR+-EPC represent a defined subset of true BM-derived progenitor cells with the ability for clonal expansion into endothelial cell colonies from single cells.31 Cultured EPC are mostly derived from CD34-negative cells, and can adopt an endothelial phenotype after culture, but are not able to clonally expand. Earlier studies reported decreased EPC outgrowth and colony forming units in CHF5 7 26 or CKD.32 Besides study population differences, differences in culture method may contribute to the observed discordances.5 7 13 32 However, our methodology is the same as in previous studies in which we found reduced CD34+KDR+-EPC and EPC outgrowth in patients with CKD20 and ESRD,3 and comparable to methods used in articles reporting reduced cultured EPC in CHF26 and CKD.33
+      In conclusion, CRS patients showed reduced CD34+KDR+-EPC levels, consistent with a reduced vascular regenerative potential and despite increased SDF-1α levels. Over a one-year follow-up period a marked 68% further reduction in EPC levels was observed in the patient group without EPO treatment. In spite of promising experimental studies, our longitudinal, randomised study did not show significant influence of either short- or long-term EPO therapy on reduced EPC levels in CRS patients.
+    
+  
+
+Back matter
+
+      We would like to thank Adry Diepenbroek and Mireille Emans from the Meander Medical Center Amersfoort, the Netherlands, for their excellent patient care assistance.
+    
+
+      
+        Funding: This work was supported by the Netherlands Heart Foundation (grant number 2005B192); an unrestricted grant from Roche; the Netherlands Organisation for Scientific Research (Vidi grant number 016.096.359 to MCV); and the University Medical Center Utrecht (MD/PhD fellowship to KEJ).
+      
+      
+        Competing interests: None declared.
+      
+      
+        Ethics approval: The protocol was approved by the medical ethics committee and all patients gave informed consent. Procedures were in accordance with the Helsinki Declaration.
+      
+      
+        Provenance and peer review: Not commissioned; externally peer reviewed.</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-138" id="S2" selection="">
+        <text xml:space="preserve">Short- and long-term effects of erythropoietin treatment on endothelial progenitor cell levels in patients with cardiorenal syndrome</text>
+    </sentence>
+    <sentence charOffset="139-147" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="168-177" id="S4" selection="">
+        <text xml:space="preserve">Objective</text>
+    </sentence>
+    <sentence charOffset="188-264" id="S5" selection="1b">
+        <text xml:space="preserve">Patients with cardiorenal syndrome (CRS) have high cardiovascular morbidity.</text>
+    </sentence>
+    <sentence charOffset="265-395" id="S6" selection="">
+        <text xml:space="preserve">Endothelial progenitor cells (EPC) constitute an endogenous vascular repairsystem, protecting against atherosclerosis development.</text>
+    </sentence>
+    <sentence charOffset="396-493" id="S7" selection="">
+        <text xml:space="preserve">Erythropoietin (EPO) treatment may have beneficial effects by mobilizing EPC from the bonemarrow.</text>
+    </sentence>
+    <sentence charOffset="494-592" id="S8" selection="">
+        <text xml:space="preserve">Our objective is to determine EPC levels and effects of EPO therapy on EPC levels in CRS patients.</text>
+    </sentence>
+    <sentence charOffset="621-627" id="S9" selection="">
+        <text xml:space="preserve">Design</text>
+    </sentence>
+    <sentence charOffset="638-666" id="S10" selection="">
+        <text xml:space="preserve">Open-label randomized trial.</text>
+    </sentence>
+    <sentence charOffset="695-702" id="S11" selection="">
+        <text xml:space="preserve">Setting</text>
+    </sentence>
+    <sentence charOffset="713-776" id="S12" selection="4b">
+        <text xml:space="preserve">Part of the EPOCARES-trial, conducted in Utrecht (Netherlands).</text>
+    </sentence>
+    <sentence charOffset="805-813" id="S13" selection="">
+        <text xml:space="preserve">Patients</text>
+    </sentence>
+    <sentence charOffset="824-889" id="S14" selection="">
+        <text xml:space="preserve">Patients with CRS and anaemia and healthy controls were included.</text>
+    </sentence>
+    <sentence charOffset="918-931" id="S15" selection="">
+        <text xml:space="preserve">Interventions</text>
+    </sentence>
+    <sentence charOffset="942-1035" id="S16" selection="">
+        <text xml:space="preserve">Patients were randomized to receive EPO therapy (50 IU/kg/wk) for 52 weeks or no EPO therapy.</text>
+    </sentence>
+    <sentence charOffset="1064-1085" id="S17" selection="">
+        <text xml:space="preserve">Main outcome measures</text>
+    </sentence>
+    <sentence charOffset="1096-1193" id="S18" selection="">
+        <text xml:space="preserve">CD34+KDR+-EPC, cultured EPC outgrowth and function at baseline, after 18 days and after 52 weeks.</text>
+    </sentence>
+    <sentence charOffset="1222-1229" id="S19" selection="">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="1240-1456" id="S20" selection="">
+        <text xml:space="preserve">Patients showed lower CD34+KDR+-cell numbers compared to controls (6(12) vs. 19(19) cells/105 granulocytes; p=0.010), despite increased levels of stromal cell-derived factor-1α; (3.1(0.8) vs 2.6(0.3) ng/ml; p=0.001).</text>
+    </sentence>
+    <sentence charOffset="1457-1533" id="S21" selection="">
+        <text xml:space="preserve">EPC outgrowth and function were not different between patients and controls.</text>
+    </sentence>
+    <sentence charOffset="1534-1604" id="S22" selection="">
+        <text xml:space="preserve">EPC levels did not change after 18 days with or without EPO treatment.</text>
+    </sentence>
+    <sentence charOffset="1605-1694" id="S23" selection="">
+        <text xml:space="preserve">CD34+KDR+-cells significantly declined after 52 weeks in the non-treated group (p=0.028).</text>
+    </sentence>
+    <sentence charOffset="1695-1785" id="S24" selection="">
+        <text xml:space="preserve">Long-term EPO therapy did not significantly affect this reduction in CD34+KDR+-EPC levels.</text>
+    </sentence>
+    <sentence charOffset="1814-1825" id="S25" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="1836-2003" id="S26" selection="">
+        <text xml:space="preserve">CRS patients showed reduced CD34+KDR+-EPC levels compared to controls, consistent with a reduced vascular regenerative potential and despite upregulated SDF-1α levels.</text>
+    </sentence>
+    <sentence charOffset="2004-2138" id="S27" selection="">
+        <text xml:space="preserve">Over a one-year follow-up period a marked 68% further reduction in EPC levels was observed in the patient group without EPO treatment.</text>
+    </sentence>
+    <sentence charOffset="2139-2333" id="S28" selection="">
+        <text xml:space="preserve">In spite of promising experimental studies, our longitudinal, randomized study did not show significant influence of either short- or long-term EPO therapy on reduced EPC levels in CRS patients.</text>
+    </sentence>
+    <sentence charOffset="2363-2375" id="S29">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="2382-2572" id="S30" selection="">
+        <text xml:space="preserve">Patients with the cardiorenal syndrome (CRS)—ie, chronic heart failure (CHF) and chronic kidney disease (CKD), often accompanied by anaemia—have high cardiovascular morbidity and mortality.1</text>
+    </sentence>
+    <sentence charOffset="2573-2728" id="S31" selection="">
+        <text xml:space="preserve">Endothelial dysfunction and impaired endothelial regenerative capacity play a key role in the pathogenesis of atherosclerosic cardiovascular disease (CVD).</text>
+    </sentence>
+    <sentence charOffset="2729-2903" id="S32" selection="">
+        <text xml:space="preserve">Bone marrow (BM) derived circulating endothelial progenitor cells (EPC) constitute an endogenous vascular repair system that may protect against atherosclerosis development.2</text>
+    </sentence>
+    <sentence charOffset="2904-2983" id="S33" selection="">
+        <text xml:space="preserve">Reduced EPC availability or function may contribute to the pathogenesis of CVD.</text>
+    </sentence>
+    <sentence charOffset="2990-3134" id="S34" selection="">
+        <text xml:space="preserve">Disease conditions with high cardiovascular risk, including end-stage renal disease, have been associated with reduced EPC levels and function.3</text>
+    </sentence>
+    <sentence charOffset="3135-3266" id="S35" selection="">
+        <text xml:space="preserve">Others have not observed such inverse relations or even reported a positive relation between EPC number and vascular risk factors.4</text>
+    </sentence>
+    <sentence charOffset="3267-3393" id="S36" selection="">
+        <text xml:space="preserve">In CHF, a negative correlation between cultured EPC and functional New York Heart Association (NYHA) class has been reported.5</text>
+    </sentence>
+    <sentence charOffset="3394-3667" id="S37" selection="">
+        <text xml:space="preserve">However, others have found higher levels of EPC in mild CHF with increased levels of EPC mobilising factors, whereas EPC in severe disease were decreased, despite similar increases in stromal cell-derived factor-1α (SDF-1α) and vascular endothelial growth factor (VEGF).6 7</text>
+    </sentence>
+    <sentence charOffset="3668-3827" id="S38" selection="">
+        <text xml:space="preserve">This suggests a protective compensatory response to the vascular risk burden in mild CHF, but exhaustion or suppression of BM progenitor cells in advanced CHF.</text>
+    </sentence>
+    <sentence charOffset="3828-4079" id="S39" selection="2a">
+        <text xml:space="preserve">We hypothesised that in CRS, the combined presence of even mild stages of CHF, CKD and anaemia is associated with impaired levels of circulating EPC, due to accumulation of uremic toxins, decreased nitric oxide availability and increased inflammation.</text>
+    </sentence>
+    <sentence charOffset="4086-4178" id="S40" selection="">
+        <text xml:space="preserve">Enhancing circulating EPC may enhance vascular protection and reduce the progression of CVD.</text>
+    </sentence>
+    <sentence charOffset="4179-4423" id="S41" selection="">
+        <text xml:space="preserve">Beneficial effects of erythropoietin (EPO) on the cardiovascular system have been suggested from animal experiments8 and small clinical studies in patients with CKD9 or CHF,10 although these could not be confirmed in larger randomised trials.11</text>
+    </sentence>
+    <sentence charOffset="4424-4562" id="S42" selection="">
+        <text xml:space="preserve">In patients with myocardial infarction, circulating CD34+ haematopoietic stem cells (HSC) increased after single high-dose EPO injection.8</text>
+    </sentence>
+    <sentence charOffset="4563-4692" id="S43" selection="">
+        <text xml:space="preserve">Regular dose EPO treatment increased EPC levels in advanced CKD12 and improved EPC function in CHF patients in the longer term.13</text>
+    </sentence>
+    <sentence charOffset="4693-4797" id="S44" selection="2a">
+        <text xml:space="preserve">No randomised controlled studies are available on EPC and regular EPO dose effects in patients with CRS.</text>
+    </sentence>
+    <sentence charOffset="4798-4932" id="S45" selection="2b">
+        <text xml:space="preserve">We hypothesised that EPO treatment can improve EPC levels in CRS patients, which may be related to a reduction in cardiovascular risk.</text>
+    </sentence>
+    <sentence charOffset="4939-5192" id="S46" selection="2b">
+        <text xml:space="preserve">We assessed circulating EPC levels and EPC outgrowth number and function in CRS patients compared to healthy controls, and evaluated whether short-term (18 days) and long-term (52 weeks) EPO therapy improved EPC number and function in patients with CRS.</text>
+    </sentence>
+    <sentence charOffset="5209-5216" id="S47">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="5232-5246" id="S48" selection="">
+        <text xml:space="preserve">Study subjects</text>
+    </sentence>
+    <sentence charOffset="5255-5402" id="S49" selection="23">
+        <text xml:space="preserve">We studied a subgroup of CRS patients from the EpoCaReS trial (ClinicalTrials.gov, NCT00356733), and healthy controls of comparable age and gender.</text>
+    </sentence>
+    <sentence charOffset="5403-5509" id="S50" selection="4a">
+        <text xml:space="preserve">A detailed description with inclusion and exclusion criteria of the study has previously been published.14</text>
+    </sentence>
+    <sentence charOffset="5510-5607" id="S51" selection="">
+        <text xml:space="preserve">The protocol was approved by the medical ethics committee and all patients gave informed consent.</text>
+    </sentence>
+    <sentence charOffset="5608-5668" id="S52" selection="">
+        <text xml:space="preserve">Procedures were in accordance with the Helsinki Declaration.</text>
+    </sentence>
+    <sentence charOffset="5677-6109" id="S53" selection="4a">
+        <text xml:space="preserve">Patients with mild anaemia (women: 6.4–7.4 mmol/l; men: 6.4–7.8 mmol/l), moderate CKD (estimated creatinine clearance 20–70 ml/min, Cockcroft–Gault formula) and CHF (functional NYHA class II–IV, based on symptoms, signs and objective abnormality on echocardiography,15 reduced ejection fraction (&lt;50%) or left ventricular end-diastolic volume index &lt;97 ml/m2 with evidence of diastolic left ventricular dysfunction16) were included.</text>
+    </sentence>
+    <sentence charOffset="6132-6144" id="S54" selection="">
+        <text xml:space="preserve">Study design</text>
+    </sentence>
+    <sentence charOffset="6153-6251" id="S55" selection="6a">
+        <text xml:space="preserve">EPC levels and function were compared between 45 CRS patients at baseline and 20 healthy controls.</text>
+    </sentence>
+    <sentence charOffset="6252-6332" id="S56" selection="3a">
+        <text xml:space="preserve">The effects of EPO treatment were evaluated in an open-label, randomised design.</text>
+    </sentence>
+    <sentence charOffset="6333-6486" id="S57" selection="5">
+        <text xml:space="preserve">Patients received EPO treatment (50 IU/kg/week; Neorecormon, Roche Pharmaceuticals, Woerden, Netherlands) or standard treatment without EPO for one year.</text>
+    </sentence>
+    <sentence charOffset="6487-6687" id="S58" selection="6a,16">
+        <text xml:space="preserve">Short-term effects of EPO (n =30) versus no EPO (n =15) were evaluated after 18 days (3 days after third EPO injection), when EPO treatment was not yet expected to result in a haematopoietic response.</text>
+    </sentence>
+    <sentence charOffset="6688-6924" id="S59" selection="6a,16">
+        <text xml:space="preserve">Long-term (52 week) effects of EPO were assessed in a subgroup of EPO-treated patients, who were allowed to increase haemoglobin (Hb) levels up to 8.5 mmol/l for men and 8.3 mmol/l for women (n =13), and a non EPO-treated group (n =13).</text>
+    </sentence>
+    <sentence charOffset="6947-6966" id="S60" selection="">
+        <text xml:space="preserve">Plasma measurements</text>
+    </sentence>
+    <sentence charOffset="6975-7124" id="S61" selection="6a">
+        <text xml:space="preserve">Serum EPO levels were measured by sandwich chemiluminescent immunoassay (IMMULITE 2000 platform, Siemens Healthcare Diagnostics, Breda, Netherlands).</text>
+    </sentence>
+    <sentence charOffset="7125-7580" id="S62" selection="6a">
+        <text xml:space="preserve">Endothelial dysfunction, EPC mobilising factors and inflammation markers were measured using ELISA (E-selectin, vascular cell adhesion molecule-1 (VCAM-1), interleukin (IL)-6, VEGF, SDF-1α (R&amp;D Systems, Minneapolis, Minnesota, USA) and thrombomodulin (Diaclone, Stamford, Connecticut, USA)) or multiplex immunoassay17 (intercellular adhesion molecule-1 (ICAM-1) and monocyte chemotactic protein-1 (MCP-1) (Bio-Rad Laboratories,Hercules, California, USA)).</text>
+    </sentence>
+    <sentence charOffset="7581-7762" id="S63" selection="6a">
+        <text xml:space="preserve">High sensitivity C reactive protein (hsCRP) was determined by particle-enhanced immunonephelometry (standard Cardio-Phase hsCRP for BNII, Dade Behring Holding, Liederbach, Germany).</text>
+    </sentence>
+    <sentence charOffset="7763-7923" id="S64" selection="6a">
+        <text xml:space="preserve">N-terminal prohormone of brain natriuretic peptide (NT-proBNP) was measured using electrochemiluminescense immunoassay (Cobas CA6000, Roche, Mannheim, Germany).</text>
+    </sentence>
+    <sentence charOffset="7924-7985" id="S65" selection="6a">
+        <text xml:space="preserve">Samples were measured in duplicate and averaged for analysis.</text>
+    </sentence>
+    <sentence charOffset="8008-8030" id="S66" selection="">
+        <text xml:space="preserve">Circulating EPC levels</text>
+    </sentence>
+    <sentence charOffset="8039-8207" id="S67" selection="6a">
+        <text xml:space="preserve">Circulating EPC were defined as cells positive for haematopoietic stem cell marker CD34 and endothelial marker kinase insert domain receptor (KDR; ie, VEGF receptor-2).</text>
+    </sentence>
+    <sentence charOffset="8208-8354" id="S68" selection="">
+        <text xml:space="preserve">This CD34+KDR+-EPC has previously shown clinical importance by predicting cardiovascular events and death in cardiovascular risk populations.18 19</text>
+    </sentence>
+    <sentence charOffset="8355-8614" id="S69" selection="6a">
+        <text xml:space="preserve">Blood (100 μl) was incubated with anti-CD34-FITC (BD Pharmingen, California, USA), anti-KDR-PE (R&amp;D Systems) and anti-CD45-PE-Cy7 (BD Pharmingen) antibodies for 45 min. Erythrocytes were lysed and analysed by flow cytometry (Beckman Coulter, California, USA).</text>
+    </sentence>
+    <sentence charOffset="8615-8746" id="S70" selection="6a">
+        <text xml:space="preserve">Circulating HSC and EPC were identified as CD34+ and CD34+KDR+ cells in the lymphocyte region of the forward/sideward scatter plot.</text>
+    </sentence>
+    <sentence charOffset="8747-8872" id="S71" selection="6a">
+        <text xml:space="preserve">Cell numbers were quantified relative to 105 granulocytes, identified as CD45+ cells with a typical granulocyte distribution.</text>
+    </sentence>
+    <sentence charOffset="8873-8940" id="S72" selection="6a">
+        <text xml:space="preserve">Measurements were performed in duplicate and results were averaged.</text>
+    </sentence>
+    <sentence charOffset="8941-8993" id="S73" selection="6a">
+        <text xml:space="preserve">Isotype-stained samples served as negative controls.</text>
+    </sentence>
+    <sentence charOffset="9016-9043" id="S74" selection="">
+        <text xml:space="preserve">Outgrowth of EPC in culture</text>
+    </sentence>
+    <sentence charOffset="9052-9133" id="S75" selection="6a">
+        <text xml:space="preserve">EPC outgrowth from mononuclear cells (MNC) was assessed as described previously.3</text>
+    </sentence>
+    <sentence charOffset="9134-9264" id="S76" selection="6a">
+        <text xml:space="preserve">In brief, MNC were isolated from blood using Ficoll density gradient separation (Histopaque 1077, Sigma, St Louis, Missouri, USA).</text>
+    </sentence>
+    <sentence charOffset="9265-9589" id="S77" selection="6a">
+        <text xml:space="preserve">To evaluate EPC outgrowth in culture, 107 MNC/well were seeded on a human fibronectin (Sigma) coated 6-well plate in EGM-2 (Cambrex, Baltimore, Maryland, USA), supplemented with accompanying aliquots, 20% fetal calf serum (Invitrogen, Carlsbad, California, USA), 100 ng/ml recombinant VEGF-165 (R&amp;D Systems) and antibiotics.</text>
+    </sentence>
+    <sentence charOffset="9590-9654" id="S78" selection="6a">
+        <text xml:space="preserve">Medium was changed after 4 days to wash non-adherent cells away.</text>
+    </sentence>
+    <sentence charOffset="9655-9836" id="S79" selection="6a">
+        <text xml:space="preserve">After 7 days, cultured EPC in selected wells were placed on serum free medium (EBM-2 with hEGF, hydrocortisone, GA-1000, R3-IGF-1, ascorbic acid, heparin and antibiotics) overnight.</text>
+    </sentence>
+    <sentence charOffset="9837-10004" id="S80" selection="6a">
+        <text xml:space="preserve">Conditioned medium was stored for functional experiments and cultured EPC were detached by trypsin and cell scraping, and automatically counted using a haemocytometer.</text>
+    </sentence>
+    <sentence charOffset="10027-10055" id="S81" selection="">
+        <text xml:space="preserve">In vitro scratch wound assay</text>
+    </sentence>
+    <sentence charOffset="10064-10213" id="S82" selection="6a">
+        <text xml:space="preserve">The potential of EPC outgrowth to excrete paracrine factors that stimulate endothelial cell migration was assessed by in vitro scratch wound assay.20</text>
+    </sentence>
+    <sentence charOffset="10214-10337" id="S83" selection="6a">
+        <text xml:space="preserve">In brief, EPC outgrowth medium was placed on a mechanically scratched confluent human microvascular endothelial cell layer.</text>
+    </sentence>
+    <sentence charOffset="10338-10468" id="S84" selection="6a">
+        <text xml:space="preserve">After 6 h, the extent of scratch closure relative to the starting width was compared between study groups using light photography.</text>
+    </sentence>
+    <sentence charOffset="10469-10562" id="S85" selection="6a">
+        <text xml:space="preserve">Each sample was measured in two separate wells and two picture fields per well were examined.</text>
+    </sentence>
+    <sentence charOffset="10563-10603" id="S86" selection="6a">
+        <text xml:space="preserve">Results were averaged for data analysis.</text>
+    </sentence>
+    <sentence charOffset="10626-10646" id="S87" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="10655-10713" id="S88" selection="12a">
+        <text xml:space="preserve">Data analysis was performed using SPSS V.15.0 for Windows.</text>
+    </sentence>
+    <sentence charOffset="10714-10774" id="S89" selection="12a">
+        <text xml:space="preserve">Data distribution was tested by the Kolmogorov–Smirnov test.</text>
+    </sentence>
+    <sentence charOffset="10775-10871" id="S90" selection="12a">
+        <text xml:space="preserve">Data are expressed as mean ± SD for parametric data and as median (IQR) for non-parametric data.</text>
+    </sentence>
+    <sentence charOffset="10872-10961" id="S91" selection="12a">
+        <text xml:space="preserve">Differences between groups were analysed using Student's t test or the Mann–Whitney test.</text>
+    </sentence>
+    <sentence charOffset="10962-11052" id="S92" selection="12a">
+        <text xml:space="preserve">Fisher's exact test was used to analyse whether proportions of categories varied by group.</text>
+    </sentence>
+    <sentence charOffset="11053-11184" id="S93" selection="12a">
+        <text xml:space="preserve">Multiple group comparisons were performed using ANOVA with LSD post-hoc testing for which non-parametric data were log-transformed.</text>
+    </sentence>
+    <sentence charOffset="11185-11281" id="S94" selection="12a">
+        <text xml:space="preserve">Correlations were measured by Pearson's or Spearman's correlation coefficient where appropriate.</text>
+    </sentence>
+    <sentence charOffset="11282-11414" id="S95" selection="12a">
+        <text xml:space="preserve">Multivariate determinants of log-transformed progenitor cell counts were identified by stepwise multiple linear regression analysis.</text>
+    </sentence>
+    <sentence charOffset="11415-11475" id="S96" selection="">
+        <text xml:space="preserve">A value of p &lt;0.05 was considered statistically significant.</text>
+    </sentence>
+    <sentence charOffset="11499-11506" id="S97">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="11522-11546" id="S98" selection="">
+        <text xml:space="preserve">Baseline characteristics</text>
+    </sentence>
+    <sentence charOffset="11555-11599" id="S99" selection="15">
+        <text xml:space="preserve">Table 1 summarises baseline characteristics.</text>
+    </sentence>
+    <sentence charOffset="11600-11725" id="S100" selection="15">
+        <text xml:space="preserve">Patients were mildly anaemic, had reduced creatinine clearance, lower diastolic blood pressure and reduced ejection fraction.</text>
+    </sentence>
+    <sentence charOffset="11726-11861" id="S101" selection="15">
+        <text xml:space="preserve">CRS patients demonstrated increased hsCRP levels and higher levels of markers for endothelial dysfunction compared to healthy controls.</text>
+    </sentence>
+    <sentence charOffset="11870-11922" id="S102" selection="15">
+        <text xml:space="preserve">Table 1 Baseline characteristics of study population</text>
+    </sentence>
+    <sentence charOffset="11945-11980" id="S103" selection="">
+        <text xml:space="preserve">Haemoglobin levels during the study</text>
+    </sentence>
+    <sentence charOffset="11989-12198" id="S104" selection="17a">
+        <text xml:space="preserve">Short-term EPO did not significantly change Hb levels (7.5 (1.2) vs 7.3 (1.0) mmol/l; p=0.061), but significantly increased reticulocyte count (0.066±0.004 vs 0.045±0.003×1012/l; p&lt;0.001) compared to baseline.</text>
+    </sentence>
+    <sentence charOffset="12199-12310" id="S105" selection="17a">
+        <text xml:space="preserve">Long-term EPO significantly increased Hb levels compared to baseline (8.4 (0.8) vs 6.9 (0.8) mmol/l; p =0.012).</text>
+    </sentence>
+    <sentence charOffset="12311-12488" id="S106" selection="17a">
+        <text xml:space="preserve">Patients not treated with EPO remained anaemic at all time-points (7.4 (0.4) baseline, 7.2 (0.8) 18 days, 7.4 (0.9) mmol/l 52 week; p-value not significant between time-points).</text>
+    </sentence>
+    <sentence charOffset="12511-12590" id="S107" selection="">
+        <text xml:space="preserve">Circulating EPC levels are reduced in CRS patients compared to healthy controls</text>
+    </sentence>
+    <sentence charOffset="12599-12689" id="S108" selection="17a">
+        <text xml:space="preserve">CD34+KDR+-EPC were 68% lower in CRS patients at baseline compared to controls (figure 1A).</text>
+    </sentence>
+    <sentence charOffset="12690-12761" id="S109" selection="17a">
+        <text xml:space="preserve">CRS patients tended to have lower CD34+-HSC (38% reduction; figure 1B).</text>
+    </sentence>
+    <sentence charOffset="12762-12817" id="S110" selection="17a">
+        <text xml:space="preserve">No differences were found in EPC outgrowth (figure 1C).</text>
+    </sentence>
+    <sentence charOffset="12818-13039" id="S111" selection="17a">
+        <text xml:space="preserve">In a scratch wound assay, we observed no significant difference between conditioned medium from EPC outgrowth cultures from CRS patients and controls for their capacity to stimulate endothelial cell migration (figure 1D).</text>
+    </sentence>
+    <sentence charOffset="13048-13166" id="S112" selection="17a">
+        <text xml:space="preserve">Figure 1 Progenitor cell levels and function in patients with cardiorenal syndrome (CRS) compared to healthy controls.</text>
+    </sentence>
+    <sentence charOffset="13167-13410" id="S113" selection="">
+        <text xml:space="preserve">Comparison of circulating CD34+KDR+-cell levels (A), CD34+-cell levels (B), cultured endothelial progenitor cell (EPC) number (C) and function as determined by scratch wound analysis (D) between CRS patients (n=45) and healthy controls (n=20).</text>
+    </sentence>
+    <sentence charOffset="13411-13432" id="S114" selection="">
+        <text xml:space="preserve">NC, negative control.</text>
+    </sentence>
+    <sentence charOffset="13441-13696" id="S115" selection="18">
+        <text xml:space="preserve">Univariate analysis revealed lower CD34+KDR+-EPC levels in subjects with advanced age (r=−0.352; p=0.007), lower Hb (r=0.362; p=0.005) and estimated creatinine clearance (r=0.328; p=0.012), and higher IL-6 levels (r=−0.302; p=0.044) (supplementary table).</text>
+    </sentence>
+    <sentence charOffset="13697-13942" id="S116" selection="18">
+        <text xml:space="preserve">CD34+-HSC were also negatively correlated with age (r=−0.273; p=0.038) and IL-6 levels (r=−0.454; p=0.002) and tended to decrease in patients with lower estimated creatinine clearance (r=0.241; p=0.068) and higher serum urea (r=−0.258; p=0.053).</text>
+    </sentence>
+    <sentence charOffset="13943-14048" id="S117" selection="18">
+        <text xml:space="preserve">CD34+-HSC were increased in patients with higher plasma low density lipoprotein (LDL) (r=0.285; p=0.035).</text>
+    </sentence>
+    <sentence charOffset="14049-14293" id="S118" selection="18">
+        <text xml:space="preserve">After multivariate regression analysis of log-transformed CD34+KDR+-EPC levels for age, Hb, estimated creatinine clearance and IL-6, only Hb remained an independent predictor of circulating EPC levels (β =0.323; 95% CI 0.021 to 0.538; p=0.034).</text>
+    </sentence>
+    <sentence charOffset="14294-14479" id="S119" selection="18">
+        <text xml:space="preserve">Only IL-6 (β=−0.443; 95% CI −0.135 to −0.029; p=0.003) was an independent predictor of log-transformed CD34+-HSC in multivariate regression analysis for age, IL-6 and plasma LDL levels.</text>
+    </sentence>
+    <sentence charOffset="14488-14568" id="S120" selection="17a">
+        <text xml:space="preserve">No correlations were found for CD34+- and CD34+KDR+-cells with serum EPO levels.</text>
+    </sentence>
+    <sentence charOffset="14569-14686" id="S121" selection="17a">
+        <text xml:space="preserve">Presence of diabetes, statin use or β-blockade treatment were not associated with circulating progenitor cell counts.</text>
+    </sentence>
+    <sentence charOffset="14687-14811" id="S122" selection="17a">
+        <text xml:space="preserve">CD34+-cell levels tended to correlate negatively with all levels of measured endothelial dysfunction parameters at baseline.</text>
+    </sentence>
+    <sentence charOffset="14812-14967" id="S123" selection="17a">
+        <text xml:space="preserve">Reduced CD34+KDR+-cell levels were also associated with increased VCAM-1 levels, but not with other endothelial dysfunction measures (supplementary table).</text>
+    </sentence>
+    <sentence charOffset="14968-15045" id="S124" selection="17a">
+        <text xml:space="preserve">EPC outgrowth level and function were not associated with any of the markers.</text>
+    </sentence>
+    <sentence charOffset="15054-15168" id="S125" selection="17a">
+        <text xml:space="preserve">SDF-1α levels were significantly enhanced in CRS patients versus controls (3.1 (0.8) vs 2.6 (0.3) pg/ml; p=0.001).</text>
+    </sentence>
+    <sentence charOffset="15169-15389" id="S126" selection="17a">
+        <text xml:space="preserve">SDF-1α levels correlated with estimated creatinine clearance (r=−0.361; p=0.004), serum urea (r=0.527; p&lt;0.001), Hb (r=−0.276; p=0.03) and NT-proBNP (r=0.503; p=0.001), but not with ejection fraction (r=−0.190; p=0.307).</text>
+    </sentence>
+    <sentence charOffset="15390-15606" id="S127" selection="17a">
+        <text xml:space="preserve">SDF-1α levels increased with deterioration of endothelial dysfunction measured by ICAM-1 (r=0.437; p=0.002), VCAM-1 (r=0.553; p&lt;0.001) and thrombomodulin (r=0.494; p&lt;0.001), but not with eSelectin (r=0.203; p=0.162).</text>
+    </sentence>
+    <sentence charOffset="15607-15827" id="S128" selection="17a">
+        <text xml:space="preserve">ICAM-1 (β=0.313; 95% CI 0.000 to 0.002; p=0.041) and VCAM-1 (β=0.441; 95% CI 1.888 to 9.813; p=0.005) remained independent predictors of SDF-1α in multivariate regression analysis for significant univariate determinants.</text>
+    </sentence>
+    <sentence charOffset="15836-15975" id="S129" selection="17a">
+        <text xml:space="preserve">We observed no relation between levels of circulating CD34+KDR+-cells and SDF-1α levels in the total patient population (r=0.127; p=0.352).</text>
+    </sentence>
+    <sentence charOffset="15976-16186" id="S130" selection="17a">
+        <text xml:space="preserve">However, SDF-1α was correlated with CD34+KDR+-cells in patients with milder CHF indicated by low levels (below median) of NT-proBNP (r=0.469; p=0.05) or high (above median) ejection fraction (r=0.651; p=0.022).</text>
+    </sentence>
+    <sentence charOffset="16187-16385" id="S131" selection="17a">
+        <text xml:space="preserve">Correlations were absent or even reversed in more severe CHF (r=0.104; p=0.661 in patients with NT-proBNP levels above median, and r=−0.461; p=0.083 in patients with ejection fraction below median).</text>
+    </sentence>
+    <sentence charOffset="16386-16510" id="S132" selection="17a">
+        <text xml:space="preserve">SDF-1α and CD34+KDR+-cell correlations were absent in patients above as well as below median estimated creatinine clearance.</text>
+    </sentence>
+    <sentence charOffset="16511-16622" id="S133" selection="17a">
+        <text xml:space="preserve">Levels of VEGF were not different between CRS patients and controls (24.8 (16.4) vs 22.5 (7.1) pg/ml; p=0.212).</text>
+    </sentence>
+    <sentence charOffset="16645-16706" id="S134" selection="">
+        <text xml:space="preserve">Short-term EPO treatment has no effect on EPC in CRS patients</text>
+    </sentence>
+    <sentence charOffset="16715-16866" id="S135" selection="17a">
+        <text xml:space="preserve">Short-term (18 days) EPO had no effect on levels of CD34+- or CD34+KDR+-cells, EPC outgrowth and migratory function as compared to baseline (figure 2).</text>
+    </sentence>
+    <sentence charOffset="16867-16990" id="S136" selection="17a">
+        <text xml:space="preserve">Progenitor cell levels and function also did not significantly change in the non EPO-treated group as compared to baseline.</text>
+    </sentence>
+    <sentence charOffset="16991-17144" id="S137" selection="17a">
+        <text xml:space="preserve">No significant differences in CD34+- and CD34+KDR+-cells, and EPC outgrowth and function were observed between the EPO-treated and non EPO-treated group.</text>
+    </sentence>
+    <sentence charOffset="17153-17308" id="S138" selection="17a">
+        <text xml:space="preserve">Figure 2 Short-term effects of erythropoietin (EPO) treatment on circulating endothelial progenitor cell (EPC) in patients with cardiorenal syndrome (CRS).</text>
+    </sentence>
+    <sentence charOffset="17309-17583" id="S139" selection="">
+        <text xml:space="preserve">Comparison of circulating CD34+KDR+-cell levels (A), CD34+-cell levels (B), cultured EPC number (C) and function as determined by scratch wound analysis (D) between CRS patients treated with EPO for 18 days (n=30, open bars) and non-EPO treated patients (n=15, filled bars).</text>
+    </sentence>
+    <sentence charOffset="17606-17671" id="S140" selection="">
+        <text xml:space="preserve">Long-term EPO treatment prevents a decline in EPC in CRS patients</text>
+    </sentence>
+    <sentence charOffset="17680-17799" id="S141" selection="17a">
+        <text xml:space="preserve">Long-term (52 weeks) EPO did not alter CD34+KDR+-EPC, CD34+-HSC levels, EPC outgrowth or function compared to baseline.</text>
+    </sentence>
+    <sentence charOffset="17800-17909" id="S142" selection="17a">
+        <text xml:space="preserve">In patients not treated with EPO a significant decline in CD34+KDR+-EPC was found after 52 weeks (figure 3A).</text>
+    </sentence>
+    <sentence charOffset="17910-18119" id="S143" selection="17a">
+        <text xml:space="preserve">CD34+KDR+-EPC tended to be lower in patients without EPO therapy after 52 weeks compared to those who received EPO therapy (p=0.077), whereas levels were not different between the groups at baseline (p=0.437).</text>
+    </sentence>
+    <sentence charOffset="18120-18278" id="S144" selection="17a">
+        <text xml:space="preserve">No differences in CD34+-HSC, EPC outgrowth and function were observed in the group without EPO treatment after 52 weeks as compared to baseline (figure 3B–D).</text>
+    </sentence>
+    <sentence charOffset="18287-18441" id="S145" selection="17a">
+        <text xml:space="preserve">Figure 3 Long-term effects of erythropoietin (EPO) treatment on circulating endothelial progenitor cell (EPC) in patients with cardiorenal syndrome (CRS).</text>
+    </sentence>
+    <sentence charOffset="18442-18717" id="S146" selection="">
+        <text xml:space="preserve">Comparison of circulating CD34+KDR+-cell levels (A), CD34+-cell levels (B), cultured EPC number (C) and function as determined by scratch wound analysis (D) between CRS patients treated with EPO for 52 weeks (n=13, open bars) and non-EPO treated patients (n=13, filled bars).</text>
+    </sentence>
+    <sentence charOffset="18741-18751" id="S147">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="18758-18966" id="S148" selection="">
+        <text xml:space="preserve">The present data show that patients with CRS and anaemia who receive standard medication have reduced levels of circulating CD34+KDR+-EPC, despite increased levels of progenitor cell mobilising factor SDF-1α.</text>
+    </sentence>
+    <sentence charOffset="18967-19038" id="S149" selection="">
+        <text xml:space="preserve">We observed no effect of short-term, 18 days EPO therapy on EPC levels.</text>
+    </sentence>
+    <sentence charOffset="19039-19176" id="S150" selection="">
+        <text xml:space="preserve">In cardiorenal patients not treated with EPO, we observed a marked reduction in CD34+KDR+-EPC levels after one year compared to baseline.</text>
+    </sentence>
+    <sentence charOffset="19177-19277" id="S151" selection="">
+        <text xml:space="preserve">Long-term, 52 weeks EPO therapy did not significantly affect this reduction in CD34+KDR+-EPC levels.</text>
+    </sentence>
+    <sentence charOffset="19284-19375" id="S152" selection="">
+        <text xml:space="preserve">Our study is the first to report reduced circulating progenitor cells in patients with CRS.</text>
+    </sentence>
+    <sentence charOffset="19376-19457" id="S153" selection="">
+        <text xml:space="preserve">Studies on circulating EPC in patients with CHF report variable results.6 7 21 22</text>
+    </sentence>
+    <sentence charOffset="19458-19647" id="S154" selection="">
+        <text xml:space="preserve">We observed that in the presence of CHF, CKD and anaemia, CD34+KDR+-cell levels were decreased independent of cardiac disease severity, as assessed by ejection fraction or NT-proBNP levels.</text>
+    </sentence>
+    <sentence charOffset="19648-19768" id="S155" selection="">
+        <text xml:space="preserve">Plasma levels of NT-proBNP may be influenced by renal dysfunction, but remain a powerful reflection of cardiac status.23</text>
+    </sentence>
+    <sentence charOffset="19769-19876" id="S156" selection="">
+        <text xml:space="preserve">At tissue level EPC recruitment depends on ischaemia or endothelial injury induced up-regulation of SDF-1α.</text>
+    </sentence>
+    <sentence charOffset="19877-20057" id="S157" selection="">
+        <text xml:space="preserve">In our study, SDF-1α levels correlated with renal function, heart function and endothelial dysfunction markers, indicating that signals for progenitor cell mobilisation are intact.</text>
+    </sentence>
+    <sentence charOffset="20058-20123" id="S158" selection="">
+        <text xml:space="preserve">However, this did not result in an efficient EPC increase in CRS.</text>
+    </sentence>
+    <sentence charOffset="20124-20273" id="S159" selection="22">
+        <text xml:space="preserve">This may be explained by impaired EPC production due to uraemia and other cardiovascular risk factors and/or increased homing to injured endothelium.</text>
+    </sentence>
+    <sentence charOffset="20274-20489" id="S160" selection="22">
+        <text xml:space="preserve">In agreement with previous results,7 in CRS patients with mild CHF, increased SDF-1α levels were associated with higher CD34+KDR+-EPC levels, suggesting that in milder CHF stages SDF-1α can lead to EPC mobilisation.</text>
+    </sentence>
+    <sentence charOffset="20490-20664" id="S161" selection="22">
+        <text xml:space="preserve">In contrast, in severe CHF the association between SDF-1α and EPC levels disappeared or even reversed, suggesting an impaired EPC mobilising response to SDF-1α in this stage.</text>
+    </sentence>
+    <sentence charOffset="20665-20877" id="S162" selection="22">
+        <text xml:space="preserve">This is consistent with the biphasic response reported in severe CHF6 7 and may relate to exhaustion of haematopoietic progenitors at the BM level or inflammatory factors exerting BM suppression in advanced CHF.7</text>
+    </sentence>
+    <sentence charOffset="20878-20973" id="S163" selection="">
+        <text xml:space="preserve">Indeed, our data show a significant inverse relation between IL-6 levels and CD34+-HSC numbers.</text>
+    </sentence>
+    <sentence charOffset="20974-21055" id="S164" selection="">
+        <text xml:space="preserve">Inflammatory cytokines are known to exert a suppressive effect on erythropoiesis.</text>
+    </sentence>
+    <sentence charOffset="21056-21162" id="S165" selection="">
+        <text xml:space="preserve">Consistently, in our patients with mild anaemia we observed lower Hb levels when hsCRP levels were higher.</text>
+    </sentence>
+    <sentence charOffset="21163-21275" id="S166" selection="">
+        <text xml:space="preserve">We observed no correlations between serum EPO levels and either Hb levels or endothelial progenitor cell counts.</text>
+    </sentence>
+    <sentence charOffset="21276-21450" id="S167" selection="22">
+        <text xml:space="preserve">Interestingly, CD34+KDR+-EPC levels correlated positively with Hb levels, suggesting a common BM suppressive effect on both EPC production or mobilisation and erythropoiesis.</text>
+    </sentence>
+    <sentence charOffset="21457-21536" id="S168" selection="">
+        <text xml:space="preserve">In our study short-term EPO administration did not influence HSC or EPC levels.</text>
+    </sentence>
+    <sentence charOffset="21537-21624" id="S169" selection="">
+        <text xml:space="preserve">This contrasts with previous reports in CKD or post-myocardial infarction patients.8 12</text>
+    </sentence>
+    <sentence charOffset="21625-21758" id="S170" selection="22">
+        <text xml:space="preserve">In part this discrepancy may be explained by differences in EPO dosage, as EPC response to EPO has been shown to be dose-dependent.24</text>
+    </sentence>
+    <sentence charOffset="21759-21942" id="S171" selection="">
+        <text xml:space="preserve">Since the potential clinical problems caused by long-term EPO are presumably dose-related,25 our patients received a relatively low, currently recommended, EPO dosage (50 IU/kg/week).</text>
+    </sentence>
+    <sentence charOffset="21943-21994" id="S172" selection="">
+        <text xml:space="preserve">This was sufficient to enhance reticulocyte levels.</text>
+    </sentence>
+    <sentence charOffset="21995-22159" id="S173" selection="22">
+        <text xml:space="preserve">It could be that our CRS patients were not able to increase EPC levels in response to EPO due to exhaustion or suppression of these progenitors at the BM level.7 26</text>
+    </sentence>
+    <sentence charOffset="22160-22377" id="S174" selection="">
+        <text xml:space="preserve">In line with this hyporesponsiveness of EPC on EPO, we observed no relations between serum EPO and EPC levels, whereas endogenous EPO levels were reported to be positively associated with EPC levels in CHF27 or CKD.28</text>
+    </sentence>
+    <sentence charOffset="22384-22519" id="S175" selection="">
+        <text xml:space="preserve">To our knowledge, no previous randomised trials have reported on one-year follow-up of EPC or HSC levels in a high CVD risk population.</text>
+    </sentence>
+    <sentence charOffset="22520-22702" id="S176" selection="">
+        <text xml:space="preserve">In patients not treated with EPO, we observed a 68% reduction in CD34+KDR+-EPC levels after one year compared to baseline, whereas HSC levels remained unchanged compared to baseline.</text>
+    </sentence>
+    <sentence charOffset="22703-22883" id="S177" selection="22">
+        <text xml:space="preserve">This discrepancy may be related to the fact that CRS is associated with impaired NO availability, and that NO and the NO producing enzyme eNOS are essential for EPC mobilisation.29</text>
+    </sentence>
+    <sentence charOffset="22884-23063" id="S178" selection="">
+        <text xml:space="preserve">Our finding that EPC reduced over time whereas HSC were not affected seems consistent with the observation that NO supported mobilisation of EPC but not of HSC in a mouse model.30</text>
+    </sentence>
+    <sentence charOffset="23064-23169" id="S179" selection="">
+        <text xml:space="preserve">Long-term EPO treatment showed a minor and non-significant effect on preserving EPC levels over one year.</text>
+    </sentence>
+    <sentence charOffset="23170-23297" id="S180" selection="">
+        <text xml:space="preserve">One previous study reported no difference in EPC levels between EPO and non-EPO treated CHF patients after 2.5 years follow-up.</text>
+    </sentence>
+    <sentence charOffset="23298-23428" id="S181" selection="20">
+        <text xml:space="preserve">However, this observation may be confounded by the cross-sectional study design and retrospective matching of the control group.13</text>
+    </sentence>
+    <sentence charOffset="23435-23557" id="S182" selection="">
+        <text xml:space="preserve">In contrast to circulating CD34+KDR+-EPC, EPC outgrowth and function were not different between CRS patients and controls.</text>
+    </sentence>
+    <sentence charOffset="23558-23726" id="S183" selection="22">
+        <text xml:space="preserve">It could be that CRS affects mainly the ‘true’ progenitor cells in the haematopoietic/endothelial lineage as it affects progenitors in the erythropoietic lineage in BM.</text>
+    </sentence>
+    <sentence charOffset="23727-23893" id="S184" selection="">
+        <text xml:space="preserve">CD34+KDR+-EPC represent a defined subset of true BM-derived progenitor cells with the ability for clonal expansion into endothelial cell colonies from single cells.31</text>
+    </sentence>
+    <sentence charOffset="23894-24042" id="S185" selection="">
+        <text xml:space="preserve">Cultured EPC are mostly derived from CD34-negative cells, and can adopt an endothelial phenotype after culture, but are not able to clonally expand.</text>
+    </sentence>
+    <sentence charOffset="24043-24139" id="S186" selection="">
+        <text xml:space="preserve">Earlier studies reported decreased EPC outgrowth and colony forming units in CHF5 7 26 or CKD.32</text>
+    </sentence>
+    <sentence charOffset="24140-24261" id="S187" selection="20,22">
+        <text xml:space="preserve">Besides study population differences, differences in culture method may contribute to the observed discordances.5 7 13 32</text>
+    </sentence>
+    <sentence charOffset="24262-24507" id="S188" selection="">
+        <text xml:space="preserve">However, our methodology is the same as in previous studies in which we found reduced CD34+KDR+-EPC and EPC outgrowth in patients with CKD20 and ESRD,3 and comparable to methods used in articles reporting reduced cultured EPC in CHF26 and CKD.33</text>
+    </sentence>
+    <sentence charOffset="24514-24673" id="S189" selection="22">
+        <text xml:space="preserve">In conclusion, CRS patients showed reduced CD34+KDR+-EPC levels, consistent with a reduced vascular regenerative potential and despite increased SDF-1α levels.</text>
+    </sentence>
+    <sentence charOffset="24674-24808" id="S190" selection="">
+        <text xml:space="preserve">Over a one-year follow-up period a marked 68% further reduction in EPC levels was observed in the patient group without EPO treatment.</text>
+    </sentence>
+    <sentence charOffset="24809-25003" id="S191" selection="22">
+        <text xml:space="preserve">In spite of promising experimental studies, our longitudinal, randomised study did not show significant influence of either short- or long-term EPO therapy on reduced EPC levels in CRS patients.</text>
+    </sentence>
+    <sentence charOffset="25013-25024" id="S192">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="25032-25196" id="S193" selection="">
+        <text xml:space="preserve">We would like to thank Adry Diepenbroek and Mireille Emans from the Meander Medical Center Amersfoort, the Netherlands, for their excellent patient care assistance.</text>
+    </sentence>
+    <sentence charOffset="25218-25508" id="S194" selection="25">
+        <text xml:space="preserve">Funding: This work was supported by the Netherlands Heart Foundation (grant number 2005B192); an unrestricted grant from Roche; the Netherlands Organisation for Scientific Research (Vidi grant number 016.096.359 to MCV); and the University Medical Center Utrecht (MD/PhD fellowship to KEJ).</text>
+    </sentence>
+    <sentence charOffset="25531-25566" id="S195" selection="">
+        <text xml:space="preserve">Competing interests: None declared.</text>
+    </sentence>
+    <sentence charOffset="25589-25703" id="S196" selection="">
+        <text xml:space="preserve">Ethics approval: The protocol was approved by the medical ethics committee and all patients gave informed consent.</text>
+    </sentence>
+    <sentence charOffset="25704-25764" id="S197" selection="">
+        <text xml:space="preserve">Procedures were in accordance with the Helsinki Declaration.</text>
+    </sentence>
+    <sentence charOffset="25787-25858" id="S198" selection="">
+        <text xml:space="preserve">Provenance and peer review: Not commissioned; externally peer reviewed.</text>
+    </sentence>
+    <section textSpan="0-138" title="Title" titleSpan="0-5"/>
+    <section textSpan="139-2350" title="Abstract" titleSpan="139-147">
+        <section textSpan="157-601" title="Objective" titleSpan="168-177"/>
+        <section textSpan="610-675" title="Design" titleSpan="621-627"/>
+        <section textSpan="684-785" title="Setting" titleSpan="695-702"/>
+        <section textSpan="794-898" title="Patients" titleSpan="805-813"/>
+        <section textSpan="907-1044" title="Interventions" titleSpan="918-931"/>
+        <section textSpan="1053-1202" title="Main outcome measures" titleSpan="1064-1085"/>
+        <section textSpan="1211-1794" title="Results" titleSpan="1222-1229"/>
+        <section textSpan="1803-2342" title="Conclusions" titleSpan="1814-1825"/>
+    </section>
+    <section textSpan="2356-5197" title="Introduction" titleSpan="2363-2375"/>
+    <section textSpan="5202-11487" title="Methods" titleSpan="5209-5216">
+        <section textSpan="5223-6116" title="Study subjects" titleSpan="5232-5246"/>
+        <section textSpan="6123-6931" title="Study design" titleSpan="6132-6144"/>
+        <section textSpan="6938-7992" title="Plasma measurements" titleSpan="6947-6966"/>
+        <section textSpan="7999-9000" title="Circulating EPC levels" titleSpan="8008-8030"/>
+        <section textSpan="9007-10011" title="Outgrowth of EPC in culture" titleSpan="9016-9043"/>
+        <section textSpan="10018-10610" title="In vitro scratch wound assay" titleSpan="10027-10055"/>
+        <section textSpan="10617-11482" title="Statistical analysis" titleSpan="10626-10646"/>
+    </section>
+    <section textSpan="11492-18729" title="Results" titleSpan="11499-11506">
+        <section textSpan="11513-11929" title="Baseline characteristics" titleSpan="11522-11546"/>
+        <section textSpan="11936-12495" title="Haemoglobin levels during the study" titleSpan="11945-11980"/>
+        <section textSpan="12502-16629" title="Circulating EPC levels are reduced in CRS patients compared to healthy controls" titleSpan="12511-12590"/>
+        <section textSpan="16636-17590" title="Short-term EPO treatment has no effect on EPC in CRS patients" titleSpan="16645-16706"/>
+        <section textSpan="17597-18724" title="Long-term EPO treatment prevents a decline in EPC in CRS patients" titleSpan="17606-17671"/>
+    </section>
+    <section textSpan="18734-25008" title="Discussion" titleSpan="18741-18751"/>
+    <section textSpan="25013-25871" title="Back matter" titleSpan="25013-25024"/>
+</document>

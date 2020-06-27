@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document id="PMC3420230" note="">
+    <text xml:space="preserve">Title
+Ursodeoxycholic acid versus placebo, and early term delivery versus expectant management, in women with intrahepatic cholestasis of pregnancy: semifactorial randomised clinical trial
+Abstract
+
+        Objectives To test whether ursodeoxycholic acid reduces pruritus in women with intrahepatic cholestasis of pregnancy, whether early term delivery does not increase the incidence of caesarean section, and the feasibility of recruiting women with intrahepatic cholestasis of pregnancy to trials of these interventions.
+        Design First phase of a semifactorial randomised controlled trial.
+        Setting Nine consultant led maternity units, United Kingdom.
+        Participants 125 women with intrahepatic cholestasis of pregnancy (pruritus and raised levels of serum bile acids) or pruritus and raised alanine transaminase levels (&gt;100 IU/L) recruited after 24 weeks’ gestation and followed until delivery. 56 women were randomised to ursodeoxycholic acid, 55 to placebo, 30 to early term delivery, and 32 to expectant management.
+        Interventions Ursodeoxycholic acid 500 mg twice daily or placebo increased as necessary for symptomatic or biochemical improvement until delivery; early term delivery (induction or delivery started between 37+0 and 37+6) or expectant management (spontaneous labour awaited until 40 weeks’ gestation or caesarean section undertaken by normal obstetric guidelines, usually after 39 weeks’ gestation).
+        Main outcome measures The primary outcome for ursodeoxycholic acid was maternal itch (arithmetic mean of measures (100 mm visual analogue scale) of worst itch in past 24 hours) and for the timing of delivery was caesarean section. Secondary outcomes were other maternal and perinatal outcomes and recruitment rates.
+        Results Ursodeoxycholic acid reduced itching by −16 mm (95% confidence interval −27 mm to −6 mm), less than the 30 mm difference prespecified by clinicians and women as clinically meaningful. 32% (14/44) of women randomised to ursodeoxycholic acid experienced a reduction in worst itching by at least 30 mm compared with 16% (6/37) randomised to placebo. The difference of 16% (95% confidence interval −3 to 34); this would represent a number needed to treat of 6, but it failed to reach significance. Early term delivery did not increase caesarean sections (7/30 (23%) in the early term delivery group versus 11/32 (33%) in the expectant management group (relative risk 0.70, 95% confidence interval 0.31 to 1.57). No serious harms were noted in either trial. 22% (73/325) of eligible women participated in the drug trial and 19% (39/209) in the timing of delivery trial; both groups had a similar spectrum of disease severity to non-participants.
+        Conclusions Ursodeoxycholic acid significantly reduces pruritus, but the size of the benefit may be too small for most doctors to recommend it, or for most women to want to take it. Women are, however, likely to differ in whether they consider the benefit to be worthwhile. Planned early term delivery seems not to increase incidence of caesarean section, although a small increase cannot be excluded. A trial to test whether ursodeoxycholic acid reduces adverse perinatal outcomes would have to be large, but is feasible. A trial to test the effect of early term delivery on adverse fetal outcomes would have to be significantly larger and may not be feasible.
+        Trial registration Current Controlled Trials ISRCTN37730443.
+      
+
+
+    
+      Introduction
+      Intrahepatic cholestasis of pregnancy (obstetric cholestasis) is characterised by pruritus, otherwise unexplained deranged liver enzyme levels, and elevated levels of serum bile acid.1 The itching typically subsides almost immediately after delivery and the serum bile acid and liver enzyme levels normalise within a few weeks.2 Intrahepatic cholestasis of pregnancy usually presents in the late second and third trimester3 although it has been reported as early as 6-10 weeks’ gestation.4
+      Intrahepatic cholestasis of pregnancy affects about 0.7% of pregnancies in the United Kingdom, varying by ethnic group,5 and usually runs a relatively benign course. The condition is associated with increased rates of spontaneous preterm labour, antepartum passage of meconium, and asphyxial events, but its relation to perinatal mortality is uncertain; early studies reported an increased risk of stillbirth, but some recent studies have cast doubt on the magnitude of the increased risk.1 Interpretation has been complicated by lack of consistency in diagnostic criteria, the impact of drug treatment and elective delivery, and more general reductions in perinatal mortality from improved obstetric care.
+      Many obstetricians in the United Kingdom6 and worldwide7 treat intrahepatic cholestasis of pregnancy with ursodeoxycholic acid to reduce itching and hepatic impairment, although these outcomes have not been proved in a large trial and neither has fetal benefit or safety been tested adequately. The Royal College of Obstetricians and Gynaecologists’ guidelines in use at the start of our trial stated that “There are insufficient data to support the widespread use of ursodeoxycholic acid outside of clinical trials. Women should be aware of the lack of robust data concerning improvement in pruritus, protection against stillbirth and safety to the fetus or neonate.”8 In the absence of any other drug treatment, however, ursodeoxycholic acid seems to be the favoured drug of choice; many pregnant women are treated each year in the United Kingdom6 and the drug is used worldwide for this condition.
+      Elective delivery around 37-38 weeks’ gestation is also widely practised on the assumption that it might pre-empt stillbirths.9 The current literature on fetal death in relation to intrahepatic cholestasis of pregnancy is based on case reports, small case series, and a larger series retrospectively recruited through a patient organisation10 that indicated that most fetal deaths occurred at later gestations (≥34 weeks). Timed delivery, when the obstetrician believes that the risks of early delivery are less than those of awaiting labour, has been evaluated by randomised trials in many other maternal-fetal conditions, including growth restriction,11 12 pre-eclampsia,13 and preterm14 and term15 rupture of membranes but never in intrahepatic cholestasis of pregnancy. Despite this, 88% of maternity units in the United Kingdom practise induction of labour at 37-38 weeks in women with intrahepatic cholestasis of pregnancy.6 Possible benefits to the baby of early term delivery before 38 weeks’ gestation (a reduction in adverse perinatal outcomes such as asphyxial events or stillbirth associated with intrahepatic cholestasis of pregnancy beyond 38 weeks) need to be balanced against the potential harms (an increase in respiratory morbidity16 or longer term indices such as special education needs17 and measures of general health, hospital admissions, and longstanding illness18). The Royal College of Obstetricians and Gynaecologists guidelines concluded that “Obstetricians should be aware that there are insufficient data to support or refute the popular practice of ‘early’ (37 weeks of gestation) induction of labour aimed at reducing late stillbirth.”8 The United States lacks a specific guideline on timing of delivery in women with intrahepatic cholestasis of pregnancy.
+      Both interventions (ursodeoxycholic acid versus placebo and early term delivery versus expectant management) need to be evaluated in an adequately powered randomised controlled trial, preferably based on an appropriate perinatal outcome to assess fetal benefit or harm. As some obstetricians routinely used ursodeoxycholic acid and early term delivery to treat women with pruritus and raised alanine transaminase levels (but normal bile acids levels), we included this group at the clinicians’ discretion. We were, however, uncertain whether obstetricians would be willing to recruit women to such a trial or if the women (across the spectrum of disease severity) would want to participate. It was also unclear whether participants randomised to early or delayed delivery would comply with the trial allocation. Given the uncertainty in the literature over adverse fetal outcomes in intrahepatic cholestasis of pregnancy, we had no adequate contemporaneous data for severe perinatal morbidity and mortality on which to base a power calculation and needed these to plan the main trial with sufficient robustness. We therefore planned a semifactorial trial, testing both interventions in two stages: an initial phase where we would measure recruitment rate (in total, and related to disease severity), acceptability of randomisation among potential participants offered trial entry, adherence with each treatment arm, and completeness of outcome data. Recruitment would continue from the initial phase of the trial without unblinding of the randomisation code and with all participants contributing to the final outcome data. Towards the end of the first phase of the trial, we unsuccessfully sought funding for the second definitive phase. The trial steering committee decided to prepare a new statistical analysis plan before unblinding the participants and to report the new prespecified outcomes.
+      At this time, with recruitment closed and data still blinded, we hypothesised that in women with intrahepatic cholestasis of pregnancy, treatment with ursodeoxycholic acid would reduce pruritus, improve biochemical variables of disease (serum bile acid and alanine transaminase levels), and reduce adverse perinatal outcomes. We also hypothesised that early term delivery at 37-38 weeks’ gestation would not increase the incidence of caesarean sections.
+    
+    
+      Methods
+      We undertook a semifactorial randomised controlled trial of two interventions in women with intrahepatic cholestasis of pregnancy at nine maternity units in the United Kingdom. The trial began in two centres in October 2008 and the remainder joined in over the following year as regulatory approvals were obtained. Women were eligible if they had confirmed intrahepatic cholestasis of pregnancy (itching in pregnancy with other causes excluded, in association with a serum bile acid level greater than the upper limit of normal for that unit’s laboratory) or if they had pruritus with raised alanine transaminase levels (&gt;100 IU/L) and were between 24+0 and 40+6 weeks pregnant for the ursodeoxycholic acid comparison or between 34+1 and 37+6 weeks with a singleton pregnancy for the timing of delivery comparison. We excluded women who were aged less than 18 years; had laboratory confirmed hepatitis A or hepatitis B, pre-eclampsia, primary hepatic disorders, known α-1 antitrypsin deficiency, or current drugs causing deranged liver enzymes; were known to have a lethal fetal anomaly; had an allergy to any component of the ursodeoxycholic acid or placebo capsules; or were unable to give informed consent. Women with concurrent hepatitis C or cholelithiasis, or both, were eligible. Women with a multiple pregnancy were eligible only for the ursodeoxycholic acid comparison as most participating clinicians indicated that such women should normally be delivered at 38 weeks’ gestation.
+      
+        Recruitment and randomisation
+        Clinicians and midwives approached women attending the antenatal clinic, the antenatal day assessment units, or the antenatal ward about participating in the study. A member of the research team confirmed eligibility, gave the women detailed verbal information and an information sheet and invited them to take part. The usual hospital interpreter and translator services were available. The participants provided written, dated informed consent, and the women’s consultant obstetricians and general practitioners were informed of their participation.
+        A member of the research team confirmed participant eligibility and entered an agreed minimum amount of pre-randomisation registration data on a secure internet based data form about the participant before randomisation, including the results of routine biochemical blood tests. Randomisation occurred through the Nottingham Clinical Trials Unit using a web based database and randomisation system. The random allocation sequence for each comparison was generated by using a specific function (-ralloc-) in Stata (StataCorp, College Station, TX) software within the clinical unit using randomly varying block sizes of two, four, and six. The random allocation sequence was not revealed until all data outcomes had been collected and the statistical analysis plan registered. Randomisation was stratified by the gestation at recruitment for the ursodeoxycholic acid comparison and by trial centre for both comparisons. Randomisation for both comparisons within the trial was in a 1 to 1 allocation ratio. Women who were eligible for both were permitted to participate in either or both factorial comparisons. Those who participated in the drug comparison before 34 weeks’ gestation were not allowed to join the timed delivery comparison until 34 weeks, so for that group, randomisation to the two treatment comparisons occurred at different times. Allocation occurred centrally at the clinical unit using a web based database.
+        On randomisation, the clinical unit’s internet trial system issued a unique participant identification number and the participant was randomised to one or both trials according to eligibility. Sequentially numbered containers were sent to the clinical trial’s pharmacist at each centre at the start of the trial and all packs kept in the pharmacy until distribution to the participant. After randomisation to the ursodeoxycholic acid or placebo comparison, an online prescription form was generated for printing. The participant collected the trial drug or placebo from the hospital pharmacy once the local trial’s pharmacist had selected the pack with the appropriate number. The investigator, pharmacist, and trial participant were blind to group allocation.
+        For the timing of delivery comparison, the investigator and participant could not be blinded to the treatment group and appropriate arrangements were made for induction or elective delivery or expectant management as allocated. Obstetricians were permitted to induce participants in the expectant management group from 40+0 weeks’ gestation, or as clinical needs dictated. Other than the trial randomisation, women were managed in accordance with each unit’s guideline for intrahepatic cholestasis of pregnancy, with frequency of blood testing and fetal monitoring determined by the local clinicians. All centres were aware of the Royal College of Obstetricians and Gynaecologists’ guidelines for management of obstetric cholestasis.8
+      
+      
+        Follow-up
+        After randomisation, a member of the research team saw participants weekly at the time of their routine clinical visit. The participant was asked about adherence to treatment, use of other drugs, and adverse events, and completed the visual analogue scale for itching. Results of routinely collected biochemical tests were recorded. Participants were seen six weeks after delivery. All maternal and perinatal outcomes were collected by review of postnatal case notes, with adjudication where necessary by the trial management group.
+        Participants were able to withdraw from the trial at either their own request or the discretion of the treating clinician. If a participant’s clinical condition deteriorated (for example, worsening of itch, increasing bile acid levels), the clinician could decide to stop the trial drug and give ursodeoxycholic acid, or deliver the woman if indicated, without breaking the treatment code.
+      
+      
+        Interventions
+        Women in the first comparison were randomised to ursodeoxycholic acid (250 mg dose; Ursofalk, Dr Falk Pharma, Buckinghamshire), or to placebo capsules (Dr Falk Pharma) identical in appearance and taste to the study drug (white, opaque, hard gelatin capsule). The placebo contained lactose monohydrate and magnesium stearate. All capsules were packaged and labelled to provide blinded treatment packs in the production unit of the pharmacy department, Nottingham University Hospitals NHS Trust. Supplies were packed in an approved container and tagged with a single panel label. The participant’s name, randomisation number, and date of dispensing were added to the label as part of the dispensing process. All women received two capsules twice a day and if there was no clinical improvement (itching) or biochemical improvement (serum bile acids or alanine transaminase levels) the dose was increased in increments of two capsules per day every 3-14 days up to a maximum of 2 g/day.
+        Women in the second comparison were randomised to early term delivery (induction or delivery started between 37+0 and 37+6) or to expectant management (where spontaneous labour was awaited or caesarean delivery undertaken according to normal obstetric guidelines, usually after 39 weeks’ gestation). By consensus, obstetricians could arrange delivery in the latter group from 40+0 weeks’ gestation.
+      
+      
+        Outcomes
+        Once the decision not to fund the main trial was known, a full statistical analysis plan was prepared with prespecified primary and secondary outcome measures; this was uploaded onto the trials website, with the date of amendment logged. No data were unblinded before this time. For the ursodeoxycholic acid comparison, the primary outcome was itch in the mother, measured as the arithmetic mean of all post-randomisation measures of worst itch in the previous 24 hours assessed on a visual analogue scale. To avoid over-interpretation of our results, we carried out two online surveys (www.surveymonkey.com) before unblinding of the trial to determine what reduction in score on the visual analogue scale would be a clinically meaningful difference among clinicians involved in treating women with intrahepatic cholestasis of pregnancy and among women who had previously experienced the condition (full questions given in supplementary appendix 1). Women and clinicians were informed that the mean baseline itch score on the visual analogue scale was 60 mm (by analysis of blinded data) and were offered a choice of answers.
+        For the timing of delivery comparison, the primary outcome was caesarean section. It is widely believed that induction in general increases the rate of caesarean sections, although recent trials of timing of delivery at term have shown no significant effect.12 13
+        Secondary outcome measures for the ursodeoxycholic acid comparison were prespecified as maternal outcomes and perinatal outcomes. Maternal outcomes were average itch in past 24 hours (visual analogue scale); levels of total bile acids, alanine transaminase, and aspartate transaminase; mode of onset of labour; mode of delivery; indication for delivery; and blood loss at delivery. Perinatal outcomes were gestation at delivery, baby outcome, birth weight, presence of meconium stained amniotic fluid, arterial cord pH, venous cord pH, Apgar score at five minutes, congenital anomalies, admission to a neonatal unit (including duration), need for ventilation (including duration), convulsions, and jaundice. For the timing of delivery comparison, we chose the same secondary maternal and perinatal outcomes.
+        The outcome measures previously specified at the start of this initial phase of the trial were designed to measure the feasibility of the second phase—namely, recruitment to the two interventions (total recruitment rate per 1000 deliveries per annum and total recruitment rate per eligible women), recruitment rates related to disease severity, acceptability of randomisation among potential participants offered trial entry, adherence with each treatment arm, and completeness of outcome data.
+      
+      
+        Parallel audit
+        All centres undertook an audit in parallel with the trial from the start of recruitment until 1 April 2010 (when the initial target of 90 women had been recruited). They identified all pregnant women with raised bile acid levels (in collaboration with each hospital’s chemical pathology laboratory) and undertook postnatal case note review to ascertain whether a diagnosis of intrahepatic cholestasis of pregnancy had been confirmed, what treatment had been given, and whether the participation in the trial had been offered. The number of deliveries per centre per month during the audit period was obtained.
+      
+      
+        Sample size
+        For the planned factorial trial, we estimated that a provisional sample size would be 1498 women (749 per group). This would give 80% power, α 0.05, to show a reduction in the primary composite endpoint (fetal death or severe morbidity) from 6% to 3%. However, detailed power calculations were not possible without an accurate estimate of the event rate and the clinical spectrum of likely recruits to such a trial. The target sample size of the initial phase was determined to be about 90 participants to allow reasonably precise estimates of the variables for the main trial.
+        After the decision to analyse the initial phase alone and before unblinding, we undertook a sample size calculation based on our new primary outcome measure of maternal itch score with the clinically meaningful difference as determined. This confirmed that the study as carried out had over 99.9% power to detect a difference of 30 mm (with a standard deviation of 26 mm across both arms and a correlation between baseline and follow-up measurements).
+      
+      
+        Statistical analysis
+        Trial analysis followed the intention to treat principle, with women and infants analysed according to the original randomised allocation, irrespective of adherence and crossovers. For repeated measurements over time (severity of itch and biochemistry), we used the average (arithmetic or geometric mean) during the intervention period.19 In all analyses, regression methods were used and adjustment made for stratification variables (gestation at recruitment for ursodeoxycholic acid trial only, and study centre for both trials) and for potential confounders (baseline bile acid levels, and others where the imbalance was substantial).
+        For the analysis of perinatal outcomes we treated all infants (singletons or twins) equally. To allow for multiple pregnancy, we adjusted standard errors for clustering by mother using the Huber-White sandwich estimator, and multiplicity included as a covariate.20 Mode of delivery was expressed as a perinatal outcome owing to the inclusion of twin pregnancies in which the mode of delivery may be different for one twin.
+        For continuous outcomes (such as visual analogue scale measurement and biochemical results) covariates included the baseline measurement.21 Because of the spread and distribution of values we based the analysis of biochemical markers on logged values. The treatment effect was presented as a concentration ratio (the ratio between treatment groups of the geometric mean concentration post-randomisation). We estimated risk ratios and risk differences for yes or no outcomes; we used binary regression with a log-link (for risk ratios) and a linear link (for risk differences). Time to delivery was treated as partially censored data and analysed using Cox’s proportional hazards. For the ursodeoxycholic acid comparison, censoring was at delivery (if after 37 weeks) for pregnancies randomised to the early term delivery arm of the other trial and undergoing induction of labour or caesarean section owing to trial allocation (rather than maternal or fetal compromise or the request of the mother or obstetrician); and otherwise at 40 weeks. For the timing of delivery comparison, censoring was at 40 weeks in all cases.
+        For subgroup analyses, the principal subgroup was level of bile acids at baseline (continuous and in three categories: normal with raised alanine transaminase levels (bile acids 14 µmol/L, alanine transaminase &gt;100 U/L), mild (bile acids 15-40 µmol/L), and severe (bile acids &gt;40 µmol/L). We used interaction tests to determine whether apparent differences in treatment effect between groups could be interpreted as real (not due to chance only), and hence to indentify subgroups that might or might not benefit from randomised treatment.
+        Analyses were done in the statistical package Stata version 11.1 or later (StataCorp, College Station, TX).
+      
+      
+        Ethical approval
+        The protocol22 was published at the start of the trial. The updated statistical analysis plan was uploaded onto the trials website before unblinding of the data and incorporated into the revised protocol. The trial is reported in accordance with the consolidated standards of reporting trials guidelines.
+      
+    
+    
+      Results
+      The trial took place in nine UK maternity units, with a staggered start date for each centre (the first centre started recruitment in October 2008 and all centres finished recruitment in December 2010; follow-up was completed by 1 March 2011). The trial was stopped when funding application for the second stage of the trial, powered on a composite perinatal endpoint, was unsuccessful.
+      Women were approached and invited to participate in one or both comparisons, depending on their eligibility criteria and inclination. Overall, 111 women participated in the ursodeoxycholic acid comparison; at randomisation 28 (25%) had severe disease (bile acid levels &gt;40 µmol/L), 71 (64%) mild disease (≤40 µmol/L), and 12 (11%) normal bile acid levels with raised alanine transaminase levels. Baseline characteristics of the women (table 1) in both arms of the ursodeoxycholic acid trial were mainly similar (not formally tested), except for notable chance imbalances in the number of twin pregnancies (4/56 v 9/55) and the mean visual analogue scale score for worst episode of itch over the preceding 24 hours (70.9 mm v 59.7 mm) between the ursodeoxycholic acid and placebo arms, respectively. Sixty two women participated in the timing of delivery comparison; 13 (21%) had severe disease, 38 (61%) mild disease, and 11 (18%) normal bile acid levels with raised alanine transaminase levels. Women in both arms of the timing of delivery trial had similar baseline characteristics. Women participated in one or both trials (fig 1).
+       Fig 1 Participation of 125 women in each comparison in semifactorial trial
+      Table 1  Maternal personal and biochemical characteristics at randomisation. Values are numbers (percentages) unless stated otherwise
+      The audit that was carried out in parallel from the trial start date in each centre until 1 April 2010 identified all women who had bile acid levels measured during their pregnancy within that period. Subsequent case note review indicated the reasons for non-participation in the trials (figures 2 and 3). Outcome data were obtained on all participants in the trial.
+       Fig 2 Flow of women in ursodeoxycholic acid and placebo arms
+       Fig 3 Flow of women in early term delivery and expectant management arms
+      
+        Ursodeoxycholic acid trial
+        During the audit period 73/325 (22%) women who were eligible for the ursodeoxycholic acid trial were recruited; of those who did not participate, most of the women or clinicians had already decided on treatment (fig 2). Women expressed a preference both for and against treatment with ursodeoxycholic acid, with some declining the randomisation process.
+        Self reported adherence (assessed at weekly follow-up visits with the trial midwives) showed that a high proportion of women said that they had taken the tablets; in the ursodeoxycholic acid arm, women reported that they had taken more than 90% of the tablets at 93% of the follow-up visits, 50-90% of the tablets at 5% of the visits, and less than 50% of the tablets at 2% of the visits. For the placebo arm, the respective figures for self reported adherence were 92%, 4%, and 4%.
+        A survey of 100 clinicians indicated that they considered that a 30 mm (95% confidence interval 15 to 50 mm) improvement in the visual analogue scale score (from a baseline score of 60 mm) would be a clinically important difference, as did the 100 women surveyed (median 30 mm, 10 to 60 mm). (See supplementary figure.)
+        Compared with the placebo group, women randomised to ursodeoxycholic acid who had not delivered one week post-randomisation reported a 16 mm (95% confidence interval 6 to 27 mm) improvement in the visual analogue scale score for worst itch over the preceding 24 hours across duration of treatment. This was significant (P=0.003), but neither the mean change nor the 95% confidence intervals reached the clinically important difference prespecified by the clinicians and women.
+        Overall, 32% (14/44) of women randomised to ursodeoxycholic acid experienced a reduction in worst itch of at least 30 mm compared with 16% (6/37) of those randomised to placebo: (difference 16%, 95% confidence interval −3 to 34, P=0.11). This difference would represent a number needed to treat of 6, but it just failed to reach significance. The number of women who would need to be treated (NNT) for one woman to achieve a 20 mm reduction in visual analogue scale score was 4 (95% confidence interval 2 to 21), based on 52% (23/44) of those randomised to ursodeoxycholic acid and 27% (10/37) of women in the placebo arm experiencing at least a 20 mm reduction (difference 25%, 95% confidence interval 5% to 46%, P=0.021).
+        Figure 4 shows the results of the a priori analysis by subgroup; the difference in visual analogue scale score between ursodeoxycholic acid and placebo groups in women with severe disease was −19.8 mm (95% confidence interval −37.8 to −1.8 mm, P=0.003), with mild disease was −17.9 mm (−31.7 to −4.0 mm, P=0.01), and with normal bile acid levels and raised alanine transaminase levels was 3.51 mm (−65.04 to 72.06 mm, P=0.91). Formal testing using multiple regression with interaction terms showed no evidence of interaction between severity of disease and randomised treatment on treatment effect for worst episode of itch.
+         Fig 4 Effect of ursodeoxycholic acid on mean worst episode of itch over past 24 hours (mm on visual analogue scale). ALT=alanine transaminase
+        Women randomised to ursodeoxycholic acid had a significant reduction in alanine transaminase, γ-glutamyltransferase, and bilirubin levels (median values post-randomisation and before delivery) but not in bile acid levels (table 2). Babies born to women taking ursodeoxycholic acid were significantly less likely to have meconium stained amniotic fluid than those born to women taking placebo (relative risk 0.39, 95% confidence interval 0.16 to 0.97). There were no other differences in mode of delivery, birth weight, estimated blood loss, or variables of neonatal morbidity.
+        Table 2  Maternal and perinatal outcomes for ursodeoxycholic acid versus placebo comparison. Values are numbers (percentages) unless stated otherwise
+        As there seemed to be a potentially important trend towards later delivery in the ursodeoxycholic acid group, an exploratory analysis was undertaken given the imbalance in twins between the groups at randomisation. Gestational age at delivery was not statistically different between the two groups in women with singleton pregnancies; delivery occurred at 37.71 (SD 1.92) weeks in 52 women randomised to ursodeoxycholic acid compared with 37.62 (SD 1.11) weeks in 46 women randomised to placebo (difference 0.09, 95% confidence interval −0.54 to 0.72); preterm delivery before 37 completed weeks’ gestation occurred in 19% (10/52) compared with 21% (10/46), respectively (risk ratio 0.99, 95% confidence interval 0.85 to 1.16). Among twins in this trial comparison, gestational age at delivery was 36.54 (SD 1.41) (n=8 twin infants) of those randomised to ursodeoxycholic acid compared with 34.81 (2.44) (n=18 twin infants) randomised to placebo (difference 1.29, −1.08 to 3.65); preterm delivery before 37 completed weeks’ gestation occurred in 50% (4/8) compared with 89% (16/18), respectively (risk ratio 0.84, 0.58 to 1.21). These differences were not significant. No stillbirths or neonatal deaths occurred during the trial.
+        Thirteen (23%) adverse events took place among women randomised to ursodeoxycholic acid compared with 10 (18%) among women randomised to placebo (table 3). No woman reported more than one adverse event. Most adverse events were mild,15 with the remainder classified as moderate (eight); none were classed as severe by the site principal investigators. Most adverse events related to gastrointestinal disturbances (nine in ursodeoxycholic acid arm versus five in placebo arm) and the majority were thought not, or unlikely, to be caused by the trial drug (possible causality in four events in ursodeoxycholic acid arm versus two in placebo arm).
+        Table 3  Adverse events in ursodeoxycholic acid versus placebo comparison
+        At the six week postnatal visit, itching scores did not differ across the groups (mean worst episode of itch over the preceding 24 hours 4.0 (SD 10.3) mm on visual analogue scale in ursodeoxycholic acid arm versus 4.3 (12.8) mm in placebo arm; average itch over the preceding 24 hours 1.4 (3.9) mm versus 2.8 (8.8) mm, respectively.
+      
+      
+        Timing of delivery trial
+        Over the audit period we recruited 39/209 (19%) women eligible for the timing of delivery comparison. Within the audited cases a greater proportion of women were ineligible for the trial as they had a diagnosis of intrahepatic cholestasis of pregnancy after 38 weeks’ gestation (fig 3). Women expressed preferences both for and against early term delivery (between 37+0 and 37+6), with most favouring early intervention.
+        Table 4 shows the maternal and perinatal outcomes. One woman with a twin pregnancy did not want to be automatically induced at 38 weeks’ gestation but to be randomised into the trial (against the protocol); she was included in the analysis according to the intention to treat principle. Peripartum and perinatal outcomes are reported for 62 mothers and 63 infants. All women randomised to early term delivery complied with the trial allocation, although one went into spontaneous labour before her induction date. Of those allocated to expectant management, 20/32 (63%) women had intervention before spontaneous onset of labour (or planned delivery if elective caesarean was indicated) for one or more indications, including a change in maternal or fetal condition requiring delivery (7/20, 35%), maternal request (10/20, 50%), and obstetrician decision (14/20, 70%). The gestational age at delivery was −0.6 weeks (95% confidence interval −1.1 to −0.1) earlier in those women allocated to early term delivery. Maternal and fetal outcomes, including caesarean section rate, did not differ significantly between women randomised to early term delivery and those who had expectant management (7/30, 23% v 11/32, 33%, respectively; relative risk 0.70, 95% confidence interval 0.31 to 1.57). The risk difference was 10% (95% confidence interval −32% to 12%); for a non-significant result, the NNT is not calculated.
+        Table 4  Maternal and perinatal outcomes for early term delivery versus expectant management comparison. Values are numbers (percentages) unless stated otherwise
+        No adverse events were reported in the timing of delivery trial.
+      
+      
+        Comparison with audited population
+        Table 5 reports the maternal characteristics and perinatal outcomes of participants and non-participants from the same period to assist in estimating generalisability. For women in the ursodeoxycholic acid comparison, the spectrum of severity of disease was similar in trial and audit groups. A greater proportion of non-participants were induced; case note review indicated that the women or their obstetrician had already decided to choose intervention (either drug treatment or delivery if over 38 weeks’ gestation) soon after diagnosis of intrahepatic cholestasis of pregnancy. One stillbirth occurred among the non-participants in the audited population in a woman with coexisting insulin dependent gestational diabetes who had a prelabour intrauterine death at 36 weeks’ gestation; she had been offered trial participation and declined. In this case the maximal observed levels for serum bile acids and alanine transaminase were 20 µmol/L and 10 IU/L, respectively. For women in the timing of delivery comparison, fewer among the trial participants had severe disease compared with the non-participants (31% v 53%, respectively); case note review indicated that most non-participants or their obstetricians had already decided to choose delivery.
+        Table 5  Maternal and perinatal characteristics of trial participants and non-participants who had intrahepatic cholestasis of pregnancy during audit period (start of trial in each centre to 1 April 2010). Values are numbers (percentages) unless stated otherwise
+        Overall, 45 775 deliveries occurred across all nine maternity units over the 101 months of recruitment. During this period, 73 of 325 eligible women were recruited for the ursodeoxycholic acid comparison (22%), equating to a recruitment rate of 1.6 per 1000 deliveries. For the timing of delivery trial, 39 of 209 eligible women were recruited (19%), a recruitment rate of 0.85 per 1000 deliveries per annum. These figures indicate that if half of the maternity units in the United Kingdom participated in such a study (contributing 400 000 deliveries per year), we would recruit about 636 women per year to the ursodeoxycholic acid comparison and about 340 women per year to the timing of delivery comparison, assuming comparable recruitment rates as seen in our study.
+      
+    
+    
+      Discussion
+      Ursodeoxycholic acid reduces pruritus significantly in pregnant women with intrahepatic cholestasis of pregnancy, but the size of the benefit may be too small for most doctors to recommend it or for most women to want to take it. Individual women are, however, likely to differ in whether they consider the benefit to be worthwhile. This is the first trial to report a quantified reduction in itching as a prespecified primary outcome across all women with intrahepatic cholestasis of pregnancy. Our main results allow us to exclude both a mean reduction in itch of 30 mm and one of 0 mm (no improvement) with 95% confidence. Increasing the sample size would give greater precision, but would be unlikely to alter this conclusion.
+      Early term delivery in women with intrahepatic cholestasis of pregnancy is not associated with an increase in incidence of caesarean section, but the numbers are too small to exclude a possible rise. The trial has also shown that recruitment is feasible for women across the spectrum of disease severity in a range of different types of hospitals from the United Kingdom, and that self reported adherence within the drug and placebo comparison and completeness of outcome data are high, so a large trial comparing ursodeoxycholic acid with placebo is feasible. Participants, or their obstetricians, were less likely to comply with trial allocation in the expectant management arm of the timing of delivery comparison, although this is obscured by possible obstetric indications for delivery.
+      
+        Strengths and weaknesses of the study
+        This is the largest trial of ursodeoxycholic acid compared with placebo in women with intrahepatic cholestasis of pregnancy and the first timing of delivery trial in this group of women. The trial was double blind where feasible, the primary outcome was prespecified, and the participants were largely representative of women with intrahepatic cholestasis of pregnancy. As the study was carried out in nine maternity units of varying types (teaching and non-teaching hospitals, inner city and district hospital), sizes, and location, the results are likely to be generalisable to maternity units in the United Kingdom and to other similar populations. We are confident in the conclusion that ursodeoxycholic acid reduces pruritus, although having predetermined a clinically meaningful difference by survey of clinicians and women, our data indicate that many would not regard the size of effect as worthwhile.
+        It is a further strength of our study that we did an audit in parallel to determine whether participants were representative of women with intrahepatic cholestasis of pregnancy and to enable more detailed understanding of reasons for non-participation. The results show that although a substantial proportion of women and clinicians had strong views on their treatment (both requesting and declining intervention), many women were willing to be randomised.
+        The numbers recruited in this initial phase of the trial also limits the precision of our estimates of treatment effects on all other endpoints. The confidence intervals around the estimate of the effect of early term delivery on caesarean section are such that we cannot rule out a clinically meaningful increase. In addition the chance imbalance in twin pregnancies between the two arms of the ursodeoxycholic acid comparison made interpretation of endpoints related to prematurity more difficult, as the relation between multiple pregnancy and premature delivery is strong. We would recommend stratification by singleton and multiple pregnancy in any future trial.
+      
+      
+        Strengths and weaknesses in relation to other studies
+        The latest Cochrane review, updated in 2001,23 included three trials24 25 26 comparing ursodeoxycholic acid with placebo and involving a total of 56 women. No statistically significant benefits on pruritus or fetal outcomes were shown. Since then a further trial randomised 130 women with a diagnosis of intrahepatic cholestasis of pregnancy to placebo (n=47), ursodeoxycholic acid (n=47), or dexamethasone (n=36).27 One further small trial of ursodeoxycholic acid versus glucose, vitamin C, and inosine in 68 women was reported from China, but the limited information given on trial conduct, methodology, and definitions makes it difficult to draw robust conclusions.28 An updated Cochrane systematic review on interventions for treating intrahepatic cholestasis of pregnancy has been submitted by our group.29
+        For maternal itch, assessed either through a categorical 0-4 scale or on a visual analogue 0-100 mm scale, three trials seemed to show a reduction24 25 28 and two showed no difference.26 27 One of the latter reported a secondary subgroup analysis by disease severity, with a significant reduction in pruritus score in women with severe disease,27 although no numerical data were given. The four smaller trials24 25 26 28 reported improvement in maternal serum bile acid levels, whereas the largest did not (except in the subgroup with serum bile acids levels &gt;40 µmol/L).27 Adverse fetal outcomes were reported in four of the trials but were subjectively assessed (described as fetal distress) or reported (defined only as operative delivery due to asphyxia). The two trials that reported meconium staining of the amniotic fluid produced conflicting results, with one showing no significant difference with ursodeoxycholic acid and the other reporting a reduction from 35% to 12% with treatment.27 28 In our trial, the reduction from 20% to 8% in the ursodeoxycholic acid treated group was significant; a larger trial is needed to confirm or refute these important findings.
+        No other randomised controlled trials have studied timing of delivery in intrahepatic cholestasis of pregnancy, although two trials of early delivery in other conditions of moderately increased fetal risk have shown similar results. The HYPITAT (Hypertension and Pre-eclampsia Intervention Trial At Term) group investigated early delivery for gestational hypertension and pre-eclampsia and found improved maternal outcomes with no effect on caesarean section or adverse perinatal outcomes.13 The DIGITAT (Disproportionate Intrauterine Growth Intervention Trial At Term) group investigated early delivery for intrauterine growth restriction at term and also showed no difference in composite adverse neonatal outcome or caesarean sections.12 A recent case-control study of 64 women with intrahepatic cholestasis of pregnancy induced as part of active management, 64 parity matched controls, and 64 gestation matched controls showed comparable incidences of instrumental delivery and caesarean sections.30 As our study also shows no increase in the incidence of caesarean sections, it remains uncertain whether clinicians will interpret this as support for early term delivery or will await definitive evidence of maternal and fetal benefit or harm before continuing with this policy.
+      
+      
+        Meaning of the study
+        The mechanism behind bile acid mediated adverse events and possible amelioration by ursodeoxycholic acid remains poorly understood. Post-mortem reports typically describe infants with normal growth and signs of acute anoxia without uteroplacental insufficiency.31 Meconium stained amniotic fluid is often reported in fetal deaths related to intrahepatic cholestasis of pregnancy. Histological reports of placentas from affected women show non-specific morphological changes, including increased syncytial knot formation and villous oedema, consistent with hypoxia.32 33 34 These changes are also seen in a rodent model of intrahepatic cholestasis of pregnancy and are reversed after ursodeoxycholic acid treatment.35 Similarly, human placental explants cultured with ursodeoxycholic acid do not develop syncytial knots in the presence of bile acids.36 It has been proposed that raised fetal bile acid levels in affected pregnancies result in fetal arrhythmia and subsequent anoxia or fetal death.37 This hypothesis is supported by in vitro studies of rodent and human cardiomyocytes38 39 40 and by a study showing fetal atrial arrhythmia in intrahepatic cholestasis of pregnancy.41 Of relevance to this study, culture of cardiomyocytes with ursodeoxycholic acid prevented bile acid induced arrhythmias.40 42 The influence of ursodeoxycholic acid on fetal arrhythmia has not been studied in vivo in women with intrahepatic cholestasis of pregnancy. Administering bile acid causes dose dependent increases in contractility of rat myometrium43 and when administered to pregnant sheep causes increased rates of preterm labour and meconium stained amniotic fluid.44 No studies have been done on the influence of ursodeoxycholic acid on these models of intrahepatic cholestasis of pregnancy related preterm labour. Increased rates of neonatal respiratory distress have been reported in the infants of women with intrahepatic cholestasis of pregnancy.45 This may be related to bile acid mediated inhibition of phospholipase A2 and associated lack of surfactant.46
+        Although these studies have provided indirect evidence that raised maternal bile acid levels (and possibly associated increases in fetal bile acid levels) are implicated in the adverse fetal events of intrahepatic cholestasis of pregnancy and that some in vitro studies indicate that ursodeoxycholic acid may reverse bile acid induced adverse fetal events, conclusive evidence of fetal benefit and lack of harm remains elusive.
+      
+      
+        Unanswered questions and future research
+        Definitive evidence for fetal benefit with both interventions is still lacking. Women and clinicians are willing to participate in both trials, and participants have the same spectrum of disease severity as non-participants, so trial event rates estimated from population studies will apply. We estimate that involvement of about half of the maternity units in the United Kingdom would recruit 636 participants per year to a trial of the ursodeoxycholic acid comparison and 340 per year to a trial of the timing of delivery comparison. Using a reasonable population estimate of 11% for a primary composite endpoint of perinatal death or morbidity for women randomised to the ursodeoxycholic acid comparison, a trial with reasonable power to detect a plausible effect size can be designed. It may have to be run internationally, but we believe it is a priority.
+        The rate of a similar composite fetal endpoint for the timed delivery comparison would be lower, since by definition participants have already reached 37 weeks. Given this, and the lower recruitment rate, a trial to test the hypothesis that early term delivery reduces fetal morbidity would need to be both larger and more expensive. Since timed delivery is such a generic intervention, and there is some evidence from other trials that induction does not increase the incidence of caesarean section, obstetricians and funders may decide that a trial to test this intervention properly is not a priority. Some obstetricians and women will reasonably decide to implement early term delivery, at least in women with the highest bile acid levels, without a trial.
+      
+      
+        Conclusions
+        Ursodeoxycholic acid significantly reduces maternal pruritus in women with intrahepatic cholestasis of pregnancy. However, the size of effect is small, so some women and clinicians may question whether the degree of benefit is clinically meaningful, particularly for a drug that is unlicensed in pregnancy. Others, perhaps those with the most severe itch, may want to take the drug, since this study has proved that it does have some effect. The significant reduction in meconium stained amniotic fluid seen in our study, similar to the results of one other trial, raises the prospect that ursodeoxycholic acid may confer fetal benefits and therefore is reassuring for fetal safety. However, the overall risks and benefits of ursodeoxycholic acid to the fetus require evaluation in a larger trial, which we believe is feasible. In women with intrahepatic cholestasis of pregnancy, early term delivery at 37-38 weeks’ gestation did not increase the incidence of caesarean section. A larger trial to evaluate this question further may not be realistic.
+        
+          
+            What is already known on this topic
+            
+              
+                Intrahepatic cholestasis of pregnancy is associated with increased rates of spontaneous preterm labour and fetal asphyxial events
+              
+              
+                Ursodeoxycholic acid and early term delivery are widely used for affected women but the benefits and risks are uncertain
+              
+            
+          
+          
+            What this study adds
+            
+              
+                Ursodeoxycholic acid reduces pruritus significantly in pregnant women, but the size of the benefit is small
+              
+              
+                Early term delivery does not seem to be associated with increased incidence of caesarean section
+              
+              
+                It is feasible to recruit women with intrahepatic cholestasis of pregnancy to a large trial of ursodeoxycholic acid to determine fetal benefits or risks
+              
+            
+          
+        
+      
+    
+  
+
+Back matter
+
+      
+        
+          We thank the women who participated; the obstetricians and midwives who referred women to the researchers; Professor William Hague for suggesting the PITCH acronym; and Dr Falk Pharma for supplying the ursodeoxycholic acid and placebo capsules for the trial.
+        
+        
+          Contributors: LCC and VG contributed equally and are joint first authors. JGT was chief investigator and LCC and CW were principal investigators for the study and contributed to all stages. VG was the clinical research fellow and trial coordinator for the study. PTS undertook all statistical analyses. JC was involved from the design of the study through execution to interpretation, and facilitated the online survey of women with obstetric cholestasis. LCC drafted the manuscript. All authors contributed to revisions and approved the final draft. JGT is guarantor. All authors had full access to all of the data (including statistical reports and tables) in the study and can take responsibility for the integrity of the data and the accuracy of the data analysis. 
+        
+        
+          Funding: This study was funded by the research for patient benefit programme of the National Institute for Health Research (NIHR). LCC is funded by a Department of Health-NHS clinical senior lecturer award. VG was funded by Nottingham University Hospitals NHS Trust and the NIHR research for patient benefit programme. PTS is funded by Tommy’s Charity. CW is funded by the Biomedical Research Centre at Imperial College Healthcare NHS Trust. The sponsor was the University of Nottingham. The sponsor played no role in study design; in the collection, analysis, and interpretation of data; in the writing of the report; or in the decision to submit the article for publication.
+        
+        
+          Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare that: LCC is funded by a Department of Health-NHS clinical senior lecturer award, VG was funded by Nottingham University Hospitals NHS Trust and NIHR research for patient benefit programme, PTS is funded by Tommy’s Charity, and CW is funded by the Biomedical Research Centre at Imperial College Healthcare NHS Trust; JC is the founder of Obstetric Cholestasis Support UK, a support group for women and families affected by obstetric cholestasis; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; and no other relationships or activities that could appear to have influenced the submitted work.
+        
+        
+          Ethical approval: This trial was approved by the Berkshire Research Ethics Committee (reference No 08/H0505/7). 
+        
+        
+          Data sharing: An anonymised dataset is available from the corresponding author (jim.thornton@nottingham.ac.uk) on request. Participants did not give explicit informed consent for data sharing but the data available are anonymised and the risk of identification is low.
+        
+      
+    
+
+      Cite this as: BMJ 2012;344:e3799</text>
+    <sentence charOffset="0-5" id="S1">
+        <text xml:space="preserve">Title</text>
+    </sentence>
+    <sentence charOffset="6-188" id="S2" selection="1a">
+        <text xml:space="preserve">Ursodeoxycholic acid versus placebo, and early term delivery versus expectant management, in women with intrahepatic cholestasis of pregnancy: semifactorial randomised clinical trial</text>
+    </sentence>
+    <sentence charOffset="189-197" id="S3">
+        <text xml:space="preserve">Abstract</text>
+    </sentence>
+    <sentence charOffset="207-523" id="S4" selection="1b">
+        <text xml:space="preserve">Objectives To test whether ursodeoxycholic acid reduces pruritus in women with intrahepatic cholestasis of pregnancy, whether early term delivery does not increase the incidence of caesarean section, and the feasibility of recruiting women with intrahepatic cholestasis of pregnancy to trials of these interventions.</text>
+    </sentence>
+    <sentence charOffset="532-598" id="S5" selection="">
+        <text xml:space="preserve">Design First phase of a semifactorial randomised controlled trial.</text>
+    </sentence>
+    <sentence charOffset="607-667" id="S6" selection="">
+        <text xml:space="preserve">Setting Nine consultant led maternity units, United Kingdom.</text>
+    </sentence>
+    <sentence charOffset="676-918" id="S7" selection="">
+        <text xml:space="preserve">Participants 125 women with intrahepatic cholestasis of pregnancy (pruritus and raised levels of serum bile acids) or pruritus and raised alanine transaminase levels (&gt;100 IU/L) recruited after 24 weeks’ gestation and followed until delivery.</text>
+    </sentence>
+    <sentence charOffset="919-1042" id="S8" selection="">
+        <text xml:space="preserve">56 women were randomised to ursodeoxycholic acid, 55 to placebo, 30 to early term delivery, and 32 to expectant management.</text>
+    </sentence>
+    <sentence charOffset="1051-1449" id="S9" selection="">
+        <text xml:space="preserve">Interventions Ursodeoxycholic acid 500 mg twice daily or placebo increased as necessary for symptomatic or biochemical improvement until delivery; early term delivery (induction or delivery started between 37+0 and 37+6) or expectant management (spontaneous labour awaited until 40 weeks’ gestation or caesarean section undertaken by normal obstetric guidelines, usually after 39 weeks’ gestation).</text>
+    </sentence>
+    <sentence charOffset="1458-1688" id="S10" selection="">
+        <text xml:space="preserve">Main outcome measures The primary outcome for ursodeoxycholic acid was maternal itch (arithmetic mean of measures (100 mm visual analogue scale) of worst itch in past 24 hours) and for the timing of delivery was caesarean section.</text>
+    </sentence>
+    <sentence charOffset="1689-1773" id="S11" selection="">
+        <text xml:space="preserve">Secondary outcomes were other maternal and perinatal outcomes and recruitment rates.</text>
+    </sentence>
+    <sentence charOffset="1782-1973" id="S12" selection="">
+        <text xml:space="preserve">Results Ursodeoxycholic acid reduced itching by −16 mm (95% confidence interval −27 mm to −6 mm), less than the 30 mm difference prespecified by clinicians and women as clinically meaningful.</text>
+    </sentence>
+    <sentence charOffset="1974-2136" id="S13" selection="">
+        <text xml:space="preserve">32% (14/44) of women randomised to ursodeoxycholic acid experienced a reduction in worst itching by at least 30 mm compared with 16% (6/37) randomised to placebo.</text>
+    </sentence>
+    <sentence charOffset="2137-2283" id="S14" selection="">
+        <text xml:space="preserve">The difference of 16% (95% confidence interval −3 to 34); this would represent a number needed to treat of 6, but it failed to reach significance.</text>
+    </sentence>
+    <sentence charOffset="2284-2497" id="S15" selection="">
+        <text xml:space="preserve">Early term delivery did not increase caesarean sections (7/30 (23%) in the early term delivery group versus 11/32 (33%) in the expectant management group (relative risk 0.70, 95% confidence interval 0.31 to 1.57).</text>
+    </sentence>
+    <sentence charOffset="2498-2542" id="S16" selection="">
+        <text xml:space="preserve">No serious harms were noted in either trial.</text>
+    </sentence>
+    <sentence charOffset="2543-2730" id="S17" selection="">
+        <text xml:space="preserve">22% (73/325) of eligible women participated in the drug trial and 19% (39/209) in the timing of delivery trial; both groups had a similar spectrum of disease severity to non-participants.</text>
+    </sentence>
+    <sentence charOffset="2739-2920" id="S18" selection="">
+        <text xml:space="preserve">Conclusions Ursodeoxycholic acid significantly reduces pruritus, but the size of the benefit may be too small for most doctors to recommend it, or for most women to want to take it.</text>
+    </sentence>
+    <sentence charOffset="2921-3012" id="S19" selection="">
+        <text xml:space="preserve">Women are, however, likely to differ in whether they consider the benefit to be worthwhile.</text>
+    </sentence>
+    <sentence charOffset="3013-3140" id="S20" selection="">
+        <text xml:space="preserve">Planned early term delivery seems not to increase incidence of caesarean section, although a small increase cannot be excluded.</text>
+    </sentence>
+    <sentence charOffset="3141-3261" id="S21" selection="">
+        <text xml:space="preserve">A trial to test whether ursodeoxycholic acid reduces adverse perinatal outcomes would have to be large, but is feasible.</text>
+    </sentence>
+    <sentence charOffset="3262-3400" id="S22" selection="">
+        <text xml:space="preserve">A trial to test the effect of early term delivery on adverse fetal outcomes would have to be significantly larger and may not be feasible.</text>
+    </sentence>
+    <sentence charOffset="3409-3469" id="S23" selection="23">
+        <text xml:space="preserve">Trial registration Current Controlled Trials ISRCTN37730443.</text>
+    </sentence>
+    <sentence charOffset="3490-3502" id="S24">
+        <text xml:space="preserve">Introduction</text>
+    </sentence>
+    <sentence charOffset="3509-3693" id="S25" selection="">
+        <text xml:space="preserve">Intrahepatic cholestasis of pregnancy (obstetric cholestasis) is characterised by pruritus, otherwise unexplained deranged liver enzyme levels, and elevated levels of serum bile acid.1</text>
+    </sentence>
+    <sentence charOffset="3694-3837" id="S26" selection="">
+        <text xml:space="preserve">The itching typically subsides almost immediately after delivery and the serum bile acid and liver enzyme levels normalise within a few weeks.2</text>
+    </sentence>
+    <sentence charOffset="3838-3998" id="S27" selection="">
+        <text xml:space="preserve">Intrahepatic cholestasis of pregnancy usually presents in the late second and third trimester3 although it has been reported as early as 6-10 weeks’ gestation.4</text>
+    </sentence>
+    <sentence charOffset="4005-4170" id="S28" selection="">
+        <text xml:space="preserve">Intrahepatic cholestasis of pregnancy affects about 0.7% of pregnancies in the United Kingdom, varying by ethnic group,5 and usually runs a relatively benign course.</text>
+    </sentence>
+    <sentence charOffset="4171-4495" id="S29" selection="">
+        <text xml:space="preserve">The condition is associated with increased rates of spontaneous preterm labour, antepartum passage of meconium, and asphyxial events, but its relation to perinatal mortality is uncertain; early studies reported an increased risk of stillbirth, but some recent studies have cast doubt on the magnitude of the increased risk.1</text>
+    </sentence>
+    <sentence charOffset="4496-4711" id="S30" selection="">
+        <text xml:space="preserve">Interpretation has been complicated by lack of consistency in diagnostic criteria, the impact of drug treatment and elective delivery, and more general reductions in perinatal mortality from improved obstetric care.</text>
+    </sentence>
+    <sentence charOffset="4718-5012" id="S31" selection="2a">
+        <text xml:space="preserve">Many obstetricians in the United Kingdom6 and worldwide7 treat intrahepatic cholestasis of pregnancy with ursodeoxycholic acid to reduce itching and hepatic impairment, although these outcomes have not been proved in a large trial and neither has fetal benefit or safety been tested adequately.</text>
+    </sentence>
+    <sentence charOffset="5013-5234" id="S32" selection="">
+        <text xml:space="preserve">The Royal College of Obstetricians and Gynaecologists’ guidelines in use at the start of our trial stated that “There are insufficient data to support the widespread use of ursodeoxycholic acid outside of clinical trials.</text>
+    </sentence>
+    <sentence charOffset="5235-5387" id="S33" selection="">
+        <text xml:space="preserve">Women should be aware of the lack of robust data concerning improvement in pruritus, protection against stillbirth and safety to the fetus or neonate.”8</text>
+    </sentence>
+    <sentence charOffset="5388-5618" id="S34" selection="">
+        <text xml:space="preserve">In the absence of any other drug treatment, however, ursodeoxycholic acid seems to be the favoured drug of choice; many pregnant women are treated each year in the United Kingdom6 and the drug is used worldwide for this condition.</text>
+    </sentence>
+    <sentence charOffset="5625-5752" id="S35" selection="">
+        <text xml:space="preserve">Elective delivery around 37-38 weeks’ gestation is also widely practised on the assumption that it might pre-empt stillbirths.9</text>
+    </sentence>
+    <sentence charOffset="5753-6047" id="S36" selection="">
+        <text xml:space="preserve">The current literature on fetal death in relation to intrahepatic cholestasis of pregnancy is based on case reports, small case series, and a larger series retrospectively recruited through a patient organisation10 that indicated that most fetal deaths occurred at later gestations (≥34 weeks).</text>
+    </sentence>
+    <sentence charOffset="6048-6398" id="S37" selection="">
+        <text xml:space="preserve">Timed delivery, when the obstetrician believes that the risks of early delivery are less than those of awaiting labour, has been evaluated by randomised trials in many other maternal-fetal conditions, including growth restriction,11 12 pre-eclampsia,13 and preterm14 and term15 rupture of membranes but never in intrahepatic cholestasis of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="6399-6555" id="S38" selection="">
+        <text xml:space="preserve">Despite this, 88% of maternity units in the United Kingdom practise induction of labour at 37-38 weeks in women with intrahepatic cholestasis of pregnancy.6</text>
+    </sentence>
+    <sentence charOffset="6556-7015" id="S39" selection="">
+        <text xml:space="preserve">Possible benefits to the baby of early term delivery before 38 weeks’ gestation (a reduction in adverse perinatal outcomes such as asphyxial events or stillbirth associated with intrahepatic cholestasis of pregnancy beyond 38 weeks) need to be balanced against the potential harms (an increase in respiratory morbidity16 or longer term indices such as special education needs17 and measures of general health, hospital admissions, and longstanding illness18).</text>
+    </sentence>
+    <sentence charOffset="7016-7293" id="S40" selection="">
+        <text xml:space="preserve">The Royal College of Obstetricians and Gynaecologists guidelines concluded that “Obstetricians should be aware that there are insufficient data to support or refute the popular practice of ‘early’ (37 weeks of gestation) induction of labour aimed at reducing late stillbirth.”8</text>
+    </sentence>
+    <sentence charOffset="7294-7413" id="S41" selection="">
+        <text xml:space="preserve">The United States lacks a specific guideline on timing of delivery in women with intrahepatic cholestasis of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="7420-7689" id="S42" selection="2a">
+        <text xml:space="preserve">Both interventions (ursodeoxycholic acid versus placebo and early term delivery versus expectant management) need to be evaluated in an adequately powered randomised controlled trial, preferably based on an appropriate perinatal outcome to assess fetal benefit or harm.</text>
+    </sentence>
+    <sentence charOffset="7690-7925" id="S43" selection="">
+        <text xml:space="preserve">As some obstetricians routinely used ursodeoxycholic acid and early term delivery to treat women with pruritus and raised alanine transaminase levels (but normal bile acids levels), we included this group at the clinicians’ discretion.</text>
+    </sentence>
+    <sentence charOffset="7926-8110" id="S44" selection="">
+        <text xml:space="preserve">We were, however, uncertain whether obstetricians would be willing to recruit women to such a trial or if the women (across the spectrum of disease severity) would want to participate.</text>
+    </sentence>
+    <sentence charOffset="8111-8231" id="S45" selection="">
+        <text xml:space="preserve">It was also unclear whether participants randomised to early or delayed delivery would comply with the trial allocation.</text>
+    </sentence>
+    <sentence charOffset="8232-8531" id="S46" selection="">
+        <text xml:space="preserve">Given the uncertainty in the literature over adverse fetal outcomes in intrahepatic cholestasis of pregnancy, we had no adequate contemporaneous data for severe perinatal morbidity and mortality on which to base a power calculation and needed these to plan the main trial with sufficient robustness.</text>
+    </sentence>
+    <sentence charOffset="8532-8869" id="S47" selection="2b">
+        <text xml:space="preserve">We therefore planned a semifactorial trial, testing both interventions in two stages: an initial phase where we would measure recruitment rate (in total, and related to disease severity), acceptability of randomisation among potential participants offered trial entry, adherence with each treatment arm, and completeness of outcome data.</text>
+    </sentence>
+    <sentence charOffset="8870-9043" id="S48" selection="">
+        <text xml:space="preserve">Recruitment would continue from the initial phase of the trial without unblinding of the randomisation code and with all participants contributing to the final outcome data.</text>
+    </sentence>
+    <sentence charOffset="9044-9158" id="S49" selection="">
+        <text xml:space="preserve">Towards the end of the first phase of the trial, we unsuccessfully sought funding for the second definitive phase.</text>
+    </sentence>
+    <sentence charOffset="9159-9318" id="S50" selection="">
+        <text xml:space="preserve">The trial steering committee decided to prepare a new statistical analysis plan before unblinding the participants and to report the new prespecified outcomes.</text>
+    </sentence>
+    <sentence charOffset="9325-9650" id="S51" selection="2b">
+        <text xml:space="preserve">At this time, with recruitment closed and data still blinded, we hypothesised that in women with intrahepatic cholestasis of pregnancy, treatment with ursodeoxycholic acid would reduce pruritus, improve biochemical variables of disease (serum bile acid and alanine transaminase levels), and reduce adverse perinatal outcomes.</text>
+    </sentence>
+    <sentence charOffset="9651-9778" id="S52" selection="2b">
+        <text xml:space="preserve">We also hypothesised that early term delivery at 37-38 weeks’ gestation would not increase the incidence of caesarean sections.</text>
+    </sentence>
+    <sentence charOffset="9795-9802" id="S53">
+        <text xml:space="preserve">Methods</text>
+    </sentence>
+    <sentence charOffset="9809-9985" id="S54" selection="3a,4b">
+        <text xml:space="preserve">We undertook a semifactorial randomised controlled trial of two interventions in women with intrahepatic cholestasis of pregnancy at nine maternity units in the United Kingdom.</text>
+    </sentence>
+    <sentence charOffset="9986-10123" id="S55" selection="">
+        <text xml:space="preserve">The trial began in two centres in October 2008 and the remainder joined in over the following year as regulatory approvals were obtained.</text>
+    </sentence>
+    <sentence charOffset="10124-10623" id="S56" selection="4a">
+        <text xml:space="preserve">Women were eligible if they had confirmed intrahepatic cholestasis of pregnancy (itching in pregnancy with other causes excluded, in association with a serum bile acid level greater than the upper limit of normal for that unit’s laboratory) or if they had pruritus with raised alanine transaminase levels (&gt;100 IU/L) and were between 24+0 and 40+6 weeks pregnant for the ursodeoxycholic acid comparison or between 34+1 and 37+6 weeks with a singleton pregnancy for the timing of delivery comparison.</text>
+    </sentence>
+    <sentence charOffset="10624-11018" id="S57" selection="4a">
+        <text xml:space="preserve">We excluded women who were aged less than 18 years; had laboratory confirmed hepatitis A or hepatitis B, pre-eclampsia, primary hepatic disorders, known α-1 antitrypsin deficiency, or current drugs causing deranged liver enzymes; were known to have a lethal fetal anomaly; had an allergy to any component of the ursodeoxycholic acid or placebo capsules; or were unable to give informed consent.</text>
+    </sentence>
+    <sentence charOffset="11019-11095" id="S58" selection="4a">
+        <text xml:space="preserve">Women with concurrent hepatitis C or cholelithiasis, or both, were eligible.</text>
+    </sentence>
+    <sentence charOffset="11096-11298" id="S59" selection="4a">
+        <text xml:space="preserve">Women with a multiple pregnancy were eligible only for the ursodeoxycholic acid comparison as most participating clinicians indicated that such women should normally be delivered at 38 weeks’ gestation.</text>
+    </sentence>
+    <sentence charOffset="11314-11343" id="S60" selection="">
+        <text xml:space="preserve">Recruitment and randomisation</text>
+    </sentence>
+    <sentence charOffset="11352-11516" id="S61" selection="">
+        <text xml:space="preserve">Clinicians and midwives approached women attending the antenatal clinic, the antenatal day assessment units, or the antenatal ward about participating in the study.</text>
+    </sentence>
+    <sentence charOffset="11517-11668" id="S62" selection="">
+        <text xml:space="preserve">A member of the research team confirmed eligibility, gave the women detailed verbal information and an information sheet and invited them to take part.</text>
+    </sentence>
+    <sentence charOffset="11669-11739" id="S63" selection="">
+        <text xml:space="preserve">The usual hospital interpreter and translator services were available.</text>
+    </sentence>
+    <sentence charOffset="11740-11903" id="S64" selection="">
+        <text xml:space="preserve">The participants provided written, dated informed consent, and the women’s consultant obstetricians and general practitioners were informed of their participation.</text>
+    </sentence>
+    <sentence charOffset="11912-12190" id="S65" selection="10">
+        <text xml:space="preserve">A member of the research team confirmed participant eligibility and entered an agreed minimum amount of pre-randomisation registration data on a secure internet based data form about the participant before randomisation, including the results of routine biochemical blood tests.</text>
+    </sentence>
+    <sentence charOffset="12191-12310" id="S66" selection="10">
+        <text xml:space="preserve">Randomisation occurred through the Nottingham Clinical Trials Unit using a web based database and randomisation system.</text>
+    </sentence>
+    <sentence charOffset="12311-12549" id="S67" selection="8a,8b">
+        <text xml:space="preserve">The random allocation sequence for each comparison was generated by using a specific function (-ralloc-) in Stata (StataCorp, College Station, TX) software within the clinical unit using randomly varying block sizes of two, four, and six.</text>
+    </sentence>
+    <sentence charOffset="12550-12686" id="S68" selection="9">
+        <text xml:space="preserve">The random allocation sequence was not revealed until all data outcomes had been collected and the statistical analysis plan registered.</text>
+    </sentence>
+    <sentence charOffset="12687-12829" id="S69" selection="8b">
+        <text xml:space="preserve">Randomisation was stratified by the gestation at recruitment for the ursodeoxycholic acid comparison and by trial centre for both comparisons.</text>
+    </sentence>
+    <sentence charOffset="12830-12915" id="S70" selection="8b">
+        <text xml:space="preserve">Randomisation for both comparisons within the trial was in a 1 to 1 allocation ratio.</text>
+    </sentence>
+    <sentence charOffset="12916-13019" id="S71" selection="">
+        <text xml:space="preserve">Women who were eligible for both were permitted to participate in either or both factorial comparisons.</text>
+    </sentence>
+    <sentence charOffset="13020-13258" id="S72" selection="10">
+        <text xml:space="preserve">Those who participated in the drug comparison before 34 weeks’ gestation were not allowed to join the timed delivery comparison until 34 weeks, so for that group, randomisation to the two treatment comparisons occurred at different times.</text>
+    </sentence>
+    <sentence charOffset="13259-13337" id="S73" selection="10">
+        <text xml:space="preserve">Allocation occurred centrally at the clinical unit using a web based database.</text>
+    </sentence>
+    <sentence charOffset="13346-13538" id="S74" selection="10">
+        <text xml:space="preserve">On randomisation, the clinical unit’s internet trial system issued a unique participant identification number and the participant was randomised to one or both trials according to eligibility.</text>
+    </sentence>
+    <sentence charOffset="13539-13731" id="S75" selection="10">
+        <text xml:space="preserve">Sequentially numbered containers were sent to the clinical trial’s pharmacist at each centre at the start of the trial and all packs kept in the pharmacy until distribution to the participant.</text>
+    </sentence>
+    <sentence charOffset="13732-13858" id="S76" selection="10">
+        <text xml:space="preserve">After randomisation to the ursodeoxycholic acid or placebo comparison, an online prescription form was generated for printing.</text>
+    </sentence>
+    <sentence charOffset="13859-14022" id="S77" selection="9">
+        <text xml:space="preserve">The participant collected the trial drug or placebo from the hospital pharmacy once the local trial’s pharmacist had selected the pack with the appropriate number.</text>
+    </sentence>
+    <sentence charOffset="14023-14106" id="S78" selection="11a">
+        <text xml:space="preserve">The investigator, pharmacist, and trial participant were blind to group allocation.</text>
+    </sentence>
+    <sentence charOffset="14115-14342" id="S79" selection="10">
+        <text xml:space="preserve">For the timing of delivery comparison, the investigator and participant could not be blinded to the treatment group and appropriate arrangements were made for induction or elective delivery or expectant management as allocated.</text>
+    </sentence>
+    <sentence charOffset="14343-14487" id="S80" selection="5">
+        <text xml:space="preserve">Obstetricians were permitted to induce participants in the expectant management group from 40+0 weeks’ gestation, or as clinical needs dictated.</text>
+    </sentence>
+    <sentence charOffset="14488-14715" id="S81" selection="5">
+        <text xml:space="preserve">Other than the trial randomisation, women were managed in accordance with each unit’s guideline for intrahepatic cholestasis of pregnancy, with frequency of blood testing and fetal monitoring determined by the local clinicians.</text>
+    </sentence>
+    <sentence charOffset="14716-14849" id="S82" selection="">
+        <text xml:space="preserve">All centres were aware of the Royal College of Obstetricians and Gynaecologists’ guidelines for management of obstetric cholestasis.8</text>
+    </sentence>
+    <sentence charOffset="14872-14881" id="S83" selection="">
+        <text xml:space="preserve">Follow-up</text>
+    </sentence>
+    <sentence charOffset="14890-15009" id="S84" selection="">
+        <text xml:space="preserve">After randomisation, a member of the research team saw participants weekly at the time of their routine clinical visit.</text>
+    </sentence>
+    <sentence charOffset="15010-15158" id="S85" selection="">
+        <text xml:space="preserve">The participant was asked about adherence to treatment, use of other drugs, and adverse events, and completed the visual analogue scale for itching.</text>
+    </sentence>
+    <sentence charOffset="15159-15222" id="S86" selection="">
+        <text xml:space="preserve">Results of routinely collected biochemical tests were recorded.</text>
+    </sentence>
+    <sentence charOffset="15223-15271" id="S87" selection="">
+        <text xml:space="preserve">Participants were seen six weeks after delivery.</text>
+    </sentence>
+    <sentence charOffset="15272-15422" id="S88" selection="">
+        <text xml:space="preserve">All maternal and perinatal outcomes were collected by review of postnatal case notes, with adjudication where necessary by the trial management group.</text>
+    </sentence>
+    <sentence charOffset="15431-15553" id="S89" selection="">
+        <text xml:space="preserve">Participants were able to withdraw from the trial at either their own request or the discretion of the treating clinician.</text>
+    </sentence>
+    <sentence charOffset="15554-15820" id="S90" selection="">
+        <text xml:space="preserve">If a participant’s clinical condition deteriorated (for example, worsening of itch, increasing bile acid levels), the clinician could decide to stop the trial drug and give ursodeoxycholic acid, or deliver the woman if indicated, without breaking the treatment code.</text>
+    </sentence>
+    <sentence charOffset="15843-15856" id="S91" selection="">
+        <text xml:space="preserve">Interventions</text>
+    </sentence>
+    <sentence charOffset="15865-16123" id="S92" selection="11b,5">
+        <text xml:space="preserve">Women in the first comparison were randomised to ursodeoxycholic acid (250 mg dose; Ursofalk, Dr Falk Pharma, Buckinghamshire), or to placebo capsules (Dr Falk Pharma) identical in appearance and taste to the study drug (white, opaque, hard gelatin capsule).</text>
+    </sentence>
+    <sentence charOffset="16124-16189" id="S93" selection="5">
+        <text xml:space="preserve">The placebo contained lactose monohydrate and magnesium stearate.</text>
+    </sentence>
+    <sentence charOffset="16190-16358" id="S94" selection="11b">
+        <text xml:space="preserve">All capsules were packaged and labelled to provide blinded treatment packs in the production unit of the pharmacy department, Nottingham University Hospitals NHS Trust.</text>
+    </sentence>
+    <sentence charOffset="16359-16442" id="S95" selection="">
+        <text xml:space="preserve">Supplies were packed in an approved container and tagged with a single panel label.</text>
+    </sentence>
+    <sentence charOffset="16443-16570" id="S96" selection="9">
+        <text xml:space="preserve">The participant’s name, randomisation number, and date of dispensing were added to the label as part of the dispensing process.</text>
+    </sentence>
+    <sentence charOffset="16571-16847" id="S97" selection="5">
+        <text xml:space="preserve">All women received two capsules twice a day and if there was no clinical improvement (itching) or biochemical improvement (serum bile acids or alanine transaminase levels) the dose was increased in increments of two capsules per day every 3-14 days up to a maximum of 2 g/day.</text>
+    </sentence>
+    <sentence charOffset="16856-17155" id="S98" selection="5">
+        <text xml:space="preserve">Women in the second comparison were randomised to early term delivery (induction or delivery started between 37+0 and 37+6) or to expectant management (where spontaneous labour was awaited or caesarean delivery undertaken according to normal obstetric guidelines, usually after 39 weeks’ gestation).</text>
+    </sentence>
+    <sentence charOffset="17156-17254" id="S99" selection="5">
+        <text xml:space="preserve">By consensus, obstetricians could arrange delivery in the latter group from 40+0 weeks’ gestation.</text>
+    </sentence>
+    <sentence charOffset="17277-17285" id="S100" selection="">
+        <text xml:space="preserve">Outcomes</text>
+    </sentence>
+    <sentence charOffset="17294-17531" id="S101" selection="6b">
+        <text xml:space="preserve">Once the decision not to fund the main trial was known, a full statistical analysis plan was prepared with prespecified primary and secondary outcome measures; this was uploaded onto the trials website, with the date of amendment logged.</text>
+    </sentence>
+    <sentence charOffset="17532-17572" id="S102" selection="">
+        <text xml:space="preserve">No data were unblinded before this time.</text>
+    </sentence>
+    <sentence charOffset="17573-17800" id="S103" selection="6a">
+        <text xml:space="preserve">For the ursodeoxycholic acid comparison, the primary outcome was itch in the mother, measured as the arithmetic mean of all post-randomisation measures of worst itch in the previous 24 hours assessed on a visual analogue scale.</text>
+    </sentence>
+    <sentence charOffset="17801-18243" id="S104" selection="">
+        <text xml:space="preserve">To avoid over-interpretation of our results, we carried out two online surveys (www.surveymonkey.com) before unblinding of the trial to determine what reduction in score on the visual analogue scale would be a clinically meaningful difference among clinicians involved in treating women with intrahepatic cholestasis of pregnancy and among women who had previously experienced the condition (full questions given in supplementary appendix 1).</text>
+    </sentence>
+    <sentence charOffset="18244-18419" id="S105" selection="">
+        <text xml:space="preserve">Women and clinicians were informed that the mean baseline itch score on the visual analogue scale was 60 mm (by analysis of blinded data) and were offered a choice of answers.</text>
+    </sentence>
+    <sentence charOffset="18428-18509" id="S106" selection="6a">
+        <text xml:space="preserve">For the timing of delivery comparison, the primary outcome was caesarean section.</text>
+    </sentence>
+    <sentence charOffset="18510-18691" id="S107" selection="">
+        <text xml:space="preserve">It is widely believed that induction in general increases the rate of caesarean sections, although recent trials of timing of delivery at term have shown no significant effect.12 13</text>
+    </sentence>
+    <sentence charOffset="18700-18829" id="S108" selection="6a">
+        <text xml:space="preserve">Secondary outcome measures for the ursodeoxycholic acid comparison were prespecified as maternal outcomes and perinatal outcomes.</text>
+    </sentence>
+    <sentence charOffset="18830-19081" id="S109" selection="6a">
+        <text xml:space="preserve">Maternal outcomes were average itch in past 24 hours (visual analogue scale); levels of total bile acids, alanine transaminase, and aspartate transaminase; mode of onset of labour; mode of delivery; indication for delivery; and blood loss at delivery.</text>
+    </sentence>
+    <sentence charOffset="19082-19407" id="S110" selection="6a">
+        <text xml:space="preserve">Perinatal outcomes were gestation at delivery, baby outcome, birth weight, presence of meconium stained amniotic fluid, arterial cord pH, venous cord pH, Apgar score at five minutes, congenital anomalies, admission to a neonatal unit (including duration), need for ventilation (including duration), convulsions, and jaundice.</text>
+    </sentence>
+    <sentence charOffset="19408-19507" id="S111" selection="6a">
+        <text xml:space="preserve">For the timing of delivery comparison, we chose the same secondary maternal and perinatal outcomes.</text>
+    </sentence>
+    <sentence charOffset="19516-20010" id="S112" selection="">
+        <text xml:space="preserve">The outcome measures previously specified at the start of this initial phase of the trial were designed to measure the feasibility of the second phase—namely, recruitment to the two interventions (total recruitment rate per 1000 deliveries per annum and total recruitment rate per eligible women), recruitment rates related to disease severity, acceptability of randomisation among potential participants offered trial entry, adherence with each treatment arm, and completeness of outcome data.</text>
+    </sentence>
+    <sentence charOffset="20033-20047" id="S113" selection="">
+        <text xml:space="preserve">Parallel audit</text>
+    </sentence>
+    <sentence charOffset="20056-20220" id="S114" selection="">
+        <text xml:space="preserve">All centres undertook an audit in parallel with the trial from the start of recruitment until 1 April 2010 (when the initial target of 90 women had been recruited).</text>
+    </sentence>
+    <sentence charOffset="20221-20581" id="S115" selection="">
+        <text xml:space="preserve">They identified all pregnant women with raised bile acid levels (in collaboration with each hospital’s chemical pathology laboratory) and undertook postnatal case note review to ascertain whether a diagnosis of intrahepatic cholestasis of pregnancy had been confirmed, what treatment had been given, and whether the participation in the trial had been offered.</text>
+    </sentence>
+    <sentence charOffset="20582-20665" id="S116" selection="">
+        <text xml:space="preserve">The number of deliveries per centre per month during the audit period was obtained.</text>
+    </sentence>
+    <sentence charOffset="20688-20699" id="S117" selection="">
+        <text xml:space="preserve">Sample size</text>
+    </sentence>
+    <sentence charOffset="20708-20821" id="S118" selection="7a">
+        <text xml:space="preserve">For the planned factorial trial, we estimated that a provisional sample size would be 1498 women (749 per group).</text>
+    </sentence>
+    <sentence charOffset="20822-20959" id="S119" selection="7a">
+        <text xml:space="preserve">This would give 80% power, α 0.05, to show a reduction in the primary composite endpoint (fetal death or severe morbidity) from 6% to 3%.</text>
+    </sentence>
+    <sentence charOffset="20960-21123" id="S120" selection="7a">
+        <text xml:space="preserve">However, detailed power calculations were not possible without an accurate estimate of the event rate and the clinical spectrum of likely recruits to such a trial.</text>
+    </sentence>
+    <sentence charOffset="21124-21285" id="S121" selection="7a">
+        <text xml:space="preserve">The target sample size of the initial phase was determined to be about 90 participants to allow reasonably precise estimates of the variables for the main trial.</text>
+    </sentence>
+    <sentence charOffset="21294-21530" id="S122" selection="7a">
+        <text xml:space="preserve">After the decision to analyse the initial phase alone and before unblinding, we undertook a sample size calculation based on our new primary outcome measure of maternal itch score with the clinically meaningful difference as determined.</text>
+    </sentence>
+    <sentence charOffset="21531-21745" id="S123" selection="7a">
+        <text xml:space="preserve">This confirmed that the study as carried out had over 99.9% power to detect a difference of 30 mm (with a standard deviation of 26 mm across both arms and a correlation between baseline and follow-up measurements).</text>
+    </sentence>
+    <sentence charOffset="21768-21788" id="S124" selection="">
+        <text xml:space="preserve">Statistical analysis</text>
+    </sentence>
+    <sentence charOffset="21797-21977" id="S125" selection="">
+        <text xml:space="preserve">Trial analysis followed the intention to treat principle, with women and infants analysed according to the original randomised allocation, irrespective of adherence and crossovers.</text>
+    </sentence>
+    <sentence charOffset="21978-22135" id="S126" selection="12a">
+        <text xml:space="preserve">For repeated measurements over time (severity of itch and biochemistry), we used the average (arithmetic or geometric mean) during the intervention period.19</text>
+    </sentence>
+    <sentence charOffset="22136-22434" id="S127" selection="12a">
+        <text xml:space="preserve">In all analyses, regression methods were used and adjustment made for stratification variables (gestation at recruitment for ursodeoxycholic acid trial only, and study centre for both trials) and for potential confounders (baseline bile acid levels, and others where the imbalance was substantial).</text>
+    </sentence>
+    <sentence charOffset="22443-22535" id="S128" selection="">
+        <text xml:space="preserve">For the analysis of perinatal outcomes we treated all infants (singletons or twins) equally.</text>
+    </sentence>
+    <sentence charOffset="22536-22707" id="S129" selection="12a">
+        <text xml:space="preserve">To allow for multiple pregnancy, we adjusted standard errors for clustering by mother using the Huber-White sandwich estimator, and multiplicity included as a covariate.20</text>
+    </sentence>
+    <sentence charOffset="22708-22865" id="S130" selection="12a">
+        <text xml:space="preserve">Mode of delivery was expressed as a perinatal outcome owing to the inclusion of twin pregnancies in which the mode of delivery may be different for one twin.</text>
+    </sentence>
+    <sentence charOffset="22874-23013" id="S131" selection="">
+        <text xml:space="preserve">For continuous outcomes (such as visual analogue scale measurement and biochemical results) covariates included the baseline measurement.21</text>
+    </sentence>
+    <sentence charOffset="23014-23125" id="S132" selection="12a">
+        <text xml:space="preserve">Because of the spread and distribution of values we based the analysis of biochemical markers on logged values.</text>
+    </sentence>
+    <sentence charOffset="23126-23278" id="S133" selection="12a">
+        <text xml:space="preserve">The treatment effect was presented as a concentration ratio (the ratio between treatment groups of the geometric mean concentration post-randomisation).</text>
+    </sentence>
+    <sentence charOffset="23279-23450" id="S134" selection="12a">
+        <text xml:space="preserve">We estimated risk ratios and risk differences for yes or no outcomes; we used binary regression with a log-link (for risk ratios) and a linear link (for risk differences).</text>
+    </sentence>
+    <sentence charOffset="23451-23553" id="S135" selection="12a">
+        <text xml:space="preserve">Time to delivery was treated as partially censored data and analysed using Cox’s proportional hazards.</text>
+    </sentence>
+    <sentence charOffset="23554-23915" id="S136" selection="">
+        <text xml:space="preserve">For the ursodeoxycholic acid comparison, censoring was at delivery (if after 37 weeks) for pregnancies randomised to the early term delivery arm of the other trial and undergoing induction of labour or caesarean section owing to trial allocation (rather than maternal or fetal compromise or the request of the mother or obstetrician); and otherwise at 40 weeks.</text>
+    </sentence>
+    <sentence charOffset="23916-23994" id="S137" selection="">
+        <text xml:space="preserve">For the timing of delivery comparison, censoring was at 40 weeks in all cases.</text>
+    </sentence>
+    <sentence charOffset="24003-24291" id="S138" selection="">
+        <text xml:space="preserve">For subgroup analyses, the principal subgroup was level of bile acids at baseline (continuous and in three categories: normal with raised alanine transaminase levels (bile acids 14 µmol/L, alanine transaminase &gt;100 U/L), mild (bile acids 15-40 µmol/L), and severe (bile acids &gt;40 µmol/L).</text>
+    </sentence>
+    <sentence charOffset="24292-24541" id="S139" selection="12b">
+        <text xml:space="preserve">We used interaction tests to determine whether apparent differences in treatment effect between groups could be interpreted as real (not due to chance only), and hence to indentify subgroups that might or might not benefit from randomised treatment.</text>
+    </sentence>
+    <sentence charOffset="24550-24657" id="S140" selection="12a">
+        <text xml:space="preserve">Analyses were done in the statistical package Stata version 11.1 or later (StataCorp, College Station, TX).</text>
+    </sentence>
+    <sentence charOffset="24680-24696" id="S141" selection="">
+        <text xml:space="preserve">Ethical approval</text>
+    </sentence>
+    <sentence charOffset="24705-24760" id="S142" selection="24">
+        <text xml:space="preserve">The protocol22 was published at the start of the trial.</text>
+    </sentence>
+    <sentence charOffset="24761-24909" id="S143" selection="">
+        <text xml:space="preserve">The updated statistical analysis plan was uploaded onto the trials website before unblinding of the data and incorporated into the revised protocol.</text>
+    </sentence>
+    <sentence charOffset="24910-25009" id="S144" selection="">
+        <text xml:space="preserve">The trial is reported in accordance with the consolidated standards of reporting trials guidelines.</text>
+    </sentence>
+    <sentence charOffset="25033-25040" id="S145">
+        <text xml:space="preserve">Results</text>
+    </sentence>
+    <sentence charOffset="25047-25290" id="S146" selection="14a">
+        <text xml:space="preserve">The trial took place in nine UK maternity units, with a staggered start date for each centre (the first centre started recruitment in October 2008 and all centres finished recruitment in December 2010; follow-up was completed by 1 March 2011).</text>
+    </sentence>
+    <sentence charOffset="25291-25433" id="S147" selection="14b">
+        <text xml:space="preserve">The trial was stopped when funding application for the second stage of the trial, powered on a composite perinatal endpoint, was unsuccessful.</text>
+    </sentence>
+    <sentence charOffset="25440-25573" id="S148" selection="">
+        <text xml:space="preserve">Women were approached and invited to participate in one or both comparisons, depending on their eligibility criteria and inclination.</text>
+    </sentence>
+    <sentence charOffset="25574-25835" id="S149" selection="13a">
+        <text xml:space="preserve">Overall, 111 women participated in the ursodeoxycholic acid comparison; at randomisation 28 (25%) had severe disease (bile acid levels &gt;40 µmol/L), 71 (64%) mild disease (≤40 µmol/L), and 12 (11%) normal bile acid levels with raised alanine transaminase levels.</text>
+    </sentence>
+    <sentence charOffset="25836-26238" id="S150" selection="15">
+        <text xml:space="preserve">Baseline characteristics of the women (table 1) in both arms of the ursodeoxycholic acid trial were mainly similar (not formally tested), except for notable chance imbalances in the number of twin pregnancies (4/56 v 9/55) and the mean visual analogue scale score for worst episode of itch over the preceding 24 hours (70.9 mm v 59.7 mm) between the ursodeoxycholic acid and placebo arms, respectively.</text>
+    </sentence>
+    <sentence charOffset="26239-26435" id="S151" selection="15">
+        <text xml:space="preserve">Sixty two women participated in the timing of delivery comparison; 13 (21%) had severe disease, 38 (61%) mild disease, and 11 (18%) normal bile acid levels with raised alanine transaminase levels.</text>
+    </sentence>
+    <sentence charOffset="26436-26524" id="S152" selection="">
+        <text xml:space="preserve">Women in both arms of the timing of delivery trial had similar baseline characteristics.</text>
+    </sentence>
+    <sentence charOffset="26525-26574" id="S153" selection="13a">
+        <text xml:space="preserve">Women participated in one or both trials (fig 1).</text>
+    </sentence>
+    <sentence charOffset="26582-26656" id="S154" selection="13a">
+        <text xml:space="preserve">Fig 1 Participation of 125 women in each comparison in semifactorial trial</text>
+    </sentence>
+    <sentence charOffset="26663-26739" id="S155" selection="15">
+        <text xml:space="preserve">Table 1  Maternal personal and biochemical characteristics at randomisation.</text>
+    </sentence>
+    <sentence charOffset="26740-26796" id="S156" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="26803-27003" id="S157" selection="">
+        <text xml:space="preserve">The audit that was carried out in parallel from the trial start date in each centre until 1 April 2010 identified all women who had bile acid levels measured during their pregnancy within that period.</text>
+    </sentence>
+    <sentence charOffset="27004-27108" id="S158" selection="13a,13b,16">
+        <text xml:space="preserve">Subsequent case note review indicated the reasons for non-participation in the trials (figures 2 and 3).</text>
+    </sentence>
+    <sentence charOffset="27109-27169" id="S159" selection="">
+        <text xml:space="preserve">Outcome data were obtained on all participants in the trial.</text>
+    </sentence>
+    <sentence charOffset="27177-27237" id="S160" selection="13a,13b,16">
+        <text xml:space="preserve">Fig 2 Flow of women in ursodeoxycholic acid and placebo arms</text>
+    </sentence>
+    <sentence charOffset="27245-27317" id="S161" selection="13a,13b,16">
+        <text xml:space="preserve">Fig 3 Flow of women in early term delivery and expectant management arms</text>
+    </sentence>
+    <sentence charOffset="27333-27359" id="S162" selection="">
+        <text xml:space="preserve">Ursodeoxycholic acid trial</text>
+    </sentence>
+    <sentence charOffset="27368-27587" id="S163" selection="">
+        <text xml:space="preserve">During the audit period 73/325 (22%) women who were eligible for the ursodeoxycholic acid trial were recruited; of those who did not participate, most of the women or clinicians had already decided on treatment (fig 2).</text>
+    </sentence>
+    <sentence charOffset="27588-27721" id="S164" selection="">
+        <text xml:space="preserve">Women expressed a preference both for and against treatment with ursodeoxycholic acid, with some declining the randomisation process.</text>
+    </sentence>
+    <sentence charOffset="27730-28118" id="S165" selection="">
+        <text xml:space="preserve">Self reported adherence (assessed at weekly follow-up visits with the trial midwives) showed that a high proportion of women said that they had taken the tablets; in the ursodeoxycholic acid arm, women reported that they had taken more than 90% of the tablets at 93% of the follow-up visits, 50-90% of the tablets at 5% of the visits, and less than 50% of the tablets at 2% of the visits.</text>
+    </sentence>
+    <sentence charOffset="28119-28212" id="S166" selection="">
+        <text xml:space="preserve">For the placebo arm, the respective figures for self reported adherence were 92%, 4%, and 4%.</text>
+    </sentence>
+    <sentence charOffset="28221-28512" id="S167" selection="">
+        <text xml:space="preserve">A survey of 100 clinicians indicated that they considered that a 30 mm (95% confidence interval 15 to 50 mm) improvement in the visual analogue scale score (from a baseline score of 60 mm) would be a clinically important difference, as did the 100 women surveyed (median 30 mm, 10 to 60 mm).</text>
+    </sentence>
+    <sentence charOffset="28513-28540" id="S168" selection="">
+        <text xml:space="preserve">(See supplementary figure.)</text>
+    </sentence>
+    <sentence charOffset="28549-28846" id="S169" selection="17a">
+        <text xml:space="preserve">Compared with the placebo group, women randomised to ursodeoxycholic acid who had not delivered one week post-randomisation reported a 16 mm (95% confidence interval 6 to 27 mm) improvement in the visual analogue scale score for worst itch over the preceding 24 hours across duration of treatment.</text>
+    </sentence>
+    <sentence charOffset="28847-29025" id="S170" selection="17a">
+        <text xml:space="preserve">This was significant (P=0.003), but neither the mean change nor the 95% confidence intervals reached the clinically important difference prespecified by the clinicians and women.</text>
+    </sentence>
+    <sentence charOffset="29034-29271" id="S171" selection="17b">
+        <text xml:space="preserve">Overall, 32% (14/44) of women randomised to ursodeoxycholic acid experienced a reduction in worst itch of at least 30 mm compared with 16% (6/37) of those randomised to placebo: (difference 16%, 95% confidence interval −3 to 34, P=0.11).</text>
+    </sentence>
+    <sentence charOffset="29272-29376" id="S172" selection="17b">
+        <text xml:space="preserve">This difference would represent a number needed to treat of 6, but it just failed to reach significance.</text>
+    </sentence>
+    <sentence charOffset="29377-29757" id="S173" selection="">
+        <text xml:space="preserve">The number of women who would need to be treated (NNT) for one woman to achieve a 20 mm reduction in visual analogue scale score was 4 (95% confidence interval 2 to 21), based on 52% (23/44) of those randomised to ursodeoxycholic acid and 27% (10/37) of women in the placebo arm experiencing at least a 20 mm reduction (difference 25%, 95% confidence interval 5% to 46%, P=0.021).</text>
+    </sentence>
+    <sentence charOffset="29766-30192" id="S174" selection="18">
+        <text xml:space="preserve">Figure 4 shows the results of the a priori analysis by subgroup; the difference in visual analogue scale score between ursodeoxycholic acid and placebo groups in women with severe disease was −19.8 mm (95% confidence interval −37.8 to −1.8 mm, P=0.003), with mild disease was −17.9 mm (−31.7 to −4.0 mm, P=0.01), and with normal bile acid levels and raised alanine transaminase levels was 3.51 mm (−65.04 to 72.06 mm, P=0.91).</text>
+    </sentence>
+    <sentence charOffset="30193-30390" id="S175" selection="18">
+        <text xml:space="preserve">Formal testing using multiple regression with interaction terms showed no evidence of interaction between severity of disease and randomised treatment on treatment effect for worst episode of itch.</text>
+    </sentence>
+    <sentence charOffset="30400-30516" id="S176" selection="18">
+        <text xml:space="preserve">Fig 4 Effect of ursodeoxycholic acid on mean worst episode of itch over past 24 hours (mm on visual analogue scale).</text>
+    </sentence>
+    <sentence charOffset="30517-30541" id="S177" selection="">
+        <text xml:space="preserve">ALT=alanine transaminase</text>
+    </sentence>
+    <sentence charOffset="30550-30781" id="S178" selection="17a">
+        <text xml:space="preserve">Women randomised to ursodeoxycholic acid had a significant reduction in alanine transaminase, γ-glutamyltransferase, and bilirubin levels (median values post-randomisation and before delivery) but not in bile acid levels (table 2).</text>
+    </sentence>
+    <sentence charOffset="30782-31001" id="S179" selection="17a">
+        <text xml:space="preserve">Babies born to women taking ursodeoxycholic acid were significantly less likely to have meconium stained amniotic fluid than those born to women taking placebo (relative risk 0.39, 95% confidence interval 0.16 to 0.97).</text>
+    </sentence>
+    <sentence charOffset="31002-31126" id="S180" selection="17a">
+        <text xml:space="preserve">There were no other differences in mode of delivery, birth weight, estimated blood loss, or variables of neonatal morbidity.</text>
+    </sentence>
+    <sentence charOffset="31135-31227" id="S181" selection="17a">
+        <text xml:space="preserve">Table 2  Maternal and perinatal outcomes for ursodeoxycholic acid versus placebo comparison.</text>
+    </sentence>
+    <sentence charOffset="31228-31284" id="S182" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="31293-31507" id="S183" selection="18">
+        <text xml:space="preserve">As there seemed to be a potentially important trend towards later delivery in the ursodeoxycholic acid group, an exploratory analysis was undertaken given the imbalance in twins between the groups at randomisation.</text>
+    </sentence>
+    <sentence charOffset="31508-32020" id="S184" selection="18">
+        <text xml:space="preserve">Gestational age at delivery was not statistically different between the two groups in women with singleton pregnancies; delivery occurred at 37.71 (SD 1.92) weeks in 52 women randomised to ursodeoxycholic acid compared with 37.62 (SD 1.11) weeks in 46 women randomised to placebo (difference 0.09, 95% confidence interval −0.54 to 0.72); preterm delivery before 37 completed weeks’ gestation occurred in 19% (10/52) compared with 21% (10/46), respectively (risk ratio 0.99, 95% confidence interval 0.85 to 1.16).</text>
+    </sentence>
+    <sentence charOffset="32021-32421" id="S185" selection="18">
+        <text xml:space="preserve">Among twins in this trial comparison, gestational age at delivery was 36.54 (SD 1.41) (n=8 twin infants) of those randomised to ursodeoxycholic acid compared with 34.81 (2.44) (n=18 twin infants) randomised to placebo (difference 1.29, −1.08 to 3.65); preterm delivery before 37 completed weeks’ gestation occurred in 50% (4/8) compared with 89% (16/18), respectively (risk ratio 0.84, 0.58 to 1.21).</text>
+    </sentence>
+    <sentence charOffset="32422-32461" id="S186" selection="18">
+        <text xml:space="preserve">These differences were not significant.</text>
+    </sentence>
+    <sentence charOffset="32462-32522" id="S187" selection="">
+        <text xml:space="preserve">No stillbirths or neonatal deaths occurred during the trial.</text>
+    </sentence>
+    <sentence charOffset="32531-32686" id="S188" selection="">
+        <text xml:space="preserve">Thirteen (23%) adverse events took place among women randomised to ursodeoxycholic acid compared with 10 (18%) among women randomised to placebo (table 3).</text>
+    </sentence>
+    <sentence charOffset="32687-32733" id="S189" selection="">
+        <text xml:space="preserve">No woman reported more than one adverse event.</text>
+    </sentence>
+    <sentence charOffset="32734-32882" id="S190" selection="">
+        <text xml:space="preserve">Most adverse events were mild,15 with the remainder classified as moderate (eight); none were classed as severe by the site principal investigators.</text>
+    </sentence>
+    <sentence charOffset="32883-33175" id="S191" selection="19">
+        <text xml:space="preserve">Most adverse events related to gastrointestinal disturbances (nine in ursodeoxycholic acid arm versus five in placebo arm) and the majority were thought not, or unlikely, to be caused by the trial drug (possible causality in four events in ursodeoxycholic acid arm versus two in placebo arm).</text>
+    </sentence>
+    <sentence charOffset="33184-33257" id="S192" selection="19">
+        <text xml:space="preserve">Table 3  Adverse events in ursodeoxycholic acid versus placebo comparison</text>
+    </sentence>
+    <sentence charOffset="33266-33598" id="S193" selection="17a">
+        <text xml:space="preserve">At the six week postnatal visit, itching scores did not differ across the groups (mean worst episode of itch over the preceding 24 hours 4.0 (SD 10.3) mm on visual analogue scale in ursodeoxycholic acid arm versus 4.3 (12.8) mm in placebo arm; average itch over the preceding 24 hours 1.4 (3.9) mm versus 2.8 (8.8) mm, respectively.</text>
+    </sentence>
+    <sentence charOffset="33621-33645" id="S194" selection="">
+        <text xml:space="preserve">Timing of delivery trial</text>
+    </sentence>
+    <sentence charOffset="33654-33755" id="S195" selection="">
+        <text xml:space="preserve">Over the audit period we recruited 39/209 (19%) women eligible for the timing of delivery comparison.</text>
+    </sentence>
+    <sentence charOffset="33756-33940" id="S196" selection="">
+        <text xml:space="preserve">Within the audited cases a greater proportion of women were ineligible for the trial as they had a diagnosis of intrahepatic cholestasis of pregnancy after 38 weeks’ gestation (fig 3).</text>
+    </sentence>
+    <sentence charOffset="33941-34074" id="S197" selection="">
+        <text xml:space="preserve">Women expressed preferences both for and against early term delivery (between 37+0 and 37+6), with most favouring early intervention.</text>
+    </sentence>
+    <sentence charOffset="34083-34133" id="S198" selection="17a">
+        <text xml:space="preserve">Table 4 shows the maternal and perinatal outcomes.</text>
+    </sentence>
+    <sentence charOffset="34134-34369" id="S199" selection="">
+        <text xml:space="preserve">One woman with a twin pregnancy did not want to be automatically induced at 38 weeks’ gestation but to be randomised into the trial (against the protocol); she was included in the analysis according to the intention to treat principle.</text>
+    </sentence>
+    <sentence charOffset="34370-34447" id="S200" selection="">
+        <text xml:space="preserve">Peripartum and perinatal outcomes are reported for 62 mothers and 63 infants.</text>
+    </sentence>
+    <sentence charOffset="34448-34596" id="S201" selection="">
+        <text xml:space="preserve">All women randomised to early term delivery complied with the trial allocation, although one went into spontaneous labour before her induction date.</text>
+    </sentence>
+    <sentence charOffset="34597-34950" id="S202" selection="17b">
+        <text xml:space="preserve">Of those allocated to expectant management, 20/32 (63%) women had intervention before spontaneous onset of labour (or planned delivery if elective caesarean was indicated) for one or more indications, including a change in maternal or fetal condition requiring delivery (7/20, 35%), maternal request (10/20, 50%), and obstetrician decision (14/20, 70%).</text>
+    </sentence>
+    <sentence charOffset="34951-35093" id="S203" selection="17a">
+        <text xml:space="preserve">The gestational age at delivery was −0.6 weeks (95% confidence interval −1.1 to −0.1) earlier in those women allocated to early term delivery.</text>
+    </sentence>
+    <sentence charOffset="35094-35370" id="S204" selection="17a">
+        <text xml:space="preserve">Maternal and fetal outcomes, including caesarean section rate, did not differ significantly between women randomised to early term delivery and those who had expectant management (7/30, 23% v 11/32, 33%, respectively; relative risk 0.70, 95% confidence interval 0.31 to 1.57).</text>
+    </sentence>
+    <sentence charOffset="35371-35494" id="S205" selection="17a">
+        <text xml:space="preserve">The risk difference was 10% (95% confidence interval −32% to 12%); for a non-significant result, the NNT is not calculated.</text>
+    </sentence>
+    <sentence charOffset="35503-35607" id="S206" selection="17a,17b">
+        <text xml:space="preserve">Table 4  Maternal and perinatal outcomes for early term delivery versus expectant management comparison.</text>
+    </sentence>
+    <sentence charOffset="35608-35664" id="S207" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="35673-35737" id="S208" selection="">
+        <text xml:space="preserve">No adverse events were reported in the timing of delivery trial.</text>
+    </sentence>
+    <sentence charOffset="35760-35794" id="S209" selection="">
+        <text xml:space="preserve">Comparison with audited population</text>
+    </sentence>
+    <sentence charOffset="35803-35970" id="S210" selection="18">
+        <text xml:space="preserve">Table 5 reports the maternal characteristics and perinatal outcomes of participants and non-participants from the same period to assist in estimating generalisability.</text>
+    </sentence>
+    <sentence charOffset="35971-36095" id="S211" selection="">
+        <text xml:space="preserve">For women in the ursodeoxycholic acid comparison, the spectrum of severity of disease was similar in trial and audit groups.</text>
+    </sentence>
+    <sentence charOffset="36096-36384" id="S212" selection="">
+        <text xml:space="preserve">A greater proportion of non-participants were induced; case note review indicated that the women or their obstetrician had already decided to choose intervention (either drug treatment or delivery if over 38 weeks’ gestation) soon after diagnosis of intrahepatic cholestasis of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="36385-36645" id="S213" selection="">
+        <text xml:space="preserve">One stillbirth occurred among the non-participants in the audited population in a woman with coexisting insulin dependent gestational diabetes who had a prelabour intrauterine death at 36 weeks’ gestation; she had been offered trial participation and declined.</text>
+    </sentence>
+    <sentence charOffset="36646-36774" id="S214" selection="">
+        <text xml:space="preserve">In this case the maximal observed levels for serum bile acids and alanine transaminase were 20 µmol/L and 10 IU/L, respectively.</text>
+    </sentence>
+    <sentence charOffset="36775-37055" id="S215" selection="18">
+        <text xml:space="preserve">For women in the timing of delivery comparison, fewer among the trial participants had severe disease compared with the non-participants (31% v 53%, respectively); case note review indicated that most non-participants or their obstetricians had already decided to choose delivery.</text>
+    </sentence>
+    <sentence charOffset="37064-37269" id="S216" selection="18">
+        <text xml:space="preserve">Table 5  Maternal and perinatal characteristics of trial participants and non-participants who had intrahepatic cholestasis of pregnancy during audit period (start of trial in each centre to 1 April 2010).</text>
+    </sentence>
+    <sentence charOffset="37270-37326" id="S217" selection="">
+        <text xml:space="preserve">Values are numbers (percentages) unless stated otherwise</text>
+    </sentence>
+    <sentence charOffset="37335-37438" id="S218" selection="">
+        <text xml:space="preserve">Overall, 45 775 deliveries occurred across all nine maternity units over the 101 months of recruitment.</text>
+    </sentence>
+    <sentence charOffset="37439-37604" id="S219" selection="18">
+        <text xml:space="preserve">During this period, 73 of 325 eligible women were recruited for the ursodeoxycholic acid comparison (22%), equating to a recruitment rate of 1.6 per 1000 deliveries.</text>
+    </sentence>
+    <sentence charOffset="37605-37743" id="S220" selection="18">
+        <text xml:space="preserve">For the timing of delivery trial, 39 of 209 eligible women were recruited (19%), a recruitment rate of 0.85 per 1000 deliveries per annum.</text>
+    </sentence>
+    <sentence charOffset="37744-38105" id="S221" selection="">
+        <text xml:space="preserve">These figures indicate that if half of the maternity units in the United Kingdom participated in such a study (contributing 400 000 deliveries per year), we would recruit about 636 women per year to the ursodeoxycholic acid comparison and about 340 women per year to the timing of delivery comparison, assuming comparable recruitment rates as seen in our study.</text>
+    </sentence>
+    <sentence charOffset="38129-38139" id="S222">
+        <text xml:space="preserve">Discussion</text>
+    </sentence>
+    <sentence charOffset="38146-38375" id="S223" selection="22">
+        <text xml:space="preserve">Ursodeoxycholic acid reduces pruritus significantly in pregnant women with intrahepatic cholestasis of pregnancy, but the size of the benefit may be too small for most doctors to recommend it or for most women to want to take it.</text>
+    </sentence>
+    <sentence charOffset="38376-38478" id="S224" selection="22">
+        <text xml:space="preserve">Individual women are, however, likely to differ in whether they consider the benefit to be worthwhile.</text>
+    </sentence>
+    <sentence charOffset="38479-38641" id="S225" selection="">
+        <text xml:space="preserve">This is the first trial to report a quantified reduction in itching as a prespecified primary outcome across all women with intrahepatic cholestasis of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="38642-38771" id="S226" selection="22">
+        <text xml:space="preserve">Our main results allow us to exclude both a mean reduction in itch of 30 mm and one of 0 mm (no improvement) with 95% confidence.</text>
+    </sentence>
+    <sentence charOffset="38772-38876" id="S227" selection="22">
+        <text xml:space="preserve">Increasing the sample size would give greater precision, but would be unlikely to alter this conclusion.</text>
+    </sentence>
+    <sentence charOffset="38883-39082" id="S228" selection="22">
+        <text xml:space="preserve">Early term delivery in women with intrahepatic cholestasis of pregnancy is not associated with an increase in incidence of caesarean section, but the numbers are too small to exclude a possible rise.</text>
+    </sentence>
+    <sentence charOffset="39083-39443" id="S229" selection="22">
+        <text xml:space="preserve">The trial has also shown that recruitment is feasible for women across the spectrum of disease severity in a range of different types of hospitals from the United Kingdom, and that self reported adherence within the drug and placebo comparison and completeness of outcome data are high, so a large trial comparing ursodeoxycholic acid with placebo is feasible.</text>
+    </sentence>
+    <sentence charOffset="39444-39674" id="S230" selection="22">
+        <text xml:space="preserve">Participants, or their obstetricians, were less likely to comply with trial allocation in the expectant management arm of the timing of delivery comparison, although this is obscured by possible obstetric indications for delivery.</text>
+    </sentence>
+    <sentence charOffset="39690-39727" id="S231" selection="">
+        <text xml:space="preserve">Strengths and weaknesses of the study</text>
+    </sentence>
+    <sentence charOffset="39736-39922" id="S232" selection="">
+        <text xml:space="preserve">This is the largest trial of ursodeoxycholic acid compared with placebo in women with intrahepatic cholestasis of pregnancy and the first timing of delivery trial in this group of women.</text>
+    </sentence>
+    <sentence charOffset="39923-40105" id="S233" selection="">
+        <text xml:space="preserve">The trial was double blind where feasible, the primary outcome was prespecified, and the participants were largely representative of women with intrahepatic cholestasis of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="40106-40387" id="S234" selection="21">
+        <text xml:space="preserve">As the study was carried out in nine maternity units of varying types (teaching and non-teaching hospitals, inner city and district hospital), sizes, and location, the results are likely to be generalisable to maternity units in the United Kingdom and to other similar populations.</text>
+    </sentence>
+    <sentence charOffset="40388-40645" id="S235" selection="22">
+        <text xml:space="preserve">We are confident in the conclusion that ursodeoxycholic acid reduces pruritus, although having predetermined a clinically meaningful difference by survey of clinicians and women, our data indicate that many would not regard the size of effect as worthwhile.</text>
+    </sentence>
+    <sentence charOffset="40654-40906" id="S236" selection="">
+        <text xml:space="preserve">It is a further strength of our study that we did an audit in parallel to determine whether participants were representative of women with intrahepatic cholestasis of pregnancy and to enable more detailed understanding of reasons for non-participation.</text>
+    </sentence>
+    <sentence charOffset="40907-41110" id="S237" selection="22">
+        <text xml:space="preserve">The results show that although a substantial proportion of women and clinicians had strong views on their treatment (both requesting and declining intervention), many women were willing to be randomised.</text>
+    </sentence>
+    <sentence charOffset="41119-41263" id="S238" selection="20">
+        <text xml:space="preserve">The numbers recruited in this initial phase of the trial also limits the precision of our estimates of treatment effects on all other endpoints.</text>
+    </sentence>
+    <sentence charOffset="41264-41433" id="S239" selection="20">
+        <text xml:space="preserve">The confidence intervals around the estimate of the effect of early term delivery on caesarean section are such that we cannot rule out a clinically meaningful increase.</text>
+    </sentence>
+    <sentence charOffset="41434-41695" id="S240" selection="20">
+        <text xml:space="preserve">In addition the chance imbalance in twin pregnancies between the two arms of the ursodeoxycholic acid comparison made interpretation of endpoints related to prematurity more difficult, as the relation between multiple pregnancy and premature delivery is strong.</text>
+    </sentence>
+    <sentence charOffset="41696-41786" id="S241" selection="">
+        <text xml:space="preserve">We would recommend stratification by singleton and multiple pregnancy in any future trial.</text>
+    </sentence>
+    <sentence charOffset="41809-41862" id="S242" selection="">
+        <text xml:space="preserve">Strengths and weaknesses in relation to other studies</text>
+    </sentence>
+    <sentence charOffset="41871-42026" id="S243" selection="">
+        <text xml:space="preserve">The latest Cochrane review, updated in 2001,23 included three trials24 25 26 comparing ursodeoxycholic acid with placebo and involving a total of 56 women.</text>
+    </sentence>
+    <sentence charOffset="42027-42106" id="S244" selection="">
+        <text xml:space="preserve">No statistically significant benefits on pruritus or fetal outcomes were shown.</text>
+    </sentence>
+    <sentence charOffset="42107-42287" id="S245" selection="">
+        <text xml:space="preserve">Since then a further trial randomised 130 women with a diagnosis of intrahepatic cholestasis of pregnancy to placebo (n=47), ursodeoxycholic acid (n=47), or dexamethasone (n=36).27</text>
+    </sentence>
+    <sentence charOffset="42288-42541" id="S246" selection="">
+        <text xml:space="preserve">One further small trial of ursodeoxycholic acid versus glucose, vitamin C, and inosine in 68 women was reported from China, but the limited information given on trial conduct, methodology, and definitions makes it difficult to draw robust conclusions.28</text>
+    </sentence>
+    <sentence charOffset="42542-42682" id="S247" selection="">
+        <text xml:space="preserve">An updated Cochrane systematic review on interventions for treating intrahepatic cholestasis of pregnancy has been submitted by our group.29</text>
+    </sentence>
+    <sentence charOffset="42691-42880" id="S248" selection="">
+        <text xml:space="preserve">For maternal itch, assessed either through a categorical 0-4 scale or on a visual analogue 0-100 mm scale, three trials seemed to show a reduction24 25 28 and two showed no difference.26 27</text>
+    </sentence>
+    <sentence charOffset="42881-43076" id="S249" selection="">
+        <text xml:space="preserve">One of the latter reported a secondary subgroup analysis by disease severity, with a significant reduction in pruritus score in women with severe disease,27 although no numerical data were given.</text>
+    </sentence>
+    <sentence charOffset="43077-43264" id="S250" selection="">
+        <text xml:space="preserve">The four smaller trials24 25 26 28 reported improvement in maternal serum bile acid levels, whereas the largest did not (except in the subgroup with serum bile acids levels &gt;40 µmol/L).27</text>
+    </sentence>
+    <sentence charOffset="43265-43450" id="S251" selection="">
+        <text xml:space="preserve">Adverse fetal outcomes were reported in four of the trials but were subjectively assessed (described as fetal distress) or reported (defined only as operative delivery due to asphyxia).</text>
+    </sentence>
+    <sentence charOffset="43451-43691" id="S252" selection="">
+        <text xml:space="preserve">The two trials that reported meconium staining of the amniotic fluid produced conflicting results, with one showing no significant difference with ursodeoxycholic acid and the other reporting a reduction from 35% to 12% with treatment.27 28</text>
+    </sentence>
+    <sentence charOffset="43692-43865" id="S253" selection="22">
+        <text xml:space="preserve">In our trial, the reduction from 20% to 8% in the ursodeoxycholic acid treated group was significant; a larger trial is needed to confirm or refute these important findings.</text>
+    </sentence>
+    <sentence charOffset="43874-44106" id="S254" selection="">
+        <text xml:space="preserve">No other randomised controlled trials have studied timing of delivery in intrahepatic cholestasis of pregnancy, although two trials of early delivery in other conditions of moderately increased fetal risk have shown similar results.</text>
+    </sentence>
+    <sentence charOffset="44107-44365" id="S255" selection="">
+        <text xml:space="preserve">The HYPITAT (Hypertension and Pre-eclampsia Intervention Trial At Term) group investigated early delivery for gestational hypertension and pre-eclampsia and found improved maternal outcomes with no effect on caesarean section or adverse perinatal outcomes.13</text>
+    </sentence>
+    <sentence charOffset="44366-44614" id="S256" selection="">
+        <text xml:space="preserve">The DIGITAT (Disproportionate Intrauterine Growth Intervention Trial At Term) group investigated early delivery for intrauterine growth restriction at term and also showed no difference in composite adverse neonatal outcome or caesarean sections.12</text>
+    </sentence>
+    <sentence charOffset="44615-44877" id="S257" selection="">
+        <text xml:space="preserve">A recent case-control study of 64 women with intrahepatic cholestasis of pregnancy induced as part of active management, 64 parity matched controls, and 64 gestation matched controls showed comparable incidences of instrumental delivery and caesarean sections.30</text>
+    </sentence>
+    <sentence charOffset="44878-45156" id="S258" selection="">
+        <text xml:space="preserve">As our study also shows no increase in the incidence of caesarean sections, it remains uncertain whether clinicians will interpret this as support for early term delivery or will await definitive evidence of maternal and fetal benefit or harm before continuing with this policy.</text>
+    </sentence>
+    <sentence charOffset="45179-45199" id="S259" selection="">
+        <text xml:space="preserve">Meaning of the study</text>
+    </sentence>
+    <sentence charOffset="45208-45339" id="S260" selection="">
+        <text xml:space="preserve">The mechanism behind bile acid mediated adverse events and possible amelioration by ursodeoxycholic acid remains poorly understood.</text>
+    </sentence>
+    <sentence charOffset="45340-45471" id="S261" selection="">
+        <text xml:space="preserve">Post-mortem reports typically describe infants with normal growth and signs of acute anoxia without uteroplacental insufficiency.31</text>
+    </sentence>
+    <sentence charOffset="45472-45587" id="S262" selection="">
+        <text xml:space="preserve">Meconium stained amniotic fluid is often reported in fetal deaths related to intrahepatic cholestasis of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="45588-45780" id="S263" selection="">
+        <text xml:space="preserve">Histological reports of placentas from affected women show non-specific morphological changes, including increased syncytial knot formation and villous oedema, consistent with hypoxia.32 33 34</text>
+    </sentence>
+    <sentence charOffset="45781-45924" id="S264" selection="">
+        <text xml:space="preserve">These changes are also seen in a rodent model of intrahepatic cholestasis of pregnancy and are reversed after ursodeoxycholic acid treatment.35</text>
+    </sentence>
+    <sentence charOffset="45925-46059" id="S265" selection="">
+        <text xml:space="preserve">Similarly, human placental explants cultured with ursodeoxycholic acid do not develop syncytial knots in the presence of bile acids.36</text>
+    </sentence>
+    <sentence charOffset="46060-46206" id="S266" selection="">
+        <text xml:space="preserve">It has been proposed that raised fetal bile acid levels in affected pregnancies result in fetal arrhythmia and subsequent anoxia or fetal death.37</text>
+    </sentence>
+    <sentence charOffset="46207-46389" id="S267" selection="">
+        <text xml:space="preserve">This hypothesis is supported by in vitro studies of rodent and human cardiomyocytes38 39 40 and by a study showing fetal atrial arrhythmia in intrahepatic cholestasis of pregnancy.41</text>
+    </sentence>
+    <sentence charOffset="46390-46515" id="S268" selection="">
+        <text xml:space="preserve">Of relevance to this study, culture of cardiomyocytes with ursodeoxycholic acid prevented bile acid induced arrhythmias.40 42</text>
+    </sentence>
+    <sentence charOffset="46516-46655" id="S269" selection="">
+        <text xml:space="preserve">The influence of ursodeoxycholic acid on fetal arrhythmia has not been studied in vivo in women with intrahepatic cholestasis of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="46656-46868" id="S270" selection="">
+        <text xml:space="preserve">Administering bile acid causes dose dependent increases in contractility of rat myometrium43 and when administered to pregnant sheep causes increased rates of preterm labour and meconium stained amniotic fluid.44</text>
+    </sentence>
+    <sentence charOffset="46869-47016" id="S271" selection="">
+        <text xml:space="preserve">No studies have been done on the influence of ursodeoxycholic acid on these models of intrahepatic cholestasis of pregnancy related preterm labour.</text>
+    </sentence>
+    <sentence charOffset="47017-47154" id="S272" selection="">
+        <text xml:space="preserve">Increased rates of neonatal respiratory distress have been reported in the infants of women with intrahepatic cholestasis of pregnancy.45</text>
+    </sentence>
+    <sentence charOffset="47155-47264" id="S273" selection="">
+        <text xml:space="preserve">This may be related to bile acid mediated inhibition of phospholipase A2 and associated lack of surfactant.46</text>
+    </sentence>
+    <sentence charOffset="47273-47700" id="S274" selection="">
+        <text xml:space="preserve">Although these studies have provided indirect evidence that raised maternal bile acid levels (and possibly associated increases in fetal bile acid levels) are implicated in the adverse fetal events of intrahepatic cholestasis of pregnancy and that some in vitro studies indicate that ursodeoxycholic acid may reverse bile acid induced adverse fetal events, conclusive evidence of fetal benefit and lack of harm remains elusive.</text>
+    </sentence>
+    <sentence charOffset="47723-47763" id="S275" selection="">
+        <text xml:space="preserve">Unanswered questions and future research</text>
+    </sentence>
+    <sentence charOffset="47772-47851" id="S276" selection="22">
+        <text xml:space="preserve">Definitive evidence for fetal benefit with both interventions is still lacking.</text>
+    </sentence>
+    <sentence charOffset="47852-48063" id="S277" selection="">
+        <text xml:space="preserve">Women and clinicians are willing to participate in both trials, and participants have the same spectrum of disease severity as non-participants, so trial event rates estimated from population studies will apply.</text>
+    </sentence>
+    <sentence charOffset="48064-48307" id="S278" selection="">
+        <text xml:space="preserve">We estimate that involvement of about half of the maternity units in the United Kingdom would recruit 636 participants per year to a trial of the ursodeoxycholic acid comparison and 340 per year to a trial of the timing of delivery comparison.</text>
+    </sentence>
+    <sentence charOffset="48308-48560" id="S279" selection="22">
+        <text xml:space="preserve">Using a reasonable population estimate of 11% for a primary composite endpoint of perinatal death or morbidity for women randomised to the ursodeoxycholic acid comparison, a trial with reasonable power to detect a plausible effect size can be designed.</text>
+    </sentence>
+    <sentence charOffset="48561-48632" id="S280" selection="">
+        <text xml:space="preserve">It may have to be run internationally, but we believe it is a priority.</text>
+    </sentence>
+    <sentence charOffset="48641-48801" id="S281" selection="">
+        <text xml:space="preserve">The rate of a similar composite fetal endpoint for the timed delivery comparison would be lower, since by definition participants have already reached 37 weeks.</text>
+    </sentence>
+    <sentence charOffset="48802-48974" id="S282" selection="22">
+        <text xml:space="preserve">Given this, and the lower recruitment rate, a trial to test the hypothesis that early term delivery reduces fetal morbidity would need to be both larger and more expensive.</text>
+    </sentence>
+    <sentence charOffset="48975-49245" id="S283" selection="">
+        <text xml:space="preserve">Since timed delivery is such a generic intervention, and there is some evidence from other trials that induction does not increase the incidence of caesarean section, obstetricians and funders may decide that a trial to test this intervention properly is not a priority.</text>
+    </sentence>
+    <sentence charOffset="49246-49401" id="S284" selection="">
+        <text xml:space="preserve">Some obstetricians and women will reasonably decide to implement early term delivery, at least in women with the highest bile acid levels, without a trial.</text>
+    </sentence>
+    <sentence charOffset="49424-49435" id="S285" selection="">
+        <text xml:space="preserve">Conclusions</text>
+    </sentence>
+    <sentence charOffset="49444-49557" id="S286" selection="">
+        <text xml:space="preserve">Ursodeoxycholic acid significantly reduces maternal pruritus in women with intrahepatic cholestasis of pregnancy.</text>
+    </sentence>
+    <sentence charOffset="49558-49750" id="S287" selection="22">
+        <text xml:space="preserve">However, the size of effect is small, so some women and clinicians may question whether the degree of benefit is clinically meaningful, particularly for a drug that is unlicensed in pregnancy.</text>
+    </sentence>
+    <sentence charOffset="49751-49885" id="S288" selection="">
+        <text xml:space="preserve">Others, perhaps those with the most severe itch, may want to take the drug, since this study has proved that it does have some effect.</text>
+    </sentence>
+    <sentence charOffset="49886-50126" id="S289" selection="22">
+        <text xml:space="preserve">The significant reduction in meconium stained amniotic fluid seen in our study, similar to the results of one other trial, raises the prospect that ursodeoxycholic acid may confer fetal benefits and therefore is reassuring for fetal safety.</text>
+    </sentence>
+    <sentence charOffset="50127-50271" id="S290" selection="22">
+        <text xml:space="preserve">However, the overall risks and benefits of ursodeoxycholic acid to the fetus require evaluation in a larger trial, which we believe is feasible.</text>
+    </sentence>
+    <sentence charOffset="50272-50423" id="S291" selection="">
+        <text xml:space="preserve">In women with intrahepatic cholestasis of pregnancy, early term delivery at 37-38 weeks’ gestation did not increase the incidence of caesarean section.</text>
+    </sentence>
+    <sentence charOffset="50424-50494" id="S292" selection="22">
+        <text xml:space="preserve">A larger trial to evaluate this question further may not be realistic.</text>
+    </sentence>
+    <sentence charOffset="50527-50562" id="S293" selection="">
+        <text xml:space="preserve">What is already known on this topic</text>
+    </sentence>
+    <sentence charOffset="50607-50736" id="S294" selection="">
+        <text xml:space="preserve">Intrahepatic cholestasis of pregnancy is associated with increased rates of spontaneous preterm labour and fetal asphyxial events</text>
+    </sentence>
+    <sentence charOffset="50783-50903" id="S295" selection="">
+        <text xml:space="preserve">Ursodeoxycholic acid and early term delivery are widely used for affected women but the benefits and risks are uncertain</text>
+    </sentence>
+    <sentence charOffset="50966-50986" id="S296" selection="">
+        <text xml:space="preserve">What this study adds</text>
+    </sentence>
+    <sentence charOffset="51031-51138" id="S297" selection="">
+        <text xml:space="preserve">Ursodeoxycholic acid reduces pruritus significantly in pregnant women, but the size of the benefit is small</text>
+    </sentence>
+    <sentence charOffset="51185-51281" id="S298" selection="">
+        <text xml:space="preserve">Early term delivery does not seem to be associated with increased incidence of caesarean section</text>
+    </sentence>
+    <sentence charOffset="51328-51480" id="S299" selection="">
+        <text xml:space="preserve">It is feasible to recruit women with intrahepatic cholestasis of pregnancy to a large trial of ursodeoxycholic acid to determine fetal benefits or risks</text>
+    </sentence>
+    <sentence charOffset="51545-51556" id="S300">
+        <text xml:space="preserve">Back matter</text>
+    </sentence>
+    <sentence charOffset="51584-51842" id="S301" selection="">
+        <text xml:space="preserve">We thank the women who participated; the obstetricians and midwives who referred women to the researchers; Professor William Hague for suggesting the PITCH acronym; and Dr Falk Pharma for supplying the ursodeoxycholic acid and placebo capsules for the trial.</text>
+    </sentence>
+    <sentence charOffset="51871-51944" id="S302" selection="">
+        <text xml:space="preserve">Contributors: LCC and VG contributed equally and are joint first authors.</text>
+    </sentence>
+    <sentence charOffset="51945-52060" id="S303" selection="">
+        <text xml:space="preserve">JGT was chief investigator and LCC and CW were principal investigators for the study and contributed to all stages.</text>
+    </sentence>
+    <sentence charOffset="52061-52133" id="S304" selection="">
+        <text xml:space="preserve">VG was the clinical research fellow and trial coordinator for the study.</text>
+    </sentence>
+    <sentence charOffset="52134-52173" id="S305" selection="">
+        <text xml:space="preserve">PTS undertook all statistical analyses.</text>
+    </sentence>
+    <sentence charOffset="52174-52326" id="S306" selection="">
+        <text xml:space="preserve">JC was involved from the design of the study through execution to interpretation, and facilitated the online survey of women with obstetric cholestasis.</text>
+    </sentence>
+    <sentence charOffset="52327-52354" id="S307" selection="">
+        <text xml:space="preserve">LCC drafted the manuscript.</text>
+    </sentence>
+    <sentence charOffset="52355-52421" id="S308" selection="">
+        <text xml:space="preserve">All authors contributed to revisions and approved the final draft.</text>
+    </sentence>
+    <sentence charOffset="52422-52439" id="S309" selection="">
+        <text xml:space="preserve">JGT is guarantor.</text>
+    </sentence>
+    <sentence charOffset="52440-52639" id="S310" selection="">
+        <text xml:space="preserve">All authors had full access to all of the data (including statistical reports and tables) in the study and can take responsibility for the integrity of the data and the accuracy of the data analysis.</text>
+    </sentence>
+    <sentence charOffset="52669-52799" id="S311" selection="25">
+        <text xml:space="preserve">Funding: This study was funded by the research for patient benefit programme of the National Institute for Health Research (NIHR).</text>
+    </sentence>
+    <sentence charOffset="52800-52875" id="S312" selection="25">
+        <text xml:space="preserve">LCC is funded by a Department of Health-NHS clinical senior lecturer award.</text>
+    </sentence>
+    <sentence charOffset="52876-52987" id="S313" selection="25">
+        <text xml:space="preserve">VG was funded by Nottingham University Hospitals NHS Trust and the NIHR research for patient benefit programme.</text>
+    </sentence>
+    <sentence charOffset="52988-53021" id="S314" selection="25">
+        <text xml:space="preserve">PTS is funded by Tommy’s Charity.</text>
+    </sentence>
+    <sentence charOffset="53022-53110" id="S315" selection="25">
+        <text xml:space="preserve">CW is funded by the Biomedical Research Centre at Imperial College Healthcare NHS Trust.</text>
+    </sentence>
+    <sentence charOffset="53111-53156" id="S316" selection="25">
+        <text xml:space="preserve">The sponsor was the University of Nottingham.</text>
+    </sentence>
+    <sentence charOffset="53157-53345" id="S317" selection="">
+        <text xml:space="preserve">The sponsor played no role in study design; in the collection, analysis, and interpretation of data; in the writing of the report; or in the decision to submit the article for publication.</text>
+    </sentence>
+    <sentence charOffset="53374-54229" id="S318" selection="">
+        <text xml:space="preserve">Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare that: LCC is funded by a Department of Health-NHS clinical senior lecturer award, VG was funded by Nottingham University Hospitals NHS Trust and NIHR research for patient benefit programme, PTS is funded by Tommy’s Charity, and CW is funded by the Biomedical Research Centre at Imperial College Healthcare NHS Trust; JC is the founder of Obstetric Cholestasis Support UK, a support group for women and families affected by obstetric cholestasis; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; and no other relationships or activities that could appear to have influenced the submitted work.</text>
+    </sentence>
+    <sentence charOffset="54258-54369" id="S319" selection="">
+        <text xml:space="preserve">Ethical approval: This trial was approved by the Berkshire Research Ethics Committee (reference No 08/H0505/7).</text>
+    </sentence>
+    <sentence charOffset="54399-54521" id="S320" selection="">
+        <text xml:space="preserve">Data sharing: An anonymised dataset is available from the corresponding author (jim.thornton@nottingham.ac.uk) on request.</text>
+    </sentence>
+    <sentence charOffset="54522-54667" id="S321" selection="">
+        <text xml:space="preserve">Participants did not give explicit informed consent for data sharing but the data available are anonymised and the risk of identification is low.</text>
+    </sentence>
+    <sentence charOffset="54696-54728" id="S322" selection="">
+        <text xml:space="preserve">Cite this as: BMJ 2012;344:e3799</text>
+    </sentence>
+    <section textSpan="0-188" title="Title" titleSpan="0-5"/>
+    <section textSpan="189-3477" title="Abstract" titleSpan="189-197"/>
+    <section textSpan="3483-9783" title="Introduction" titleSpan="3490-3502"/>
+    <section textSpan="9788-25021" title="Methods" titleSpan="9795-9802">
+        <section textSpan="11305-14856" title="Recruitment and randomisation" titleSpan="11314-11343"/>
+        <section textSpan="14863-15827" title="Follow-up" titleSpan="14872-14881"/>
+        <section textSpan="15834-17261" title="Interventions" titleSpan="15843-15856"/>
+        <section textSpan="17268-20017" title="Outcomes" titleSpan="17277-17285"/>
+        <section textSpan="20024-20672" title="Parallel audit" titleSpan="20033-20047"/>
+        <section textSpan="20679-21752" title="Sample size" titleSpan="20688-20699"/>
+        <section textSpan="21759-24664" title="Statistical analysis" titleSpan="21768-21788"/>
+        <section textSpan="24671-25016" title="Ethical approval" titleSpan="24680-24696"/>
+    </section>
+    <section textSpan="25026-38117" title="Results" titleSpan="25033-25040">
+        <section textSpan="27324-33605" title="Ursodeoxycholic acid trial" titleSpan="27333-27359"/>
+        <section textSpan="33612-35744" title="Timing of delivery trial" titleSpan="33621-33645"/>
+        <section textSpan="35751-38112" title="Comparison with audited population" titleSpan="35760-35794"/>
+    </section>
+    <section textSpan="38122-51540" title="Discussion" titleSpan="38129-38139">
+        <section textSpan="39681-41793" title="Strengths and weaknesses of the study" titleSpan="39690-39727"/>
+        <section textSpan="41800-45163" title="Strengths and weaknesses in relation to other studies" titleSpan="41809-41862"/>
+        <section textSpan="45170-47707" title="Meaning of the study" titleSpan="45179-45199"/>
+        <section textSpan="47714-49408" title="Unanswered questions and future research" titleSpan="47723-47763"/>
+        <section textSpan="49415-51535" title="Conclusions" titleSpan="49424-49435">
+            <section textSpan="50514-50942" title="What is already known on this topic" titleSpan="50527-50562"/>
+            <section textSpan="50953-51519" title="What this study adds" titleSpan="50966-50986"/>
+        </section>
+    </section>
+    <section textSpan="51545-54734" title="Back matter" titleSpan="51545-51556"/>
+</document>
