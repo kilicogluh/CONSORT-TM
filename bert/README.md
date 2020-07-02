@@ -5,13 +5,13 @@ The aim of this repository is to classify each of the sentences in the critical 
 
 The directory structure of BERT is as follows
 
-+-- BERT
+
++-- CONSORT-TM
     
     +-- bert
-
+    +-- models
     +-- data
     
-    +-- models
    
 __models__ directory should be created and it should have required trained models to run the files
 
@@ -34,7 +34,7 @@ Inside the directory __bert__, we have following files
  1. __run__.py - end to end execution of the BERT model created for multi-label classification to be used on new data. It accepts input in the form a list of sentences for which __CONSORT__ labels are required. Currently it only supports __Methods__ related labels 
  2. __train_bert_alone__.py - training file for just the sentences
      
-     `cd BERT`
+     `cd CONSORT-TM`
      
     `python bert/train_bert_alone.py --model_save_path=models/model_name`
  
@@ -44,7 +44,7 @@ Inside the directory __bert__, we have following files
     - model_save_path - path to save model
  3.  __test_bert_alone__.py - test file for just the sentences
  
-     `cd BERT`
+     `cd CONSORT-TM`
  
     `python bert/test_bert_alone.py`
     
@@ -54,7 +54,7 @@ Inside the directory __bert__, we have following files
     
  4. __train_bert_section__.py - training file for section appended to sentence text
  
-     `cd BERT`
+     `cd CONSORT-TM`
  
     `python bert/train_bert_section.py --model_save_path=models/model_name`
     
@@ -64,7 +64,7 @@ Inside the directory __bert__, we have following files
     - model_save_path - path to save model
  5.  __test_bert_section__.py - test file for just section appended to sentence text
  
-     `cd BERT`
+     `cd CONSORT-TM`
  
     `python bert/test_bert_section.py`
     
