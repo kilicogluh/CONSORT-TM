@@ -20,7 +20,7 @@ InteractiveShell.ast_node_interactivity = "all"
 
 
 parser = argparse.ArgumentParser(description='Multi Label Classificarion')
-parser.add_argument('--data_path', help='path to .csv consisting of sentences', default = "data/manual_test_data_wMetaMap_FINAL_18labels.csv")
+parser.add_argument('--data_path', help='path to .csv consisting of sentences', default = "data/Methods_test.csv")
 parser.add_argument('--model_path', help='path to directory consisting of BERT model', default="models/BioBert/")
 parser.add_argument('--text_column', help='column name containing sentences', default="text")
 
