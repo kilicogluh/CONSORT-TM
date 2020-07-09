@@ -8,7 +8,7 @@
 #### Scripts:
 - `train.py`: used to train the model
     * Parameters:
-        - `train_data`: path to the training data (optional, default: `../data/manual_train_data_FINAL_18labels.csv`)
+        - `train_data`: path to the training data (optional, default: `../data/Methods_train.csv`)
         - `override_vocab`: override existing vocab file (optional, default: True)  
         - `override_model`: override existing model file (optional, default: True) 
     * Output: 
@@ -21,7 +21,7 @@
             
 - `test.py`: used to test the model
     * Parameters:
-        - `eval_data`: path to the evaluation data (optional, default: `../data/manual_test_data_FINAL_18labels.csv`)
+        - `eval_data`: path to the evaluation data (optional, default: `../data/Methods_test.csv`)
     * Output: evaluation metrics, including Precision, Recall, F1-score and AUC ROC.
         
 - `predict.py`: used to run the model on new data to get predictions
