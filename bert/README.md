@@ -1,17 +1,21 @@
-# CONSORT
+# BioBERT-based CONSORT classification model
 
-CONsolidated Standards Of Reporting Trials aka CONSORT, is a set of guidelines for parallel group randomized controlled trials. There are 25 checklist items in the CONSORT statement
-The aim of this repository is to classify each of the sentences in the critical trial journals.
+## Dependencies
+
+The model requires __simpletransformers__ for execution. Original simpletransformers library is available at https://github.com/ThilinaRajapakse/simpletransformers
+
+In order to create an environment to run the code, follow the steps below:
+- create a conda/virtual environment called `transformers`
+    - `conda create -n transformers python pandas tqdm`
+    - `conda activate transformers`
+- If using cuda:
+    `conda install pytorch cudatoolkit=10.1 -c pytorch`  
+    else: `conda install pytorch cpuonly -c pytorch`
+- `pip install simpletransformers`
+    
+
 
 The directory structure of BERT is as follows
-
-
-+-- CONSORT-TM
-    
-    +-- bert
-    +-- models
-    +-- data
-    
    
 __models__ directory should be created and it should have required trained models to run the files
 
@@ -73,21 +77,4 @@ Inside the directory __bert__, we have following files
     - model_path - path to saved trained model
      
  
-
-## Dependencies
-
-BERT model requires __simpletransformers__ for execution. Original simpletransformers library is available at https://github.com/ThilinaRajapakse/simpletransformers
-
-In order to create an environment to run our code follow the steps below - 
-
-- create a conda/virtual environment called `transformers`
-    - `conda create -n transformers python pandas tqdm`
-    - `conda activate transformers`
-- If using cuda:
-
-    `conda install pytorch cudatoolkit=10.1 -c pytorch`
-    
-    else: `conda install pytorch cpuonly -c pytorch`
-- `pip install simpletransformers`
-    
 
