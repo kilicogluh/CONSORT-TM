@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-The model requires __simpletransformers__ for execution. Original simpletransformers library is available at https://github.com/ThilinaRajapakse/simpletransformers
+The model requires __simpletransformers__ for execution. Original simpletransformers library is available at https://github.com/ThilinaRajapakse/simpletransformers. 
 
 In order to create an environment to run the code, follow the steps below:
 - create a conda/virtual environment called `transformers`
@@ -19,62 +19,69 @@ The directory structure of BERT is as follows
    
 __models__ directory should be created and it should have required trained models to run the files
 
+
+This corpus contains 50 randomized controlled trial articles annotated with 37 fine-grained [CONSORT checklist items](http://www.consort-statement.org/) at the sentence level. 
+
+`data/50_XML` contains all the data in XML format. 
+
+`bert` directory contains a [BioBERT](https://github.com/dmis-lab/biobert)-based model that labels Methods sentences with methodology-specific CONSORT items. Download the [model](https://drive.google.com/file/d/1FuLMQpIpsE9AEICqwm8BIU-ERB_jtZAt) and unzip it under `bert` directory to use it. This should create a directory named `bert/models`.
+
+`svm` direcrtory contains a SVM classifier. 
+
+
 ## Models and Data
 
-We used __BioBERT__ to train multi-label classification model on the CONSORT data. In order to test our models on your dataset, please download our models from the path https://drive.google.com/file/d/1FuLMQpIpsE9AEICqwm8BIU-ERB_jtZAt/ 
-
- - Inside __data__ path we have multiple files
-  - manual_test_data_wMetaMap_FINAL_18labels.csv and manual_train_data_wMetaMap_FINAL_18labels.csv are methods section files used for testing and training respectively  
- - Inside __models__ directory, there are 3 folders 
-    - __manual__ - Trained model on methods data without section information
-    - __manual_section__ - Model trained on methods data concatenated with section information
-    - __BioBert__ - Pytorch format of __biobert__ used as a base model for all the experiments in CONSORT   
+We used [BioBERT](https://github.com/dmis-lab/biobert) to train multi-label classification model on the CONSORT Methods items. The models should be downloaded from https://drive.google.com/file/d/1FuLMQpIpsE9AEICqwm8BIU-ERB_jtZAt/ and unzipped to create the `models` directory. Inside `models`, there are 3 subdirectories:
+- __manual__ - Trained model on methods data without section information
+- __manual_section__ - Model trained on methods data concatenated with section information
+- __BioBert__ - pytorch format of __biobert__ used as a base model the experiments   
     
-## Files
- 
- 
+The training and test data are `data/Methods_train.csv` and `data/Methods_test.csv` files, respectively.
 
-Inside the directory __bert__, we have following files
- 1. __run__.py - end to end execution of the BERT model created for multi-label classification to be used on new data. It accepts input in the form a list of sentences for which __CONSORT__ labels are required. Currently it only supports __Methods__ related labels 
- 2. __train_bert_alone__.py - training file for just the sentences
+## Scripts
+
+- __run__.py:  end-to-end script for executing the BioBERT-based model created for multi-label classification to be used on new data. It accepts input in the form a list of sentences for which __CONSORT__ labels are required. Currently it only supports __Methods__ related labels. 
+- __train_bert_alone__.py - training a sentence-only model
      
      `cd CONSORT-TM`
      
     `python bert/train_bert_alone.py --model_save_path=models/model_name`
  
     Tunable/Command-Line Params
-    - data_path - path to training data
-    - model_path - path to BioBert model
-    - model_save_path - path to save model
- 3.  __test_bert_alone__.py - test file for just the sentences
+    - `data_path` - path to training data
+    - `model_path` - path to BioBert model
+    - `model_save_path` - path to save model
+    
+- __test_bert_alone__.py - testing for sentence-only model 
  
      `cd CONSORT-TM`
  
     `python bert/test_bert_alone.py`
     
     Tunable/Command-Line Params
-    - data_path - path to testing data
-    - model_path - path to saved trained model
+    - `data_path` - path to testing data
+    - `model_path` - path to saved trained model
     
- 4. __train_bert_section__.py - training file for section appended to sentence text
+ - __train_bert_section__.py - training with section names appended to sentence text
  
      `cd CONSORT-TM`
  
     `python bert/train_bert_section.py --model_save_path=models/model_name`
     
     Tunable/Command-Line Params
-    - data_path - path to training data
-    - model_path - path to BioBert model
-    - model_save_path - path to save model
- 5.  __test_bert_section__.py - test file for just section appended to sentence text
+    - `data_path` - path to training data
+    - `model_path` - path to BioBert model
+    - `model_save_path` - path to save model
+    
+ -  __test_bert_section__.py - testing the model using the section information 
  
      `cd CONSORT-TM`
  
     `python bert/test_bert_section.py`
     
     Tunable/Command-Line Params
-    - data_path - path to testing data
-    - model_path - path to saved trained model
+    - `data_path` - path to testing data
+    - `model_path` - path to saved trained model
      
  
 
