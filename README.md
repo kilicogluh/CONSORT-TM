@@ -4,9 +4,9 @@ This corpus contains 50 randomized controlled trial articles annotated with 37 f
 
 `data/50_XML` contains all the data in XML format. 
 
-`bert` directory contains a [BioBERT](https://github.com/dmis-lab/biobert)-based model that labels Methods sentences with methodology-specific CONSORT items. Download the [model](https://drive.google.com/file/d/1FuLMQpIpsE9AEICqwm8BIU-ERB_jtZAt) and unzip it under `bert` directory to use it. This should create a directory named `bert/models`.
+`bert` directory contains a [BioBERT](https://github.com/dmis-lab/biobert)-based model that labels Methods sentences with methodology-specific CONSORT items. Download a zipped model file from the [model directory](https://drive.google.com/drive/folders/1Cx52lbcuuJ3SnwU9HVgXeBsyJY8g3rEG) and unzip it under `bert/models` directory to use the model.
 
-`svm` direcrtory contains a SVM classifier. 
+`svm` directory contains SVM classifiers and relevant code.
 
 ## Contact
 
