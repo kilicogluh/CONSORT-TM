@@ -1,4 +1,4 @@
-### CONSORT Classifier
+### CONSORT SVM Classifier
 
 #### Prerequisites:
 - python3
