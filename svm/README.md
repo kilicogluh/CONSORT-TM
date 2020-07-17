@@ -24,7 +24,7 @@
         - `eval_data`: path to the evaluation data (optional, default: `../data/Methods_test.csv`)
     * Output: evaluation metrics, including Precision, Recall, F1-score and AUC ROC.
         
-- `predict.py`: used to run the model on new data to get predictions
+- `predict.py`: used to run the model on new data to get predictions.
     * Parameters:
         - `predict_input_file`: path to the input data file for prediction. Data file should include columns "text" and "section", and one sentence per line.
         - `predict_output_file`: path to the output file to save the prediction results (optional, default: `prediction_results.csv`)

@@ -30,23 +30,23 @@ Copy and unzip the model to __models__ directory.
 
 ## Scripts
 
-- __run__.py:  end-to-end script for executing the BioBERT-based model created for multi-label classification to be used on new data. It accepts input in the form a list of sentences (one per line). It currently only supports __Methods__ related labels. 
-- __train_bert_alone__.py - training the sentence-only model
+- __predict__.py:  end-to-end script for executing the BioBERT-based model created for multi-label classification to be used on new data. It accepts input in the form a list of sentences (one per line). It currently only supports __Methods__ related labels. 
+- __train_bert__.py - training the sentence-only model
      
      `cd CONSORT-TM`
      
-    `python bert/train_bert_alone.py --model_save_path=models/model_name`
+    `python bert/train_bert.py --model_save_path=models/model_name`
  
     Command-Line Parameters
     - `data_path` - path to training data
     - `model_path` - path to BioBert model
     - `model_save_path` - path to save model
     
-- __test_bert_alone__.py - testing for sentence-only model 
+- __test_bert__.py - testing for sentence-only model 
  
      `cd CONSORT-TM`
  
-    `python bert/test_bert_alone.py`
+    `python bert/test_bert.py`
     
     Command-Line Parameters
     - `data_path` - path to testing data

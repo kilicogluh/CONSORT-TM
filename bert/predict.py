@@ -4,7 +4,7 @@ import numpy as np
 import argparse
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Multi Label Classificarion')
+    parser = argparse.ArgumentParser(description='Multi Label Classification')
     parser.add_argument('--data_path', help='path to .csv consisting of sentences', required=True)
     parser.add_argument('--model_path', help='path to directory consisting of BERT model', required=True)
     parser.add_argument('--text_column', help='column name containing sentences', default="sentence_text")
@@ -66,5 +66,5 @@ if __name__ == '__main__':
             preds.remove("0")
         predicted_labels.append(preds)
 
-    data["predicted_labels"] = predicted_labels
+    data["predictions"] = predicted_labels
     data.to_csv(args["data_path"], index=False)

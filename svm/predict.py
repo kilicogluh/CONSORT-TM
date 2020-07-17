@@ -32,7 +32,7 @@ def extract_feature(prediction_data_file, vocab_file):
     
     # Extract features
     tfidf_file = pickle.load(open(vocab_file, 'rb'))
-    prediction_text = prediction_data_df['section'] + " " + prediction_data_df['text']
+    prediction_text = prediction_data_df['section'] + " " + prediction_data_df['sentence']
     prediction_text_features = tfidf_file.transform(prediction_text.values.astype('U'))
 
     # Define prediction features
@@ -51,14 +51,14 @@ def predict(model_file, X_predict,prediction_data_file, output_file):
     predictions = binarizer.inverse_transform(predictions_multiclass)
     final_prediction = []
     for item in predictions:
-        if len(item) >=1:
-            final_prediction.append(item[0])
+        if len(item) == 0:
+            preds = ["0"]
         else:
-            final_prediction.append("0")
-        
+       	    preds = list(item)
+        final_prediction.append(preds)
     
     prediction_data_df = pd.read_csv(prediction_data_file)
-    prediction_data_df["predicted_label"] = final_prediction
+    prediction_data_df["predictions"] = final_prediction
     
     print ("Save prediction results into an output file...")
     prediction_data_df.to_csv(output_file, index = False)
@@ -66,8 +66,8 @@ def predict(model_file, X_predict,prediction_data_file, output_file):
 
 if __name__ == "__main__":
     current_folder = pathlib.Path().absolute()
-    vocab_file = str(current_folder) + "/models/vectorizer.pkl"
-    model_file = str(current_folder) + "/models/model.sav"
+    vocab_file = str(current_folder) + "/models/vectorizer_50.pkl"
+    model_file = str(current_folder) + "/models/model_50.sav"
     prediction_output_path = "prediction_results.csv"
     print (prediction_output_path)
     
