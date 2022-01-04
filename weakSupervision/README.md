@@ -1,1 +1,1 @@
-
+Description: This folder contains data files, source code that we developed to investigate whether weak supervision techniques can be used to effectively label additional data and improve our sentence classification models for transparency assessment of RCT publications. We focused on weak supervision using the Snorkel framework and data augmentation based on the UMLS-EDA algorithm, and used the labels that they generated as additional data for our previously reported BioBERT-based model.
